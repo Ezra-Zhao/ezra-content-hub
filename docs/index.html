@@ -25,6 +25,10 @@
   .ep .theme{font-size:13px;color:var(--sub)}
   .ep audio{width:100%;margin-top:8px;height:38px}
   .empty{color:var(--sub);font-size:13px;padding:6px 0 2px}
+  .art{border-top:1px solid var(--line);padding:10px 0}
+  .art:first-of-type{border-top:none}
+  .art .meta{color:var(--sub);font-size:12px}
+  .art a{font-size:16px}
   footer{max-width:760px;margin:0 auto;padding:0 18px 30px;color:var(--sub);font-size:12px;text-align:center}
   a{color:var(--acc)}
 </style>
@@ -55,6 +59,16 @@
         html += '<div class="ep"><div class="meta">' + esc(e.date) + ' · ' + esc(e.scripture||'') + ' · ' + esc(e.duration||'') + '</div>';
         html += '<h3>' + esc(e.title) + '</h3><p class="theme">' + esc(e.theme) + '</p>';
         html += '<audio controls preload="none" src="' + BASE + esc(e.audio) + '"></audio></div>';
+      });
+      html += '</section>';
+    });
+    (data.articles||[]).forEach(function(s){
+      html += '<section><h2>' + esc(s.name) + ' <span class="tag">文章</span></h2>';
+      html += '<p class="desc">' + esc(s.desc) + '</p>';
+      if(!s.items || !s.items.length){ html += '<p class="empty">即将上线，敬请期待。</p>'; }
+      (s.items||[]).forEach(function(a){
+        html += '<div class="art"><div class="meta">' + esc(a.date) + ' · ' + esc(a.scripture||'') + '</div>';
+        html += '<a href="' + esc(a.page) + '">' + esc(a.title) + '</a></div>';
       });
       html += '</section>';
     });
