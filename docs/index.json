@@ -190,6 +190,128 @@
    "count": 6
   },
   {
+   "id": "devotion-am-en",
+   "name": "每日灵修 · 早间（英语版）",
+   "slot": "起后",
+   "desc": "Daily Devotion, morning edition in English: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-23",
+     "title": "Be Strong and Courageous",
+     "scripture": "Joshua 1:9 (WEB)",
+     "theme": "Courage is not the absence of fear; it grows along the road, because He is with us.",
+     "audio": "content/devotion-am-en/2026-10-23/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-23/index.md",
+     "duration_sec": 117,
+     "duration": "1:57",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "This Is the Day the Lord Has Made",
+     "scripture": "Psalm 118:24 (WEB)",
+     "theme": "Settle your joy in God's hands first; the day's events can only come second.",
+     "audio": "content/devotion-am-en/2026-10-22/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-22/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "Through Him Who Strengthens Me",
+     "scripture": "Philippians 4:13 (WEB)",
+     "theme": "Swap 'I can' for 'through Him, I can'; strength is daily provision, not a bonus.",
+     "audio": "content/devotion-am-en/2026-10-21/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-21/index.md",
+     "duration_sec": 136,
+     "duration": "2:16",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "Those Who Wait Shall Renew Their Strength",
+     "scripture": "Isaiah 40:31 (WEB)",
+     "theme": "Waiting is not idleness; strength is renewed, like an eagle soaring on the wind.",
+     "audio": "content/devotion-am-en/2026-10-20/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-20/index.md",
+     "duration_sec": 139,
+     "duration": "2:19",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "Trust in the Lord with All Your Heart",
+     "scripture": "Proverbs 3:5-6 (WEB)",
+     "theme": "Lay the week's decisions before God first; acknowledge Him, and He will make the path straight.",
+     "audio": "content/devotion-am-en/2026-10-19/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-19/index.md",
+     "duration_sec": 137,
+     "duration": "2:17",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "Do Not Give Up Meeting Together",
+     "scripture": "Hebrews 10:25 (WEB)",
+     "theme": "A lone stick of firewood burns low; together, the fire grows strong again.",
+     "audio": "content/devotion-am-en/2026-10-18/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-18/index.md",
+     "duration_sec": 133,
+     "duration": "2:13",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "Come to Me, All You Who Labor",
+     "scripture": "Matthew 11:28 (WEB)",
+     "theme": "Rest is not earned by getting everything done first; it is received when we come to Him first.",
+     "audio": "content/devotion-am-en/2026-10-17/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-17/index.md",
+     "duration_sec": 113,
+     "duration": "1:53",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 7
+  },
+  {
    "id": "devotion-pm",
    "name": "每日灵修 · 睡前",
    "slot": "睡前",
@@ -358,6 +480,128 @@
     }
    ],
    "count": 5
+  },
+  {
+   "id": "devotion-pm-en",
+   "name": "每日灵修 · 睡前（英语版）",
+   "slot": "睡前",
+   "desc": "Daily Devotion, bedtime edition in English: a verse of rest and a closing prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-23",
+     "title": "My Peace I Give to You",
+     "scripture": "John 14:27 (WEB)",
+     "theme": "His peace is given before circumstances change; lay the week down at His feet tonight.",
+     "audio": "content/devotion-pm-en/2026-10-23/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-23/index.md",
+     "duration_sec": 111,
+     "duration": "1:51",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "He Gives Sleep to His Loved Ones",
+     "scripture": "Psalm 127:2 (WEB)",
+     "theme": "Sleep is a gift; loosen the day's taut string before your head reaches the pillow.",
+     "audio": "content/devotion-pm-en/2026-10-22/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-22/index.md",
+     "duration_sec": 127,
+     "duration": "2:07",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "My Presence Will Go with You",
+     "scripture": "Exodus 33:14 (WEB)",
+     "theme": "Rest does not wait for the destination; it comes because He travels the road with us.",
+     "audio": "content/devotion-pm-en/2026-10-21/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-21/index.md",
+     "duration_sec": 115,
+     "duration": "1:55",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "I Remember You on My Bed",
+     "scripture": "Psalm 63:6 (WEB)",
+     "theme": "One verse held in the heart at night feeds more than ten that slide past.",
+     "audio": "content/devotion-pm-en/2026-10-20/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-20/index.md",
+     "duration_sec": 110,
+     "duration": "1:50",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "Great Is Your Faithfulness",
+     "scripture": "Lamentations 3:22-23 (WEB)",
+     "theme": "Count three small mercies before sleep, and the heart settles.",
+     "audio": "content/devotion-pm-en/2026-10-19/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-19/index.md",
+     "duration_sec": 118,
+     "duration": "1:58",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "His Song in the Night",
+     "scripture": "Psalm 42:8 (WEB)",
+     "theme": "By day we sing because we see grace; at night we sing because we believe grace is still there.",
+     "audio": "content/devotion-pm-en/2026-10-18/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-18/index.md",
+     "duration_sec": 107,
+     "duration": "1:47",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "He Who Keeps You Will Not Slumber",
+     "scripture": "Psalm 121:3-4 (WEB)",
+     "theme": "We can sleep in peace, because He stays awake all night.",
+     "audio": "content/devotion-pm-en/2026-10-17/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-17/index.md",
+     "duration_sec": 139,
+     "duration": "2:19",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 7
   },
   {
    "id": "sermons",
