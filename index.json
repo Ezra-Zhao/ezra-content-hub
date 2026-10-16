@@ -1,0 +1,326 @@
+{
+ "site": "Ezra 内容中央枢纽",
+ "owner": "Guangyi Zhao",
+ "updated": "2026-10-16",
+ "programs": [
+  {
+   "id": "devotion-am",
+   "name": "每日灵修 · 早间",
+   "slot": "起后",
+   "desc": "一天的开始：一节经文、一段讲解、一句祷告，先被鼓励，再去忙碌。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "那等候耶和华的必重新得力",
+     "scripture": "以赛亚书 40:31",
+     "theme": "等候中更新：等候不是干坐着，是望着神存着盼望，力气耗干处重新得力。",
+     "audio": "content/devotion-am/2026-10-20/audio.mp3",
+     "page": "content/devotion-am/2026-10-20/index.md",
+     "duration_sec": 146,
+     "duration": "2:26",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "你要专心仰赖耶和华",
+     "scripture": "箴言 3:5-6",
+     "theme": "不靠自己的聪明：新一周的事先交托，在所行的事上认定祂，祂必指引路。",
+     "audio": "content/devotion-am/2026-10-19/audio.mp3",
+     "page": "content/devotion-am/2026-10-19/index.md",
+     "duration_sec": 139,
+     "duration": "2:19",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "你们不可停止聚会",
+     "scripture": "希伯来书 10:25",
+     "theme": "主日与团契：一个人像一根柴单独烧，聚在一处，火才重新旺起来。",
+     "audio": "content/devotion-am/2026-10-18/audio.mp3",
+     "page": "content/devotion-am/2026-10-18/index.md",
+     "duration_sec": 144,
+     "duration": "2:24",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "凡劳苦担重担的人，可以到我这里来",
+     "scripture": "马太福音 11:28",
+     "theme": "把重担卸下：安息不是把事办漂亮了才配得，是先到祂面前才得着。",
+     "audio": "content/devotion-am/2026-10-17/audio.mp3",
+     "page": "content/devotion-am/2026-10-17/index.md",
+     "duration_sec": 138,
+     "duration": "2:18",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "你们要休息，要知道我是神",
+     "scripture": "诗篇 46:10",
+     "theme": "在忙乱里停下来：把手松开、先安静，认清祂是神，再开始这一天。",
+     "audio": "content/devotion-am/2026-10-16/audio.mp3",
+     "page": "content/devotion-am/2026-10-16/index.md",
+     "duration_sec": 149,
+     "duration": "2:29",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-15",
+     "title": "祂为我们的罪作了挽回祭",
+     "scripture": "约翰一书 2:2",
+     "theme": "挽回祭与破碎：我们所传的是除去世人罪孽的神的羔羊；人身上破碎之处，正是祂动工之处。",
+     "audio": "content/devotion-am/2026-10-15/audio.mp3",
+     "page": "content/devotion-am/2026-10-15/index.md",
+     "duration_sec": 140,
+     "duration": "2:20",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 6
+  },
+  {
+   "id": "devotion-pm",
+   "name": "每日灵修 · 睡前",
+   "slot": "睡前",
+   "desc": "一天的收尾：安息的经文与晚祷，慢下来，把这一天交在神手里，好好入睡。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "夜里思想祂的话",
+     "scripture": "诗篇 63:6",
+     "theme": "在床上记念祢：在旷野的夜里思想神的话，心像饱足了骨髓肥油。",
+     "audio": "content/devotion-pm/2026-10-20/audio.mp3",
+     "page": "content/devotion-pm/2026-10-20/index.md",
+     "duration_sec": 108,
+     "duration": "1:48",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "睡前数算今天的恩典",
+     "scripture": "耶利米哀歌 3:22-23",
+     "theme": "每早晨都是新的：睡前数算今天的恩典——祂的怜悯不断绝，诚实极其广大。",
+     "audio": "content/devotion-pm/2026-10-19/audio.mp3",
+     "page": "content/devotion-pm/2026-10-19/index.md",
+     "duration_sec": 118,
+     "duration": "1:58",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "夜里的歌",
+     "scripture": "诗篇 42:8",
+     "theme": "白昼施慈爱，黑夜有歌声：离家发愁的人，数算的不是眼泪，是祂的慈爱。",
+     "audio": "content/devotion-pm/2026-10-18/audio.mp3",
+     "page": "content/devotion-pm/2026-10-18/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "祂守夜，我安睡",
+     "scripture": "诗篇 121:3-4",
+     "theme": "保护你的必不打盹：祂守夜，我们安睡；走远路的人夜里也不孤单。",
+     "audio": "content/devotion-pm/2026-10-17/audio.mp3",
+     "page": "content/devotion-pm/2026-10-17/index.md",
+     "duration_sec": 124,
+     "duration": "2:04",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "放下今天，平安入睡",
+     "scripture": "诗篇 4:8",
+     "theme": "我必安然躺下睡觉：让人睡不着的事先算清楚，独有耶和华使我安然居住。",
+     "audio": "content/devotion-pm/2026-10-16/audio.mp3",
+     "page": "content/devotion-pm/2026-10-16/index.md",
+     "duration_sec": 121,
+     "duration": "2:01",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 5
+  },
+  {
+   "id": "sermons",
+   "name": "瓦器分享",
+   "slot": "讲道",
+   "desc": "圣经原文解经讲道：开场祷告、三大部分讲论、交叉经文与应用。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-15",
+     "title": "第七日的安息",
+     "scripture": "创世记 2:1-3",
+     "theme": "从原文词义讲神为什么安息、安息日的设立，以及安息如何进到我们今天的生活。",
+     "audio": "content/sermons/2026-10-15/audio.mp3",
+     "page": "content/sermons/2026-10-15/index.md",
+     "duration_sec": 302,
+     "duration": "5:02",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-09",
+     "title": "天国的颠覆性生命",
+     "scripture": "马太福音 5:4-5",
+     "theme": "哀恸的人与温柔的人：天国的生命逻辑与世界相反，柔和谦卑里藏着承受地土的福。",
+     "audio": "content/sermons/2026-10-09/audio.mp3",
+     "page": "content/sermons/2026-10-09/index.md",
+     "duration_sec": 312,
+     "duration": "5:12",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 2
+  },
+  {
+   "id": "book-talk",
+   "name": "小憩片刻",
+   "slot": "讲书",
+   "desc": "讲书节目：五大领域轮值选书，十几分钟讲清一本书的主线与取舍。",
+   "category": "读书",
+   "episodes": [],
+   "count": 0
+  },
+  {
+   "id": "news-am",
+   "name": "早间新闻",
+   "slot": "早间",
+   "desc": "早间新闻播报（筹备中）。",
+   "category": "时效",
+   "episodes": [],
+   "count": 0
+  },
+  {
+   "id": "news-pm",
+   "name": "晚间新闻",
+   "slot": "晚间",
+   "desc": "晚间新闻播报（筹备中）。",
+   "category": "时效",
+   "episodes": [],
+   "count": 0
+  },
+  {
+   "id": "stocks-am",
+   "name": "早间股市",
+   "slot": "早间",
+   "desc": "早间股市播报（筹备中）。",
+   "category": "财经",
+   "episodes": [],
+   "count": 0
+  },
+  {
+   "id": "stocks-pm",
+   "name": "晚间股市",
+   "slot": "晚间",
+   "desc": "晚间股市播报（筹备中）。",
+   "category": "财经",
+   "episodes": [],
+   "count": 0
+  },
+  {
+   "id": "longevity",
+   "name": "长寿前沿",
+   "slot": "双版",
+   "desc": "长寿与健康前沿速报（筹备中）。",
+   "category": "时效",
+   "episodes": [],
+   "count": 0
+  },
+  {
+   "id": "silicon-valley",
+   "name": "硅谷科技",
+   "slot": "双版",
+   "desc": "硅谷科技动态速报（筹备中）。",
+   "category": "科技",
+   "episodes": [],
+   "count": 0
+  },
+  {
+   "id": "immigration",
+   "name": "移民政策",
+   "slot": "双版",
+   "desc": "移民政策速报（筹备中）。",
+   "category": "时效",
+   "episodes": [],
+   "count": 0
+  },
+  {
+   "id": "bay-area-benefits",
+   "name": "湾区福利",
+   "slot": "双版",
+   "desc": "湾区福利与生活资讯速报（筹备中）。",
+   "category": "时效",
+   "episodes": [],
+   "count": 0
+  }
+ ]
+}

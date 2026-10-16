@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ezra 内容中央枢纽 · Guangyi Zhao</title>
+<meta name="description" content="Guangyi Zhao 全部音频、视频与文字的集中档案：早晚新闻、股市、灵修、讲道与讲书。">
+<style>
+  :root{--bg:#0f1420;--card:#1a2233;--card2:#222d44;--ink:#eef2f8;--sub:#9fb0c9;--acc:#e8b34b;--line:#2c3a55}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.6}
+  header{padding:28px 18px 10px;max-width:760px;margin:0 auto}
+  header h1{font-size:24px;letter-spacing:1px}
+  header h1 span{color:var(--acc)}
+  header p{color:var(--sub);font-size:14px;margin-top:6px}
+  main{max-width:760px;margin:0 auto;padding:8px 14px 40px}
+  section{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-top:14px}
+  section h2{font-size:18px;display:flex;align-items:center;gap:8px}
+  section h2 .tag{font-size:11px;color:#0f1420;background:var(--acc);border-radius:20px;padding:2px 9px;font-weight:700}
+  section .desc{color:var(--sub);font-size:13px;margin:4px 0 10px}
+  .ep{border-top:1px solid var(--line);padding:12px 0}
+  .ep:first-of-type{border-top:none}
+  .ep .meta{color:var(--sub);font-size:12px}
+  .ep h3{font-size:16px;margin:2px 0}
+  .ep .theme{font-size:13px;color:var(--sub)}
+  .ep audio{width:100%;margin-top:8px;height:38px}
+  .empty{color:var(--sub);font-size:13px;padding:6px 0 2px}
+  footer{max-width:760px;margin:0 auto;padding:0 18px 30px;color:var(--sub);font-size:12px;text-align:center}
+  a{color:var(--acc)}
+</style>
+</head>
+<body>
+<header>
+  <h1>Ezra <span>内容中央枢纽</span></h1>
+  <p>Guangyi Zhao 的全部音频、视频与文字，都集中在这里。早晚双版：新闻 · 股市 · 长寿前沿 · 硅谷科技 · 移民政策 · 湾区福利，加上每日灵修、讲道《瓦器分享》与讲书《小憩片刻》。点开任意一集即可收听。</p>
+</header>
+<main id="app"><p style="color:#9fb0c9;padding:20px 4px">正在加载目录…</p></main>
+<footer>
+  <p>本页是中央档案的展示入口；全部内容同时存档于 GitHub 仓库，发布顺序为 GitHub → X → 其他平台。</p>
+  <p>© 2026 Guangyi Zhao 文稿与音频版权所有。</p>
+</footer>
+<script>
+(function(){
+  // GitHub Pages 只托管 docs/，音频在仓库 content/ 下：Pages 环境走 raw 直链，本地预览走相对路径。
+  var onPages = location.hostname.indexOf('github.io') !== -1;
+  var BASE = onPages ? 'https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/' : '../';
+  function esc(s){return (s||'').replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+  fetch('index.json').then(function(r){return r.json()}).then(function(data){
+    var html = '';
+    data.programs.forEach(function(p){
+      html += '<section><h2>' + esc(p.name) + ' <span class="tag">' + esc(p.slot) + '</span></h2>';
+      html += '<p class="desc">' + esc(p.desc) + '</p>';
+      if(!p.episodes || !p.episodes.length){ html += '<p class="empty">即将上线，敬请期待。</p>'; }
+      (p.episodes||[]).forEach(function(e){
+        html += '<div class="ep"><div class="meta">' + esc(e.date) + ' · ' + esc(e.scripture||'') + ' · ' + esc(e.duration||'') + '</div>';
+        html += '<h3>' + esc(e.title) + '</h3><p class="theme">' + esc(e.theme) + '</p>';
+        html += '<audio controls preload="none" src="' + BASE + esc(e.audio) + '"></audio></div>';
+      });
+      html += '</section>';
+    });
+    document.getElementById('app').innerHTML = html;
+  }).catch(function(){
+    document.getElementById('app').innerHTML = '<p style="padding:20px 4px">目录加载失败，请稍后再试。</p>';
+  });
+})();
+</script>
+</body>
+</html>
