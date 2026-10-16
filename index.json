@@ -312,6 +312,127 @@
    "count": 7
   },
   {
+   "id": "devotion-am-es",
+   "name": "每日灵修 · 早间（西语版）",
+   "slot": "起后",
+   "desc": "Daily Devotion, morning edition in Spanish: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-23",
+     "title": "Esfuérzate y sé valiente",
+     "scripture": "Josué 1:9 (RVR1909)",
+     "theme": "El valor no es no tener miedo; es dar el paso porque él está contigo.",
+     "audio": "content/devotion-am-es/2026-10-23/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-23/index.md",
+     "duration_sec": 130,
+     "duration": "2:10",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "Este es el día que hizo Jehová",
+     "scripture": "Salmo 118:24 (RVR1909)",
+     "theme": "Decide tu gozo antes de salir de casa, y lo demás solo podrá ir en segundo lugar.",
+     "audio": "content/devotion-am-es/2026-10-22/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-22/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "Todo lo puedo en Cristo que me fortalece",
+     "scripture": "Filipenses 4:13 (RVR1909)",
+     "theme": "Cambia el «yo puedo» por «en Cristo puedo»: la fuerza es la ración de cada día.",
+     "audio": "content/devotion-am-es/2026-10-21/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-21/index.md",
+     "duration_sec": 130,
+     "duration": "2:10",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "Los que esperan a Jehová tendrán nuevas fuerzas",
+     "scripture": "Isaías 40:31 (RVR1909)",
+     "theme": "Esperar no es no hacer nada: es mirar a Dios, y en la espera la fuerza se renueva.",
+     "audio": "content/devotion-am-es/2026-10-20/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-20/index.md",
+     "duration_sec": 136,
+     "duration": "2:16",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "Fíate de Jehová de todo tu corazón",
+     "scripture": "Proverbios 3:5-6 (RVR1909)",
+     "theme": "No te apoyes en tus propios cálculos: ponlo primero ante Dios, y él enderezará tus veredas.",
+     "audio": "content/devotion-am-es/2026-10-19/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-19/index.md",
+     "duration_sec": 137,
+     "duration": "2:17",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "No dejando nuestra congregación",
+     "scripture": "Hebreos 10:25 (RVR1909)",
+     "theme": "Un tizón solo se apaga; reunidos, el fuego se aviva y nos edificamos unos a otros.",
+     "audio": "content/devotion-am-es/2026-10-18/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-18/index.md",
+     "duration_sec": 135,
+     "duration": "2:15",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "Venid a mí todos los que estáis trabajados",
+     "scripture": "Mateo 11:28 (RVR1909)",
+     "theme": "El descanso no se gana terminando todo primero; se recibe al venir primero a él.",
+     "audio": "content/devotion-am-es/2026-10-17/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-17/index.md",
+     "duration_sec": 131,
+     "duration": "2:11",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ]
+  },
+  {
    "id": "devotion-pm",
    "name": "每日灵修 · 睡前",
    "slot": "睡前",
@@ -602,6 +723,127 @@
     }
    ],
    "count": 7
+  },
+  {
+   "id": "devotion-pm-es",
+   "name": "每日灵修 · 睡前（西语版）",
+   "slot": "睡前",
+   "desc": "Daily Devotion, bedtime edition in Spanish: a verse of rest, a short reflection, and an evening prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-23",
+     "title": "La paz os dejo",
+     "scripture": "Juan 14:27 (RVR1909)",
+     "theme": "Su paz se da antes de que cambie el ambiente: recíbela esta noche y duerme tranquilo.",
+     "audio": "content/devotion-pm-es/2026-10-23/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-23/index.md",
+     "duration_sec": 123,
+     "duration": "2:03",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "A su amado dará Dios el sueño",
+     "scripture": "Salmo 127:2 (RVR1909)",
+     "theme": "Dormir en paz es un regalo para sus amados: afloja la cuerda; lo demás es tarea de mañana.",
+     "audio": "content/devotion-pm-es/2026-10-22/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-22/index.md",
+     "duration_sec": 127,
+     "duration": "2:07",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "Mi presencia irá contigo",
+     "scripture": "Éxodo 33:14 (RVR1909)",
+     "theme": "El descanso no espera a llegar al destino: su presencia va contigo en todo el camino.",
+     "audio": "content/devotion-pm-es/2026-10-21/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-21/index.md",
+     "duration_sec": 137,
+     "duration": "2:17",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "Cuando me acordaré de ti en mi lecho",
+     "scripture": "Salmo 63:6 (RVR1909)",
+     "theme": "Una sola frase de su palabra, saboreada en la noche, alimenta más que diez que pasan de largo.",
+     "audio": "content/devotion-pm-es/2026-10-20/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-20/index.md",
+     "duration_sec": 140,
+     "duration": "2:20",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "Nuevas son cada mañana",
+     "scripture": "Lamentaciones 3:22-23 (RVR1909)",
+     "theme": "Antes de dormir, cuenta tres misericordias de hoy: su fidelidad no se interrumpió ni un momento.",
+     "audio": "content/devotion-pm-es/2026-10-19/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-19/index.md",
+     "duration_sec": 123,
+     "duration": "2:03",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "De noche su canción será conmigo",
+     "scripture": "Salmo 42:8 (RVR1909)",
+     "theme": "De día su misericordia, de noche su canción: aunque oscurezca, él sigue ahí.",
+     "audio": "content/devotion-pm-es/2026-10-18/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-18/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "No se dormirá el que te guarda",
+     "scripture": "Salmo 121:3-4 (RVR1909)",
+     "theme": "Tú duermes; el que te guarda no se adormece ni duerme. Esta noche puedes soltarlo todo.",
+     "audio": "content/devotion-pm-es/2026-10-17/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-17/index.md",
+     "duration_sec": 134,
+     "duration": "2:14",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ]
   },
   {
    "id": "sermons",
