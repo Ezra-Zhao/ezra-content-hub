@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>美国百指日报</title>
+    <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
+    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/fred.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。</description>
+    <copyright>© 2026 Guangyi Zhao</copyright>
+    <lastBuildDate>Wed, 21 Oct 2026 06:51:09 -0700</lastBuildDate>
+    <itunes:author>Guangyi Zhao</itunes:author>
+    <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Guangyi Zhao</itunes:name>
+      <itunes:email>ezra777.zhao@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜10月20日：成屋签约销售跌7.3%创纪录新低，开工同样低于预期</title>
+      <description>晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与本周前瞻。</description>
+      <pubDate>Tue, 20 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-10-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-10-20/audio.mp3" length="993089" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
+    <item>
+      <title>《美国百指日报》2026-10-20｜9月新屋开工降到122万套，明显低于预期</title>
+      <description>每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。</description>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-10-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-10-20/audio.mp3" length="2840259" type="audio/mpeg"/>
+      <itunes:duration>5:55</itunes:duration>
+    </item>
+    <item>
+      <title>美国百指日报·晚间速报｜10月18日：周日无新数据，高位读数未变，明日先看住房指数</title>
+      <description>晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与下周前瞻。</description>
+      <pubDate>Sun, 18 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-10-18</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-10-18/audio.mp3" length="959443" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
+    <item>
+      <title>美国百指日报·晚间速报｜10月17日：周六无新数据，标普周五跌1.09%，通胀预期小幅上行</title>
+      <description>晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与下周前瞻。</description>
+      <pubDate>Sat, 17 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-10-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-10-17/audio.mp3" length="934574" type="audio/mpeg"/>
+      <itunes:duration>1:57</itunes:duration>
+    </item>
+    <item>
+      <title>《美国百指日报》2026-10-17｜隔夜逆回购一天缩回1亿美元，实际利率仍在异常高位</title>
+      <description>每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。</description>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-10-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-10-17/audio.mp3" length="2067035" type="audio/mpeg"/>
+      <itunes:duration>4:18</itunes:duration>
+    </item>
+  </channel>
+</rss>

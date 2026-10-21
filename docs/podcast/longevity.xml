@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>长寿前沿日报</title>
+    <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
+    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/longevity.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。</description>
+    <copyright>© 2026 Guangyi Zhao</copyright>
+    <lastBuildDate>Wed, 21 Oct 2026 06:51:09 -0700</lastBuildDate>
+    <itunes:author>Guangyi Zhao</itunes:author>
+    <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Guangyi Zhao</itunes:name>
+      <itunes:email>ezra777.zhao@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Health &amp; Fitness"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报·晚间版｜10月20日：乙肝新药获批，近五分之一停药后仍达标 · 晚版</title>
+      <description>本期：FDA 10月20日批准Hibsago（bepirovirsen）用于特定成年慢性乙肝患者（B-Well三期汇总19%功能性治愈对安慰剂0，数据来自企业发布）；日间主打后续——多塔利单抗研究者评估口径68%与独立评审47%口径不同、不</description>
+      <pubDate>Tue, 20 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-20-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-20-pm/audio.mp3" length="850982" type="audio/mpeg"/>
+      <itunes:duration>1:46</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报｜10月19日：百岁老人的子女死亡风险低42%</title>
+      <description>本期：JAMA Network Open 百岁老人子女队列（2319人对2703人，死亡风险低42%，观察性、不等于因果）；FDA批准萨特利珠单抗用于成人甲状腺眼病（数据来自企业发布，另一项试验未达主要终点）；CDC今冬呼吸道疾病展望（机构</description>
+      <pubDate>Mon, 19 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-19/audio.mp3" length="962369" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
+    <item>
+      <title>本节目只做信息分享，不构成医疗建议。</title>
+      <description>出处：</description>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-16/audio.mp3" length="767182" type="audio/mpeg"/>
+      <itunes:duration>1:36</itunes:duration>
+    </item>
+  </channel>
+</rss>

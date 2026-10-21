@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>移民政策速报</title>
+    <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
+    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/immigration.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。</description>
+    <copyright>© 2026 Guangyi Zhao</copyright>
+    <lastBuildDate>Wed, 21 Oct 2026 06:51:09 -0700</lastBuildDate>
+    <itunes:author>Guangyi Zhao</itunes:author>
+    <itunes:summary>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Guangyi Zhao</itunes:name>
+      <itunes:email>ezra777.zhao@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。</title>
+      <description>信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。</description>
+      <pubDate>Tue, 20 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">immigration-2026-10-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/immigration/2026-10-20/audio.mp3" length="830502" type="audio/mpeg"/>
+      <itunes:duration>1:44</itunes:duration>
+    </item>
+    <item>
+      <title>本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。</title>
+      <description>信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。</description>
+      <pubDate>Mon, 19 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">immigration-2026-10-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/immigration/2026-10-19/audio.mp3" length="931022" type="audio/mpeg"/>
+      <itunes:duration>1:56</itunes:duration>
+    </item>
+    <item>
+      <title>本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。</title>
+      <description>信息来源为美国政府官方公告，政策以官方原文为准，公告日期见片中标注。</description>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">immigration-2026-10-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/immigration/2026-10-16/audio.mp3" length="759658" type="audio/mpeg"/>
+      <itunes:duration>1:35</itunes:duration>
+    </item>
+  </channel>
+</rss>

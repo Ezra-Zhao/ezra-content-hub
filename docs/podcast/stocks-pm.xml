@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>美股盘后小结</title>
+    <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
+    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/stocks-pm.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。</description>
+    <copyright>© 2026 Guangyi Zhao</copyright>
+    <lastBuildDate>Wed, 21 Oct 2026 06:51:09 -0700</lastBuildDate>
+    <itunes:author>Guangyi Zhao</itunes:author>
+    <itunes:summary>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Guangyi Zhao</itunes:name>
+      <itunes:email>ezra777.zhao@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美股盘后小结 10月14日：九月通胀超预期+三大指数收跌</title>
+      <description>美股盘后小结 10月14日：九月通胀超预期+三大指数收跌</description>
+      <pubDate>Wed, 14 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-14</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-14/audio.mp3" length="471580" type="audio/mpeg"/>
+      <itunes:duration>1:15</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月13日：高盛财报大超预期+三大指数近平盘</title>
+      <description>美股盘后小结 10月13日：高盛财报大超预期+三大指数近平盘</description>
+      <pubDate>Tue, 13 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-13</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-13/audio.mp3" length="436780" type="audio/mpeg"/>
+      <itunes:duration>1:07</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月12日：三大指数涨跌不一+油价上涨能源领跑</title>
+      <description>美股盘后小结 10月12日：三大指数涨跌不一+油价上涨能源领跑</description>
+      <pubDate>Mon, 12 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-12/audio.mp3" length="417484" type="audio/mpeg"/>
+      <itunes:duration>1:04</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月7日</title>
+      <description>美股盘后小结 10月7日</description>
+      <pubDate>Wed, 07 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-07</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-07/audio.mp3" length="450700" type="audio/mpeg"/>
+      <itunes:duration>1:08</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月6日</title>
+      <description>美股盘后小结 10月6日</description>
+      <pubDate>Tue, 06 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-06</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-06/audio.mp3" length="427492" type="audio/mpeg"/>
+      <itunes:duration>1:04</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月5日</title>
+      <description>美股盘后小结 10月5日</description>
+      <pubDate>Mon, 05 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-05/audio.mp3" length="499252" type="audio/mpeg"/>
+      <itunes:duration>1:16</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-16",
+ "updated": "2026-10-21",
  "programs": [
   {
    "id": "devotion-am",
@@ -187,7 +187,7 @@
      }
     }
    ],
-   "count": 6
+   "count": 11
   },
   {
    "id": "devotion-am-en",
@@ -430,7 +430,8 @@
       "youtube": ""
      }
     }
-   ]
+   ],
+   "count": 7
   },
   {
    "id": "devotion-am-vi",
@@ -652,7 +653,7 @@
      }
     }
    ],
-   "count": 5
+   "count": 10
   },
   {
    "id": "devotion-pm-en",
@@ -895,7 +896,8 @@
       "youtube": ""
      }
     }
-   ]
+   ],
+   "count": 7
   },
   {
    "id": "devotion-pm-vi",
@@ -1031,46 +1033,439 @@
    "id": "stocks-pm",
    "name": "晚间股市",
    "slot": "晚间",
-   "desc": "晚间股市播报（筹备中）。",
+   "desc": "晚间股市播报：美股盘后小结，三大指数、板块与个股要点。",
    "category": "财经",
-   "episodes": [],
-   "count": 0
+   "episodes": [
+    {
+     "date": "2026-10-14",
+     "title": "美股盘后小结 10月14日：九月通胀超预期+三大指数收跌",
+     "scripture": "",
+     "theme": "美股盘后小结 10月14日：九月通胀超预期+三大指数收跌",
+     "audio": "content/stocks-pm/2026-10-14/audio.mp3",
+     "page": "content/stocks-pm/2026-10-14/index.md",
+     "duration_sec": 75,
+     "duration": "1:15",
+     "video_url": "https://www.youtube.com/watch?v=hynPSJwV_j8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=hynPSJwV_j8"
+     }
+    },
+    {
+     "date": "2026-10-13",
+     "title": "美股盘后小结 10月13日：高盛财报大超预期+三大指数近平盘",
+     "scripture": "",
+     "theme": "美股盘后小结 10月13日：高盛财报大超预期+三大指数近平盘",
+     "audio": "content/stocks-pm/2026-10-13/audio.mp3",
+     "page": "content/stocks-pm/2026-10-13/index.md",
+     "duration_sec": 67,
+     "duration": "1:07",
+     "video_url": "https://www.youtube.com/watch?v=Ha6tci8y4ms",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Ha6tci8y4ms"
+     }
+    },
+    {
+     "date": "2026-10-12",
+     "title": "美股盘后小结 10月12日：三大指数涨跌不一+油价上涨能源领跑",
+     "scripture": "",
+     "theme": "美股盘后小结 10月12日：三大指数涨跌不一+油价上涨能源领跑",
+     "audio": "content/stocks-pm/2026-10-12/audio.mp3",
+     "page": "content/stocks-pm/2026-10-12/index.md",
+     "duration_sec": 64,
+     "duration": "1:04",
+     "video_url": "https://www.youtube.com/watch?v=U-MHn1H-B_A",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=U-MHn1H-B_A"
+     }
+    },
+    {
+     "date": "2026-10-07",
+     "title": "美股盘后小结 10月7日",
+     "scripture": "",
+     "theme": "美股盘后小结 10月7日",
+     "audio": "content/stocks-pm/2026-10-07/audio.mp3",
+     "page": "content/stocks-pm/2026-10-07/index.md",
+     "duration_sec": 68,
+     "duration": "1:08",
+     "video_url": "https://www.youtube.com/watch?v=Ps47l2RcjoU",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Ps47l2RcjoU"
+     }
+    },
+    {
+     "date": "2026-10-06",
+     "title": "美股盘后小结 10月6日",
+     "scripture": "",
+     "theme": "美股盘后小结 10月6日",
+     "audio": "content/stocks-pm/2026-10-06/audio.mp3",
+     "page": "content/stocks-pm/2026-10-06/index.md",
+     "duration_sec": 64,
+     "duration": "1:04",
+     "video_url": "https://www.youtube.com/watch?v=u393jWCCmII",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=u393jWCCmII"
+     }
+    },
+    {
+     "date": "2026-10-05",
+     "title": "美股盘后小结 10月5日",
+     "scripture": "",
+     "theme": "美股盘后小结 10月5日",
+     "audio": "content/stocks-pm/2026-10-05/audio.mp3",
+     "page": "content/stocks-pm/2026-10-05/index.md",
+     "duration_sec": 76,
+     "duration": "1:16",
+     "video_url": "https://www.youtube.com/watch?v=TzlubID3-yQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=TzlubID3-yQ"
+     }
+    }
+   ],
+   "count": 6
+  },
+  {
+   "id": "fred-am",
+   "name": "百指日报 · 早间",
+   "slot": "早间",
+   "desc": "美国百指日报早版：100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。",
+   "category": "时效",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "《美国百指日报》2026-10-20｜9月新屋开工降到122万套，明显低于预期",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
+     "audio": "content/fred-am/2026-10-20/audio.mp3",
+     "page": "content/fred-am/2026-10-20/index.md",
+     "duration_sec": 355,
+     "duration": "5:55",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "《美国百指日报》2026-10-17｜隔夜逆回购一天缩回1亿美元，实际利率仍在异常高位",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
+     "audio": "content/fred-am/2026-10-17/audio.mp3",
+     "page": "content/fred-am/2026-10-17/index.md",
+     "duration_sec": 258,
+     "duration": "4:18",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 2
+  },
+  {
+   "id": "fred-pm",
+   "name": "百指日报 · 晚间",
+   "slot": "晚间",
+   "desc": "美国百指日报晚版：当日经济指标收官复盘与次日前瞻。",
+   "category": "时效",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "美国百指日报·晚间速报｜10月20日：成屋签约销售跌7.3%创纪录新低，开工同样低于预期",
+     "scripture": "",
+     "theme": "晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与本周前瞻。",
+     "audio": "content/fred-pm/2026-10-20/audio.mp3",
+     "page": "content/fred-pm/2026-10-20/index.md",
+     "duration_sec": 124,
+     "duration": "2:04",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "美国百指日报·晚间速报｜10月18日：周日无新数据，高位读数未变，明日先看住房指数",
+     "scripture": "",
+     "theme": "晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与下周前瞻。",
+     "audio": "content/fred-pm/2026-10-18/audio.mp3",
+     "page": "content/fred-pm/2026-10-18/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "美国百指日报·晚间速报｜10月17日：周六无新数据，标普周五跌1.09%，通胀预期小幅上行",
+     "scripture": "",
+     "theme": "晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与下周前瞻。",
+     "audio": "content/fred-pm/2026-10-17/audio.mp3",
+     "page": "content/fred-pm/2026-10-17/index.md",
+     "duration_sec": 117,
+     "duration": "1:57",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 3
   },
   {
    "id": "longevity",
    "name": "长寿前沿",
    "slot": "双版",
-   "desc": "长寿与健康前沿速报（筹备中）。",
+   "desc": "长寿与健康前沿速报：每天替你读长寿与健康领域的论文与研究。",
    "category": "时效",
-   "episodes": [],
-   "count": 0
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "长寿前沿日报·晚间版｜10月20日：乙肝新药获批，近五分之一停药后仍达标 · 晚版",
+     "scripture": "",
+     "theme": "本期：FDA 10月20日批准Hibsago（bepirovirsen）用于特定成年慢性乙肝患者（B-Well三期汇总19%功能性治愈对安慰剂0，数据来自企业发布）；日间主打后续——多塔利单抗研究者评估口径68%与独立评审47%口径不同、不",
+     "audio": "content/longevity/2026-10-20-pm/audio.mp3",
+     "page": "content/longevity/2026-10-20-pm/index.md",
+     "duration_sec": 106,
+     "duration": "1:46",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "长寿前沿日报｜10月19日：百岁老人的子女死亡风险低42%",
+     "scripture": "",
+     "theme": "本期：JAMA Network Open 百岁老人子女队列（2319人对2703人，死亡风险低42%，观察性、不等于因果）；FDA批准萨特利珠单抗用于成人甲状腺眼病（数据来自企业发布，另一项试验未达主要终点）；CDC今冬呼吸道疾病展望（机构",
+     "audio": "content/longevity/2026-10-19/audio.mp3",
+     "page": "content/longevity/2026-10-19/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "https://www.youtube.com/watch?v=D-6m-KGftv8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=D-6m-KGftv8"
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "本节目只做信息分享，不构成医疗建议。",
+     "scripture": "",
+     "theme": "出处：",
+     "audio": "content/longevity/2026-10-16/audio.mp3",
+     "page": "content/longevity/2026-10-16/index.md",
+     "duration_sec": 96,
+     "duration": "1:36",
+     "video_url": "https://www.youtube.com/watch?v=p_H91GBe-4I",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=p_H91GBe-4I"
+     }
+    }
+   ],
+   "count": 3
   },
   {
    "id": "silicon-valley",
    "name": "硅谷科技",
    "slot": "双版",
-   "desc": "硅谷科技动态速报（筹备中）。",
+   "desc": "硅谷科技动态速报：AI 与科技公司最新进展。",
    "category": "科技",
-   "episodes": [],
-   "count": 0
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "硅谷科技日报｜10月20日：OpenAI新模型主攻低资源与老语言，COBOL迁移自测大涨",
+     "scripture": "",
+     "theme": "出处：",
+     "audio": "content/silicon-valley/2026-10-20/audio.mp3",
+     "page": "content/silicon-valley/2026-10-20/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "硅谷科技日报·晚间版｜10月20日：谷歌联手Meta，PyTorch原生搬上TPU · 晚版",
+     "scripture": "",
+     "theme": "出处：",
+     "audio": "content/silicon-valley/2026-10-20-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-10-20-pm/index.md",
+     "duration_sec": 95,
+     "duration": "1:35",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "硅谷科技日报·晚间版｜10月19日：Cloudflare新模型不写字，只从杂料里取数 · 晚版",
+     "scripture": "",
+     "theme": "出处：",
+     "audio": "content/silicon-valley/2026-10-19-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-10-19-pm/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "出处：",
+     "scripture": "",
+     "theme": "- Anthropic 平台发布说明（2026-10-15）：https://releasebot.io/updates/anthropic/claude-developer-platform",
+     "audio": "content/silicon-valley/2026-10-16/audio.mp3",
+     "page": "content/silicon-valley/2026-10-16/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 4
   },
   {
    "id": "immigration",
    "name": "移民政策",
    "slot": "双版",
-   "desc": "移民政策速报（筹备中）。",
+   "desc": "移民政策速报：美国移民政策与法规变化解读。",
    "category": "时效",
-   "episodes": [],
-   "count": 0
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-20/audio.mp3",
+     "page": "content/immigration/2026-10-20/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "https://www.youtube.com/watch?v=X-VA7-4Ae84",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=X-VA7-4Ae84"
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-19/audio.mp3",
+     "page": "content/immigration/2026-10-19/index.md",
+     "duration_sec": 116,
+     "duration": "1:56",
+     "video_url": "https://www.youtube.com/watch?v=bP0Au4tJUqI",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=bP0Au4tJUqI"
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-16/audio.mp3",
+     "page": "content/immigration/2026-10-16/index.md",
+     "duration_sec": 95,
+     "duration": "1:35",
+     "video_url": "https://www.youtube.com/watch?v=X4wgpVsvhr8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=X4wgpVsvhr8"
+     }
+    }
+   ],
+   "count": 3
   },
   {
    "id": "bay-area-benefits",
    "name": "湾区福利",
    "slot": "双版",
-   "desc": "湾区福利与生活资讯速报（筹备中）。",
+   "desc": "湾区福利与生活资讯速报：福利、补助与生活信息。",
    "category": "时效",
-   "episodes": [],
-   "count": 0
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "本期文字版清单（可直接转发）：",
+     "scripture": "",
+     "theme": "1）10月24日（周六）11:00–16:00，圣何塞艺术博物馆（110 South Market Street, San Jose）亡灵节社区日，全天免费入场；全年龄可参加，建议提前在官网免费注册，也可直接到场；糖骷髅装饰免费，但需另领当",
+     "audio": "content/bay-area-benefits/2026-10-20/audio.mp3",
+     "page": "content/bay-area-benefits/2026-10-20/index.md",
+     "duration_sec": 91,
+     "duration": "1:31",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "本期文字版清单（可直接转发）：",
+     "scripture": "",
+     "theme": "1）10月17日（周六）9:30–17:15，de Young博物馆 + 荣誉军团博物馆（旧金山），常设展厅对湾区九县居民免费（含Santa Clara县）；带照片证件或带住址信封，必须提前订定时票，特展不含。",
+     "audio": "content/bay-area-benefits/2026-10-16/audio.mp3",
+     "page": "content/bay-area-benefits/2026-10-16/index.md",
+     "duration_sec": 88,
+     "duration": "1:28",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 2
   }
  ],
  "articles": [

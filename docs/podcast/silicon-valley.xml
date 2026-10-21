@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>硅谷科技日报</title>
+    <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
+    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/silicon-valley.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。</description>
+    <copyright>© 2026 Guangyi Zhao</copyright>
+    <lastBuildDate>Wed, 21 Oct 2026 06:51:09 -0700</lastBuildDate>
+    <itunes:author>Guangyi Zhao</itunes:author>
+    <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Guangyi Zhao</itunes:name>
+      <itunes:email>ezra777.zhao@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报·晚间版｜10月20日：谷歌联手Meta，PyTorch原生搬上TPU · 晚版</title>
+      <description>出处：</description>
+      <pubDate>Tue, 20 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-20-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-20-pm/audio.mp3" length="1527684" type="audio/mpeg"/>
+      <itunes:duration>1:35</itunes:duration>
+    </item>
+    <item>
+      <title>硅谷科技日报｜10月20日：OpenAI新模型主攻低资源与老语言，COBOL迁移自测大涨</title>
+      <description>出处：</description>
+      <pubDate>Tue, 20 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-20/audio.mp3" length="1025480" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
+    </item>
+    <item>
+      <title>硅谷科技日报·晚间版｜10月19日：Cloudflare新模型不写字，只从杂料里取数 · 晚版</title>
+      <description>出处：</description>
+      <pubDate>Mon, 19 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-19-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-19-pm/audio.mp3" length="830502" type="audio/mpeg"/>
+      <itunes:duration>1:44</itunes:duration>
+    </item>
+    <item>
+      <title>出处：</title>
+      <description>- Anthropic 平台发布说明（2026-10-15）：https://releasebot.io/updates/anthropic/claude-developer-platform</description>
+      <pubDate>Fri, 16 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-16/audio.mp3" length="830293" type="audio/mpeg"/>
+      <itunes:duration>1:44</itunes:duration>
+    </item>
+  </channel>
+</rss>
