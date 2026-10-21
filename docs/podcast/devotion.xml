@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>每日灵修</title>
+    <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
+    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。</description>
+    <copyright>© 2026 Guangyi Zhao</copyright>
+    <lastBuildDate>Tue, 20 Oct 2026 22:42:31 -0700</lastBuildDate>
+    <itunes:author>Guangyi Zhao</itunes:author>
+    <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Guangyi Zhao</itunes:name>
+      <itunes:email>ezra777.zhao@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://ezra-zhao.github.io/ezra-content-hub/podcast/cover-devotion.png"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 将一切的忧虑卸给神</title>
+      <description>卸包袱式的交托：因为祂顾念我们，忧虑一件一件说给祂听、真的放下，换一双更稳的手接着。 经文：彼得前书 5:7（和合本）</description>
+      <pubDate>Sun, 25 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-25/audio.mp3" length="1758398" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 我的恩典够你用的</title>
+      <description>主没有挪开保罗的刺，却给了更好的回答：带着刺也能服事，软弱不是障碍，恰恰是恩典显出来的地方。 经文：哥林多后书 12:9（和合本）</description>
+      <pubDate>Sun, 25 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-25/audio.mp3" length="2325568" type="audio/mpeg"/>
+      <itunes:duration>2:25</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 住在至高者隐密处的</title>
+      <description>隐密处不是临时躲避的防空洞，而是平日住下的地方：把最放心不下的事连同自己，一起搬进祂的荫下。 经文：诗篇 91:1-2（和合本）</description>
+      <pubDate>Sat, 24 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-24/audio.mp3" length="1951913" type="audio/mpeg"/>
+      <itunes:duration>2:02</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 我必用我公义的右手扶持你</title>
+      <description>神连着说了三个「我必」：必坚固、必帮助、必扶持——先有同在，后面的帮助才有着落，周末把心放回祂手里。 经文：以赛亚书 41:10（和合本）</description>
+      <pubDate>Sat, 24 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-24/audio.mp3" length="2170506" type="audio/mpeg"/>
+      <itunes:duration>2:16</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 我留下平安给你们</title>
+      <description>主的平安不像世人所赐的：环境还没变，心先安了；把这一周的好与坏都放下，别让它们跟着上床。 经文：约翰福音 14:27（和合本）</description>
+      <pubDate>Fri, 23 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-23/audio.mp3" length="1876262" type="audio/mpeg"/>
+      <itunes:duration>1:57</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 你当刚强壮胆</title>
+      <description>刚强壮胆的底气不是「我有把握」，而是「祂与我同在」：胆量不是等害怕消失，而是在路上长出来的。 经文：约书亚记 1:9（和合本）</description>
+      <pubDate>Fri, 23 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-23/audio.mp3" length="2183462" type="audio/mpeg"/>
+      <itunes:duration>2:16</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 祂叫所亲爱的安然睡觉</title>
+      <description>睡觉是神给所亲爱之人的礼物：你先睡，祂不睡；你歇手，祂的手没有歇，没做完的留给明天的功课。 经文：诗篇 127:2（和合本）</description>
+      <pubDate>Thu, 22 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-22/audio.mp3" length="2064344" type="audio/mpeg"/>
+      <itunes:duration>2:09</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 这是耶和华所定的日子</title>
+      <description>今天不是随机抽到的一天：先把欢喜定在神的手里，外面的事只能排第二，带着一件谢恩的小事出门。 经文：诗篇 118:24（和合本）</description>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-22/audio.mp3" length="1983678" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 祂亲自同去，使你得安息</title>
+      <description>安息不是到了目的地才有：明天那段路祂亲自同行，今晚先把脚步停下来，让祂走在前头。 经文：出埃及记 33:14（和合本）</description>
+      <pubDate>Wed, 21 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-21/audio.mp3" length="1925999" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 靠着那加给我力量的</title>
+      <description>力量的来源不在自己身上：保罗在监狱里学到的知足，是把「我能」换成「靠着祂，我能」，出门前先领今天够用的口粮。 经文：腓立比书 4:13（和合本）</description>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-21/audio.mp3" length="2234871" type="audio/mpeg"/>
+      <itunes:duration>2:20</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 夜里思想祂的话</title>
+      <description>在床上记念祢：在旷野的夜里思想神的话，心像饱足了骨髓肥油。 经文：诗篇 63:6（和合本）</description>
+      <pubDate>Tue, 20 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-20/audio.mp3" length="1736664" type="audio/mpeg"/>
+      <itunes:duration>1:48</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 那等候耶和华的必重新得力</title>
+      <description>等候中更新：等候不是干坐着，是望着神存着盼望，力气耗干处重新得力。 经文：以赛亚书 40:31（和合本）</description>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-20/audio.mp3" length="2335599" type="audio/mpeg"/>
+      <itunes:duration>2:26</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 睡前数算今天的恩典</title>
+      <description>每早晨都是新的：睡前数算今天的恩典——祂的怜悯不断绝，诚实极其广大。 经文：耶利米哀歌 3:22-23（和合本）</description>
+      <pubDate>Mon, 19 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-19/audio.mp3" length="1894235" type="audio/mpeg"/>
+      <itunes:duration>1:58</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 你要专心仰赖耶和华</title>
+      <description>不靠自己的聪明：新一周的事先交托，在所行的事上认定祂，祂必指引路。 经文：箴言 3:5-6（和合本）</description>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-19/audio.mp3" length="2228184" type="audio/mpeg"/>
+      <itunes:duration>2:19</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 夜里的歌</title>
+      <description>白昼施慈爱，黑夜有歌声：离家发愁的人，数算的不是眼泪，是祂的慈爱。 经文：诗篇 42:8（和合本）</description>
+      <pubDate>Sun, 18 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-18</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-18/audio.mp3" length="2041356" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 你们不可停止聚会</title>
+      <description>主日与团契：一个人像一根柴单独烧，聚在一处，火才重新旺起来。 经文：希伯来书 10:25（和合本）</description>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-18</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-18/audio.mp3" length="2306342" type="audio/mpeg"/>
+      <itunes:duration>2:24</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 祂守夜，我安睡</title>
+      <description>保护你的必不打盹：祂守夜，我们安睡；走远路的人夜里也不孤单。 经文：诗篇 121:3-4（和合本）</description>
+      <pubDate>Sat, 17 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-17/audio.mp3" length="1984932" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 凡劳苦担重担的人，可以到我这里来</title>
+      <description>把重担卸下：安息不是把事办漂亮了才配得，是先到祂面前才得着。 经文：马太福音 11:28（和合本）</description>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-17/audio.mp3" length="2207704" type="audio/mpeg"/>
+      <itunes:duration>2:18</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 放下今天，平安入睡</title>
+      <description>我必安然躺下睡觉：让人睡不着的事先算清楚，独有耶和华使我安然居住。 经文：诗篇 4:8（和合本）</description>
+      <pubDate>Fri, 16 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-16/audio.mp3" length="1932687" type="audio/mpeg"/>
+      <itunes:duration>2:01</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 你们要休息，要知道我是神</title>
+      <description>在忙乱里停下来：把手松开、先安静，认清祂是神，再开始这一天。 经文：诗篇 46:10（和合本）</description>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-16/audio.mp3" length="2378231" type="audio/mpeg"/>
+      <itunes:duration>2:29</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 祂为我们的罪作了挽回祭</title>
+      <description>挽回祭与破碎：我们所传的是除去世人罪孽的神的羔羊；人身上破碎之处，正是祂动工之处。 经文：约翰一书 2:2（和合本）</description>
+      <pubDate>Thu, 15 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-15/audio.mp3" length="2241141" type="audio/mpeg"/>
+      <itunes:duration>2:20</itunes:duration>
+    </item>
+  </channel>
+</rss>
