@@ -5,8 +5,8 @@ Mirrors build_broadcast_feeds.py / build_devotion_feed.py: episodes are
 read from content/sermons/<date>/index.md + audio.mp3, enclosures point
 at raw.githubusercontent.com URLs of the committed audio files.
 
-NOTE: channel image currently reuses the devotion cover as a placeholder;
-replace with a dedicated 瓦器分享 cover before directory submission.
+Channel image: docs/podcast/cover-waqi.png (dedicated 瓦器分享 cover,
+3000x3000 PNG, copied from 播客音频线/封面/瓦器分享-cover.png).
 """
 import os
 import re
@@ -98,7 +98,7 @@ def main():
         "      <itunes:name>Guangyi Zhao</itunes:name>\n"
         "      <itunes:email>ezra777.zhao@gmail.com</itunes:email>\n"
         "    </itunes:owner>\n"
-        "    <itunes:image href=\"" + PAGES + "/podcast/cover-devotion.png\"/>\n"
+        "    <itunes:image href=\"" + PAGES + "/podcast/cover-waqi.png\"/>\n"
         "    <itunes:category text=\"Religion &amp; Spirituality\">\n"
         "      <itunes:category text=\"Christianity\"/>\n"
         "    </itunes:category>\n"
