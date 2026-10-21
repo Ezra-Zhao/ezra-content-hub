@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tĩnh Nguyện Hằng Ngày</title>
+    <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
+    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-vi.xml" rel="self" type="application/rss+xml"/>
+    <language>vi</language>
+    <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao.</description>
+    <copyright>© 2026 Guangyi Zhao</copyright>
+    <lastBuildDate>Wed, 21 Oct 2026 07:50:46 -0700</lastBuildDate>
+    <itunes:author>Guangyi Zhao</itunes:author>
+    <itunes:summary>Tĩnh Nguyện Hằng Ngày: suy ngẫm và cầu nguyện theo Kinh Thánh mỗi ngày, bản buổi sáng và buổi tối.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Guangyi Zhao</itunes:name>
+      <itunes:email>ezra777.zhao@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://ezra-zhao.github.io/ezra-content-hub/podcast/cover-devotion.png"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Đấng Gìn Giữ Ngươi Không Hề Buồn Ngủ</title>
+      <description>Đêm nay ta có thể yên tâm ngủ, vì Đấng canh giữ ta thức trọn cả đêm không hề buồn ngủ. Kinh Thánh: Thi-thiên 121:3-4 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sat, 17 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-10-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-10-17/audio.mp3" length="2215645" type="audio/mpeg"/>
+      <itunes:duration>2:18</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Hãy Đến Cùng Ta, Hỡi Những Kẻ Mệt Mỏi</title>
+      <description>Sự yên nghỉ không phải là phần thưởng sau khi làm xong mọi việc; ta nhận được nó khi đến với Chúa trước tiên. Kinh Thánh: Ma-thi-ơ 11:28 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-10-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-10-17/audio.mp3" length="2020876" type="audio/mpeg"/>
+      <itunes:duration>2:06</itunes:duration>
+    </item>
+  </channel>
+</rss>
