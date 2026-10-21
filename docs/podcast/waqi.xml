@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>瓦器分享</title>
+    <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
+    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/waqi.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，把宝贝放在瓦器里，显明莫大的能力是出于神。</description>
+    <copyright>© 2026 Guangyi Zhao</copyright>
+    <lastBuildDate>Wed, 21 Oct 2026 07:41:59 -0700</lastBuildDate>
+    <itunes:author>Guangyi Zhao</itunes:author>
+    <itunes:summary>瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，把宝贝放在瓦器里，显明莫大的能力是出于神。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Guangyi Zhao</itunes:name>
+      <itunes:email>ezra777.zhao@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://ezra-zhao.github.io/ezra-content-hub/podcast/cover-devotion.png"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>第七日的安息</title>
+      <description>从原文词义讲神为什么安息、安息日的设立，以及安息如何进到我们今天的生活。 经文：创世记 2:1-3（和合本）</description>
+      <pubDate>Thu, 15 Oct 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">sermons-2026-10-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/sermons/2026-10-15/audio.mp3" length="4831853" type="audio/mpeg"/>
+      <itunes:duration>5:02</itunes:duration>
+    </item>
+    <item>
+      <title>天国的颠覆性生命</title>
+      <description>哀恸的人与温柔的人：天国的生命逻辑与世界相反，柔和谦卑里藏着承受地土的福。 经文：马太福音 5:4-5（和合本）</description>
+      <pubDate>Fri, 09 Oct 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">sermons-2026-10-09</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/sermons/2026-10-09/audio.mp3" length="4992897" type="audio/mpeg"/>
+      <itunes:duration>5:12</itunes:duration>
+    </item>
+  </channel>
+</rss>
