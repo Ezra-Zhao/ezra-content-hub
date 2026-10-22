@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 14:36:27 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:50:25 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。</itunes:summary>
     <itunes:owner>
@@ -16,6 +16,14 @@
     </itunes:owner>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美股盘后小结 10月15日：盘中深跌反转收涨+台积电财报超预期</title>
+      <description>美股盘后小结 10月15日：盘中深跌反转收涨+台积电财报超预期</description>
+      <pubDate>Thu, 15 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-15/audio.mp3" length="1169325" type="audio/mpeg"/>
+      <itunes:duration>1:13</itunes:duration>
+    </item>
     <item>
       <title>美股盘后小结 10月14日：九月通胀超预期+三大指数收跌</title>
       <description>美股盘后小结 10月14日：九月通胀超预期+三大指数收跌</description>

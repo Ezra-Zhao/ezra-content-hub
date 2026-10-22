@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 14:36:27 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:50:25 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。</itunes:summary>
     <itunes:owner>
@@ -16,6 +16,14 @@
     </itunes:owner>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报｜10月22日：智能体不等你开口了</title>
+      <description>本期：Anthropic 推出会主动干活的 Claude Duet（研究预览面向美国 Pro/Max 用户，多家媒体报道）；拼的不是谁更主动，而是谁的主动不添乱。</description>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-22/audio.mp3" length="899466" type="audio/mpeg"/>
+      <itunes:duration>1:52</itunes:duration>
+    </item>
     <item>
       <title>硅谷科技日报·晚间版｜10月20日：谷歌联手Meta，PyTorch原生搬上TPU · 晚版</title>
       <description>出处：</description>
