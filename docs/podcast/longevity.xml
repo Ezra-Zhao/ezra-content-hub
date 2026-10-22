@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 14:36:27 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:12:09 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。</itunes:summary>
     <itunes:owner>
@@ -17,12 +17,44 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>长寿前沿日报｜10月22日：不开胸修三尖瓣，FDA批了新器械</title>
+      <description>本期：FDA 批准 PASCAL Precision 系统经导管修复重度三尖瓣反流，适用于用药后仍有症状、开胸风险中等或更高的患者（Edwards 企业公告）。</description>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-22/audio.mp3" length="964249" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报·晚间版｜10月21日：罕见肾病药获加速批准，尿蛋白降43.4%</title>
+      <description>本期：FDA 加速批准 Ultomiris 用于成年 IgA 肾病，为该病首个获批的 C5 抑制剂（阿斯利康企业宣布）。</description>
+      <pubDate>Wed, 21 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-21-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-21-pm/audio.mp3" length="747955" type="audio/mpeg"/>
+      <itunes:duration>1:33</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报｜10月21日：罕见病预防药有了不用吞的颗粒剂</title>
+      <description>本期：FDA 批准奥拉迪约（berotralstat）150 毫克颗粒剂补充新药申请，用于 12 岁及以上遗传性血管性水肿患者预防发作（BioCryst 企业公告）。</description>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-21/audio.mp3" length="991835" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
+    <item>
       <title>长寿前沿日报·晚间版｜10月20日：乙肝新药获批，近五分之一停药后仍达标 · 晚版</title>
       <description>本期：FDA 10月20日批准Hibsago（bepirovirsen）用于特定成年慢性乙肝患者（B-Well三期汇总19%功能性治愈对安慰剂0，数据来自企业发布）；日间主打后续——多塔利单抗研究者评估口径68%与独立评审47%口径不同、不</description>
       <pubDate>Tue, 20 Oct 2026 21:00:00 -0700</pubDate>
       <guid isPermaLink="false">longevity-2026-10-20-pm</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-20-pm/audio.mp3" length="850982" type="audio/mpeg"/>
       <itunes:duration>1:46</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报｜10月20日：FDA加速批准直肠癌药多塔利单抗</title>
+      <description>本期：FDA 10月19日加速批准多塔利单抗用于 MSI-H/dMMR 局部晚期直肠癌成人患者（企业与 FDA 公告口径）。</description>
+      <pubDate>Tue, 20 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-20/audio.mp3" length="1030705" type="audio/mpeg"/>
+      <itunes:duration>2:09</itunes:duration>
     </item>
     <item>
       <title>长寿前沿日报｜10月19日：百岁老人的子女死亡风险低42%</title>
