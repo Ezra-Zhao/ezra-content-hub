@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 22:42:31 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:08:58 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,86 @@
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 申命记31:8：祂必不撇下你</title>
+      <description>申命记31:8：祂必不撇下你——申命记 31:8 的话陪你走今天这一步，讲解与祷告均为原创。 经文：申命记 31:8（和合本）</description>
+      <pubDate>Fri, 30 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-30/audio.mp3" length="1834029" type="audio/mpeg"/>
+      <itunes:duration>1:55</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 马太福音6:33：先求祂的国和祂的义</title>
+      <description>马太福音6:33：先求祂的国和祂的义——马太福音 6:33 的话陪你走今天这一步，讲解与祷告均为原创。 经文：马太福音 6:33（和合本）</description>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-30/audio.mp3" length="2029869" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 西番雅书3:17：祂默然爱你</title>
+      <description>西番雅书3:17：祂默然爱你——西番雅书 3:17 的话陪你走今天这一步，讲解与祷告均为原创。 经文：西番雅书 3:17（和合本）</description>
+      <pubDate>Thu, 29 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-29</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-29/audio.mp3" length="1969581" type="audio/mpeg"/>
+      <itunes:duration>2:03</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 诗篇23:1：耶和华是我的牧者</title>
+      <description>诗篇23:1：耶和华是我的牧者——诗篇 23:1 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 23:1（和合本）</description>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-29</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-29/audio.mp3" length="2061741" type="audio/mpeg"/>
+      <itunes:duration>2:09</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 诗篇23:6：恩惠慈爱随着我</title>
+      <description>诗篇23:6：恩惠慈爱随着我——诗篇 23:6 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 23:6（和合本）</description>
+      <pubDate>Wed, 28 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-28/audio.mp3" length="1808301" type="audio/mpeg"/>
+      <itunes:duration>1:53</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 罗马书8:28：万事都互相效力</title>
+      <description>罗马书8:28：万事都互相效力——罗马书 8:28 的话陪你走今天这一步，讲解与祷告均为原创。 经文：罗马书 8:28（和合本）</description>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-28/audio.mp3" length="1807149" type="audio/mpeg"/>
+      <itunes:duration>1:53</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 以赛亚书26:3：十分平安</title>
+      <description>以赛亚书26:3：十分平安——以赛亚书 26:3 的话陪你走今天这一步，讲解与祷告均为原创。 经文：以赛亚书 26:3（和合本）</description>
+      <pubDate>Tue, 27 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-27/audio.mp3" length="1891629" type="audio/mpeg"/>
+      <itunes:duration>1:58</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 耶利米书29:11：祂的意念是赐平安的意念</title>
+      <description>耶利米书29:11：祂的意念是赐平安的意念——耶利米书 29:11 的话陪你走今天这一步，讲解与祷告均为原创。 经文：耶利米书 29:11（和合本）</description>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-27/audio.mp3" length="1854381" type="audio/mpeg"/>
+      <itunes:duration>1:56</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 民数记6:24-26：愿耶和华赐福你</title>
+      <description>民数记6:24-26：愿耶和华赐福你——民数记 6:24-26 的话陪你走今天这一步，讲解与祷告均为原创。 经文：民数记 6:24-26（和合本）</description>
+      <pubDate>Mon, 26 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-26/audio.mp3" length="1881261" type="audio/mpeg"/>
+      <itunes:duration>1:58</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 诗篇121:1-2：我的帮助从祂而来</title>
+      <description>诗篇121:1-2：我的帮助从祂而来——诗篇 121:1-2 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 121:1-2（和合本）</description>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-26/audio.mp3" length="1888941" type="audio/mpeg"/>
+      <itunes:duration>1:58</itunes:duration>
+    </item>
     <item>
       <title>[PM] 将一切的忧虑卸给神</title>
       <description>卸包袱式的交托：因为祂顾念我们，忧虑一件一件说给祂听、真的放下，换一双更稳的手接着。 经文：彼得前书 5:7（和合本）</description>
