@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 15:50:25 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:16:43 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。</itunes:summary>
     <itunes:owner>
@@ -16,6 +16,30 @@
     </itunes:owner>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美股盘后小结 10月20日：道指涨逾百分之一+雷神技术大超预期</title>
+      <description>美股盘后小结 10月20日：道指涨逾百分之一+雷神技术大超预期</description>
+      <pubDate>Tue, 20 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-20/audio.mp3" length="1172013" type="audio/mpeg"/>
+      <itunes:duration>1:13</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月19日：科技反弹+钢铁股财报大超预期</title>
+      <description>美股盘后小结 10月19日：科技反弹+钢铁股财报大超预期</description>
+      <pubDate>Mon, 19 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-19/audio.mp3" length="1161645" type="audio/mpeg"/>
+      <itunes:duration>1:13</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月16日：芯片连跌第九天+旅行者保险大超预期</title>
+      <description>美股盘后小结 10月16日：芯片连跌第九天+旅行者保险大超预期</description>
+      <pubDate>Fri, 16 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-16/audio.mp3" length="1150893" type="audio/mpeg"/>
+      <itunes:duration>1:12</itunes:duration>
+    </item>
     <item>
       <title>美股盘后小结 10月15日：盘中深跌反转收涨+台积电财报超预期</title>
       <description>美股盘后小结 10月15日：盘中深跌反转收涨+台积电财报超预期</description>
