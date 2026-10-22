@@ -27,6 +27,11 @@ SERIES_META = {
         "desc": "Guangyi Zhao 的讲道文稿：原文解经、逐字稿全文。已公开发布的篇目陆续归入本系列。",
         "category": "信仰",
     },
+    "flash": {
+        "name": "每日速报",
+        "desc": "《代码与诗篇》速报：财经、科技、安全与应急的当日要点，数字逐项标注来源与证据等级。",
+        "category": "时效",
+    },
 }
 
 PAGE_CSS = """
@@ -108,6 +113,11 @@ def md_to_html(md):
         if line.strip().startswith(">"):
             flush_para(); flush_list()
             out.append("<blockquote>" + inline(line.strip().lstrip(">").strip()) + "</blockquote>")
+            continue
+        m = re.match(r"^!\[([^\]]*)\]\(([^)]+)\)\s*$", line.strip())
+        if m:
+            flush_para(); flush_list()
+            out.append("<p><img src=\"" + html.escape(m.group(2), quote=True) + "\" alt=\"" + html.escape(m.group(1), quote=True) + "\" style=\"max-width:100%;border-radius:10px\"></p>")
             continue
         m = re.match(r"^\s*[-*]\s+(.*)$", line)
         if m:

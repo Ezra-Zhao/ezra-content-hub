@@ -1470,6 +1470,39 @@
  ],
  "articles": [
   {
+   "id": "flash",
+   "name": "每日速报",
+   "desc": "《代码与诗篇》速报：财经、科技、安全与应急的当日要点，数字逐项标注来源与证据等级。",
+   "category": "时效",
+   "count": 3,
+   "items": [
+    {
+     "date": "2026-10-22",
+     "title": "财报全过关，盘前照样跌",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-10-22-earnings-premarket.md",
+     "page": "articles/flash/2026-10-22-earnings-premarket.html"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "防洪准备周周六收尾，湾区先把三件事做了",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-10-22-flood-prep.md",
+     "page": "articles/flash/2026-10-22-flood-prep.html"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "七成网站用的语言，爆了两个 9.2 分的洞",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-10-22-php2shell.md",
+     "page": "articles/flash/2026-10-22-php2shell.html"
+    }
+   ]
+  },
+  {
    "id": "sermons",
    "name": "讲道集",
    "desc": "Guangyi Zhao 的讲道文稿：原文解经、逐字稿全文。已公开发布的篇目陆续归入本系列。",
