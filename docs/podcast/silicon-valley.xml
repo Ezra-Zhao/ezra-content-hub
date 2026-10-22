@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 15:50:25 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:10:52 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。</itunes:summary>
     <itunes:owner>
@@ -23,6 +23,14 @@
       <guid isPermaLink="false">silicon-valley-2026-10-22</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-22/audio.mp3" length="899466" type="audio/mpeg"/>
       <itunes:duration>1:52</itunes:duration>
+    </item>
+    <item>
+      <title>硅谷科技日报·晚间版｜10月21日：OpenAI的模型和Codex要上谷歌云了</title>
+      <description>本期：OpenAI 模型与 Codex 要上谷歌云（媒体报道口径）；安全快讯：PHP 两个藏了十多年的漏洞被 AI 辅助挖出（CVE-2026-109618/109619，严重度 9.2），修复版只覆盖 8.2 以上分支。</description>
+      <pubDate>Wed, 21 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-21-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-21-pm/audio.mp3" length="747329" type="audio/mpeg"/>
+      <itunes:duration>1:33</itunes:duration>
     </item>
     <item>
       <title>硅谷科技日报·晚间版｜10月20日：谷歌联手Meta，PyTorch原生搬上TPU · 晚版</title>
@@ -47,6 +55,14 @@
       <guid isPermaLink="false">silicon-valley-2026-10-19-pm</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-19-pm/audio.mp3" length="830502" type="audio/mpeg"/>
       <itunes:duration>1:44</itunes:duration>
+    </item>
+    <item>
+      <title>硅谷科技日报｜10月19日：甲骨文拟发380亿美元贷款支持数据中心</title>
+      <description>本期：甲骨文拟发 380 亿美元贷款支持数据中心建设（媒体报道口径）；新工具 git-ai 把版本控制搬上服务器供上百个编程智能体同分支提交（口播作「吉特艾」，画面保留原名）。</description>
+      <pubDate>Mon, 19 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-19/audio.mp3" length="971146" type="audio/mpeg"/>
+      <itunes:duration>2:01</itunes:duration>
     </item>
     <item>
       <title>出处：</title>
