@@ -74,6 +74,7 @@
         var lp = [];
         if(p.listen.pocketcasts){ lp.push('<a href="' + esc(p.listen.pocketcasts) + '">Pocket Casts</a>'); }
         if(p.listen.castbox){ lp.push('<a href="' + esc(p.listen.castbox) + '">Castbox</a>'); }
+        if(p.listen.spotify){ lp.push('<a href="' + esc(p.listen.spotify) + '">Spotify</a>'); }
         if(lp.length){ html += '<p class="listen">在播客平台收听：' + lp.join(' · ') + '</p>'; }
       }
       if(p.related && p.related.length){
