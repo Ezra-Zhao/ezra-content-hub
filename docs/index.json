@@ -1756,6 +1756,55 @@
    ]
   },
   {
+   "id": "novel",
+   "name": "小说连载",
+   "desc": "见证文学连载《低谷里有人陪你走》：苦难与挣扎中的真实记录，化名文学化改写，每章一个完整小故事。版权所有，非独家首发于本枢纽。",
+   "category": "信仰",
+   "count": 5,
+   "items": [
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第1章 太阳雪那年",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch01-solar-snow.md",
+     "page": "articles/novel/2026-10-25-novel-ch01-solar-snow.html"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第2章 不署名的人",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch02-unsigned.md",
+     "page": "articles/novel/2026-10-25-novel-ch02-unsigned.html"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第3章 最难的那一年",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch03-hardest-year.md",
+     "page": "articles/novel/2026-10-25-novel-ch03-hardest-year.html"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第4章 账要算得干净",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch04-clean-books.md",
+     "page": "articles/novel/2026-10-25-novel-ch04-clean-books.html"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第5章 十五年的饭桌",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch05-dinner-table.md",
+     "page": "articles/novel/2026-10-25-novel-ch05-dinner-table.html"
+    }
+   ]
+  },
+  {
    "id": "sermons",
    "name": "讲道集",
    "desc": "Guangyi Zhao 的讲道文稿：原文解经、逐字稿全文。已公开发布的篇目陆续归入本系列。",
