@@ -29,6 +29,13 @@
   .art:first-of-type{border-top:none}
   .art .meta{color:var(--sub);font-size:12px}
   .art a{font-size:16px}
+  .listen{font-size:13px;color:var(--sub);margin:2px 0 8px}
+  .listen a{white-space:nowrap}
+  .rel{font-size:12px;color:var(--sub);margin:0 0 10px;line-height:2}
+  .rel a{display:inline-block;background:var(--card2);border:1px solid var(--line);border-radius:20px;padding:1px 10px;margin:2px 4px 2px 0;text-decoration:none;font-size:12px}
+  .hop h2{font-size:18px}
+  .hop p{font-size:14px;margin-top:6px;color:var(--ink)}
+  .hop .soon{color:var(--sub)}
   footer{max-width:760px;margin:0 auto;padding:0 18px 30px;color:var(--sub);font-size:12px;text-align:center}
   a{color:var(--acc)}
 </style>
@@ -39,6 +46,13 @@
   <p>Guangyi Zhao 的全部音频、视频与文字，都集中在这里。早晚双版：新闻 · 股市 · 长寿前沿 · 硅谷科技 · 移民政策 · 湾区福利，加上每日灵修、讲道《瓦器分享》与讲书《小憩片刻》。点开任意一集即可收听。</p>
 </header>
 <main id="app"><p style="color:#9fb0c9;padding:20px 4px">正在加载目录…</p></main>
+<main>
+  <section class="hop">
+    <h2>视频版与订阅</h2>
+    <p>长视频系列在 YouTube 频道 <a href="https://www.youtube.com/@ezra-zhao">Ezra-Zhao</a> 发布；每日时效节目在 YouTube 日更频道 Ezra Daily（@EzraDaily777）。</p>
+    <p class="soon">Newsletter《代码与诗篇》订阅入口即将开通，全部新内容将同步通过刊物发送。</p>
+  </section>
+</main>
 <footer>
   <p>本页是中央档案的展示入口；全部内容同时存档于 GitHub 仓库，发布顺序为 GitHub → X → 其他平台。</p>
   <p>© 2026 Guangyi Zhao 文稿与音频版权所有。</p>
@@ -51,9 +65,22 @@
   function esc(s){return (s||'').replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
   fetch('index.json').then(function(r){return r.json()}).then(function(data){
     var html = '';
+    var byId = {};
+    data.programs.forEach(function(p){ byId[p.id] = p.name; });
     data.programs.forEach(function(p){
-      html += '<section><h2>' + esc(p.name) + ' <span class="tag">' + esc(p.slot) + '</span></h2>';
+      html += '<section id="prog-' + esc(p.id) + '"><h2>' + esc(p.name) + ' <span class="tag">' + esc(p.slot) + '</span></h2>';
       html += '<p class="desc">' + esc(p.desc) + '</p>';
+      if(p.listen){
+        var lp = [];
+        if(p.listen.pocketcasts){ lp.push('<a href="' + esc(p.listen.pocketcasts) + '">Pocket Casts</a>'); }
+        if(p.listen.castbox){ lp.push('<a href="' + esc(p.listen.castbox) + '">Castbox</a>'); }
+        if(lp.length){ html += '<p class="listen">在播客平台收听：' + lp.join(' · ') + '</p>'; }
+      }
+      if(p.related && p.related.length){
+        var chips = [];
+        p.related.forEach(function(rid){ if(byId[rid]){ chips.push('<a href="#prog-' + esc(rid) + '">' + esc(byId[rid]) + '</a>'); } });
+        if(chips.length){ html += '<p class="rel">相关节目：' + chips.join('') + '</p>'; }
+      }
       if(!p.episodes || !p.episodes.length){ html += '<p class="empty">即将上线，敬请期待。</p>'; }
       (p.episodes||[]).forEach(function(e){
         html += '<div class="ep"><div class="meta">' + esc(e.date) + ' · ' + esc(e.scripture||'') + ' · ' + esc(e.duration||'') + '</div>';

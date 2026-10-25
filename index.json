@@ -187,7 +187,18 @@
      }
     }
    ],
-   "count": 11
+   "count": 11,
+   "listen": {
+    "pocketcasts": "https://pca.st/crscel1a",
+    "castbox": "https://castbox.fm/channel/id7461795"
+   },
+   "related": [
+    "devotion-pm",
+    "devotion-am-en",
+    "devotion-am-es",
+    "devotion-am-vi",
+    "devotion-am-hi"
+   ]
   },
   {
    "id": "devotion-am-en",
@@ -309,7 +320,18 @@
      }
     }
    ],
-   "count": 7
+   "count": 7,
+   "listen": {
+    "pocketcasts": "https://pca.st/o3rbpr1h",
+    "castbox": "https://castbox.fm/channel/id7462672"
+   },
+   "related": [
+    "devotion-pm-en",
+    "devotion-am",
+    "devotion-am-es",
+    "devotion-am-vi",
+    "devotion-am-hi"
+   ]
   },
   {
    "id": "devotion-am-es",
@@ -431,7 +453,18 @@
      }
     }
    ],
-   "count": 7
+   "count": 7,
+   "listen": {
+    "pocketcasts": "https://pca.st/gzym30x7",
+    "castbox": "https://castbox.fm/channel/id7462674"
+   },
+   "related": [
+    "devotion-pm-es",
+    "devotion-am",
+    "devotion-am-en",
+    "devotion-am-vi",
+    "devotion-am-hi"
+   ]
   },
   {
    "id": "devotion-am-vi",
@@ -457,7 +490,18 @@
      }
     }
    ],
-   "count": 1
+   "count": 1,
+   "listen": {
+    "pocketcasts": "https://pca.st/qpyup9sh",
+    "castbox": "https://castbox.fm/channel/id7462675"
+   },
+   "related": [
+    "devotion-pm-vi",
+    "devotion-am",
+    "devotion-am-en",
+    "devotion-am-es",
+    "devotion-am-hi"
+   ]
   },
   {
    "id": "devotion-am-hi",
@@ -483,7 +527,18 @@
      }
     }
    ],
-   "count": 1
+   "count": 1,
+   "listen": {
+    "pocketcasts": "https://pca.st/ffgflhzn",
+    "castbox": "https://castbox.fm/channel/id7462676"
+   },
+   "related": [
+    "devotion-pm-hi",
+    "devotion-am",
+    "devotion-am-en",
+    "devotion-am-es",
+    "devotion-am-vi"
+   ]
   },
   {
    "id": "devotion-pm",
@@ -653,7 +708,18 @@
      }
     }
    ],
-   "count": 10
+   "count": 10,
+   "listen": {
+    "pocketcasts": "https://pca.st/crscel1a",
+    "castbox": "https://castbox.fm/channel/id7461795"
+   },
+   "related": [
+    "devotion-am",
+    "devotion-pm-en",
+    "devotion-pm-es",
+    "devotion-pm-vi",
+    "devotion-pm-hi"
+   ]
   },
   {
    "id": "devotion-pm-en",
@@ -775,7 +841,18 @@
      }
     }
    ],
-   "count": 7
+   "count": 7,
+   "listen": {
+    "pocketcasts": "https://pca.st/o3rbpr1h",
+    "castbox": "https://castbox.fm/channel/id7462672"
+   },
+   "related": [
+    "devotion-am-en",
+    "devotion-pm",
+    "devotion-pm-es",
+    "devotion-pm-vi",
+    "devotion-pm-hi"
+   ]
   },
   {
    "id": "devotion-pm-es",
@@ -897,7 +974,18 @@
      }
     }
    ],
-   "count": 7
+   "count": 7,
+   "listen": {
+    "pocketcasts": "https://pca.st/gzym30x7",
+    "castbox": "https://castbox.fm/channel/id7462674"
+   },
+   "related": [
+    "devotion-am-es",
+    "devotion-pm",
+    "devotion-pm-en",
+    "devotion-pm-vi",
+    "devotion-pm-hi"
+   ]
   },
   {
    "id": "devotion-pm-vi",
@@ -923,7 +1011,18 @@
      }
     }
    ],
-   "count": 1
+   "count": 1,
+   "listen": {
+    "pocketcasts": "https://pca.st/qpyup9sh",
+    "castbox": "https://castbox.fm/channel/id7462675"
+   },
+   "related": [
+    "devotion-am-vi",
+    "devotion-pm",
+    "devotion-pm-en",
+    "devotion-pm-es",
+    "devotion-pm-hi"
+   ]
   },
   {
    "id": "devotion-pm-hi",
@@ -949,7 +1048,18 @@
      }
     }
    ],
-   "count": 1
+   "count": 1,
+   "listen": {
+    "pocketcasts": "https://pca.st/ffgflhzn",
+    "castbox": "https://castbox.fm/channel/id7462676"
+   },
+   "related": [
+    "devotion-am-hi",
+    "devotion-pm",
+    "devotion-pm-en",
+    "devotion-pm-es",
+    "devotion-pm-vi"
+   ]
   },
   {
    "id": "sermons",
@@ -991,7 +1101,16 @@
      }
     }
    ],
-   "count": 2
+   "count": 2,
+   "listen": {
+    "pocketcasts": "https://pca.st/80mejg80",
+    "castbox": "https://castbox.fm/channel/id7462659"
+   },
+   "related": [
+    "devotion-am",
+    "devotion-pm",
+    "book-talk"
+   ]
   },
   {
    "id": "book-talk",
@@ -1000,7 +1119,11 @@
    "desc": "讲书节目：五大领域轮值选书，十几分钟讲清一本书的主线与取舍。",
    "category": "读书",
    "episodes": [],
-   "count": 0
+   "count": 0,
+   "related": [
+    "sermons",
+    "devotion-am"
+   ]
   },
   {
    "id": "news-am",
@@ -1009,7 +1132,16 @@
    "desc": "早间新闻播报（筹备中）。",
    "category": "时效",
    "episodes": [],
-   "count": 0
+   "count": 0,
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
   },
   {
    "id": "news-pm",
@@ -1018,7 +1150,16 @@
    "desc": "晚间新闻播报（筹备中）。",
    "category": "时效",
    "episodes": [],
-   "count": 0
+   "count": 0,
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
   },
   {
    "id": "stocks-am",
@@ -1027,7 +1168,16 @@
    "desc": "早间股市播报（筹备中）。",
    "category": "财经",
    "episodes": [],
-   "count": 0
+   "count": 0,
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
   },
   {
    "id": "stocks-pm",
@@ -1133,7 +1283,19 @@
      }
     }
    ],
-   "count": 6
+   "count": 6,
+   "listen": {
+    "pocketcasts": "https://pca.st/hjlsxiw2",
+    "castbox": "https://castbox.fm/channel/id7461849"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits"
+   ]
   },
   {
    "id": "fred-am",
@@ -1175,7 +1337,19 @@
      }
     }
    ],
-   "count": 2
+   "count": 2,
+   "listen": {
+    "pocketcasts": "https://pca.st/6f0xci2e",
+    "castbox": "https://castbox.fm/channel/id7461832"
+   },
+   "related": [
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
   },
   {
    "id": "fred-pm",
@@ -1233,7 +1407,19 @@
      }
     }
    ],
-   "count": 3
+   "count": 3,
+   "listen": {
+    "pocketcasts": "https://pca.st/6f0xci2e",
+    "castbox": "https://castbox.fm/channel/id7461832"
+   },
+   "related": [
+    "fred-am",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
   },
   {
    "id": "longevity",
@@ -1291,7 +1477,19 @@
      }
     }
    ],
-   "count": 3
+   "count": 3,
+   "listen": {
+    "pocketcasts": "https://pca.st/6j7eccp9",
+    "castbox": "https://castbox.fm/channel/id7461840"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
   },
   {
    "id": "silicon-valley",
@@ -1365,7 +1563,19 @@
      }
     }
    ],
-   "count": 4
+   "count": 4,
+   "listen": {
+    "pocketcasts": "https://pca.st/x7267sh2",
+    "castbox": "https://castbox.fm/channel/id7461835"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
   },
   {
    "id": "immigration",
@@ -1423,7 +1633,19 @@
      }
     }
    ],
-   "count": 3
+   "count": 3,
+   "listen": {
+    "pocketcasts": "https://pca.st/8vhld1p4",
+    "castbox": "https://castbox.fm/channel/id7461844"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
   },
   {
    "id": "bay-area-benefits",
@@ -1465,7 +1687,19 @@
      }
     }
    ],
-   "count": 2
+   "count": 2,
+   "listen": {
+    "pocketcasts": "https://pca.st/h33fzfrw",
+    "castbox": "https://castbox.fm/channel/id7461845"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "stocks-pm"
+   ]
   }
  ],
  "articles": [
