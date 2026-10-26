@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>upload probe</title></head>
+<body>
+<h1>Upload tool probe (mimics DistroKid file-input pattern)</h1>
+<div>
+  <label>Cover art:</label>
+  <input type="file" id="probe-cover" accept="image/*" onchange="window.__probeCoverFired=true;document.getElementById('cover-status').textContent='COVER HANDLER FIRED';">
+  <span id="cover-status">cover: waiting</span>
+</div>
+<div>
+  <label>Audio:</label>
+  <input type="file" id="probe-audio" accept="audio/*" onchange="window.__probeAudioFired=true;document.getElementById('audio-status').textContent='AUDIO HANDLER FIRED';">
+  <span id="audio-status">audio: waiting</span>
+</div>
+</body></html>
