@@ -30,8 +30,15 @@ def parse_episode(series, date, hour):
     desc = " ".join(desc_parts) or title
     pub = datetime.strptime(date, "%Y-%m-%d").replace(hour=hour, tzinfo=PDT)
     url = RAW + "/content/" + series + "/" + date + "/audio.mp3"
+    # B2 (2026-10-26 Ezra approved): scene suffix on episode titles,
+    # new episodes only (date >= 2026-10-31); back catalogue unchanged.
+    suffix = ""
+    if date >= "2026-10-31":
+        suffix = "｜晨起读经" if prog == "AM" else "｜睡前灵修"
+        if title.endswith(suffix):
+            suffix = ""
     return {
-        "title": "[" + prog + "] " + title,
+        "title": "[" + prog + "] " + title + suffix,
         "desc": desc,
         "pub": pub,
         "url": url,
@@ -71,7 +78,7 @@ feed = (
     "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
     "<rss version=\"2.0\" xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\n"
     "  <channel>\n"
-    "    <title>每日灵修</title>\n"
+    "    <title>每日灵修｜2分钟读经与祷告</title>\n"
     "    <link>" + PAGES + "/</link>\n"
     "    <atom:link href=\"" + PAGES + "/podcast/devotion.xml\" rel=\"self\" type=\"application/rss+xml\"/>\n"
     "    <language>zh-cn</language>\n"

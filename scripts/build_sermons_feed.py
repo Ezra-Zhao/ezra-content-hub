@@ -19,7 +19,7 @@ RAW = "https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main"
 PAGES = "https://ezra-zhao.github.io/ezra-content-hub"
 PDT = timezone(timedelta(hours=-7))
 
-TITLE = "瓦器分享"
+TITLE = "瓦器分享｜圣经讲解与讲道"
 DESC = ("瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，"
         "把宝贝放在瓦器里，显明莫大的能力是出于神。"
         "关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "

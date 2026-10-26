@@ -21,7 +21,7 @@ PDT = timezone(timedelta(hours=-7))
 #               [(series, hour), ...])
 FEEDS = {
     "fred.xml": (
-        "美国百指日报",
+        "美国百指日报｜FRED经济指标与宏观速报",
         "每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。"
         "关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
         "同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。",
@@ -30,7 +30,7 @@ FEEDS = {
         [("fred-am", 7), ("fred-pm", 21)],
     ),
     "silicon-valley.xml": (
-        "硅谷科技日报",
+        "硅谷科技日报｜AI与科技产业速报",
         "硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。"
         "关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
         "同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。",
@@ -39,7 +39,7 @@ FEEDS = {
         [("silicon-valley", 18)],
     ),
     "longevity.xml": (
-        "长寿前沿日报",
+        "长寿前沿日报｜抗衰老与健康科学",
         "每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。"
         "关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
         "同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。",
@@ -48,7 +48,7 @@ FEEDS = {
         [("longevity", 18)],
     ),
     "immigration.xml": (
-        "移民政策速报",
+        "移民政策速报｜美国移民与签证解读",
         "美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。"
         "关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
         "同组节目：湾区福利速报、美国百指日报等每日速报也在本枢纽更新。",
@@ -57,7 +57,7 @@ FEEDS = {
         [("immigration", 18)],
     ),
     "bay-area-benefits.xml": (
-        "湾区福利速报",
+        "湾区福利速报｜补助与生活资讯",
         "湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。"
         "关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
         "同组节目：移民政策速报、硅谷科技日报等每日速报也在本枢纽更新。",
@@ -66,7 +66,7 @@ FEEDS = {
         [("bay-area-benefits", 18)],
     ),
     "stocks-pm.xml": (
-        "美股盘后小结",
+        "美股盘后小结｜三大指数与板块复盘",
         "每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。"
         "关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
         "同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。",
@@ -88,6 +88,14 @@ def parse_episode(series, dir_name, hour):
     theme = re.search(r"##\s*一句话主题\s*\n+(.+)", text)
     dur = re.search(r"时长：([0-9:]+)", text)
     date = dir_name[:10]
+    # B2 (2026-10-26 Ezra approved): news episode titles carry the date;
+    # template enforces it for new episodes only (date >= 2026-10-27),
+    # back catalogue unchanged. Theme words stay in title/description
+    # as produced upstream.
+    if date >= "2026-10-27":
+        dstr = str(int(date[5:7])) + "月" + str(int(date[8:10])) + "日"
+        if dstr not in title:
+            title = title + "｜" + dstr
     if dir_name.endswith("-pm"):
         hour = 21
     pub = datetime.strptime(date, "%Y-%m-%d").replace(hour=hour, tzinfo=PDT)
