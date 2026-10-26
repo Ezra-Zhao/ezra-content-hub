@@ -5,11 +5,12 @@
     <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
     <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-hi.xml" rel="self" type="application/rss+xml"/>
     <language>hi</language>
-    <description>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao।</description>
+    <description>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 07:50:46 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:41:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
-    <itunes:summary>दैनिक भक्ति: दिन के पवित्रशास्त्र पर मनन और प्रार्थना, सुबह और रात के संस्करण।</itunes:summary>
+    <itunes:summary>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</itunes:summary>
+    <itunes:keywords>दैनिक भक्ति,बाइबल पाठ,प्रार्थना,पवित्रशास्त्र,सुबह की भक्ति,रात की भक्ति,मसीही विश्वास,मनन</itunes:keywords>
     <itunes:owner>
       <itunes:name>Guangyi Zhao</itunes:name>
       <itunes:email>ezra777.zhao@gmail.com</itunes:email>
@@ -18,6 +19,7 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <title>[PM] तेरा रक्षक कभी न ऊंघेगा</title>

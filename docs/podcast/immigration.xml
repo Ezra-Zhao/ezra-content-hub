@@ -5,16 +5,20 @@
     <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
     <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/immigration.xml" rel="self" type="application/rss+xml"/>
     <language>zh-cn</language>
-    <description>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。</description>
+    <description>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：湾区福利速报、美国百指日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 16:19:12 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:40:47 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
-    <itunes:summary>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。</itunes:summary>
+    <itunes:summary>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：湾区福利速报、美国百指日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
       <itunes:name>Guangyi Zhao</itunes:name>
       <itunes:email>ezra777.zhao@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="News"/>
+    <itunes:keywords>美国移民,移民政策,签证,绿卡,法规解读</itunes:keywords>
+    <itunes:category text="News">
+      <itunes:category text="Politics"/>
+    </itunes:category>
+    <itunes:category text="Government"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <title>本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。</title>

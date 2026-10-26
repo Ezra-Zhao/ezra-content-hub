@@ -5,16 +5,20 @@
     <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
     <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/stocks-pm.xml" rel="self" type="application/rss+xml"/>
     <language>zh-cn</language>
-    <description>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。</description>
+    <description>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 16:19:12 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:40:47 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
-    <itunes:summary>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。</itunes:summary>
+    <itunes:summary>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
       <itunes:name>Guangyi Zhao</itunes:name>
       <itunes:email>ezra777.zhao@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Business"/>
+    <itunes:keywords>美股,盘后总结,三大指数,板块轮动,个股</itunes:keywords>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <title>美股盘后小结 10月21日：三大指数全线收涨+超微电脑预告大超指引</title>

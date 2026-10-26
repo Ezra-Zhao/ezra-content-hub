@@ -21,7 +21,10 @@ PDT = timezone(timedelta(hours=-7))
 
 TITLE = "瓦器分享"
 DESC = ("瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，"
-        "把宝贝放在瓦器里，显明莫大的能力是出于神。")
+        "把宝贝放在瓦器里，显明莫大的能力是出于神。"
+        "关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "同组节目：《每日灵修》早晚双版也在本枢纽更新。")
+KEYWORDS = "讲道,解经,圣经讲解,查经,基督教,信仰生活"
 FNAME = "waqi.xml"
 
 
@@ -94,6 +97,7 @@ def main():
         "    <lastBuildDate>" + now + "</lastBuildDate>\n"
         "    <itunes:author>Guangyi Zhao</itunes:author>\n"
         "    <itunes:summary>" + html.escape(DESC) + "</itunes:summary>\n"
+        "    <itunes:keywords>" + KEYWORDS + "</itunes:keywords>\n"
         "    <itunes:owner>\n"
         "      <itunes:name>Guangyi Zhao</itunes:name>\n"
         "      <itunes:email>ezra777.zhao@gmail.com</itunes:email>\n"
@@ -102,6 +106,7 @@ def main():
         "    <itunes:category text=\"Religion &amp; Spirituality\">\n"
         "      <itunes:category text=\"Christianity\"/>\n"
         "    </itunes:category>\n"
+        "    <itunes:category text=\"Society &amp; Culture\"/>\n"
         "    <itunes:explicit>false</itunes:explicit>\n"
         + "\n".join(items) + "\n"
         "  </channel>\n"

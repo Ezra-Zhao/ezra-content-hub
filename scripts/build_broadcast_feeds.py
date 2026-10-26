@@ -16,46 +16,65 @@ RAW = "https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main"
 PAGES = "https://ezra-zhao.github.io/ezra-content-hub"
 PDT = timezone(timedelta(hours=-7))
 
-# feed file -> (title, description, itunes category, [(series, hour), ...])
+# feed file -> (title, description, keywords,
+#               [(category, subcategory or None), ...] (first = primary),
+#               [(series, hour), ...])
 FEEDS = {
     "fred.xml": (
         "美国百指日报",
-        "每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。",
-        "Business",
+        "每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。"
+        "关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。",
+        "美国经济,经济指标,FRED,美联储,宏观经济,AI,生物科技",
+        [("Business", "Investing"), ("News", None)],
         [("fred-am", 7), ("fred-pm", 21)],
     ),
     "silicon-valley.xml": (
         "硅谷科技日报",
-        "硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。",
-        "Technology",
+        "硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。"
+        "关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。",
+        "硅谷,科技新闻,人工智能,AI,科技公司,产业动态",
+        [("Technology", None), ("News", "Tech News")],
         [("silicon-valley", 18)],
     ),
     "longevity.xml": (
         "长寿前沿日报",
-        "每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。",
-        "Health &amp; Fitness",
+        "每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。"
+        "关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。",
+        "长寿,健康,抗衰老,前沿研究,论文解读",
+        [("Health & Fitness", None), ("Science", None)],
         [("longevity", 18)],
     ),
     "immigration.xml": (
         "移民政策速报",
-        "美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。",
-        "News",
+        "美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。"
+        "关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "同组节目：湾区福利速报、美国百指日报等每日速报也在本枢纽更新。",
+        "美国移民,移民政策,签证,绿卡,法规解读",
+        [("News", "Politics"), ("Government", None)],
         [("immigration", 18)],
     ),
     "bay-area-benefits.xml": (
         "湾区福利速报",
-        "湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。",
-        "News",
+        "湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。"
+        "关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "同组节目：移民政策速报、硅谷科技日报等每日速报也在本枢纽更新。",
+        "湾区,福利,补助,生活资讯,华人社区",
+        [("News", None), ("Society & Culture", None)],
         [("bay-area-benefits", 18)],
     ),
     "stocks-pm.xml": (
         "美股盘后小结",
-        "每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。",
-        "Business",
+        "每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。"
+        "关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。",
+        "美股,盘后总结,三大指数,板块轮动,个股",
+        [("Business", "Investing"), ("News", None)],
         [("stocks-pm", 22)],
     ),
 }
-
 
 def parse_episode(series, dir_name, hour):
     d = os.path.join(ROOT, "content", series, dir_name)
@@ -83,7 +102,7 @@ def parse_episode(series, dir_name, hour):
     }
 
 
-def build(fname, title, desc, category, series_list):
+def build(fname, title, desc, keywords, categories, series_list):
     eps = []
     for series, hour in series_list:
         base = os.path.join(ROOT, "content", series)
@@ -112,6 +131,20 @@ def build(fname, title, desc, category, series_list):
             "    </item>"
         )
     now = format_datetime(datetime.now(PDT))
+    cat_lines = []
+    for text, sub in categories:
+        if sub:
+            cat_lines.append(
+                '    <itunes:category text="'
+                + html.escape(text, quote=True) + '">\n'
+                + '      <itunes:category text="'
+                + html.escape(sub, quote=True) + '"/>\n'
+                + '    </itunes:category>')
+        else:
+            cat_lines.append(
+                '    <itunes:category text="'
+                + html.escape(text, quote=True) + '"/>')
+    cats_xml = "\n".join(cat_lines) + "\n"
     feed = (
         "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n"
         "<rss version=\"2.0\" xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\n"
@@ -130,8 +163,10 @@ def build(fname, title, desc, category, series_list):
         "      <itunes:name>Guangyi Zhao</itunes:name>\n"
         "      <itunes:email>ezra777.zhao@gmail.com</itunes:email>\n"
         "    </itunes:owner>\n"
-        "    <itunes:category text=\"" + category + "\"/>\n"
-        "    <itunes:explicit>false</itunes:explicit>\n"
+        "    <itunes:keywords>" + html.escape(keywords)
+        + "</itunes:keywords>\n"
+        + cats_xml
+        + "    <itunes:explicit>false</itunes:explicit>\n"
         + "\n".join(items) + "\n"
         "  </channel>\n"
         "</rss>\n"
@@ -147,6 +182,6 @@ def build(fname, title, desc, category, series_list):
 
 if __name__ == "__main__":
     total = 0
-    for fname, (title, desc, cat, series) in FEEDS.items():
-        total += build(fname, title, desc, cat, series)
+    for fname, (title, desc, kw, cats, series) in FEEDS.items():
+        total += build(fname, title, desc, kw, cats, series)
     print("TOTAL feed episodes:", total)
