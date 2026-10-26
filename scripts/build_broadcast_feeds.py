@@ -163,6 +163,7 @@ def build(fname, title, desc, keywords, categories, series_list):
         "      <itunes:name>Guangyi Zhao</itunes:name>\n"
         "      <itunes:email>ezra777.zhao@gmail.com</itunes:email>\n"
         "    </itunes:owner>\n"
+        "    <itunes:image href=\"" + PAGES + "/podcast/cover-broadcast.png\"/>\n"
         "    <itunes:keywords>" + html.escape(keywords)
         + "</itunes:keywords>\n"
         + cats_xml
