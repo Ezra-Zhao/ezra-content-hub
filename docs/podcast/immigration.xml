@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：湾区福利速报、美国百指日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 12:04:58 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:20:30 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：湾区福利速报、美国百指日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,38 @@
     </itunes:category>
     <itunes:category text="Government"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>移民政策速报·晚间版｜2026年10月23日：11月用表定版，亲属与职业均按递交表</title>
+      <description>信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。</description>
+      <pubDate>Fri, 23 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">immigration-2026-10-23-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/immigration/2026-10-23-pm/audio.mp3" length="740432" type="audio/mpeg"/>
+      <itunes:duration>1:32</itunes:duration>
+    </item>
+    <item>
+      <title>移民政策速报｜2026年10月23日：递交期限算法新规今日生效，11月用表仍待公布</title>
+      <description>信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。</description>
+      <pubDate>Fri, 23 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">immigration-2026-10-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/immigration/2026-10-23/audio.mp3" length="808769" type="audio/mpeg"/>
+      <itunes:duration>1:41</itunes:duration>
+    </item>
+    <item>
+      <title>移民政策速报｜2026年10月22日：11月签证公告发布，多类排期前进</title>
+      <description>信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。</description>
+      <pubDate>Thu, 22 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">immigration-2026-10-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/immigration/2026-10-22/audio.mp3" length="898212" type="audio/mpeg"/>
+      <itunes:duration>1:52</itunes:duration>
+    </item>
+    <item>
+      <title>移民政策速报｜2026年10月21日：递交期限算法新规10月23日生效</title>
+      <description>信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。</description>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">immigration-2026-10-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/immigration/2026-10-21/audio.mp3" length="870835" type="audio/mpeg"/>
+      <itunes:duration>1:49</itunes:duration>
+    </item>
     <item>
       <title>本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。</title>
       <description>信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。</description>

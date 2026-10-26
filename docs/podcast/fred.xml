@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 12:04:58 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:20:30 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,38 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报｜10月26日：芝加哥联储指数转正0.07好于预期，生产回暖、消费住房仍拖累</title>
+      <description>美国百指日报｜10月26日：芝加哥联储指数转正0.07好于预期，生产回暖、消费住房仍拖累</description>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-10-26/audio.mp3" length="3341810" type="audio/mpeg"/>
+      <itunes:duration>6:58</itunes:duration>
+    </item>
+    <item>
+      <title>美国百指日报·晚间速报｜10月25日：周日无新数据，通胀预期近热远稳，实际利率钉在2.47%</title>
+      <description>美国百指日报·晚间速报｜10月25日：周日无新数据，通胀预期近热远稳，实际利率钉在2.47%</description>
+      <pubDate>Sun, 25 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-10-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-10-25/audio.mp3" length="901555" type="audio/mpeg"/>
+      <itunes:duration>1:53</itunes:duration>
+    </item>
+    <item>
+      <title>美国百指日报｜10月25日：周日无新数据，通胀预期近热远稳，实际利率仍钉在2.47%</title>
+      <description>美国百指日报｜10月25日：周日无新数据，通胀预期近热远稳，实际利率仍钉在2.47%</description>
+      <pubDate>Sun, 25 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-10-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-10-25/audio.mp3" length="2841722" type="audio/mpeg"/>
+      <itunes:duration>5:55</itunes:duration>
+    </item>
+    <item>
+      <title>美国百指日报·晚间速报｜10月24日：周六无新数据，周五油价涨3.8%推低收盘，下周看美联储与GDP</title>
+      <description>美国百指日报·晚间速报｜10月24日：周六无新数据，周五油价涨3.8%推低收盘，下周看美联储与GDP</description>
+      <pubDate>Sat, 24 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-10-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-10-24/audio.mp3" length="982222" type="audio/mpeg"/>
+      <itunes:duration>2:03</itunes:duration>
+    </item>
     <item>
       <title>美国百指日报｜10月22日：初请失业金降到19.4万创三个月低位，领先指数也没跌</title>
       <description>美国百指日报｜10月22日：初请失业金降到19.4万创三个月低位，领先指数也没跌</description>

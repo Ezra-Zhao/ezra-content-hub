@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 12:04:58 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:20:30 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,38 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报｜10月26日：前列腺癌联合疗法，获批用在更早阶段</title>
+      <description>本期：FDA 批准他拉唑帕利联合恩扎卢胺，用于带同源重组修复基因突变的转移性前列腺癌成人患者（须先以获批检测查出突变），适用阶段较此前前移（监管机构一手）。</description>
+      <pubDate>Mon, 26 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-26/audio.mp3" length="964876" type="audio/mpeg"/>
+      <itunes:duration>2:01</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报·晚间版｜10月23日：麻疹病例升至4588例</title>
+      <description>本期：CDC 10月23日公布，截至10月22日全国麻疹病例累计 4588 例、一周新增 178 例；另有日间版一周一次胰岛素批准细节的后续。</description>
+      <pubDate>Fri, 23 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-23-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-23-pm/audio.mp3" length="740850" type="audio/mpeg"/>
+      <itunes:duration>1:33</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报｜10月23日：胰岛素一周打一针，十岁孩子也能用了</title>
+      <description>本期：诺和诺德宣布，FDA 批准依柯胰岛素（Awiqli）用于 10 岁及以上 2 型糖尿病儿童——首个获批用于儿童的一周一次基础胰岛素（企业公告口径）。</description>
+      <pubDate>Fri, 23 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-23/audio.mp3" length="939799" type="audio/mpeg"/>
+      <itunes:duration>1:57</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报·晚间版｜10月22日：肺癌靶向药在美上市，有效率46%</title>
+      <description>本期：阿斯利康宣布 Zegfrovy 已在美国上市，用于含铂化疗后进展、带特定基因插入突变的成年晚期非小细胞肺癌；此次为上市供应、非新批准（企业宣布口径）。</description>
+      <pubDate>Thu, 22 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-22-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-22-pm/audio.mp3" length="689650" type="audio/mpeg"/>
+      <itunes:duration>1:26</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报｜10月22日：不开胸修三尖瓣，FDA批了新器械</title>
       <description>本期：FDA 批准 PASCAL Precision 系统经导管修复重度三尖瓣反流，适用于用药后仍有症状、开胸风险中等或更高的患者（Edwards 企业公告）。</description>
