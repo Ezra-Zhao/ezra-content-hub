@@ -1710,8 +1710,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "date": "2026-10-26",
+     "title": "VTA今天起改时刻，五条公交线路先对表",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-10-26-vta-service-changes.md",
+     "page": "articles/baylocal/2026-10-26-vta-service-changes.html"
+    },
     {
      "date": "2026-10-25",
      "title": "BART绿线今天全天停运，南湾出行先看这一条",
