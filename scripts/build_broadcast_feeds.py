@@ -65,6 +65,15 @@ FEEDS = {
         [("News", None), ("Society & Culture", None)],
         [("bay-area-benefits", 18)],
     ),
+    "news.xml": (
+        "新闻矩阵｜综合新闻早晚播报",
+        "每日早晚两版综合新闻播报：国际、美国、财经、科技要闻一次说清。早间版 7 点、晚间版 21 点。主讲 Guangyi Zhao。"
+        "关键词：新闻、国际新闻、美国新闻、综合播报。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。",
+        "新闻,国际新闻,美国新闻,综合播报,要闻",
+        [("News", None), ("News", "Politics")],
+        [("news-am", 7), ("news-pm", 21)],
+    ),
     "stocks-pm.xml": (
         "美股盘后小结｜三大指数与板块复盘",
         "每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。"

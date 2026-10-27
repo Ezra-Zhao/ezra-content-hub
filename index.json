@@ -1131,7 +1131,7 @@
    "id": "news-am",
    "name": "早间新闻",
    "slot": "早间",
-   "desc": "早间新闻播报（筹备中）。",
+   "desc": "每日 7 点综合新闻播报：国际、美国、财经、科技要闻一次说清。主讲 Guangyi Zhao。",
    "category": "时效",
    "episodes": [],
    "count": 0,
@@ -1143,13 +1143,14 @@
     "immigration",
     "bay-area-benefits",
     "stocks-pm"
-   ]
+   ],
+   "title": "新闻矩阵（早间版）"
   },
   {
    "id": "news-pm",
    "name": "晚间新闻",
    "slot": "晚间",
-   "desc": "晚间新闻播报（筹备中）。",
+   "desc": "每日 21 点综合新闻播报：当日要闻收官与次日日程。主讲 Guangyi Zhao。",
    "category": "时效",
    "episodes": [],
    "count": 0,
@@ -1161,7 +1162,8 @@
     "immigration",
     "bay-area-benefits",
     "stocks-pm"
-   ]
+   ],
+   "title": "新闻矩阵（晚间版）"
   },
   {
    "id": "stocks-am",
