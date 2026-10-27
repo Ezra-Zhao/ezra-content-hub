@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 08:57:38 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:38:04 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -36,6 +36,54 @@
       <guid isPermaLink="false">devotion-am-en-2026-10-27</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-27/audio.mp3" length="1524340" type="audio/mpeg"/>
       <itunes:duration>1:35</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] His Face Toward You</title>
+      <description>His lifted face is a Father bending down to look at you — His presence is your surest peace tonight. Scripture: Numbers 6:24-26 (WEB)</description>
+      <pubDate>Mon, 26 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-10-26/audio.mp3" length="1704898" type="audio/mpeg"/>
+      <itunes:duration>1:46</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] My Help Comes from Yahweh</title>
+      <description>The mountain is not our hope; the Maker of the mountains is — and He walks with you into this week. Scripture: Psalm 121:1-2 (WEB)</description>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-26/audio.mp3" length="1834047" type="audio/mpeg"/>
+      <itunes:duration>1:55</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] Cast Every Care on Him</title>
+      <description>Set the whole pack down, item by item — because He cares for you, steadier hands take over while you sleep. Scripture: 1 Peter 5:7 (WEB)</description>
+      <pubDate>Sun, 25 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-10-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-10-25/audio.mp3" length="1903011" type="audio/mpeg"/>
+      <itunes:duration>1:59</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Grace Enough</title>
+      <description>He did not remove the thorn; He gave something better — grace that is sufficient, and power made perfect in weakness. Scripture: 2 Corinthians 12:9 (WEB)</description>
+      <pubDate>Sun, 25 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-10-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-25/audio.mp3" length="2174684" type="audio/mpeg"/>
+      <itunes:duration>2:16</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] Dwelling in the Secret Place</title>
+      <description>The secret place is not a shelter for emergencies, but a home you dwell in day and night. Scripture: Psalm 91:1-2 (WEB)</description>
+      <pubDate>Sat, 24 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-10-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-10-24/audio.mp3" length="1844078" type="audio/mpeg"/>
+      <itunes:duration>1:55</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] I Will Uphold You</title>
+      <description>His presence comes first — I am with you; then come the strengthening, the help, and the upholding hand. Scripture: Isaiah 41:10 (WEB)</description>
+      <pubDate>Sat, 24 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-10-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-24/audio.mp3" length="1973646" type="audio/mpeg"/>
+      <itunes:duration>2:03</itunes:duration>
     </item>
     <item>
       <title>[PM] My Peace I Give to You</title>

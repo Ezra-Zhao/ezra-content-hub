@@ -7,7 +7,7 @@
     <language>es</language>
     <description>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 08:57:38 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:38:04 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</itunes:summary>
     <itunes:keywords>devoción diaria,lectura bíblica,oración,escritura,devocional matutino,devocional nocturno,fe cristiana,meditación</itunes:keywords>
@@ -36,6 +36,54 @@
       <guid isPermaLink="false">devotion-am-es-2026-10-27</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-10-27/audio.mp3" length="1577838" type="audio/mpeg"/>
       <itunes:duration>1:39</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] Su rostro sobre ti</title>
+      <description>Su rostro alzado es un Padre que se inclina a mirarte: su presencia es tu paz más firme esta noche. Escritura: Números 6:24-26 (RVR1909)</description>
+      <pubDate>Mon, 26 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-10-26/audio.mp3" length="2264127" type="audio/mpeg"/>
+      <itunes:duration>2:21</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Mi socorro viene de Jehová</title>
+      <description>La montaña no es nuestra esperanza; lo es quien hizo los montes, y él camina contigo esta semana. Escritura: Salmos 121:1-2 (RVR1909)</description>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-10-26/audio.mp3" length="1750874" type="audio/mpeg"/>
+      <itunes:duration>1:49</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] Échalo todo en él</title>
+      <description>Suelta la carga entera, pieza por pieza: él tiene cuidado de ti, y unas manos más firmes se hacen cargo mientras duermes. Escritura: 1 Pedro 5:7 (RVR1909)</description>
+      <pubDate>Sun, 25 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-10-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-10-25/audio.mp3" length="1909698" type="audio/mpeg"/>
+      <itunes:duration>1:59</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Bástate mi gracia</title>
+      <description>No quitó la espina; dio algo mejor: una gracia que basta y una potencia que se perfecciona en la flaqueza. Escritura: 2 Corintios 12:9 (RVR1909)</description>
+      <pubDate>Sun, 25 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-10-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-10-25/audio.mp3" length="2109065" type="audio/mpeg"/>
+      <itunes:duration>2:12</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] Morar bajo su sombra</title>
+      <description>El abrigo del Altísimo no es un refugio para emergencias, sino un hogar donde se vive de día y de noche. Escritura: Salmos 91:1-2 (RVR1909)</description>
+      <pubDate>Sat, 24 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-10-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-10-24/audio.mp3" length="2195164" type="audio/mpeg"/>
+      <itunes:duration>2:17</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Yo te sustentaré</title>
+      <description>Primero viene su presencia: yo soy contigo; de ahí nacen la fuerza, la ayuda y la mano que sustenta. Escritura: Isaías 41:10 (RVR1909)</description>
+      <pubDate>Sat, 24 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-10-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-10-24/audio.mp3" length="2045117" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
     </item>
     <item>
       <title>[PM] La paz os dejo</title>
