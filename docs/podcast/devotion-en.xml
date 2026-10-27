@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 09:41:06 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:57:38 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Perfect Peace</title>
+      <description>Peace is not a life without storms; it is an anchor cast again into His unchanging faithfulness. Scripture: Isaiah 26:3 (WEB)</description>
+      <pubDate>Tue, 27 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-10-27/audio.mp3" length="1731647" type="audio/mpeg"/>
+      <itunes:duration>1:48</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Thoughts of Peace</title>
+      <description>His thoughts toward you are peace, not harm — even in Babylon, He is quietly burying hope for your future. Scripture: Jeremiah 29:11 (WEB)</description>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-27/audio.mp3" length="1524340" type="audio/mpeg"/>
+      <itunes:duration>1:35</itunes:duration>
+    </item>
     <item>
       <title>[PM] My Peace I Give to You</title>
       <description>His peace is given before circumstances change; lay the week down at His feet tonight. Scripture: John 14:27 (WEB)</description>
@@ -39,7 +55,7 @@
     </item>
     <item>
       <title>[PM] He Gives Sleep to His Loved Ones</title>
-      <description>Sleep is a gift; loosen the day's taut string before your head reaches the pillow. Scripture: Psalm 127:2 (WEB)</description>
+      <description>Sleep is a gift; loosen the day&#x27;s taut string before your head reaches the pillow. Scripture: Psalm 127:2 (WEB)</description>
       <pubDate>Thu, 22 Oct 2026 21:00:00 -0700</pubDate>
       <guid isPermaLink="false">devotion-pm-en-2026-10-22</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-10-22/audio.mp3" length="2025892" type="audio/mpeg"/>
@@ -47,7 +63,7 @@
     </item>
     <item>
       <title>[AM] This Is the Day the Lord Has Made</title>
-      <description>Settle your joy in God's hands first; the day's events can only come second. Scripture: Psalm 118:24 (WEB)</description>
+      <description>Settle your joy in God&#x27;s hands first; the day&#x27;s events can only come second. Scripture: Psalm 118:24 (WEB)</description>
       <pubDate>Thu, 22 Oct 2026 07:00:00 -0700</pubDate>
       <guid isPermaLink="false">devotion-am-en-2026-10-22</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-22/audio.mp3" length="2042610" type="audio/mpeg"/>
@@ -63,7 +79,7 @@
     </item>
     <item>
       <title>[AM] Through Him Who Strengthens Me</title>
-      <description>Swap 'I can' for 'through Him, I can'; strength is daily provision, not a bonus. Scripture: Philippians 4:13 (WEB)</description>
+      <description>Swap &#x27;I can&#x27; for &#x27;through Him, I can&#x27;; strength is daily provision, not a bonus. Scripture: Philippians 4:13 (WEB)</description>
       <pubDate>Wed, 21 Oct 2026 07:00:00 -0700</pubDate>
       <guid isPermaLink="false">devotion-am-en-2026-10-21</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-21/audio.mp3" length="2179701" type="audio/mpeg"/>
@@ -95,7 +111,7 @@
     </item>
     <item>
       <title>[AM] Trust in the Lord with All Your Heart</title>
-      <description>Lay the week's decisions before God first; acknowledge Him, and He will make the path straight. Scripture: Proverbs 3:5-6 (WEB)</description>
+      <description>Lay the week&#x27;s decisions before God first; acknowledge Him, and He will make the path straight. Scripture: Proverbs 3:5-6 (WEB)</description>
       <pubDate>Mon, 19 Oct 2026 07:00:00 -0700</pubDate>
       <guid isPermaLink="false">devotion-am-en-2026-10-19</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-19/audio.mp3" length="2187224" type="audio/mpeg"/>

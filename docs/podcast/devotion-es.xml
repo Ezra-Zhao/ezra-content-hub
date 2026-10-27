@@ -7,7 +7,7 @@
     <language>es</language>
     <description>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 09:41:06 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:57:38 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</itunes:summary>
     <itunes:keywords>devoción diaria,lectura bíblica,oración,escritura,devocional matutino,devocional nocturno,fe cristiana,meditación</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Paz completa</title>
+      <description>La paz completa no es ausencia de tormentas; es echar de nuevo el ancla en su fidelidad que nunca cambia. Escritura: Isaías 26:3 (RVR1909)</description>
+      <pubDate>Tue, 27 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-10-27/audio.mp3" length="1759651" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Pensamientos de paz</title>
+      <description>Sus pensamientos hacia ti son de paz y no de mal; aun en Babilonia, él siembra la esperanza de tu futuro. Escritura: Jeremías 29:11 (RVR1909)</description>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-10-27/audio.mp3" length="1577838" type="audio/mpeg"/>
+      <itunes:duration>1:39</itunes:duration>
+    </item>
     <item>
       <title>[PM] La paz os dejo</title>
       <description>Su paz se da antes de que cambie el ambiente: recíbela esta noche y duerme tranquilo. Escritura: Juan 14:27 (RVR1909)</description>
