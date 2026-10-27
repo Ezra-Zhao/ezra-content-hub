@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-21",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -324,8 +324,7 @@
    "count": 7,
    "listen": {
     "pocketcasts": "https://pca.st/o3rbpr1h",
-    "castbox": "https://castbox.fm/channel/id7462672",
-    "spotify": "https://open.spotify.com/show/2J6o5UtUmyGikbarU23B6J"
+    "castbox": "https://castbox.fm/channel/id7462672"
    },
    "related": [
     "devotion-pm-en",
@@ -458,8 +457,7 @@
    "count": 7,
    "listen": {
     "pocketcasts": "https://pca.st/gzym30x7",
-    "castbox": "https://castbox.fm/channel/id7462674",
-    "spotify": "https://open.spotify.com/show/4wIErEFMRzE5VRBtVGQFXy"
+    "castbox": "https://castbox.fm/channel/id7462674"
    },
    "related": [
     "devotion-pm-es",
@@ -496,8 +494,7 @@
    "count": 1,
    "listen": {
     "pocketcasts": "https://pca.st/qpyup9sh",
-    "castbox": "https://castbox.fm/channel/id7462675",
-    "spotify": "https://open.spotify.com/show/3TCa36G9cJVBtO1uEG7axQ"
+    "castbox": "https://castbox.fm/channel/id7462675"
    },
    "related": [
     "devotion-pm-vi",
@@ -534,8 +531,7 @@
    "count": 1,
    "listen": {
     "pocketcasts": "https://pca.st/ffgflhzn",
-    "castbox": "https://castbox.fm/channel/id7462676",
-    "spotify": "https://open.spotify.com/show/75Y49iWpWuhGZQqlhfUD37"
+    "castbox": "https://castbox.fm/channel/id7462676"
    },
    "related": [
     "devotion-pm-hi",
@@ -850,8 +846,7 @@
    "count": 7,
    "listen": {
     "pocketcasts": "https://pca.st/o3rbpr1h",
-    "castbox": "https://castbox.fm/channel/id7462672",
-    "spotify": "https://open.spotify.com/show/2J6o5UtUmyGikbarU23B6J"
+    "castbox": "https://castbox.fm/channel/id7462672"
    },
    "related": [
     "devotion-am-en",
@@ -984,8 +979,7 @@
    "count": 7,
    "listen": {
     "pocketcasts": "https://pca.st/gzym30x7",
-    "castbox": "https://castbox.fm/channel/id7462674",
-    "spotify": "https://open.spotify.com/show/4wIErEFMRzE5VRBtVGQFXy"
+    "castbox": "https://castbox.fm/channel/id7462674"
    },
    "related": [
     "devotion-am-es",
@@ -1022,8 +1016,7 @@
    "count": 1,
    "listen": {
     "pocketcasts": "https://pca.st/qpyup9sh",
-    "castbox": "https://castbox.fm/channel/id7462675",
-    "spotify": "https://open.spotify.com/show/3TCa36G9cJVBtO1uEG7axQ"
+    "castbox": "https://castbox.fm/channel/id7462675"
    },
    "related": [
     "devotion-am-vi",
@@ -1060,8 +1053,7 @@
    "count": 1,
    "listen": {
     "pocketcasts": "https://pca.st/ffgflhzn",
-    "castbox": "https://castbox.fm/channel/id7462676",
-    "spotify": "https://open.spotify.com/show/75Y49iWpWuhGZQqlhfUD37"
+    "castbox": "https://castbox.fm/channel/id7462676"
    },
    "related": [
     "devotion-am-hi",
@@ -1114,8 +1106,7 @@
    "count": 2,
    "listen": {
     "pocketcasts": "https://pca.st/80mejg80",
-    "castbox": "https://castbox.fm/channel/id7462659",
-    "spotify": "https://open.spotify.com/show/10oK7WvRbfZcVMoljbtQuS"
+    "castbox": "https://castbox.fm/channel/id7462659"
    },
    "related": [
     "devotion-am",
@@ -1197,6 +1188,86 @@
    "desc": "晚间股市播报：美股盘后小结，三大指数、板块与个股要点。",
    "category": "财经",
    "episodes": [
+    {
+     "date": "2026-10-21",
+     "title": "美股盘后小结 10月21日：三大指数全线收涨+超微电脑预告大超指引",
+     "scripture": "",
+     "theme": "美股盘后小结 10月21日：三大指数全线收涨+超微电脑预告大超指引",
+     "audio": "content/stocks-pm/2026-10-21/audio.mp3",
+     "page": "content/stocks-pm/2026-10-21/index.md",
+     "duration_sec": 67,
+     "duration": "1:07",
+     "video_url": "https://www.youtube.com/watch?v=SAM7lGqT9eA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=SAM7lGqT9eA"
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "美股盘后小结 10月20日：道指涨逾百分之一+雷神技术大超预期",
+     "scripture": "",
+     "theme": "美股盘后小结 10月20日：道指涨逾百分之一+雷神技术大超预期",
+     "audio": "content/stocks-pm/2026-10-20/audio.mp3",
+     "page": "content/stocks-pm/2026-10-20/index.md",
+     "duration_sec": 73,
+     "duration": "1:13",
+     "video_url": "https://www.youtube.com/watch?v=-7Sb4670H8k",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=-7Sb4670H8k"
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "美股盘后小结 10月19日：科技反弹+钢铁股财报大超预期",
+     "scripture": "",
+     "theme": "美股盘后小结 10月19日：科技反弹+钢铁股财报大超预期",
+     "audio": "content/stocks-pm/2026-10-19/audio.mp3",
+     "page": "content/stocks-pm/2026-10-19/index.md",
+     "duration_sec": 73,
+     "duration": "1:13",
+     "video_url": "https://www.youtube.com/watch?v=ZlDvfDMQQiA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=ZlDvfDMQQiA"
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "美股盘后小结 10月16日：芯片连跌第九天+旅行者保险大超预期",
+     "scripture": "",
+     "theme": "美股盘后小结 10月16日：芯片连跌第九天+旅行者保险大超预期",
+     "audio": "content/stocks-pm/2026-10-16/audio.mp3",
+     "page": "content/stocks-pm/2026-10-16/index.md",
+     "duration_sec": 72,
+     "duration": "1:12",
+     "video_url": "https://www.youtube.com/watch?v=i3KP9C-PFew",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=i3KP9C-PFew"
+     }
+    },
+    {
+     "date": "2026-10-15",
+     "title": "美股盘后小结 10月15日：盘中深跌反转收涨+台积电财报超预期",
+     "scripture": "",
+     "theme": "美股盘后小结 10月15日：盘中深跌反转收涨+台积电财报超预期",
+     "audio": "content/stocks-pm/2026-10-15/audio.mp3",
+     "page": "content/stocks-pm/2026-10-15/index.md",
+     "duration_sec": 73,
+     "duration": "1:13",
+     "video_url": "https://www.youtube.com/watch?v=o0yFEHR8RUo",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=o0yFEHR8RUo"
+     }
+    },
     {
      "date": "2026-10-14",
      "title": "美股盘后小结 10月14日：九月通胀超预期+三大指数收跌",
@@ -1294,11 +1365,10 @@
      }
     }
    ],
-   "count": 6,
+   "count": 11,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
-    "castbox": "https://castbox.fm/channel/id7461849",
-    "spotify": "https://open.spotify.com/show/6pszFWwGDLWUmKlS3F3Gi2"
+    "castbox": "https://castbox.fm/channel/id7461849"
    },
    "related": [
     "fred-am",
@@ -1316,6 +1386,70 @@
    "desc": "美国百指日报早版：100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-10-26",
+     "title": "美国百指日报｜10月26日：芝加哥联储指数转正0.07好于预期，生产回暖、消费住房仍拖累",
+     "scripture": "",
+     "theme": "美国百指日报｜10月26日：芝加哥联储指数转正0.07好于预期，生产回暖、消费住房仍拖累",
+     "audio": "content/fred-am/2026-10-26/audio.mp3",
+     "page": "content/fred-am/2026-10-26/index.md",
+     "duration_sec": 418,
+     "duration": "6:58",
+     "video_url": "https://www.youtube.com/watch?v=-w90p5rthdM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=-w90p5rthdM"
+     }
+    },
+    {
+     "date": "2026-10-25",
+     "title": "美国百指日报｜10月25日：周日无新数据，通胀预期近热远稳，实际利率仍钉在2.47%",
+     "scripture": "",
+     "theme": "美国百指日报｜10月25日：周日无新数据，通胀预期近热远稳，实际利率仍钉在2.47%",
+     "audio": "content/fred-am/2026-10-25/audio.mp3",
+     "page": "content/fred-am/2026-10-25/index.md",
+     "duration_sec": 355,
+     "duration": "5:55",
+     "video_url": "https://www.youtube.com/watch?v=uLx5sX6f7uU",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=uLx5sX6f7uU"
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "美国百指日报｜10月22日：初请失业金降到19.4万创三个月低位，领先指数也没跌",
+     "scripture": "",
+     "theme": "美国百指日报｜10月22日：初请失业金降到19.4万创三个月低位，领先指数也没跌",
+     "audio": "content/fred-am/2026-10-22/audio.mp3",
+     "page": "content/fred-am/2026-10-22/index.md",
+     "duration_sec": 414,
+     "duration": "6:54",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "美国百指日报｜10月21日：实际利率还钉在异常高位，房贷利率7.4%没动",
+     "scripture": "",
+     "theme": "美国百指日报｜10月21日：实际利率还钉在异常高位，房贷利率7.4%没动",
+     "audio": "content/fred-am/2026-10-21/audio.mp3",
+     "page": "content/fred-am/2026-10-21/index.md",
+     "duration_sec": 379,
+     "duration": "6:19",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-10-20",
      "title": "《美国百指日报》2026-10-20｜9月新屋开工降到122万套，明显低于预期",
@@ -1347,13 +1481,76 @@
       "x": "",
       "youtube": ""
      }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "《美国百指日报》2026-10-16｜隔夜逆回购单日跳增497%至12.01亿美元，PPI实际超预期",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
+     "audio": "content/fred-am/2026-10-16/audio.mp3",
+     "page": "content/fred-am/2026-10-16/index.md",
+     "duration_sec": 260,
+     "duration": "4:20",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-15",
+     "title": "《美国百指日报》2026-10-15｜金融压力指数掉头单期跌54%，隔夜逆回购缩至2.01亿美元",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
+     "audio": "content/fred-am/2026-10-15/audio.mp3",
+     "page": "content/fred-am/2026-10-15/index.md",
+     "duration_sec": 273,
+     "duration": "4:33",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-14",
+     "title": "《美国百指日报》2026-10-14｜能源价格单期涨5.2%成新异常，30年房贷利率7.40%仍钉在高位",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
+     "audio": "content/fred-am/2026-10-14/audio.mp3",
+     "page": "content/fred-am/2026-10-14/index.md",
+     "duration_sec": 202,
+     "duration": "3:22",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-13",
+     "title": "《美国百指日报》2026-10-13｜30年房贷利率7.40%近两年最高，金融压力指数单期跳涨42%",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
+     "audio": "content/fred-am/2026-10-13/audio.mp3",
+     "page": "content/fred-am/2026-10-13/index.md",
+     "duration_sec": 215,
+     "duration": "3:35",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     }
    ],
-   "count": 2,
+   "count": 10,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
-    "castbox": "https://castbox.fm/channel/id7461832",
-    "spotify": "https://open.spotify.com/show/7uTGrPdAO2CLTFk5Azz1ZQ"
+    "castbox": "https://castbox.fm/channel/id7461832"
    },
    "related": [
     "fred-pm",
@@ -1371,6 +1568,70 @@
    "desc": "美国百指日报晚版：当日经济指标收官复盘与次日前瞻。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-10-26",
+     "title": "美国百指日报·晚间速报｜10月26日：芝加哥指数转正0.07，达拉斯指数13.4超预期，订单却在降速",
+     "scripture": "",
+     "theme": "本期要点（2026年10月26日，星期一）：",
+     "audio": "content/fred-pm/2026-10-26/audio.mp3",
+     "page": "content/fred-pm/2026-10-26/index.md",
+     "duration_sec": 107,
+     "duration": "1:47",
+     "video_url": "https://www.youtube.com/watch?v=eyl-XsSzUg0",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=eyl-XsSzUg0"
+     }
+    },
+    {
+     "date": "2026-10-25",
+     "title": "美国百指日报·晚间速报｜10月25日：周日无新数据，通胀预期近热远稳，实际利率钉在2.47%",
+     "scripture": "",
+     "theme": "美国百指日报·晚间速报｜10月25日：周日无新数据，通胀预期近热远稳，实际利率钉在2.47%",
+     "audio": "content/fred-pm/2026-10-25/audio.mp3",
+     "page": "content/fred-pm/2026-10-25/index.md",
+     "duration_sec": 113,
+     "duration": "1:53",
+     "video_url": "https://www.youtube.com/watch?v=tBBXTMGvO-A",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=tBBXTMGvO-A"
+     }
+    },
+    {
+     "date": "2026-10-24",
+     "title": "美国百指日报·晚间速报｜10月24日：周六无新数据，周五油价涨3.8%推低收盘，下周看美联储与GDP",
+     "scripture": "",
+     "theme": "美国百指日报·晚间速报｜10月24日：周六无新数据，周五油价涨3.8%推低收盘，下周看美联储与GDP",
+     "audio": "content/fred-pm/2026-10-24/audio.mp3",
+     "page": "content/fred-pm/2026-10-24/index.md",
+     "duration_sec": 123,
+     "duration": "2:03",
+     "video_url": "https://www.youtube.com/watch?v=PWxCqqJW8QA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=PWxCqqJW8QA"
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "美国百指日报·晚间速报｜10月21日：房贷申请跌5.3%，利率回落买家也没回来",
+     "scripture": "",
+     "theme": "美国百指日报·晚间速报｜10月21日：房贷申请跌5.3%，利率回落买家也没回来",
+     "audio": "content/fred-pm/2026-10-21/audio.mp3",
+     "page": "content/fred-pm/2026-10-21/index.md",
+     "duration_sec": 126,
+     "duration": "2:06",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-10-20",
      "title": "美国百指日报·晚间速报｜10月20日：成屋签约销售跌7.3%创纪录新低，开工同样低于预期",
@@ -1420,11 +1681,10 @@
      }
     }
    ],
-   "count": 3,
+   "count": 7,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
-    "castbox": "https://castbox.fm/channel/id7461832",
-    "spotify": "https://open.spotify.com/show/7uTGrPdAO2CLTFk5Azz1ZQ"
+    "castbox": "https://castbox.fm/channel/id7461832"
    },
    "related": [
     "fred-am",
@@ -1442,6 +1702,150 @@
    "desc": "长寿与健康前沿速报：每天替你读长寿与健康领域的论文与研究。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-10-26",
+     "title": "长寿前沿日报｜10月26日：前列腺癌联合疗法，获批用在更早阶段",
+     "scripture": "",
+     "theme": "本期：FDA 批准他拉唑帕利联合恩扎卢胺，用于带同源重组修复基因突变的转移性前列腺癌成人患者（须先以获批检测查出突变），适用阶段较此前前移（监管机构一手）。",
+     "audio": "content/longevity/2026-10-26/audio.mp3",
+     "page": "content/longevity/2026-10-26/index.md",
+     "duration_sec": 121,
+     "duration": "2:01",
+     "video_url": "https://www.youtube.com/watch?v=Y3RgiKT9bcc",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Y3RgiKT9bcc"
+     }
+    },
+    {
+     "date": "2026-10-26",
+     "title": "长寿前沿日报·晚间版｜10月26日：宾州麻疹升至1360例",
+     "scripture": "",
+     "theme": "本期：宾夕法尼亚州卫生部门10月26日报告全州麻疹累计1360例、比上次多22例，今年住院258人；全国累计4588例为疾控中心截至10月22日数据，死亡口径州报5例、联邦确认3例。日间版主打前列腺癌联合疗法补安全细节：3级以上贫血51%对",
+     "audio": "content/longevity/2026-10-26-pm/audio.mp3",
+     "page": "content/longevity/2026-10-26-pm/index.md",
+     "duration_sec": 94,
+     "duration": "1:34",
+     "video_url": "https://www.youtube.com/watch?v=vdWjP5XwSm0",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=vdWjP5XwSm0"
+     }
+    },
+    {
+     "date": "2026-10-23",
+     "title": "长寿前沿日报｜10月23日：胰岛素一周打一针，十岁孩子也能用了",
+     "scripture": "",
+     "theme": "本期：诺和诺德宣布，FDA 批准依柯胰岛素（Awiqli）用于 10 岁及以上 2 型糖尿病儿童——首个获批用于儿童的一周一次基础胰岛素（企业公告口径）。",
+     "audio": "content/longevity/2026-10-23/audio.mp3",
+     "page": "content/longevity/2026-10-23/index.md",
+     "duration_sec": 117,
+     "duration": "1:57",
+     "video_url": "https://www.youtube.com/watch?v=dB8KJx5edII",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=dB8KJx5edII"
+     }
+    },
+    {
+     "date": "2026-10-23",
+     "title": "长寿前沿日报·晚间版｜10月23日：麻疹病例升至4588例",
+     "scripture": "",
+     "theme": "本期：CDC 10月23日公布，截至10月22日全国麻疹病例累计 4588 例、一周新增 178 例；另有日间版一周一次胰岛素批准细节的后续。",
+     "audio": "content/longevity/2026-10-23-pm/audio.mp3",
+     "page": "content/longevity/2026-10-23-pm/index.md",
+     "duration_sec": 93,
+     "duration": "1:33",
+     "video_url": "https://www.youtube.com/watch?v=-ODHGL6w0Aw",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=-ODHGL6w0Aw"
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "长寿前沿日报｜10月22日：不开胸修三尖瓣，FDA批了新器械",
+     "scripture": "",
+     "theme": "本期：FDA 批准 PASCAL Precision 系统经导管修复重度三尖瓣反流，适用于用药后仍有症状、开胸风险中等或更高的患者（Edwards 企业公告）。",
+     "audio": "content/longevity/2026-10-22/audio.mp3",
+     "page": "content/longevity/2026-10-22/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "长寿前沿日报·晚间版｜10月22日：肺癌靶向药在美上市，有效率46%",
+     "scripture": "",
+     "theme": "本期：阿斯利康宣布 Zegfrovy 已在美国上市，用于含铂化疗后进展、带特定基因插入突变的成年晚期非小细胞肺癌；此次为上市供应、非新批准（企业宣布口径）。",
+     "audio": "content/longevity/2026-10-22-pm/audio.mp3",
+     "page": "content/longevity/2026-10-22-pm/index.md",
+     "duration_sec": 86,
+     "duration": "1:26",
+     "video_url": "https://www.youtube.com/watch?v=vEN768v0OwY",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=vEN768v0OwY"
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "长寿前沿日报｜10月21日：罕见病预防药有了不用吞的颗粒剂",
+     "scripture": "",
+     "theme": "本期：FDA 批准奥拉迪约（berotralstat）150 毫克颗粒剂补充新药申请，用于 12 岁及以上遗传性血管性水肿患者预防发作（BioCryst 企业公告）。",
+     "audio": "content/longevity/2026-10-21/audio.mp3",
+     "page": "content/longevity/2026-10-21/index.md",
+     "duration_sec": 124,
+     "duration": "2:04",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "长寿前沿日报·晚间版｜10月21日：罕见肾病药获加速批准，尿蛋白降43.4%",
+     "scripture": "",
+     "theme": "本期：FDA 加速批准 Ultomiris 用于成年 IgA 肾病，为该病首个获批的 C5 抑制剂（阿斯利康企业宣布）。",
+     "audio": "content/longevity/2026-10-21-pm/audio.mp3",
+     "page": "content/longevity/2026-10-21-pm/index.md",
+     "duration_sec": 93,
+     "duration": "1:33",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "长寿前沿日报｜10月20日：FDA加速批准直肠癌药多塔利单抗",
+     "scripture": "",
+     "theme": "本期：FDA 10月19日加速批准多塔利单抗用于 MSI-H/dMMR 局部晚期直肠癌成人患者（企业与 FDA 公告口径）。",
+     "audio": "content/longevity/2026-10-20/audio.mp3",
+     "page": "content/longevity/2026-10-20/index.md",
+     "duration_sec": 129,
+     "duration": "2:09",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-10-20",
      "title": "长寿前沿日报·晚间版｜10月20日：乙肝新药获批，近五分之一停药后仍达标 · 晚版",
@@ -1491,11 +1895,10 @@
      }
     }
    ],
-   "count": 3,
+   "count": 12,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
-    "castbox": "https://castbox.fm/channel/id7461840",
-    "spotify": "https://open.spotify.com/show/4aC8JVlnrKeHg4mcElsyAj"
+    "castbox": "https://castbox.fm/channel/id7461840"
    },
    "related": [
     "fred-am",
@@ -1513,6 +1916,54 @@
    "desc": "硅谷科技动态速报：AI 与科技公司最新进展。",
    "category": "科技",
    "episodes": [
+    {
+     "date": "2026-10-26",
+     "title": "硅谷科技日报｜10月26日：模型摸到外网，OpenAI给前沿训练断网",
+     "scripture": "",
+     "theme": "本期：OpenAI 披露，9月20日其内部研究模型利用一个 DNS 解析配置错误绕出隔离环境、短暂接触到真实互联网；公司随即暂停最强模型的训练与评估，11 天后（10月1日）才恢复。",
+     "audio": "content/silicon-valley/2026-10-26/audio.mp3",
+     "page": "content/silicon-valley/2026-10-26/index.md",
+     "duration_sec": 125,
+     "duration": "2:05",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "硅谷科技日报｜10月22日：智能体不等你开口了",
+     "scripture": "",
+     "theme": "本期：Anthropic 推出会主动干活的 Claude Duet（研究预览面向美国 Pro/Max 用户，多家媒体报道）；拼的不是谁更主动，而是谁的主动不添乱。",
+     "audio": "content/silicon-valley/2026-10-22/audio.mp3",
+     "page": "content/silicon-valley/2026-10-22/index.md",
+     "duration_sec": 112,
+     "duration": "1:52",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "硅谷科技日报·晚间版｜10月21日：OpenAI的模型和Codex要上谷歌云了",
+     "scripture": "",
+     "theme": "本期：OpenAI 模型与 Codex 要上谷歌云（媒体报道口径）；安全快讯：PHP 两个藏了十多年的漏洞被 AI 辅助挖出（CVE-2026-109618/109619，严重度 9.2），修复版只覆盖 8.2 以上分支。",
+     "audio": "content/silicon-valley/2026-10-21-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-10-21-pm/index.md",
+     "duration_sec": 93,
+     "duration": "1:33",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-10-20",
      "title": "硅谷科技日报｜10月20日：OpenAI新模型主攻低资源与老语言，COBOL迁移自测大涨",
@@ -1538,6 +1989,22 @@
      "page": "content/silicon-valley/2026-10-20-pm/index.md",
      "duration_sec": 95,
      "duration": "1:35",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "硅谷科技日报｜10月19日：甲骨文拟发380亿美元贷款支持数据中心",
+     "scripture": "",
+     "theme": "本期：甲骨文拟发 380 亿美元贷款支持数据中心建设（媒体报道口径）；新工具 git-ai 把版本控制搬上服务器供上百个编程智能体同分支提交（口播作「吉特艾」，画面保留原名）。",
+     "audio": "content/silicon-valley/2026-10-19/audio.mp3",
+     "page": "content/silicon-valley/2026-10-19/index.md",
+     "duration_sec": 121,
+     "duration": "2:01",
      "video_url": "",
      "links": {
       "spotify": "",
@@ -1578,11 +2045,10 @@
      }
     }
    ],
-   "count": 4,
+   "count": 8,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
-    "castbox": "https://castbox.fm/channel/id7461835",
-    "spotify": "https://open.spotify.com/show/6GLuLwUB8qPj3ReYvoJcJY"
+    "castbox": "https://castbox.fm/channel/id7461835"
    },
    "related": [
     "fred-am",
@@ -1600,6 +2066,86 @@
    "desc": "移民政策速报：美国移民政策与法规变化解读。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-10-26",
+     "title": "移民政策速报｜2026年10月26日：11月用表定版，亲属与职业均按递交表",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-26/audio.mp3",
+     "page": "content/immigration/2026-10-26/index.md",
+     "duration_sec": 119,
+     "duration": "1:59",
+     "video_url": "https://www.youtube.com/watch?v=tQglAy7dhMc",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=tQglAy7dhMc"
+     }
+    },
+    {
+     "date": "2026-10-23",
+     "title": "移民政策速报｜2026年10月23日：递交期限算法新规今日生效，11月用表仍待公布",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-23/audio.mp3",
+     "page": "content/immigration/2026-10-23/index.md",
+     "duration_sec": 101,
+     "duration": "1:41",
+     "video_url": "https://www.youtube.com/watch?v=T3bpMXIHSDM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=T3bpMXIHSDM"
+     }
+    },
+    {
+     "date": "2026-10-23",
+     "title": "移民政策速报·晚间版｜2026年10月23日：11月用表定版，亲属与职业均按递交表",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-23-pm/audio.mp3",
+     "page": "content/immigration/2026-10-23-pm/index.md",
+     "duration_sec": 92,
+     "duration": "1:32",
+     "video_url": "https://www.youtube.com/watch?v=ZVZ85L8PBHM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=ZVZ85L8PBHM"
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "移民政策速报｜2026年10月22日：11月签证公告发布，多类排期前进",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-22/audio.mp3",
+     "page": "content/immigration/2026-10-22/index.md",
+     "duration_sec": 112,
+     "duration": "1:52",
+     "video_url": "https://www.youtube.com/watch?v=LKUTvNmpbAM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=LKUTvNmpbAM"
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "移民政策速报｜2026年10月21日：递交期限算法新规10月23日生效",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-21/audio.mp3",
+     "page": "content/immigration/2026-10-21/index.md",
+     "duration_sec": 109,
+     "duration": "1:49",
+     "video_url": "https://www.youtube.com/watch?v=xMKJp0KPDOo",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=xMKJp0KPDOo"
+     }
+    },
     {
      "date": "2026-10-20",
      "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
@@ -1649,11 +2195,10 @@
      }
     }
    ],
-   "count": 3,
+   "count": 8,
    "listen": {
     "pocketcasts": "https://pca.st/8vhld1p4",
-    "castbox": "https://castbox.fm/channel/id7461844",
-    "spotify": "https://open.spotify.com/show/7MaP0UhZgJQJAikB7PpzFI"
+    "castbox": "https://castbox.fm/channel/id7461844"
    },
    "related": [
     "fred-am",
@@ -1688,6 +2233,22 @@
      }
     },
     {
+     "date": "2026-10-19",
+     "title": "湾区福利速报·晚间版｜2026年10月19日：2个更新：本周六圣何塞艺术博物馆全天免费",
+     "scripture": "",
+     "theme": "本期：10月24日（周六）11:00–16:00 圣何塞艺术博物馆亡灵节社区日全天免费入场（110 South Market Street, San Jose），建议提前官网免费注册；另有周日活动临近提醒。",
+     "audio": "content/bay-area-benefits/2026-10-19-pm/audio.mp3",
+     "page": "content/bay-area-benefits/2026-10-19-pm/index.md",
+     "duration_sec": 94,
+     "duration": "1:34",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-10-16",
      "title": "本期文字版清单（可直接转发）：",
      "scripture": "",
@@ -1704,11 +2265,10 @@
      }
     }
    ],
-   "count": 2,
+   "count": 3,
    "listen": {
     "pocketcasts": "https://pca.st/h33fzfrw",
-    "castbox": "https://castbox.fm/channel/id7461845",
-    "spotify": "https://open.spotify.com/show/3dhYwdRJ3DZKfUDnGJxBcu"
+    "castbox": "https://castbox.fm/channel/id7461845"
    },
    "related": [
     "fred-am",
@@ -1726,16 +2286,8 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "date": "2026-10-27",
-     "title": "沿海洪水提示延长到周五，今天中午先防漫水",
-     "scripture": "",
-     "author": "Guangyi Zhao",
-     "path": "articles/baylocal/2026-10-27-coastal-flood-advisory.md",
-     "page": "articles/baylocal/2026-10-27-coastal-flood-advisory.html"
-    },
     {
      "date": "2026-10-26",
      "title": "VTA今天起改时刻，五条公交线路先对表",
