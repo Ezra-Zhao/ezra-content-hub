@@ -1,1889 +1,1897 @@
 {
-  "site": "Ezra 内容中央枢纽",
-  "owner": "Guangyi Zhao",
-  "updated": "2026-10-21",
-  "programs": [
+ "site": "Ezra 内容中央枢纽",
+ "owner": "Guangyi Zhao",
+ "updated": "2026-10-21",
+ "programs": [
+  {
+   "id": "devotion-am",
+   "name": "每日灵修｜2分钟读经与祷告 · 早间",
+   "slot": "起后",
+   "desc": "一天的开始：一节经文、一段讲解、一句祷告，先被鼓励，再去忙碌。",
+   "category": "信仰",
+   "episodes": [
     {
-      "id": "devotion-am",
-      "name": "每日灵修｜2分钟读经与祷告 · 早间",
-      "slot": "起后",
-      "desc": "一天的开始：一节经文、一段讲解、一句祷告，先被鼓励，再去忙碌。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-25",
-          "title": "我的恩典够你用的",
-          "scripture": "哥林多后书 12:9",
-          "theme": "主没有挪开保罗的刺，却给了更好的回答：带着刺也能服事，软弱不是障碍，恰恰是恩典显出来的地方。",
-          "audio": "content/devotion-am/2026-10-25/audio.mp3",
-          "page": "content/devotion-am/2026-10-25/index.md",
-          "duration_sec": 145,
-          "duration": "2:25",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-24",
-          "title": "我必用我公义的右手扶持你",
-          "scripture": "以赛亚书 41:10",
-          "theme": "神连着说了三个「我必」：必坚固、必帮助、必扶持——先有同在，后面的帮助才有着落，周末把心放回祂手里。",
-          "audio": "content/devotion-am/2026-10-24/audio.mp3",
-          "page": "content/devotion-am/2026-10-24/index.md",
-          "duration_sec": 136,
-          "duration": "2:16",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-23",
-          "title": "你当刚强壮胆",
-          "scripture": "约书亚记 1:9",
-          "theme": "刚强壮胆的底气不是「我有把握」，而是「祂与我同在」：胆量不是等害怕消失，而是在路上长出来的。",
-          "audio": "content/devotion-am/2026-10-23/audio.mp3",
-          "page": "content/devotion-am/2026-10-23/index.md",
-          "duration_sec": 136,
-          "duration": "2:16",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-22",
-          "title": "这是耶和华所定的日子",
-          "scripture": "诗篇 118:24",
-          "theme": "今天不是随机抽到的一天：先把欢喜定在神的手里，外面的事只能排第二，带着一件谢恩的小事出门。",
-          "audio": "content/devotion-am/2026-10-22/audio.mp3",
-          "page": "content/devotion-am/2026-10-22/index.md",
-          "duration_sec": 124,
-          "duration": "2:04",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-21",
-          "title": "靠着那加给我力量的",
-          "scripture": "腓立比书 4:13",
-          "theme": "力量的来源不在自己身上：保罗在监狱里学到的知足，是把「我能」换成「靠着祂，我能」，出门前先领今天够用的口粮。",
-          "audio": "content/devotion-am/2026-10-21/audio.mp3",
-          "page": "content/devotion-am/2026-10-21/index.md",
-          "duration_sec": 140,
-          "duration": "2:20",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-20",
-          "title": "那等候耶和华的必重新得力",
-          "scripture": "以赛亚书 40:31",
-          "theme": "等候中更新：等候不是干坐着，是望着神存着盼望，力气耗干处重新得力。",
-          "audio": "content/devotion-am/2026-10-20/audio.mp3",
-          "page": "content/devotion-am/2026-10-20/index.md",
-          "duration_sec": 146,
-          "duration": "2:26",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-19",
-          "title": "你要专心仰赖耶和华",
-          "scripture": "箴言 3:5-6",
-          "theme": "不靠自己的聪明：新一周的事先交托，在所行的事上认定祂，祂必指引路。",
-          "audio": "content/devotion-am/2026-10-19/audio.mp3",
-          "page": "content/devotion-am/2026-10-19/index.md",
-          "duration_sec": 139,
-          "duration": "2:19",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-18",
-          "title": "你们不可停止聚会",
-          "scripture": "希伯来书 10:25",
-          "theme": "主日与团契：一个人像一根柴单独烧，聚在一处，火才重新旺起来。",
-          "audio": "content/devotion-am/2026-10-18/audio.mp3",
-          "page": "content/devotion-am/2026-10-18/index.md",
-          "duration_sec": 144,
-          "duration": "2:24",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-17",
-          "title": "凡劳苦担重担的人，可以到我这里来",
-          "scripture": "马太福音 11:28",
-          "theme": "把重担卸下：安息不是把事办漂亮了才配得，是先到祂面前才得着。",
-          "audio": "content/devotion-am/2026-10-17/audio.mp3",
-          "page": "content/devotion-am/2026-10-17/index.md",
-          "duration_sec": 138,
-          "duration": "2:18",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-16",
-          "title": "你们要休息，要知道我是神",
-          "scripture": "诗篇 46:10",
-          "theme": "在忙乱里停下来：把手松开、先安静，认清祂是神，再开始这一天。",
-          "audio": "content/devotion-am/2026-10-16/audio.mp3",
-          "page": "content/devotion-am/2026-10-16/index.md",
-          "duration_sec": 149,
-          "duration": "2:29",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-15",
-          "title": "祂为我们的罪作了挽回祭",
-          "scripture": "约翰一书 2:2",
-          "theme": "挽回祭与破碎：我们所传的是除去世人罪孽的神的羔羊；人身上破碎之处，正是祂动工之处。",
-          "audio": "content/devotion-am/2026-10-15/audio.mp3",
-          "page": "content/devotion-am/2026-10-15/index.md",
-          "duration_sec": 140,
-          "duration": "2:20",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 11,
-      "listen": {
-        "pocketcasts": "https://pca.st/crscel1a",
-        "castbox": "https://castbox.fm/channel/id7461795",
-        "spotify": "https://open.spotify.com/show/0aRYgnhiksutsHE8Z3C4Ns"
-      },
-      "related": [
-        "devotion-pm",
-        "devotion-am-en",
-        "devotion-am-es",
-        "devotion-am-vi",
-        "devotion-am-hi"
-      ]
+     "date": "2026-10-25",
+     "title": "我的恩典够你用的",
+     "scripture": "哥林多后书 12:9",
+     "theme": "主没有挪开保罗的刺，却给了更好的回答：带着刺也能服事，软弱不是障碍，恰恰是恩典显出来的地方。",
+     "audio": "content/devotion-am/2026-10-25/audio.mp3",
+     "page": "content/devotion-am/2026-10-25/index.md",
+     "duration_sec": 145,
+     "duration": "2:25",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "devotion-am-en",
-      "name": "Daily Devotion｜2-Minute Bible & Prayer · 早间（英语版）",
-      "slot": "起后",
-      "desc": "Daily Devotion, morning edition in English: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-23",
-          "title": "Be Strong and Courageous",
-          "scripture": "Joshua 1:9 (WEB)",
-          "theme": "Courage is not the absence of fear; it grows along the road, because He is with us.",
-          "audio": "content/devotion-am-en/2026-10-23/audio.mp3",
-          "page": "content/devotion-am-en/2026-10-23/index.md",
-          "duration_sec": 117,
-          "duration": "1:57",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-22",
-          "title": "This Is the Day the Lord Has Made",
-          "scripture": "Psalm 118:24 (WEB)",
-          "theme": "Settle your joy in God's hands first; the day's events can only come second.",
-          "audio": "content/devotion-am-en/2026-10-22/audio.mp3",
-          "page": "content/devotion-am-en/2026-10-22/index.md",
-          "duration_sec": 128,
-          "duration": "2:08",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-21",
-          "title": "Through Him Who Strengthens Me",
-          "scripture": "Philippians 4:13 (WEB)",
-          "theme": "Swap 'I can' for 'through Him, I can'; strength is daily provision, not a bonus.",
-          "audio": "content/devotion-am-en/2026-10-21/audio.mp3",
-          "page": "content/devotion-am-en/2026-10-21/index.md",
-          "duration_sec": 136,
-          "duration": "2:16",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-20",
-          "title": "Those Who Wait Shall Renew Their Strength",
-          "scripture": "Isaiah 40:31 (WEB)",
-          "theme": "Waiting is not idleness; strength is renewed, like an eagle soaring on the wind.",
-          "audio": "content/devotion-am-en/2026-10-20/audio.mp3",
-          "page": "content/devotion-am-en/2026-10-20/index.md",
-          "duration_sec": 139,
-          "duration": "2:19",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Trust in the Lord with All Your Heart",
-          "scripture": "Proverbs 3:5-6 (WEB)",
-          "theme": "Lay the week's decisions before God first; acknowledge Him, and He will make the path straight.",
-          "audio": "content/devotion-am-en/2026-10-19/audio.mp3",
-          "page": "content/devotion-am-en/2026-10-19/index.md",
-          "duration_sec": 137,
-          "duration": "2:17",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-18",
-          "title": "Do Not Give Up Meeting Together",
-          "scripture": "Hebrews 10:25 (WEB)",
-          "theme": "A lone stick of firewood burns low; together, the fire grows strong again.",
-          "audio": "content/devotion-am-en/2026-10-18/audio.mp3",
-          "page": "content/devotion-am-en/2026-10-18/index.md",
-          "duration_sec": 133,
-          "duration": "2:13",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-17",
-          "title": "Come to Me, All You Who Labor",
-          "scripture": "Matthew 11:28 (WEB)",
-          "theme": "Rest is not earned by getting everything done first; it is received when we come to Him first.",
-          "audio": "content/devotion-am-en/2026-10-17/audio.mp3",
-          "page": "content/devotion-am-en/2026-10-17/index.md",
-          "duration_sec": 113,
-          "duration": "1:53",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 7,
-      "listen": {
-        "pocketcasts": "https://pca.st/o3rbpr1h",
-        "castbox": "https://castbox.fm/channel/id7462672",
-        "spotify": "https://open.spotify.com/show/2J6o5UtUmyGikbarU23B6J"
-      },
-      "related": [
-        "devotion-pm-en",
-        "devotion-am",
-        "devotion-am-es",
-        "devotion-am-vi",
-        "devotion-am-hi"
-      ]
+     "date": "2026-10-24",
+     "title": "我必用我公义的右手扶持你",
+     "scripture": "以赛亚书 41:10",
+     "theme": "神连着说了三个「我必」：必坚固、必帮助、必扶持——先有同在，后面的帮助才有着落，周末把心放回祂手里。",
+     "audio": "content/devotion-am/2026-10-24/audio.mp3",
+     "page": "content/devotion-am/2026-10-24/index.md",
+     "duration_sec": 136,
+     "duration": "2:16",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "devotion-am-es",
-      "name": "Devoción Diaria｜Biblia y Oración · 早间（西语版）",
-      "slot": "起后",
-      "desc": "Daily Devotion, morning edition in Spanish: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-23",
-          "title": "Esfuérzate y sé valiente",
-          "scripture": "Josué 1:9 (RVR1909)",
-          "theme": "El valor no es no tener miedo; es dar el paso porque él está contigo.",
-          "audio": "content/devotion-am-es/2026-10-23/audio.mp3",
-          "page": "content/devotion-am-es/2026-10-23/index.md",
-          "duration_sec": 130,
-          "duration": "2:10",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-22",
-          "title": "Este es el día que hizo Jehová",
-          "scripture": "Salmo 118:24 (RVR1909)",
-          "theme": "Decide tu gozo antes de salir de casa, y lo demás solo podrá ir en segundo lugar.",
-          "audio": "content/devotion-am-es/2026-10-22/audio.mp3",
-          "page": "content/devotion-am-es/2026-10-22/index.md",
-          "duration_sec": 120,
-          "duration": "2:00",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-21",
-          "title": "Todo lo puedo en Cristo que me fortalece",
-          "scripture": "Filipenses 4:13 (RVR1909)",
-          "theme": "Cambia el «yo puedo» por «en Cristo puedo»: la fuerza es la ración de cada día.",
-          "audio": "content/devotion-am-es/2026-10-21/audio.mp3",
-          "page": "content/devotion-am-es/2026-10-21/index.md",
-          "duration_sec": 130,
-          "duration": "2:10",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-20",
-          "title": "Los que esperan a Jehová tendrán nuevas fuerzas",
-          "scripture": "Isaías 40:31 (RVR1909)",
-          "theme": "Esperar no es no hacer nada: es mirar a Dios, y en la espera la fuerza se renueva.",
-          "audio": "content/devotion-am-es/2026-10-20/audio.mp3",
-          "page": "content/devotion-am-es/2026-10-20/index.md",
-          "duration_sec": 136,
-          "duration": "2:16",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Fíate de Jehová de todo tu corazón",
-          "scripture": "Proverbios 3:5-6 (RVR1909)",
-          "theme": "No te apoyes en tus propios cálculos: ponlo primero ante Dios, y él enderezará tus veredas.",
-          "audio": "content/devotion-am-es/2026-10-19/audio.mp3",
-          "page": "content/devotion-am-es/2026-10-19/index.md",
-          "duration_sec": 137,
-          "duration": "2:17",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-18",
-          "title": "No dejando nuestra congregación",
-          "scripture": "Hebreos 10:25 (RVR1909)",
-          "theme": "Un tizón solo se apaga; reunidos, el fuego se aviva y nos edificamos unos a otros.",
-          "audio": "content/devotion-am-es/2026-10-18/audio.mp3",
-          "page": "content/devotion-am-es/2026-10-18/index.md",
-          "duration_sec": 135,
-          "duration": "2:15",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-17",
-          "title": "Venid a mí todos los que estáis trabajados",
-          "scripture": "Mateo 11:28 (RVR1909)",
-          "theme": "El descanso no se gana terminando todo primero; se recibe al venir primero a él.",
-          "audio": "content/devotion-am-es/2026-10-17/audio.mp3",
-          "page": "content/devotion-am-es/2026-10-17/index.md",
-          "duration_sec": 131,
-          "duration": "2:11",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 7,
-      "listen": {
-        "pocketcasts": "https://pca.st/gzym30x7",
-        "castbox": "https://castbox.fm/channel/id7462674",
-        "spotify": "https://open.spotify.com/show/4wIErEFMRzE5VRBtVGQFXy"
-      },
-      "related": [
-        "devotion-pm-es",
-        "devotion-am",
-        "devotion-am-en",
-        "devotion-am-vi",
-        "devotion-am-hi"
-      ]
+     "date": "2026-10-23",
+     "title": "你当刚强壮胆",
+     "scripture": "约书亚记 1:9",
+     "theme": "刚强壮胆的底气不是「我有把握」，而是「祂与我同在」：胆量不是等害怕消失，而是在路上长出来的。",
+     "audio": "content/devotion-am/2026-10-23/audio.mp3",
+     "page": "content/devotion-am/2026-10-23/index.md",
+     "duration_sec": 136,
+     "duration": "2:16",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "devotion-am-vi",
-      "name": "Tĩnh Nguyện Hằng Ngày｜2 Phút Đọc Kinh Thánh & Cầu Nguyện · 早间（越南语版）",
-      "slot": "起后",
-      "desc": "Daily Devotion, morning edition in Vietnamese: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-17",
-          "title": "Hãy Đến Cùng Ta, Hỡi Những Kẻ Mệt Mỏi",
-          "scripture": "Ma-thi-ơ 11:28 (Bản Truyền Thống 1925)",
-          "theme": "Sự yên nghỉ không phải là phần thưởng sau khi làm xong mọi việc; ta nhận được nó khi đến với Chúa trước tiên.",
-          "audio": "content/devotion-am-vi/2026-10-17/audio.mp3",
-          "page": "content/devotion-am-vi/2026-10-17/index.md",
-          "duration_sec": 126,
-          "duration": "2:06",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 1,
-      "listen": {
-        "pocketcasts": "https://pca.st/qpyup9sh",
-        "castbox": "https://castbox.fm/channel/id7462675",
-        "spotify": "https://open.spotify.com/show/3TCa36G9cJVBtO1uEG7axQ"
-      },
-      "related": [
-        "devotion-pm-vi",
-        "devotion-am",
-        "devotion-am-en",
-        "devotion-am-es",
-        "devotion-am-hi"
-      ]
+     "date": "2026-10-22",
+     "title": "这是耶和华所定的日子",
+     "scripture": "诗篇 118:24",
+     "theme": "今天不是随机抽到的一天：先把欢喜定在神的手里，外面的事只能排第二，带着一件谢恩的小事出门。",
+     "audio": "content/devotion-am/2026-10-22/audio.mp3",
+     "page": "content/devotion-am/2026-10-22/index.md",
+     "duration_sec": 124,
+     "duration": "2:04",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "devotion-am-hi",
-      "name": "दैनिक भक्ति｜2 मिनट बाइबल और प्रार्थना · 早间（印地语版）",
-      "slot": "起后",
-      "desc": "Daily Devotion, morning edition in Hindi: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-17",
-          "title": "मेरे पास आओ, सब परिश्रम करने वालों",
-          "scripture": "मत्ती 11:28 (HHBD)",
-          "theme": "विश्राम सब कुछ पूरा कर लेने का इनाम नहीं है; वह प्रभु के पास पहले आने पर मिलता है।",
-          "audio": "content/devotion-am-hi/2026-10-17/audio.mp3",
-          "page": "content/devotion-am-hi/2026-10-17/index.md",
-          "duration_sec": 131,
-          "duration": "2:11",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 1,
-      "listen": {
-        "pocketcasts": "https://pca.st/ffgflhzn",
-        "castbox": "https://castbox.fm/channel/id7462676",
-        "spotify": "https://open.spotify.com/show/75Y49iWpWuhGZQqlhfUD37"
-      },
-      "related": [
-        "devotion-pm-hi",
-        "devotion-am",
-        "devotion-am-en",
-        "devotion-am-es",
-        "devotion-am-vi"
-      ]
+     "date": "2026-10-21",
+     "title": "靠着那加给我力量的",
+     "scripture": "腓立比书 4:13",
+     "theme": "力量的来源不在自己身上：保罗在监狱里学到的知足，是把「我能」换成「靠着祂，我能」，出门前先领今天够用的口粮。",
+     "audio": "content/devotion-am/2026-10-21/audio.mp3",
+     "page": "content/devotion-am/2026-10-21/index.md",
+     "duration_sec": 140,
+     "duration": "2:20",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "devotion-pm",
-      "name": "每日灵修｜2分钟读经与祷告 · 睡前",
-      "slot": "睡前",
-      "desc": "一天的收尾：安息的经文与晚祷，慢下来，把这一天交在神手里，好好入睡。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-25",
-          "title": "将一切的忧虑卸给神",
-          "scripture": "彼得前书 5:7",
-          "theme": "卸包袱式的交托：因为祂顾念我们，忧虑一件一件说给祂听、真的放下，换一双更稳的手接着。",
-          "audio": "content/devotion-pm/2026-10-25/audio.mp3",
-          "page": "content/devotion-pm/2026-10-25/index.md",
-          "duration_sec": 110,
-          "duration": "1:50",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-24",
-          "title": "住在至高者隐密处的",
-          "scripture": "诗篇 91:1-2",
-          "theme": "隐密处不是临时躲避的防空洞，而是平日住下的地方：把最放心不下的事连同自己，一起搬进祂的荫下。",
-          "audio": "content/devotion-pm/2026-10-24/audio.mp3",
-          "page": "content/devotion-pm/2026-10-24/index.md",
-          "duration_sec": 122,
-          "duration": "2:02",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-23",
-          "title": "我留下平安给你们",
-          "scripture": "约翰福音 14:27",
-          "theme": "主的平安不像世人所赐的：环境还没变，心先安了；把这一周的好与坏都放下，别让它们跟着上床。",
-          "audio": "content/devotion-pm/2026-10-23/audio.mp3",
-          "page": "content/devotion-pm/2026-10-23/index.md",
-          "duration_sec": 117,
-          "duration": "1:57",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-22",
-          "title": "祂叫所亲爱的安然睡觉",
-          "scripture": "诗篇 127:2",
-          "theme": "睡觉是神给所亲爱之人的礼物：你先睡，祂不睡；你歇手，祂的手没有歇，没做完的留给明天的功课。",
-          "audio": "content/devotion-pm/2026-10-22/audio.mp3",
-          "page": "content/devotion-pm/2026-10-22/index.md",
-          "duration_sec": 129,
-          "duration": "2:09",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-21",
-          "title": "祂亲自同去，使你得安息",
-          "scripture": "出埃及记 33:14",
-          "theme": "安息不是到了目的地才有：明天那段路祂亲自同行，今晚先把脚步停下来，让祂走在前头。",
-          "audio": "content/devotion-pm/2026-10-21/audio.mp3",
-          "page": "content/devotion-pm/2026-10-21/index.md",
-          "duration_sec": 120,
-          "duration": "2:00",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-20",
-          "title": "夜里思想祂的话",
-          "scripture": "诗篇 63:6",
-          "theme": "在床上记念祢：在旷野的夜里思想神的话，心像饱足了骨髓肥油。",
-          "audio": "content/devotion-pm/2026-10-20/audio.mp3",
-          "page": "content/devotion-pm/2026-10-20/index.md",
-          "duration_sec": 108,
-          "duration": "1:48",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-19",
-          "title": "睡前数算今天的恩典",
-          "scripture": "耶利米哀歌 3:22-23",
-          "theme": "每早晨都是新的：睡前数算今天的恩典——祂的怜悯不断绝，诚实极其广大。",
-          "audio": "content/devotion-pm/2026-10-19/audio.mp3",
-          "page": "content/devotion-pm/2026-10-19/index.md",
-          "duration_sec": 118,
-          "duration": "1:58",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-18",
-          "title": "夜里的歌",
-          "scripture": "诗篇 42:8",
-          "theme": "白昼施慈爱，黑夜有歌声：离家发愁的人，数算的不是眼泪，是祂的慈爱。",
-          "audio": "content/devotion-pm/2026-10-18/audio.mp3",
-          "page": "content/devotion-pm/2026-10-18/index.md",
-          "duration_sec": 128,
-          "duration": "2:08",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-17",
-          "title": "祂守夜，我安睡",
-          "scripture": "诗篇 121:3-4",
-          "theme": "保护你的必不打盹：祂守夜，我们安睡；走远路的人夜里也不孤单。",
-          "audio": "content/devotion-pm/2026-10-17/audio.mp3",
-          "page": "content/devotion-pm/2026-10-17/index.md",
-          "duration_sec": 124,
-          "duration": "2:04",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-16",
-          "title": "放下今天，平安入睡",
-          "scripture": "诗篇 4:8",
-          "theme": "我必安然躺下睡觉：让人睡不着的事先算清楚，独有耶和华使我安然居住。",
-          "audio": "content/devotion-pm/2026-10-16/audio.mp3",
-          "page": "content/devotion-pm/2026-10-16/index.md",
-          "duration_sec": 121,
-          "duration": "2:01",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 10,
-      "listen": {
-        "pocketcasts": "https://pca.st/crscel1a",
-        "castbox": "https://castbox.fm/channel/id7461795",
-        "spotify": "https://open.spotify.com/show/0aRYgnhiksutsHE8Z3C4Ns"
-      },
-      "related": [
-        "devotion-am",
-        "devotion-pm-en",
-        "devotion-pm-es",
-        "devotion-pm-vi",
-        "devotion-pm-hi"
-      ]
+     "date": "2026-10-20",
+     "title": "那等候耶和华的必重新得力",
+     "scripture": "以赛亚书 40:31",
+     "theme": "等候中更新：等候不是干坐着，是望着神存着盼望，力气耗干处重新得力。",
+     "audio": "content/devotion-am/2026-10-20/audio.mp3",
+     "page": "content/devotion-am/2026-10-20/index.md",
+     "duration_sec": 146,
+     "duration": "2:26",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "devotion-pm-en",
-      "name": "Daily Devotion｜2-Minute Bible & Prayer · 睡前（英语版）",
-      "slot": "睡前",
-      "desc": "Daily Devotion, bedtime edition in English: a verse of rest and a closing prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-23",
-          "title": "My Peace I Give to You",
-          "scripture": "John 14:27 (WEB)",
-          "theme": "His peace is given before circumstances change; lay the week down at His feet tonight.",
-          "audio": "content/devotion-pm-en/2026-10-23/audio.mp3",
-          "page": "content/devotion-pm-en/2026-10-23/index.md",
-          "duration_sec": 111,
-          "duration": "1:51",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-22",
-          "title": "He Gives Sleep to His Loved Ones",
-          "scripture": "Psalm 127:2 (WEB)",
-          "theme": "Sleep is a gift; loosen the day's taut string before your head reaches the pillow.",
-          "audio": "content/devotion-pm-en/2026-10-22/audio.mp3",
-          "page": "content/devotion-pm-en/2026-10-22/index.md",
-          "duration_sec": 127,
-          "duration": "2:07",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-21",
-          "title": "My Presence Will Go with You",
-          "scripture": "Exodus 33:14 (WEB)",
-          "theme": "Rest does not wait for the destination; it comes because He travels the road with us.",
-          "audio": "content/devotion-pm-en/2026-10-21/audio.mp3",
-          "page": "content/devotion-pm-en/2026-10-21/index.md",
-          "duration_sec": 115,
-          "duration": "1:55",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-20",
-          "title": "I Remember You on My Bed",
-          "scripture": "Psalm 63:6 (WEB)",
-          "theme": "One verse held in the heart at night feeds more than ten that slide past.",
-          "audio": "content/devotion-pm-en/2026-10-20/audio.mp3",
-          "page": "content/devotion-pm-en/2026-10-20/index.md",
-          "duration_sec": 110,
-          "duration": "1:50",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Great Is Your Faithfulness",
-          "scripture": "Lamentations 3:22-23 (WEB)",
-          "theme": "Count three small mercies before sleep, and the heart settles.",
-          "audio": "content/devotion-pm-en/2026-10-19/audio.mp3",
-          "page": "content/devotion-pm-en/2026-10-19/index.md",
-          "duration_sec": 118,
-          "duration": "1:58",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-18",
-          "title": "His Song in the Night",
-          "scripture": "Psalm 42:8 (WEB)",
-          "theme": "By day we sing because we see grace; at night we sing because we believe grace is still there.",
-          "audio": "content/devotion-pm-en/2026-10-18/audio.mp3",
-          "page": "content/devotion-pm-en/2026-10-18/index.md",
-          "duration_sec": 107,
-          "duration": "1:47",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-17",
-          "title": "He Who Keeps You Will Not Slumber",
-          "scripture": "Psalm 121:3-4 (WEB)",
-          "theme": "We can sleep in peace, because He stays awake all night.",
-          "audio": "content/devotion-pm-en/2026-10-17/audio.mp3",
-          "page": "content/devotion-pm-en/2026-10-17/index.md",
-          "duration_sec": 139,
-          "duration": "2:19",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 7,
-      "listen": {
-        "pocketcasts": "https://pca.st/o3rbpr1h",
-        "castbox": "https://castbox.fm/channel/id7462672",
-        "spotify": "https://open.spotify.com/show/2J6o5UtUmyGikbarU23B6J"
-      },
-      "related": [
-        "devotion-am-en",
-        "devotion-pm",
-        "devotion-pm-es",
-        "devotion-pm-vi",
-        "devotion-pm-hi"
-      ]
+     "date": "2026-10-19",
+     "title": "你要专心仰赖耶和华",
+     "scripture": "箴言 3:5-6",
+     "theme": "不靠自己的聪明：新一周的事先交托，在所行的事上认定祂，祂必指引路。",
+     "audio": "content/devotion-am/2026-10-19/audio.mp3",
+     "page": "content/devotion-am/2026-10-19/index.md",
+     "duration_sec": 139,
+     "duration": "2:19",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "devotion-pm-es",
-      "name": "Devoción Diaria｜Biblia y Oración · 睡前（西语版）",
-      "slot": "睡前",
-      "desc": "Daily Devotion, bedtime edition in Spanish: a verse of rest, a short reflection, and an evening prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-23",
-          "title": "La paz os dejo",
-          "scripture": "Juan 14:27 (RVR1909)",
-          "theme": "Su paz se da antes de que cambie el ambiente: recíbela esta noche y duerme tranquilo.",
-          "audio": "content/devotion-pm-es/2026-10-23/audio.mp3",
-          "page": "content/devotion-pm-es/2026-10-23/index.md",
-          "duration_sec": 123,
-          "duration": "2:03",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-22",
-          "title": "A su amado dará Dios el sueño",
-          "scripture": "Salmo 127:2 (RVR1909)",
-          "theme": "Dormir en paz es un regalo para sus amados: afloja la cuerda; lo demás es tarea de mañana.",
-          "audio": "content/devotion-pm-es/2026-10-22/audio.mp3",
-          "page": "content/devotion-pm-es/2026-10-22/index.md",
-          "duration_sec": 127,
-          "duration": "2:07",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-21",
-          "title": "Mi presencia irá contigo",
-          "scripture": "Éxodo 33:14 (RVR1909)",
-          "theme": "El descanso no espera a llegar al destino: su presencia va contigo en todo el camino.",
-          "audio": "content/devotion-pm-es/2026-10-21/audio.mp3",
-          "page": "content/devotion-pm-es/2026-10-21/index.md",
-          "duration_sec": 137,
-          "duration": "2:17",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-20",
-          "title": "Cuando me acordaré de ti en mi lecho",
-          "scripture": "Salmo 63:6 (RVR1909)",
-          "theme": "Una sola frase de su palabra, saboreada en la noche, alimenta más que diez que pasan de largo.",
-          "audio": "content/devotion-pm-es/2026-10-20/audio.mp3",
-          "page": "content/devotion-pm-es/2026-10-20/index.md",
-          "duration_sec": 140,
-          "duration": "2:20",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Nuevas son cada mañana",
-          "scripture": "Lamentaciones 3:22-23 (RVR1909)",
-          "theme": "Antes de dormir, cuenta tres misericordias de hoy: su fidelidad no se interrumpió ni un momento.",
-          "audio": "content/devotion-pm-es/2026-10-19/audio.mp3",
-          "page": "content/devotion-pm-es/2026-10-19/index.md",
-          "duration_sec": 123,
-          "duration": "2:03",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-18",
-          "title": "De noche su canción será conmigo",
-          "scripture": "Salmo 42:8 (RVR1909)",
-          "theme": "De día su misericordia, de noche su canción: aunque oscurezca, él sigue ahí.",
-          "audio": "content/devotion-pm-es/2026-10-18/audio.mp3",
-          "page": "content/devotion-pm-es/2026-10-18/index.md",
-          "duration_sec": 128,
-          "duration": "2:08",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-17",
-          "title": "No se dormirá el que te guarda",
-          "scripture": "Salmo 121:3-4 (RVR1909)",
-          "theme": "Tú duermes; el que te guarda no se adormece ni duerme. Esta noche puedes soltarlo todo.",
-          "audio": "content/devotion-pm-es/2026-10-17/audio.mp3",
-          "page": "content/devotion-pm-es/2026-10-17/index.md",
-          "duration_sec": 134,
-          "duration": "2:14",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 7,
-      "listen": {
-        "pocketcasts": "https://pca.st/gzym30x7",
-        "castbox": "https://castbox.fm/channel/id7462674",
-        "spotify": "https://open.spotify.com/show/4wIErEFMRzE5VRBtVGQFXy"
-      },
-      "related": [
-        "devotion-am-es",
-        "devotion-pm",
-        "devotion-pm-en",
-        "devotion-pm-vi",
-        "devotion-pm-hi"
-      ]
+     "date": "2026-10-18",
+     "title": "你们不可停止聚会",
+     "scripture": "希伯来书 10:25",
+     "theme": "主日与团契：一个人像一根柴单独烧，聚在一处，火才重新旺起来。",
+     "audio": "content/devotion-am/2026-10-18/audio.mp3",
+     "page": "content/devotion-am/2026-10-18/index.md",
+     "duration_sec": 144,
+     "duration": "2:24",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "devotion-pm-vi",
-      "name": "Tĩnh Nguyện Hằng Ngày｜2 Phút Đọc Kinh Thánh & Cầu Nguyện · 睡前（越南语版）",
-      "slot": "睡前",
-      "desc": "Daily Devotion, bedtime edition in Vietnamese: a verse of rest, a short reflection, and an evening prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-17",
-          "title": "Đấng Gìn Giữ Ngươi Không Hề Buồn Ngủ",
-          "scripture": "Thi-thiên 121:3-4 (Bản Truyền Thống 1925)",
-          "theme": "Đêm nay ta có thể yên tâm ngủ, vì Đấng canh giữ ta thức trọn cả đêm không hề buồn ngủ.",
-          "audio": "content/devotion-pm-vi/2026-10-17/audio.mp3",
-          "page": "content/devotion-pm-vi/2026-10-17/index.md",
-          "duration_sec": 138,
-          "duration": "2:18",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 1,
-      "listen": {
-        "pocketcasts": "https://pca.st/qpyup9sh",
-        "castbox": "https://castbox.fm/channel/id7462675",
-        "spotify": "https://open.spotify.com/show/3TCa36G9cJVBtO1uEG7axQ"
-      },
-      "related": [
-        "devotion-am-vi",
-        "devotion-pm",
-        "devotion-pm-en",
-        "devotion-pm-es",
-        "devotion-pm-hi"
-      ]
+     "date": "2026-10-17",
+     "title": "凡劳苦担重担的人，可以到我这里来",
+     "scripture": "马太福音 11:28",
+     "theme": "把重担卸下：安息不是把事办漂亮了才配得，是先到祂面前才得着。",
+     "audio": "content/devotion-am/2026-10-17/audio.mp3",
+     "page": "content/devotion-am/2026-10-17/index.md",
+     "duration_sec": 138,
+     "duration": "2:18",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "devotion-pm-hi",
-      "name": "दैनिक भक्ति｜2 मिनट बाइबल और प्रार्थना · 睡前（印地语版）",
-      "slot": "睡前",
-      "desc": "Daily Devotion, bedtime edition in Hindi: a verse of rest, a short reflection, and an evening prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-17",
-          "title": "तेरा रक्षक कभी न ऊंघेगा",
-          "scripture": "भजन संहिता 121:3-4 (HHBD)",
-          "theme": "हम शांति से सो सकते हैं, क्योंकि हमारा रक्षक पूरी रात जागता है।",
-          "audio": "content/devotion-pm-hi/2026-10-17/audio.mp3",
-          "page": "content/devotion-pm-hi/2026-10-17/index.md",
-          "duration_sec": 126,
-          "duration": "2:06",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 1,
-      "listen": {
-        "pocketcasts": "https://pca.st/ffgflhzn",
-        "castbox": "https://castbox.fm/channel/id7462676",
-        "spotify": "https://open.spotify.com/show/75Y49iWpWuhGZQqlhfUD37"
-      },
-      "related": [
-        "devotion-am-hi",
-        "devotion-pm",
-        "devotion-pm-en",
-        "devotion-pm-es",
-        "devotion-pm-vi"
-      ]
+     "date": "2026-10-16",
+     "title": "你们要休息，要知道我是神",
+     "scripture": "诗篇 46:10",
+     "theme": "在忙乱里停下来：把手松开、先安静，认清祂是神，再开始这一天。",
+     "audio": "content/devotion-am/2026-10-16/audio.mp3",
+     "page": "content/devotion-am/2026-10-16/index.md",
+     "duration_sec": 149,
+     "duration": "2:29",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "sermons",
-      "name": "瓦器分享｜圣经讲解与讲道",
-      "slot": "讲道",
-      "desc": "圣经原文解经讲道：开场祷告、三大部分讲论、交叉经文与应用。",
-      "category": "信仰",
-      "episodes": [
-        {
-          "date": "2026-10-15",
-          "title": "第七日的安息",
-          "scripture": "创世记 2:1-3",
-          "theme": "从原文词义讲神为什么安息、安息日的设立，以及安息如何进到我们今天的生活。",
-          "audio": "content/sermons/2026-10-15/audio.mp3",
-          "page": "content/sermons/2026-10-15/index.md",
-          "duration_sec": 302,
-          "duration": "5:02",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-09",
-          "title": "天国的颠覆性生命",
-          "scripture": "马太福音 5:4-5",
-          "theme": "哀恸的人与温柔的人：天国的生命逻辑与世界相反，柔和谦卑里藏着承受地土的福。",
-          "audio": "content/sermons/2026-10-09/audio.mp3",
-          "page": "content/sermons/2026-10-09/index.md",
-          "duration_sec": 312,
-          "duration": "5:12",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 2,
-      "listen": {
-        "pocketcasts": "https://pca.st/80mejg80",
-        "castbox": "https://castbox.fm/channel/id7462659",
-        "spotify": "https://open.spotify.com/show/10oK7WvRbfZcVMoljbtQuS"
-      },
-      "related": [
-        "devotion-am",
-        "devotion-pm",
-        "book-talk"
-      ]
-    },
-    {
-      "id": "book-talk",
-      "name": "小憩片刻",
-      "slot": "讲书",
-      "desc": "讲书节目：五大领域轮值选书，十几分钟讲清一本书的主线与取舍。",
-      "category": "读书",
-      "episodes": [],
-      "count": 0,
-      "related": [
-        "sermons",
-        "devotion-am"
-      ]
-    },
-    {
-      "id": "news-am",
-      "name": "早间新闻",
-      "slot": "早间",
-      "desc": "早间新闻播报（筹备中）。",
-      "category": "时效",
-      "episodes": [],
-      "count": 0,
-      "related": [
-        "fred-am",
-        "fred-pm",
-        "silicon-valley",
-        "longevity",
-        "immigration",
-        "bay-area-benefits",
-        "stocks-pm"
-      ]
-    },
-    {
-      "id": "news-pm",
-      "name": "晚间新闻",
-      "slot": "晚间",
-      "desc": "晚间新闻播报（筹备中）。",
-      "category": "时效",
-      "episodes": [],
-      "count": 0,
-      "related": [
-        "fred-am",
-        "fred-pm",
-        "silicon-valley",
-        "longevity",
-        "immigration",
-        "bay-area-benefits",
-        "stocks-pm"
-      ]
-    },
-    {
-      "id": "stocks-am",
-      "name": "早间股市",
-      "slot": "早间",
-      "desc": "早间股市播报（筹备中）。",
-      "category": "财经",
-      "episodes": [],
-      "count": 0,
-      "related": [
-        "fred-am",
-        "fred-pm",
-        "silicon-valley",
-        "longevity",
-        "immigration",
-        "bay-area-benefits",
-        "stocks-pm"
-      ]
-    },
-    {
-      "id": "stocks-pm",
-      "name": "美股盘后小结｜三大指数与板块复盘",
-      "slot": "晚间",
-      "desc": "晚间股市播报：美股盘后小结，三大指数、板块与个股要点。",
-      "category": "财经",
-      "episodes": [
-        {
-          "date": "2026-10-14",
-          "title": "美股盘后小结 10月14日：九月通胀超预期+三大指数收跌",
-          "scripture": "",
-          "theme": "美股盘后小结 10月14日：九月通胀超预期+三大指数收跌",
-          "audio": "content/stocks-pm/2026-10-14/audio.mp3",
-          "page": "content/stocks-pm/2026-10-14/index.md",
-          "duration_sec": 75,
-          "duration": "1:15",
-          "video_url": "https://www.youtube.com/watch?v=hynPSJwV_j8",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=hynPSJwV_j8"
-          }
-        },
-        {
-          "date": "2026-10-13",
-          "title": "美股盘后小结 10月13日：高盛财报大超预期+三大指数近平盘",
-          "scripture": "",
-          "theme": "美股盘后小结 10月13日：高盛财报大超预期+三大指数近平盘",
-          "audio": "content/stocks-pm/2026-10-13/audio.mp3",
-          "page": "content/stocks-pm/2026-10-13/index.md",
-          "duration_sec": 67,
-          "duration": "1:07",
-          "video_url": "https://www.youtube.com/watch?v=Ha6tci8y4ms",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=Ha6tci8y4ms"
-          }
-        },
-        {
-          "date": "2026-10-12",
-          "title": "美股盘后小结 10月12日：三大指数涨跌不一+油价上涨能源领跑",
-          "scripture": "",
-          "theme": "美股盘后小结 10月12日：三大指数涨跌不一+油价上涨能源领跑",
-          "audio": "content/stocks-pm/2026-10-12/audio.mp3",
-          "page": "content/stocks-pm/2026-10-12/index.md",
-          "duration_sec": 64,
-          "duration": "1:04",
-          "video_url": "https://www.youtube.com/watch?v=U-MHn1H-B_A",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=U-MHn1H-B_A"
-          }
-        },
-        {
-          "date": "2026-10-07",
-          "title": "美股盘后小结 10月7日",
-          "scripture": "",
-          "theme": "美股盘后小结 10月7日",
-          "audio": "content/stocks-pm/2026-10-07/audio.mp3",
-          "page": "content/stocks-pm/2026-10-07/index.md",
-          "duration_sec": 68,
-          "duration": "1:08",
-          "video_url": "https://www.youtube.com/watch?v=Ps47l2RcjoU",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=Ps47l2RcjoU"
-          }
-        },
-        {
-          "date": "2026-10-06",
-          "title": "美股盘后小结 10月6日",
-          "scripture": "",
-          "theme": "美股盘后小结 10月6日",
-          "audio": "content/stocks-pm/2026-10-06/audio.mp3",
-          "page": "content/stocks-pm/2026-10-06/index.md",
-          "duration_sec": 64,
-          "duration": "1:04",
-          "video_url": "https://www.youtube.com/watch?v=u393jWCCmII",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=u393jWCCmII"
-          }
-        },
-        {
-          "date": "2026-10-05",
-          "title": "美股盘后小结 10月5日",
-          "scripture": "",
-          "theme": "美股盘后小结 10月5日",
-          "audio": "content/stocks-pm/2026-10-05/audio.mp3",
-          "page": "content/stocks-pm/2026-10-05/index.md",
-          "duration_sec": 76,
-          "duration": "1:16",
-          "video_url": "https://www.youtube.com/watch?v=TzlubID3-yQ",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=TzlubID3-yQ"
-          }
-        }
-      ],
-      "count": 6,
-      "listen": {
-        "pocketcasts": "https://pca.st/hjlsxiw2",
-        "castbox": "https://castbox.fm/channel/id7461849",
-        "spotify": "https://open.spotify.com/show/6pszFWwGDLWUmKlS3F3Gi2"
-      },
-      "related": [
-        "fred-am",
-        "fred-pm",
-        "silicon-valley",
-        "longevity",
-        "immigration",
-        "bay-area-benefits"
-      ]
-    },
-    {
-      "id": "fred-am",
-      "name": "美国百指日报｜FRED经济指标与宏观速报 · 早间",
-      "slot": "早间",
-      "desc": "美国百指日报早版：100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。",
-      "category": "时效",
-      "episodes": [
-        {
-          "date": "2026-10-20",
-          "title": "《美国百指日报》2026-10-20｜9月新屋开工降到122万套，明显低于预期",
-          "scripture": "",
-          "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
-          "audio": "content/fred-am/2026-10-20/audio.mp3",
-          "page": "content/fred-am/2026-10-20/index.md",
-          "duration_sec": 355,
-          "duration": "5:55",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-17",
-          "title": "《美国百指日报》2026-10-17｜隔夜逆回购一天缩回1亿美元，实际利率仍在异常高位",
-          "scripture": "",
-          "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
-          "audio": "content/fred-am/2026-10-17/audio.mp3",
-          "page": "content/fred-am/2026-10-17/index.md",
-          "duration_sec": 258,
-          "duration": "4:18",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 2,
-      "listen": {
-        "pocketcasts": "https://pca.st/6f0xci2e",
-        "castbox": "https://castbox.fm/channel/id7461832",
-        "spotify": "https://open.spotify.com/show/7uTGrPdAO2CLTFk5Azz1ZQ"
-      },
-      "related": [
-        "fred-pm",
-        "silicon-valley",
-        "longevity",
-        "immigration",
-        "bay-area-benefits",
-        "stocks-pm"
-      ]
-    },
-    {
-      "id": "fred-pm",
-      "name": "美国百指日报｜FRED经济指标与宏观速报 · 晚间",
-      "slot": "晚间",
-      "desc": "美国百指日报晚版：当日经济指标收官复盘与次日前瞻。",
-      "category": "时效",
-      "episodes": [
-        {
-          "date": "2026-10-20",
-          "title": "美国百指日报·晚间速报｜10月20日：成屋签约销售跌7.3%创纪录新低，开工同样低于预期",
-          "scripture": "",
-          "theme": "晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与本周前瞻。",
-          "audio": "content/fred-pm/2026-10-20/audio.mp3",
-          "page": "content/fred-pm/2026-10-20/index.md",
-          "duration_sec": 124,
-          "duration": "2:04",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-18",
-          "title": "美国百指日报·晚间速报｜10月18日：周日无新数据，高位读数未变，明日先看住房指数",
-          "scripture": "",
-          "theme": "晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与下周前瞻。",
-          "audio": "content/fred-pm/2026-10-18/audio.mp3",
-          "page": "content/fred-pm/2026-10-18/index.md",
-          "duration_sec": 120,
-          "duration": "2:00",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-17",
-          "title": "美国百指日报·晚间速报｜10月17日：周六无新数据，标普周五跌1.09%，通胀预期小幅上行",
-          "scripture": "",
-          "theme": "晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与下周前瞻。",
-          "audio": "content/fred-pm/2026-10-17/audio.mp3",
-          "page": "content/fred-pm/2026-10-17/index.md",
-          "duration_sec": 117,
-          "duration": "1:57",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 3,
-      "listen": {
-        "pocketcasts": "https://pca.st/6f0xci2e",
-        "castbox": "https://castbox.fm/channel/id7461832",
-        "spotify": "https://open.spotify.com/show/7uTGrPdAO2CLTFk5Azz1ZQ"
-      },
-      "related": [
-        "fred-am",
-        "silicon-valley",
-        "longevity",
-        "immigration",
-        "bay-area-benefits",
-        "stocks-pm"
-      ]
-    },
-    {
-      "id": "longevity",
-      "name": "长寿前沿日报｜抗衰老与健康科学",
-      "slot": "双版",
-      "desc": "长寿与健康前沿速报：每天替你读长寿与健康领域的论文与研究。",
-      "category": "时效",
-      "episodes": [
-        {
-          "date": "2026-10-20",
-          "title": "长寿前沿日报·晚间版｜10月20日：乙肝新药获批，近五分之一停药后仍达标 · 晚版",
-          "scripture": "",
-          "theme": "本期：FDA 10月20日批准Hibsago（bepirovirsen）用于特定成年慢性乙肝患者（B-Well三期汇总19%功能性治愈对安慰剂0，数据来自企业发布）；日间主打后续——多塔利单抗研究者评估口径68%与独立评审47%口径不同、不",
-          "audio": "content/longevity/2026-10-20-pm/audio.mp3",
-          "page": "content/longevity/2026-10-20-pm/index.md",
-          "duration_sec": 106,
-          "duration": "1:46",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-19",
-          "title": "长寿前沿日报｜10月19日：百岁老人的子女死亡风险低42%",
-          "scripture": "",
-          "theme": "本期：JAMA Network Open 百岁老人子女队列（2319人对2703人，死亡风险低42%，观察性、不等于因果）；FDA批准萨特利珠单抗用于成人甲状腺眼病（数据来自企业发布，另一项试验未达主要终点）；CDC今冬呼吸道疾病展望（机构",
-          "audio": "content/longevity/2026-10-19/audio.mp3",
-          "page": "content/longevity/2026-10-19/index.md",
-          "duration_sec": 120,
-          "duration": "2:00",
-          "video_url": "https://www.youtube.com/watch?v=D-6m-KGftv8",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=D-6m-KGftv8"
-          }
-        },
-        {
-          "date": "2026-10-16",
-          "title": "本节目只做信息分享，不构成医疗建议。",
-          "scripture": "",
-          "theme": "出处：",
-          "audio": "content/longevity/2026-10-16/audio.mp3",
-          "page": "content/longevity/2026-10-16/index.md",
-          "duration_sec": 96,
-          "duration": "1:36",
-          "video_url": "https://www.youtube.com/watch?v=p_H91GBe-4I",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=p_H91GBe-4I"
-          }
-        }
-      ],
-      "count": 3,
-      "listen": {
-        "pocketcasts": "https://pca.st/6j7eccp9",
-        "castbox": "https://castbox.fm/channel/id7461840",
-        "spotify": "https://open.spotify.com/show/4aC8JVlnrKeHg4mcElsyAj"
-      },
-      "related": [
-        "fred-am",
-        "fred-pm",
-        "silicon-valley",
-        "immigration",
-        "bay-area-benefits",
-        "stocks-pm"
-      ]
-    },
-    {
-      "id": "silicon-valley",
-      "name": "硅谷科技日报｜AI与科技产业速报",
-      "slot": "双版",
-      "desc": "硅谷科技动态速报：AI 与科技公司最新进展。",
-      "category": "科技",
-      "episodes": [
-        {
-          "date": "2026-10-20",
-          "title": "硅谷科技日报｜10月20日：OpenAI新模型主攻低资源与老语言，COBOL迁移自测大涨",
-          "scripture": "",
-          "theme": "出处：",
-          "audio": "content/silicon-valley/2026-10-20/audio.mp3",
-          "page": "content/silicon-valley/2026-10-20/index.md",
-          "duration_sec": 128,
-          "duration": "2:08",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-20",
-          "title": "硅谷科技日报·晚间版｜10月20日：谷歌联手Meta，PyTorch原生搬上TPU · 晚版",
-          "scripture": "",
-          "theme": "出处：",
-          "audio": "content/silicon-valley/2026-10-20-pm/audio.mp3",
-          "page": "content/silicon-valley/2026-10-20-pm/index.md",
-          "duration_sec": 95,
-          "duration": "1:35",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-19",
-          "title": "硅谷科技日报·晚间版｜10月19日：Cloudflare新模型不写字，只从杂料里取数 · 晚版",
-          "scripture": "",
-          "theme": "出处：",
-          "audio": "content/silicon-valley/2026-10-19-pm/audio.mp3",
-          "page": "content/silicon-valley/2026-10-19-pm/index.md",
-          "duration_sec": 104,
-          "duration": "1:44",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-16",
-          "title": "出处：",
-          "scripture": "",
-          "theme": "- Anthropic 平台发布说明（2026-10-15）：https://releasebot.io/updates/anthropic/claude-developer-platform",
-          "audio": "content/silicon-valley/2026-10-16/audio.mp3",
-          "page": "content/silicon-valley/2026-10-16/index.md",
-          "duration_sec": 104,
-          "duration": "1:44",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 4,
-      "listen": {
-        "pocketcasts": "https://pca.st/x7267sh2",
-        "castbox": "https://castbox.fm/channel/id7461835",
-        "spotify": "https://open.spotify.com/show/6GLuLwUB8qPj3ReYvoJcJY"
-      },
-      "related": [
-        "fred-am",
-        "fred-pm",
-        "longevity",
-        "immigration",
-        "bay-area-benefits",
-        "stocks-pm"
-      ]
-    },
-    {
-      "id": "immigration",
-      "name": "移民政策速报｜美国移民与签证解读",
-      "slot": "双版",
-      "desc": "移民政策速报：美国移民政策与法规变化解读。",
-      "category": "时效",
-      "episodes": [
-        {
-          "date": "2026-10-20",
-          "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
-          "scripture": "",
-          "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
-          "audio": "content/immigration/2026-10-20/audio.mp3",
-          "page": "content/immigration/2026-10-20/index.md",
-          "duration_sec": 104,
-          "duration": "1:44",
-          "video_url": "https://www.youtube.com/watch?v=X-VA7-4Ae84",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=X-VA7-4Ae84"
-          }
-        },
-        {
-          "date": "2026-10-19",
-          "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
-          "scripture": "",
-          "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
-          "audio": "content/immigration/2026-10-19/audio.mp3",
-          "page": "content/immigration/2026-10-19/index.md",
-          "duration_sec": 116,
-          "duration": "1:56",
-          "video_url": "https://www.youtube.com/watch?v=bP0Au4tJUqI",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=bP0Au4tJUqI"
-          }
-        },
-        {
-          "date": "2026-10-16",
-          "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
-          "scripture": "",
-          "theme": "信息来源为美国政府官方公告，政策以官方原文为准，公告日期见片中标注。",
-          "audio": "content/immigration/2026-10-16/audio.mp3",
-          "page": "content/immigration/2026-10-16/index.md",
-          "duration_sec": 95,
-          "duration": "1:35",
-          "video_url": "https://www.youtube.com/watch?v=X4wgpVsvhr8",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": "https://www.youtube.com/watch?v=X4wgpVsvhr8"
-          }
-        }
-      ],
-      "count": 3,
-      "listen": {
-        "pocketcasts": "https://pca.st/8vhld1p4",
-        "castbox": "https://castbox.fm/channel/id7461844",
-        "spotify": "https://open.spotify.com/show/7MaP0UhZgJQJAikB7PpzFI"
-      },
-      "related": [
-        "fred-am",
-        "fred-pm",
-        "silicon-valley",
-        "longevity",
-        "bay-area-benefits",
-        "stocks-pm"
-      ]
-    },
-    {
-      "id": "bay-area-benefits",
-      "name": "湾区福利速报｜补助与生活资讯",
-      "slot": "双版",
-      "desc": "湾区福利与生活资讯速报：福利、补助与生活信息。",
-      "category": "时效",
-      "episodes": [
-        {
-          "date": "2026-10-20",
-          "title": "本期文字版清单（可直接转发）：",
-          "scripture": "",
-          "theme": "1）10月24日（周六）11:00–16:00，圣何塞艺术博物馆（110 South Market Street, San Jose）亡灵节社区日，全天免费入场；全年龄可参加，建议提前在官网免费注册，也可直接到场；糖骷髅装饰免费，但需另领当",
-          "audio": "content/bay-area-benefits/2026-10-20/audio.mp3",
-          "page": "content/bay-area-benefits/2026-10-20/index.md",
-          "duration_sec": 91,
-          "duration": "1:31",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        },
-        {
-          "date": "2026-10-16",
-          "title": "本期文字版清单（可直接转发）：",
-          "scripture": "",
-          "theme": "1）10月17日（周六）9:30–17:15，de Young博物馆 + 荣誉军团博物馆（旧金山），常设展厅对湾区九县居民免费（含Santa Clara县）；带照片证件或带住址信封，必须提前订定时票，特展不含。",
-          "audio": "content/bay-area-benefits/2026-10-16/audio.mp3",
-          "page": "content/bay-area-benefits/2026-10-16/index.md",
-          "duration_sec": 88,
-          "duration": "1:28",
-          "video_url": "",
-          "links": {
-            "spotify": "",
-            "x": "",
-            "youtube": ""
-          }
-        }
-      ],
-      "count": 2,
-      "listen": {
-        "pocketcasts": "https://pca.st/h33fzfrw",
-        "castbox": "https://castbox.fm/channel/id7461845",
-        "spotify": "https://open.spotify.com/show/3dhYwdRJ3DZKfUDnGJxBcu"
-      },
-      "related": [
-        "fred-am",
-        "fred-pm",
-        "silicon-valley",
-        "longevity",
-        "immigration",
-        "stocks-pm"
-      ]
+     "date": "2026-10-15",
+     "title": "祂为我们的罪作了挽回祭",
+     "scripture": "约翰一书 2:2",
+     "theme": "挽回祭与破碎：我们所传的是除去世人罪孽的神的羔羊；人身上破碎之处，正是祂动工之处。",
+     "audio": "content/devotion-am/2026-10-15/audio.mp3",
+     "page": "content/devotion-am/2026-10-15/index.md",
+     "duration_sec": 140,
+     "duration": "2:20",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     }
-  ],
-  "articles": [
+   ],
+   "count": 11,
+   "listen": {
+    "pocketcasts": "https://pca.st/crscel1a",
+    "castbox": "https://castbox.fm/channel/id7461795",
+    "spotify": "https://open.spotify.com/show/0aRYgnhiksutsHE8Z3C4Ns"
+   },
+   "related": [
+    "devotion-pm",
+    "devotion-am-en",
+    "devotion-am-es",
+    "devotion-am-vi",
+    "devotion-am-hi"
+   ]
+  },
+  {
+   "id": "devotion-am-en",
+   "name": "Daily Devotion｜2-Minute Bible & Prayer · 早间（英语版）",
+   "slot": "起后",
+   "desc": "Daily Devotion, morning edition in English: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
     {
-      "id": "baylocal",
-      "name": "湾区本地速报",
-      "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
-      "category": "时效",
-      "count": 2,
-      "items": [
-        {
-          "date": "2026-10-26",
-          "title": "VTA今天起改时刻，五条公交线路先对表",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/baylocal/2026-10-26-vta-service-changes.md",
-          "page": "articles/baylocal/2026-10-26-vta-service-changes.html"
-        },
-        {
-          "date": "2026-10-25",
-          "title": "BART绿线今天全天停运，南湾出行先看这一条",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/baylocal/2026-10-25-bart-green-line.md",
-          "page": "articles/baylocal/2026-10-25-bart-green-line.html"
-        }
-      ]
+     "date": "2026-10-23",
+     "title": "Be Strong and Courageous",
+     "scripture": "Joshua 1:9 (WEB)",
+     "theme": "Courage is not the absence of fear; it grows along the road, because He is with us.",
+     "audio": "content/devotion-am-en/2026-10-23/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-23/index.md",
+     "duration_sec": 117,
+     "duration": "1:57",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "flash",
-      "name": "每日速报",
-      "desc": "《代码与诗篇》速报：财经、科技、安全与应急的当日要点，数字逐项标注来源与证据等级。",
-      "category": "时效",
-      "count": 3,
-      "items": [
-        {
-          "date": "2026-10-22",
-          "title": "财报全过关，盘前照样跌",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/flash/2026-10-22-earnings-premarket.md",
-          "page": "articles/flash/2026-10-22-earnings-premarket.html"
-        },
-        {
-          "date": "2026-10-22",
-          "title": "防洪准备周周六收尾，湾区先把三件事做了",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/flash/2026-10-22-flood-prep.md",
-          "page": "articles/flash/2026-10-22-flood-prep.html"
-        },
-        {
-          "date": "2026-10-22",
-          "title": "七成网站用的语言，爆了两个 9.2 分的洞",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/flash/2026-10-22-php2shell.md",
-          "page": "articles/flash/2026-10-22-php2shell.html"
-        }
-      ]
+     "date": "2026-10-22",
+     "title": "This Is the Day the Lord Has Made",
+     "scripture": "Psalm 118:24 (WEB)",
+     "theme": "Settle your joy in God's hands first; the day's events can only come second.",
+     "audio": "content/devotion-am-en/2026-10-22/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-22/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "novel",
-      "name": "小说连载",
-      "desc": "见证文学连载《低谷里有人陪你走》：苦难与挣扎中的真实记录，化名文学化改写，每章一个完整小故事。版权所有，非独家首发于本枢纽。",
-      "category": "信仰",
-      "count": 5,
-      "items": [
-        {
-          "date": "2026-10-25",
-          "title": "低谷里有人陪你走·第1章 太阳雪那年",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/novel/2026-10-25-novel-ch01-solar-snow.md",
-          "page": "articles/novel/2026-10-25-novel-ch01-solar-snow.html"
-        },
-        {
-          "date": "2026-10-25",
-          "title": "低谷里有人陪你走·第2章 不署名的人",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/novel/2026-10-25-novel-ch02-unsigned.md",
-          "page": "articles/novel/2026-10-25-novel-ch02-unsigned.html"
-        },
-        {
-          "date": "2026-10-25",
-          "title": "低谷里有人陪你走·第3章 最难的那一年",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/novel/2026-10-25-novel-ch03-hardest-year.md",
-          "page": "articles/novel/2026-10-25-novel-ch03-hardest-year.html"
-        },
-        {
-          "date": "2026-10-25",
-          "title": "低谷里有人陪你走·第4章 账要算得干净",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/novel/2026-10-25-novel-ch04-clean-books.md",
-          "page": "articles/novel/2026-10-25-novel-ch04-clean-books.html"
-        },
-        {
-          "date": "2026-10-25",
-          "title": "低谷里有人陪你走·第5章 十五年的饭桌",
-          "scripture": "",
-          "author": "Guangyi Zhao",
-          "path": "articles/novel/2026-10-25-novel-ch05-dinner-table.md",
-          "page": "articles/novel/2026-10-25-novel-ch05-dinner-table.html"
-        }
-      ]
+     "date": "2026-10-21",
+     "title": "Through Him Who Strengthens Me",
+     "scripture": "Philippians 4:13 (WEB)",
+     "theme": "Swap 'I can' for 'through Him, I can'; strength is daily provision, not a bonus.",
+     "audio": "content/devotion-am-en/2026-10-21/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-21/index.md",
+     "duration_sec": 136,
+     "duration": "2:16",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     },
     {
-      "id": "sermons",
-      "name": "讲道集",
-      "desc": "Guangyi Zhao 的讲道文稿：原文解经、逐字稿全文。已公开发布的篇目陆续归入本系列。",
-      "category": "信仰",
-      "count": 6,
-      "items": [
-        {
-          "date": "2026-10-14",
-          "title": "赶出之前，先给人穿衣——皮衣、起名与被赶出的恩典",
-          "scripture": "创世记 3:20-24",
-          "author": "Guangyi Zhao",
-          "path": "articles/sermons/2026-10-14-clothed-before-the-expulsion.md",
-          "page": "articles/sermons/2026-10-14-clothed-before-the-expulsion.html"
-        },
-        {
-          "date": "2026-10-11",
-          "title": "沉睡中的预备——神为你造出\"骨中的骨",
-          "scripture": "创世记 2:21-23",
-          "author": "Guangyi Zhao",
-          "path": "articles/sermons/2026-10-11-asleep-in-preparation.md",
-          "page": "articles/sermons/2026-10-11-asleep-in-preparation.html"
-        },
-        {
-          "date": "2026-10-09",
-          "title": "神看着是好的——分开、设立、充满的创造秩序",
-          "scripture": "创世记 1:4-25",
-          "author": "Guangyi Zhao",
-          "path": "articles/sermons/2026-10-09-god-saw-that-it-was-good.md",
-          "page": "articles/sermons/2026-10-09-god-saw-that-it-was-good.html"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "清心者的属灵视界：在动荡时代得见神",
-          "scripture": "马太福音 5:8",
-          "author": "Guangyi Zhao",
-          "path": "articles/sermons/2026-10-02-spiritual-vision-of-the-pure-in-heart.md",
-          "page": "articles/sermons/2026-10-02-spiritual-vision-of-the-pure-in-heart.html"
-        },
-        {
-          "date": "2026-10-02",
-          "title": "天国的颠覆性生命：哀恸与温柔的胜过大能",
-          "scripture": "马太福音 5:4-5",
-          "author": "Guangyi Zhao",
-          "path": "articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.md",
-          "page": "articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.html"
-        },
-        {
-          "date": "2026-08-16",
-          "title": "你的明天在神的手中",
-          "scripture": "约书亚记 3:5、4:20-24；使徒行传 1:8；马太福音 6:34",
-          "author": "Guangyi Zhao",
-          "path": "articles/sermons/2026-08-16-your-tomorrow-in-gods-hands.md",
-          "page": "articles/sermons/2026-08-16-your-tomorrow-in-gods-hands.html"
-        }
-      ]
+     "date": "2026-10-20",
+     "title": "Those Who Wait Shall Renew Their Strength",
+     "scripture": "Isaiah 40:31 (WEB)",
+     "theme": "Waiting is not idleness; strength is renewed, like an eagle soaring on the wind.",
+     "audio": "content/devotion-am-en/2026-10-20/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-20/index.md",
+     "duration_sec": 139,
+     "duration": "2:19",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "Trust in the Lord with All Your Heart",
+     "scripture": "Proverbs 3:5-6 (WEB)",
+     "theme": "Lay the week's decisions before God first; acknowledge Him, and He will make the path straight.",
+     "audio": "content/devotion-am-en/2026-10-19/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-19/index.md",
+     "duration_sec": 137,
+     "duration": "2:17",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "Do Not Give Up Meeting Together",
+     "scripture": "Hebrews 10:25 (WEB)",
+     "theme": "A lone stick of firewood burns low; together, the fire grows strong again.",
+     "audio": "content/devotion-am-en/2026-10-18/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-18/index.md",
+     "duration_sec": 133,
+     "duration": "2:13",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "Come to Me, All You Who Labor",
+     "scripture": "Matthew 11:28 (WEB)",
+     "theme": "Rest is not earned by getting everything done first; it is received when we come to Him first.",
+     "audio": "content/devotion-am-en/2026-10-17/audio.mp3",
+     "page": "content/devotion-am-en/2026-10-17/index.md",
+     "duration_sec": 113,
+     "duration": "1:53",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
     }
-  ]
+   ],
+   "count": 7,
+   "listen": {
+    "pocketcasts": "https://pca.st/o3rbpr1h",
+    "castbox": "https://castbox.fm/channel/id7462672",
+    "spotify": "https://open.spotify.com/show/2J6o5UtUmyGikbarU23B6J"
+   },
+   "related": [
+    "devotion-pm-en",
+    "devotion-am",
+    "devotion-am-es",
+    "devotion-am-vi",
+    "devotion-am-hi"
+   ]
+  },
+  {
+   "id": "devotion-am-es",
+   "name": "Devoción Diaria｜Biblia y Oración · 早间（西语版）",
+   "slot": "起后",
+   "desc": "Daily Devotion, morning edition in Spanish: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-23",
+     "title": "Esfuérzate y sé valiente",
+     "scripture": "Josué 1:9 (RVR1909)",
+     "theme": "El valor no es no tener miedo; es dar el paso porque él está contigo.",
+     "audio": "content/devotion-am-es/2026-10-23/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-23/index.md",
+     "duration_sec": 130,
+     "duration": "2:10",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "Este es el día que hizo Jehová",
+     "scripture": "Salmo 118:24 (RVR1909)",
+     "theme": "Decide tu gozo antes de salir de casa, y lo demás solo podrá ir en segundo lugar.",
+     "audio": "content/devotion-am-es/2026-10-22/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-22/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "Todo lo puedo en Cristo que me fortalece",
+     "scripture": "Filipenses 4:13 (RVR1909)",
+     "theme": "Cambia el «yo puedo» por «en Cristo puedo»: la fuerza es la ración de cada día.",
+     "audio": "content/devotion-am-es/2026-10-21/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-21/index.md",
+     "duration_sec": 130,
+     "duration": "2:10",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "Los que esperan a Jehová tendrán nuevas fuerzas",
+     "scripture": "Isaías 40:31 (RVR1909)",
+     "theme": "Esperar no es no hacer nada: es mirar a Dios, y en la espera la fuerza se renueva.",
+     "audio": "content/devotion-am-es/2026-10-20/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-20/index.md",
+     "duration_sec": 136,
+     "duration": "2:16",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "Fíate de Jehová de todo tu corazón",
+     "scripture": "Proverbios 3:5-6 (RVR1909)",
+     "theme": "No te apoyes en tus propios cálculos: ponlo primero ante Dios, y él enderezará tus veredas.",
+     "audio": "content/devotion-am-es/2026-10-19/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-19/index.md",
+     "duration_sec": 137,
+     "duration": "2:17",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "No dejando nuestra congregación",
+     "scripture": "Hebreos 10:25 (RVR1909)",
+     "theme": "Un tizón solo se apaga; reunidos, el fuego se aviva y nos edificamos unos a otros.",
+     "audio": "content/devotion-am-es/2026-10-18/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-18/index.md",
+     "duration_sec": 135,
+     "duration": "2:15",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "Venid a mí todos los que estáis trabajados",
+     "scripture": "Mateo 11:28 (RVR1909)",
+     "theme": "El descanso no se gana terminando todo primero; se recibe al venir primero a él.",
+     "audio": "content/devotion-am-es/2026-10-17/audio.mp3",
+     "page": "content/devotion-am-es/2026-10-17/index.md",
+     "duration_sec": 131,
+     "duration": "2:11",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 7,
+   "listen": {
+    "pocketcasts": "https://pca.st/gzym30x7",
+    "castbox": "https://castbox.fm/channel/id7462674",
+    "spotify": "https://open.spotify.com/show/4wIErEFMRzE5VRBtVGQFXy"
+   },
+   "related": [
+    "devotion-pm-es",
+    "devotion-am",
+    "devotion-am-en",
+    "devotion-am-vi",
+    "devotion-am-hi"
+   ]
+  },
+  {
+   "id": "devotion-am-vi",
+   "name": "Tĩnh Nguyện Hằng Ngày｜2 Phút Đọc Kinh Thánh & Cầu Nguyện · 早间（越南语版）",
+   "slot": "起后",
+   "desc": "Daily Devotion, morning edition in Vietnamese: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-17",
+     "title": "Hãy Đến Cùng Ta, Hỡi Những Kẻ Mệt Mỏi",
+     "scripture": "Ma-thi-ơ 11:28 (Bản Truyền Thống 1925)",
+     "theme": "Sự yên nghỉ không phải là phần thưởng sau khi làm xong mọi việc; ta nhận được nó khi đến với Chúa trước tiên.",
+     "audio": "content/devotion-am-vi/2026-10-17/audio.mp3",
+     "page": "content/devotion-am-vi/2026-10-17/index.md",
+     "duration_sec": 126,
+     "duration": "2:06",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 1,
+   "listen": {
+    "pocketcasts": "https://pca.st/qpyup9sh",
+    "castbox": "https://castbox.fm/channel/id7462675",
+    "spotify": "https://open.spotify.com/show/3TCa36G9cJVBtO1uEG7axQ"
+   },
+   "related": [
+    "devotion-pm-vi",
+    "devotion-am",
+    "devotion-am-en",
+    "devotion-am-es",
+    "devotion-am-hi"
+   ]
+  },
+  {
+   "id": "devotion-am-hi",
+   "name": "दैनिक भक्ति｜2 मिनट बाइबल और प्रार्थना · 早间（印地语版）",
+   "slot": "起后",
+   "desc": "Daily Devotion, morning edition in Hindi: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-17",
+     "title": "मेरे पास आओ, सब परिश्रम करने वालों",
+     "scripture": "मत्ती 11:28 (HHBD)",
+     "theme": "विश्राम सब कुछ पूरा कर लेने का इनाम नहीं है; वह प्रभु के पास पहले आने पर मिलता है।",
+     "audio": "content/devotion-am-hi/2026-10-17/audio.mp3",
+     "page": "content/devotion-am-hi/2026-10-17/index.md",
+     "duration_sec": 131,
+     "duration": "2:11",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 1,
+   "listen": {
+    "pocketcasts": "https://pca.st/ffgflhzn",
+    "castbox": "https://castbox.fm/channel/id7462676",
+    "spotify": "https://open.spotify.com/show/75Y49iWpWuhGZQqlhfUD37"
+   },
+   "related": [
+    "devotion-pm-hi",
+    "devotion-am",
+    "devotion-am-en",
+    "devotion-am-es",
+    "devotion-am-vi"
+   ]
+  },
+  {
+   "id": "devotion-pm",
+   "name": "每日灵修｜2分钟读经与祷告 · 睡前",
+   "slot": "睡前",
+   "desc": "一天的收尾：安息的经文与晚祷，慢下来，把这一天交在神手里，好好入睡。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-25",
+     "title": "将一切的忧虑卸给神",
+     "scripture": "彼得前书 5:7",
+     "theme": "卸包袱式的交托：因为祂顾念我们，忧虑一件一件说给祂听、真的放下，换一双更稳的手接着。",
+     "audio": "content/devotion-pm/2026-10-25/audio.mp3",
+     "page": "content/devotion-pm/2026-10-25/index.md",
+     "duration_sec": 110,
+     "duration": "1:50",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-24",
+     "title": "住在至高者隐密处的",
+     "scripture": "诗篇 91:1-2",
+     "theme": "隐密处不是临时躲避的防空洞，而是平日住下的地方：把最放心不下的事连同自己，一起搬进祂的荫下。",
+     "audio": "content/devotion-pm/2026-10-24/audio.mp3",
+     "page": "content/devotion-pm/2026-10-24/index.md",
+     "duration_sec": 122,
+     "duration": "2:02",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-23",
+     "title": "我留下平安给你们",
+     "scripture": "约翰福音 14:27",
+     "theme": "主的平安不像世人所赐的：环境还没变，心先安了；把这一周的好与坏都放下，别让它们跟着上床。",
+     "audio": "content/devotion-pm/2026-10-23/audio.mp3",
+     "page": "content/devotion-pm/2026-10-23/index.md",
+     "duration_sec": 117,
+     "duration": "1:57",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "祂叫所亲爱的安然睡觉",
+     "scripture": "诗篇 127:2",
+     "theme": "睡觉是神给所亲爱之人的礼物：你先睡，祂不睡；你歇手，祂的手没有歇，没做完的留给明天的功课。",
+     "audio": "content/devotion-pm/2026-10-22/audio.mp3",
+     "page": "content/devotion-pm/2026-10-22/index.md",
+     "duration_sec": 129,
+     "duration": "2:09",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "祂亲自同去，使你得安息",
+     "scripture": "出埃及记 33:14",
+     "theme": "安息不是到了目的地才有：明天那段路祂亲自同行，今晚先把脚步停下来，让祂走在前头。",
+     "audio": "content/devotion-pm/2026-10-21/audio.mp3",
+     "page": "content/devotion-pm/2026-10-21/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "夜里思想祂的话",
+     "scripture": "诗篇 63:6",
+     "theme": "在床上记念祢：在旷野的夜里思想神的话，心像饱足了骨髓肥油。",
+     "audio": "content/devotion-pm/2026-10-20/audio.mp3",
+     "page": "content/devotion-pm/2026-10-20/index.md",
+     "duration_sec": 108,
+     "duration": "1:48",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "睡前数算今天的恩典",
+     "scripture": "耶利米哀歌 3:22-23",
+     "theme": "每早晨都是新的：睡前数算今天的恩典——祂的怜悯不断绝，诚实极其广大。",
+     "audio": "content/devotion-pm/2026-10-19/audio.mp3",
+     "page": "content/devotion-pm/2026-10-19/index.md",
+     "duration_sec": 118,
+     "duration": "1:58",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "夜里的歌",
+     "scripture": "诗篇 42:8",
+     "theme": "白昼施慈爱，黑夜有歌声：离家发愁的人，数算的不是眼泪，是祂的慈爱。",
+     "audio": "content/devotion-pm/2026-10-18/audio.mp3",
+     "page": "content/devotion-pm/2026-10-18/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "祂守夜，我安睡",
+     "scripture": "诗篇 121:3-4",
+     "theme": "保护你的必不打盹：祂守夜，我们安睡；走远路的人夜里也不孤单。",
+     "audio": "content/devotion-pm/2026-10-17/audio.mp3",
+     "page": "content/devotion-pm/2026-10-17/index.md",
+     "duration_sec": 124,
+     "duration": "2:04",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "放下今天，平安入睡",
+     "scripture": "诗篇 4:8",
+     "theme": "我必安然躺下睡觉：让人睡不着的事先算清楚，独有耶和华使我安然居住。",
+     "audio": "content/devotion-pm/2026-10-16/audio.mp3",
+     "page": "content/devotion-pm/2026-10-16/index.md",
+     "duration_sec": 121,
+     "duration": "2:01",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 10,
+   "listen": {
+    "pocketcasts": "https://pca.st/crscel1a",
+    "castbox": "https://castbox.fm/channel/id7461795",
+    "spotify": "https://open.spotify.com/show/0aRYgnhiksutsHE8Z3C4Ns"
+   },
+   "related": [
+    "devotion-am",
+    "devotion-pm-en",
+    "devotion-pm-es",
+    "devotion-pm-vi",
+    "devotion-pm-hi"
+   ]
+  },
+  {
+   "id": "devotion-pm-en",
+   "name": "Daily Devotion｜2-Minute Bible & Prayer · 睡前（英语版）",
+   "slot": "睡前",
+   "desc": "Daily Devotion, bedtime edition in English: a verse of rest and a closing prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-23",
+     "title": "My Peace I Give to You",
+     "scripture": "John 14:27 (WEB)",
+     "theme": "His peace is given before circumstances change; lay the week down at His feet tonight.",
+     "audio": "content/devotion-pm-en/2026-10-23/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-23/index.md",
+     "duration_sec": 111,
+     "duration": "1:51",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "He Gives Sleep to His Loved Ones",
+     "scripture": "Psalm 127:2 (WEB)",
+     "theme": "Sleep is a gift; loosen the day's taut string before your head reaches the pillow.",
+     "audio": "content/devotion-pm-en/2026-10-22/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-22/index.md",
+     "duration_sec": 127,
+     "duration": "2:07",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "My Presence Will Go with You",
+     "scripture": "Exodus 33:14 (WEB)",
+     "theme": "Rest does not wait for the destination; it comes because He travels the road with us.",
+     "audio": "content/devotion-pm-en/2026-10-21/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-21/index.md",
+     "duration_sec": 115,
+     "duration": "1:55",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "I Remember You on My Bed",
+     "scripture": "Psalm 63:6 (WEB)",
+     "theme": "One verse held in the heart at night feeds more than ten that slide past.",
+     "audio": "content/devotion-pm-en/2026-10-20/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-20/index.md",
+     "duration_sec": 110,
+     "duration": "1:50",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "Great Is Your Faithfulness",
+     "scripture": "Lamentations 3:22-23 (WEB)",
+     "theme": "Count three small mercies before sleep, and the heart settles.",
+     "audio": "content/devotion-pm-en/2026-10-19/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-19/index.md",
+     "duration_sec": 118,
+     "duration": "1:58",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "His Song in the Night",
+     "scripture": "Psalm 42:8 (WEB)",
+     "theme": "By day we sing because we see grace; at night we sing because we believe grace is still there.",
+     "audio": "content/devotion-pm-en/2026-10-18/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-18/index.md",
+     "duration_sec": 107,
+     "duration": "1:47",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "He Who Keeps You Will Not Slumber",
+     "scripture": "Psalm 121:3-4 (WEB)",
+     "theme": "We can sleep in peace, because He stays awake all night.",
+     "audio": "content/devotion-pm-en/2026-10-17/audio.mp3",
+     "page": "content/devotion-pm-en/2026-10-17/index.md",
+     "duration_sec": 139,
+     "duration": "2:19",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 7,
+   "listen": {
+    "pocketcasts": "https://pca.st/o3rbpr1h",
+    "castbox": "https://castbox.fm/channel/id7462672",
+    "spotify": "https://open.spotify.com/show/2J6o5UtUmyGikbarU23B6J"
+   },
+   "related": [
+    "devotion-am-en",
+    "devotion-pm",
+    "devotion-pm-es",
+    "devotion-pm-vi",
+    "devotion-pm-hi"
+   ]
+  },
+  {
+   "id": "devotion-pm-es",
+   "name": "Devoción Diaria｜Biblia y Oración · 睡前（西语版）",
+   "slot": "睡前",
+   "desc": "Daily Devotion, bedtime edition in Spanish: a verse of rest, a short reflection, and an evening prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-23",
+     "title": "La paz os dejo",
+     "scripture": "Juan 14:27 (RVR1909)",
+     "theme": "Su paz se da antes de que cambie el ambiente: recíbela esta noche y duerme tranquilo.",
+     "audio": "content/devotion-pm-es/2026-10-23/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-23/index.md",
+     "duration_sec": 123,
+     "duration": "2:03",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-22",
+     "title": "A su amado dará Dios el sueño",
+     "scripture": "Salmo 127:2 (RVR1909)",
+     "theme": "Dormir en paz es un regalo para sus amados: afloja la cuerda; lo demás es tarea de mañana.",
+     "audio": "content/devotion-pm-es/2026-10-22/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-22/index.md",
+     "duration_sec": 127,
+     "duration": "2:07",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-21",
+     "title": "Mi presencia irá contigo",
+     "scripture": "Éxodo 33:14 (RVR1909)",
+     "theme": "El descanso no espera a llegar al destino: su presencia va contigo en todo el camino.",
+     "audio": "content/devotion-pm-es/2026-10-21/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-21/index.md",
+     "duration_sec": 137,
+     "duration": "2:17",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "Cuando me acordaré de ti en mi lecho",
+     "scripture": "Salmo 63:6 (RVR1909)",
+     "theme": "Una sola frase de su palabra, saboreada en la noche, alimenta más que diez que pasan de largo.",
+     "audio": "content/devotion-pm-es/2026-10-20/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-20/index.md",
+     "duration_sec": 140,
+     "duration": "2:20",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "Nuevas son cada mañana",
+     "scripture": "Lamentaciones 3:22-23 (RVR1909)",
+     "theme": "Antes de dormir, cuenta tres misericordias de hoy: su fidelidad no se interrumpió ni un momento.",
+     "audio": "content/devotion-pm-es/2026-10-19/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-19/index.md",
+     "duration_sec": 123,
+     "duration": "2:03",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "De noche su canción será conmigo",
+     "scripture": "Salmo 42:8 (RVR1909)",
+     "theme": "De día su misericordia, de noche su canción: aunque oscurezca, él sigue ahí.",
+     "audio": "content/devotion-pm-es/2026-10-18/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-18/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "No se dormirá el que te guarda",
+     "scripture": "Salmo 121:3-4 (RVR1909)",
+     "theme": "Tú duermes; el que te guarda no se adormece ni duerme. Esta noche puedes soltarlo todo.",
+     "audio": "content/devotion-pm-es/2026-10-17/audio.mp3",
+     "page": "content/devotion-pm-es/2026-10-17/index.md",
+     "duration_sec": 134,
+     "duration": "2:14",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 7,
+   "listen": {
+    "pocketcasts": "https://pca.st/gzym30x7",
+    "castbox": "https://castbox.fm/channel/id7462674",
+    "spotify": "https://open.spotify.com/show/4wIErEFMRzE5VRBtVGQFXy"
+   },
+   "related": [
+    "devotion-am-es",
+    "devotion-pm",
+    "devotion-pm-en",
+    "devotion-pm-vi",
+    "devotion-pm-hi"
+   ]
+  },
+  {
+   "id": "devotion-pm-vi",
+   "name": "Tĩnh Nguyện Hằng Ngày｜2 Phút Đọc Kinh Thánh & Cầu Nguyện · 睡前（越南语版）",
+   "slot": "睡前",
+   "desc": "Daily Devotion, bedtime edition in Vietnamese: a verse of rest, a short reflection, and an evening prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-17",
+     "title": "Đấng Gìn Giữ Ngươi Không Hề Buồn Ngủ",
+     "scripture": "Thi-thiên 121:3-4 (Bản Truyền Thống 1925)",
+     "theme": "Đêm nay ta có thể yên tâm ngủ, vì Đấng canh giữ ta thức trọn cả đêm không hề buồn ngủ.",
+     "audio": "content/devotion-pm-vi/2026-10-17/audio.mp3",
+     "page": "content/devotion-pm-vi/2026-10-17/index.md",
+     "duration_sec": 138,
+     "duration": "2:18",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 1,
+   "listen": {
+    "pocketcasts": "https://pca.st/qpyup9sh",
+    "castbox": "https://castbox.fm/channel/id7462675",
+    "spotify": "https://open.spotify.com/show/3TCa36G9cJVBtO1uEG7axQ"
+   },
+   "related": [
+    "devotion-am-vi",
+    "devotion-pm",
+    "devotion-pm-en",
+    "devotion-pm-es",
+    "devotion-pm-hi"
+   ]
+  },
+  {
+   "id": "devotion-pm-hi",
+   "name": "दैनिक भक्ति｜2 मिनट बाइबल और प्रार्थना · 睡前（印地语版）",
+   "slot": "睡前",
+   "desc": "Daily Devotion, bedtime edition in Hindi: a verse of rest, a short reflection, and an evening prayer. First translation, pending native-speaker proofreading. 初译待母语校对。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-17",
+     "title": "तेरा रक्षक कभी न ऊंघेगा",
+     "scripture": "भजन संहिता 121:3-4 (HHBD)",
+     "theme": "हम शांति से सो सकते हैं, क्योंकि हमारा रक्षक पूरी रात जागता है।",
+     "audio": "content/devotion-pm-hi/2026-10-17/audio.mp3",
+     "page": "content/devotion-pm-hi/2026-10-17/index.md",
+     "duration_sec": 126,
+     "duration": "2:06",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 1,
+   "listen": {
+    "pocketcasts": "https://pca.st/ffgflhzn",
+    "castbox": "https://castbox.fm/channel/id7462676",
+    "spotify": "https://open.spotify.com/show/75Y49iWpWuhGZQqlhfUD37"
+   },
+   "related": [
+    "devotion-am-hi",
+    "devotion-pm",
+    "devotion-pm-en",
+    "devotion-pm-es",
+    "devotion-pm-vi"
+   ]
+  },
+  {
+   "id": "sermons",
+   "name": "瓦器分享｜圣经讲解与讲道",
+   "slot": "讲道",
+   "desc": "圣经原文解经讲道：开场祷告、三大部分讲论、交叉经文与应用。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-10-15",
+     "title": "第七日的安息",
+     "scripture": "创世记 2:1-3",
+     "theme": "从原文词义讲神为什么安息、安息日的设立，以及安息如何进到我们今天的生活。",
+     "audio": "content/sermons/2026-10-15/audio.mp3",
+     "page": "content/sermons/2026-10-15/index.md",
+     "duration_sec": 302,
+     "duration": "5:02",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-09",
+     "title": "天国的颠覆性生命",
+     "scripture": "马太福音 5:4-5",
+     "theme": "哀恸的人与温柔的人：天国的生命逻辑与世界相反，柔和谦卑里藏着承受地土的福。",
+     "audio": "content/sermons/2026-10-09/audio.mp3",
+     "page": "content/sermons/2026-10-09/index.md",
+     "duration_sec": 312,
+     "duration": "5:12",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 2,
+   "listen": {
+    "pocketcasts": "https://pca.st/80mejg80",
+    "castbox": "https://castbox.fm/channel/id7462659",
+    "spotify": "https://open.spotify.com/show/10oK7WvRbfZcVMoljbtQuS"
+   },
+   "related": [
+    "devotion-am",
+    "devotion-pm",
+    "book-talk"
+   ]
+  },
+  {
+   "id": "book-talk",
+   "name": "小憩片刻",
+   "slot": "讲书",
+   "desc": "讲书节目：五大领域轮值选书，十几分钟讲清一本书的主线与取舍。",
+   "category": "读书",
+   "episodes": [],
+   "count": 0,
+   "related": [
+    "sermons",
+    "devotion-am"
+   ]
+  },
+  {
+   "id": "news-am",
+   "name": "早间新闻",
+   "slot": "早间",
+   "desc": "早间新闻播报（筹备中）。",
+   "category": "时效",
+   "episodes": [],
+   "count": 0,
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
+  },
+  {
+   "id": "news-pm",
+   "name": "晚间新闻",
+   "slot": "晚间",
+   "desc": "晚间新闻播报（筹备中）。",
+   "category": "时效",
+   "episodes": [],
+   "count": 0,
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
+  },
+  {
+   "id": "stocks-am",
+   "name": "早间股市",
+   "slot": "早间",
+   "desc": "早间股市播报（筹备中）。",
+   "category": "财经",
+   "episodes": [],
+   "count": 0,
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
+  },
+  {
+   "id": "stocks-pm",
+   "name": "美股盘后小结｜三大指数与板块复盘",
+   "slot": "晚间",
+   "desc": "晚间股市播报：美股盘后小结，三大指数、板块与个股要点。",
+   "category": "财经",
+   "episodes": [
+    {
+     "date": "2026-10-14",
+     "title": "美股盘后小结 10月14日：九月通胀超预期+三大指数收跌",
+     "scripture": "",
+     "theme": "美股盘后小结 10月14日：九月通胀超预期+三大指数收跌",
+     "audio": "content/stocks-pm/2026-10-14/audio.mp3",
+     "page": "content/stocks-pm/2026-10-14/index.md",
+     "duration_sec": 75,
+     "duration": "1:15",
+     "video_url": "https://www.youtube.com/watch?v=hynPSJwV_j8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=hynPSJwV_j8"
+     }
+    },
+    {
+     "date": "2026-10-13",
+     "title": "美股盘后小结 10月13日：高盛财报大超预期+三大指数近平盘",
+     "scripture": "",
+     "theme": "美股盘后小结 10月13日：高盛财报大超预期+三大指数近平盘",
+     "audio": "content/stocks-pm/2026-10-13/audio.mp3",
+     "page": "content/stocks-pm/2026-10-13/index.md",
+     "duration_sec": 67,
+     "duration": "1:07",
+     "video_url": "https://www.youtube.com/watch?v=Ha6tci8y4ms",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Ha6tci8y4ms"
+     }
+    },
+    {
+     "date": "2026-10-12",
+     "title": "美股盘后小结 10月12日：三大指数涨跌不一+油价上涨能源领跑",
+     "scripture": "",
+     "theme": "美股盘后小结 10月12日：三大指数涨跌不一+油价上涨能源领跑",
+     "audio": "content/stocks-pm/2026-10-12/audio.mp3",
+     "page": "content/stocks-pm/2026-10-12/index.md",
+     "duration_sec": 64,
+     "duration": "1:04",
+     "video_url": "https://www.youtube.com/watch?v=U-MHn1H-B_A",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=U-MHn1H-B_A"
+     }
+    },
+    {
+     "date": "2026-10-07",
+     "title": "美股盘后小结 10月7日",
+     "scripture": "",
+     "theme": "美股盘后小结 10月7日",
+     "audio": "content/stocks-pm/2026-10-07/audio.mp3",
+     "page": "content/stocks-pm/2026-10-07/index.md",
+     "duration_sec": 68,
+     "duration": "1:08",
+     "video_url": "https://www.youtube.com/watch?v=Ps47l2RcjoU",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Ps47l2RcjoU"
+     }
+    },
+    {
+     "date": "2026-10-06",
+     "title": "美股盘后小结 10月6日",
+     "scripture": "",
+     "theme": "美股盘后小结 10月6日",
+     "audio": "content/stocks-pm/2026-10-06/audio.mp3",
+     "page": "content/stocks-pm/2026-10-06/index.md",
+     "duration_sec": 64,
+     "duration": "1:04",
+     "video_url": "https://www.youtube.com/watch?v=u393jWCCmII",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=u393jWCCmII"
+     }
+    },
+    {
+     "date": "2026-10-05",
+     "title": "美股盘后小结 10月5日",
+     "scripture": "",
+     "theme": "美股盘后小结 10月5日",
+     "audio": "content/stocks-pm/2026-10-05/audio.mp3",
+     "page": "content/stocks-pm/2026-10-05/index.md",
+     "duration_sec": 76,
+     "duration": "1:16",
+     "video_url": "https://www.youtube.com/watch?v=TzlubID3-yQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=TzlubID3-yQ"
+     }
+    }
+   ],
+   "count": 6,
+   "listen": {
+    "pocketcasts": "https://pca.st/hjlsxiw2",
+    "castbox": "https://castbox.fm/channel/id7461849",
+    "spotify": "https://open.spotify.com/show/6pszFWwGDLWUmKlS3F3Gi2"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits"
+   ]
+  },
+  {
+   "id": "fred-am",
+   "name": "美国百指日报｜FRED经济指标与宏观速报 · 早间",
+   "slot": "早间",
+   "desc": "美国百指日报早版：100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。",
+   "category": "时效",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "《美国百指日报》2026-10-20｜9月新屋开工降到122万套，明显低于预期",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
+     "audio": "content/fred-am/2026-10-20/audio.mp3",
+     "page": "content/fred-am/2026-10-20/index.md",
+     "duration_sec": 355,
+     "duration": "5:55",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "《美国百指日报》2026-10-17｜隔夜逆回购一天缩回1亿美元，实际利率仍在异常高位",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。",
+     "audio": "content/fred-am/2026-10-17/audio.mp3",
+     "page": "content/fred-am/2026-10-17/index.md",
+     "duration_sec": 258,
+     "duration": "4:18",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 2,
+   "listen": {
+    "pocketcasts": "https://pca.st/6f0xci2e",
+    "castbox": "https://castbox.fm/channel/id7461832",
+    "spotify": "https://open.spotify.com/show/7uTGrPdAO2CLTFk5Azz1ZQ"
+   },
+   "related": [
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
+  },
+  {
+   "id": "fred-pm",
+   "name": "美国百指日报｜FRED经济指标与宏观速报 · 晚间",
+   "slot": "晚间",
+   "desc": "美国百指日报晚版：当日经济指标收官复盘与次日前瞻。",
+   "category": "时效",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "美国百指日报·晚间速报｜10月20日：成屋签约销售跌7.3%创纪录新低，开工同样低于预期",
+     "scripture": "",
+     "theme": "晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与本周前瞻。",
+     "audio": "content/fred-pm/2026-10-20/audio.mp3",
+     "page": "content/fred-pm/2026-10-20/index.md",
+     "duration_sec": 124,
+     "duration": "2:04",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-18",
+     "title": "美国百指日报·晚间速报｜10月18日：周日无新数据，高位读数未变，明日先看住房指数",
+     "scripture": "",
+     "theme": "晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与下周前瞻。",
+     "audio": "content/fred-pm/2026-10-18/audio.mp3",
+     "page": "content/fred-pm/2026-10-18/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-17",
+     "title": "美国百指日报·晚间速报｜10月17日：周六无新数据，标普周五跌1.09%，通胀预期小幅上行",
+     "scripture": "",
+     "theme": "晚间速报短版：当天数据发布回顾 + 早间头条后续 + 明日与下周前瞻。",
+     "audio": "content/fred-pm/2026-10-17/audio.mp3",
+     "page": "content/fred-pm/2026-10-17/index.md",
+     "duration_sec": 117,
+     "duration": "1:57",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 3,
+   "listen": {
+    "pocketcasts": "https://pca.st/6f0xci2e",
+    "castbox": "https://castbox.fm/channel/id7461832",
+    "spotify": "https://open.spotify.com/show/7uTGrPdAO2CLTFk5Azz1ZQ"
+   },
+   "related": [
+    "fred-am",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
+  },
+  {
+   "id": "longevity",
+   "name": "长寿前沿日报｜抗衰老与健康科学",
+   "slot": "双版",
+   "desc": "长寿与健康前沿速报：每天替你读长寿与健康领域的论文与研究。",
+   "category": "时效",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "长寿前沿日报·晚间版｜10月20日：乙肝新药获批，近五分之一停药后仍达标 · 晚版",
+     "scripture": "",
+     "theme": "本期：FDA 10月20日批准Hibsago（bepirovirsen）用于特定成年慢性乙肝患者（B-Well三期汇总19%功能性治愈对安慰剂0，数据来自企业发布）；日间主打后续——多塔利单抗研究者评估口径68%与独立评审47%口径不同、不",
+     "audio": "content/longevity/2026-10-20-pm/audio.mp3",
+     "page": "content/longevity/2026-10-20-pm/index.md",
+     "duration_sec": 106,
+     "duration": "1:46",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "长寿前沿日报｜10月19日：百岁老人的子女死亡风险低42%",
+     "scripture": "",
+     "theme": "本期：JAMA Network Open 百岁老人子女队列（2319人对2703人，死亡风险低42%，观察性、不等于因果）；FDA批准萨特利珠单抗用于成人甲状腺眼病（数据来自企业发布，另一项试验未达主要终点）；CDC今冬呼吸道疾病展望（机构",
+     "audio": "content/longevity/2026-10-19/audio.mp3",
+     "page": "content/longevity/2026-10-19/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "https://www.youtube.com/watch?v=D-6m-KGftv8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=D-6m-KGftv8"
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "本节目只做信息分享，不构成医疗建议。",
+     "scripture": "",
+     "theme": "出处：",
+     "audio": "content/longevity/2026-10-16/audio.mp3",
+     "page": "content/longevity/2026-10-16/index.md",
+     "duration_sec": 96,
+     "duration": "1:36",
+     "video_url": "https://www.youtube.com/watch?v=p_H91GBe-4I",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=p_H91GBe-4I"
+     }
+    }
+   ],
+   "count": 3,
+   "listen": {
+    "pocketcasts": "https://pca.st/6j7eccp9",
+    "castbox": "https://castbox.fm/channel/id7461840",
+    "spotify": "https://open.spotify.com/show/4aC8JVlnrKeHg4mcElsyAj"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
+  },
+  {
+   "id": "silicon-valley",
+   "name": "硅谷科技日报｜AI与科技产业速报",
+   "slot": "双版",
+   "desc": "硅谷科技动态速报：AI 与科技公司最新进展。",
+   "category": "科技",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "硅谷科技日报｜10月20日：OpenAI新模型主攻低资源与老语言，COBOL迁移自测大涨",
+     "scripture": "",
+     "theme": "出处：",
+     "audio": "content/silicon-valley/2026-10-20/audio.mp3",
+     "page": "content/silicon-valley/2026-10-20/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-20",
+     "title": "硅谷科技日报·晚间版｜10月20日：谷歌联手Meta，PyTorch原生搬上TPU · 晚版",
+     "scripture": "",
+     "theme": "出处：",
+     "audio": "content/silicon-valley/2026-10-20-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-10-20-pm/index.md",
+     "duration_sec": 95,
+     "duration": "1:35",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "硅谷科技日报·晚间版｜10月19日：Cloudflare新模型不写字，只从杂料里取数 · 晚版",
+     "scripture": "",
+     "theme": "出处：",
+     "audio": "content/silicon-valley/2026-10-19-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-10-19-pm/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "出处：",
+     "scripture": "",
+     "theme": "- Anthropic 平台发布说明（2026-10-15）：https://releasebot.io/updates/anthropic/claude-developer-platform",
+     "audio": "content/silicon-valley/2026-10-16/audio.mp3",
+     "page": "content/silicon-valley/2026-10-16/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 4,
+   "listen": {
+    "pocketcasts": "https://pca.st/x7267sh2",
+    "castbox": "https://castbox.fm/channel/id7461835",
+    "spotify": "https://open.spotify.com/show/6GLuLwUB8qPj3ReYvoJcJY"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "longevity",
+    "immigration",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
+  },
+  {
+   "id": "immigration",
+   "name": "移民政策速报｜美国移民与签证解读",
+   "slot": "双版",
+   "desc": "移民政策速报：美国移民政策与法规变化解读。",
+   "category": "时效",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-20/audio.mp3",
+     "page": "content/immigration/2026-10-20/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "https://www.youtube.com/watch?v=X-VA7-4Ae84",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=X-VA7-4Ae84"
+     }
+    },
+    {
+     "date": "2026-10-19",
+     "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-19/audio.mp3",
+     "page": "content/immigration/2026-10-19/index.md",
+     "duration_sec": 116,
+     "duration": "1:56",
+     "video_url": "https://www.youtube.com/watch?v=bP0Au4tJUqI",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=bP0Au4tJUqI"
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "本节目只做政策信息转述，不构成法律建议，具体个案请咨询移民律师。",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-16/audio.mp3",
+     "page": "content/immigration/2026-10-16/index.md",
+     "duration_sec": 95,
+     "duration": "1:35",
+     "video_url": "https://www.youtube.com/watch?v=X4wgpVsvhr8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=X4wgpVsvhr8"
+     }
+    }
+   ],
+   "count": 3,
+   "listen": {
+    "pocketcasts": "https://pca.st/8vhld1p4",
+    "castbox": "https://castbox.fm/channel/id7461844",
+    "spotify": "https://open.spotify.com/show/7MaP0UhZgJQJAikB7PpzFI"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "bay-area-benefits",
+    "stocks-pm"
+   ]
+  },
+  {
+   "id": "bay-area-benefits",
+   "name": "湾区福利速报｜补助与生活资讯",
+   "slot": "双版",
+   "desc": "湾区福利与生活资讯速报：福利、补助与生活信息。",
+   "category": "时效",
+   "episodes": [
+    {
+     "date": "2026-10-20",
+     "title": "本期文字版清单（可直接转发）：",
+     "scripture": "",
+     "theme": "1）10月24日（周六）11:00–16:00，圣何塞艺术博物馆（110 South Market Street, San Jose）亡灵节社区日，全天免费入场；全年龄可参加，建议提前在官网免费注册，也可直接到场；糖骷髅装饰免费，但需另领当",
+     "audio": "content/bay-area-benefits/2026-10-20/audio.mp3",
+     "page": "content/bay-area-benefits/2026-10-20/index.md",
+     "duration_sec": 91,
+     "duration": "1:31",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-16",
+     "title": "本期文字版清单（可直接转发）：",
+     "scripture": "",
+     "theme": "1）10月17日（周六）9:30–17:15，de Young博物馆 + 荣誉军团博物馆（旧金山），常设展厅对湾区九县居民免费（含Santa Clara县）；带照片证件或带住址信封，必须提前订定时票，特展不含。",
+     "audio": "content/bay-area-benefits/2026-10-16/audio.mp3",
+     "page": "content/bay-area-benefits/2026-10-16/index.md",
+     "duration_sec": 88,
+     "duration": "1:28",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    }
+   ],
+   "count": 2,
+   "listen": {
+    "pocketcasts": "https://pca.st/h33fzfrw",
+    "castbox": "https://castbox.fm/channel/id7461845",
+    "spotify": "https://open.spotify.com/show/3dhYwdRJ3DZKfUDnGJxBcu"
+   },
+   "related": [
+    "fred-am",
+    "fred-pm",
+    "silicon-valley",
+    "longevity",
+    "immigration",
+    "stocks-pm"
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "baylocal",
+   "name": "湾区本地速报",
+   "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
+   "category": "时效",
+   "count": 3,
+   "items": [
+    {
+     "date": "2026-10-27",
+     "title": "沿海洪水提示延长到周五，今天中午先防漫水",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-10-27-coastal-flood-advisory.md",
+     "page": "articles/baylocal/2026-10-27-coastal-flood-advisory.html"
+    },
+    {
+     "date": "2026-10-26",
+     "title": "VTA今天起改时刻，五条公交线路先对表",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-10-26-vta-service-changes.md",
+     "page": "articles/baylocal/2026-10-26-vta-service-changes.html"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "BART绿线今天全天停运，南湾出行先看这一条",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-10-25-bart-green-line.md",
+     "page": "articles/baylocal/2026-10-25-bart-green-line.html"
+    }
+   ]
+  },
+  {
+   "id": "flash",
+   "name": "每日速报",
+   "desc": "《代码与诗篇》速报：财经、科技、安全与应急的当日要点，数字逐项标注来源与证据等级。",
+   "category": "时效",
+   "count": 3,
+   "items": [
+    {
+     "date": "2026-10-22",
+     "title": "财报全过关，盘前照样跌",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-10-22-earnings-premarket.md",
+     "page": "articles/flash/2026-10-22-earnings-premarket.html"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "防洪准备周周六收尾，湾区先把三件事做了",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-10-22-flood-prep.md",
+     "page": "articles/flash/2026-10-22-flood-prep.html"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "七成网站用的语言，爆了两个 9.2 分的洞",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-10-22-php2shell.md",
+     "page": "articles/flash/2026-10-22-php2shell.html"
+    }
+   ]
+  },
+  {
+   "id": "novel",
+   "name": "小说连载",
+   "desc": "见证文学连载《低谷里有人陪你走》：苦难与挣扎中的真实记录，化名文学化改写，每章一个完整小故事。版权所有，非独家首发于本枢纽。",
+   "category": "信仰",
+   "count": 5,
+   "items": [
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第1章 太阳雪那年",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch01-solar-snow.md",
+     "page": "articles/novel/2026-10-25-novel-ch01-solar-snow.html"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第2章 不署名的人",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch02-unsigned.md",
+     "page": "articles/novel/2026-10-25-novel-ch02-unsigned.html"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第3章 最难的那一年",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch03-hardest-year.md",
+     "page": "articles/novel/2026-10-25-novel-ch03-hardest-year.html"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第4章 账要算得干净",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch04-clean-books.md",
+     "page": "articles/novel/2026-10-25-novel-ch04-clean-books.html"
+    },
+    {
+     "date": "2026-10-25",
+     "title": "低谷里有人陪你走·第5章 十五年的饭桌",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/novel/2026-10-25-novel-ch05-dinner-table.md",
+     "page": "articles/novel/2026-10-25-novel-ch05-dinner-table.html"
+    }
+   ]
+  },
+  {
+   "id": "sermons",
+   "name": "讲道集",
+   "desc": "Guangyi Zhao 的讲道文稿：原文解经、逐字稿全文。已公开发布的篇目陆续归入本系列。",
+   "category": "信仰",
+   "count": 6,
+   "items": [
+    {
+     "date": "2026-10-14",
+     "title": "赶出之前，先给人穿衣——皮衣、起名与被赶出的恩典",
+     "scripture": "创世记 3:20-24",
+     "author": "Guangyi Zhao",
+     "path": "articles/sermons/2026-10-14-clothed-before-the-expulsion.md",
+     "page": "articles/sermons/2026-10-14-clothed-before-the-expulsion.html"
+    },
+    {
+     "date": "2026-10-11",
+     "title": "沉睡中的预备——神为你造出\"骨中的骨",
+     "scripture": "创世记 2:21-23",
+     "author": "Guangyi Zhao",
+     "path": "articles/sermons/2026-10-11-asleep-in-preparation.md",
+     "page": "articles/sermons/2026-10-11-asleep-in-preparation.html"
+    },
+    {
+     "date": "2026-10-09",
+     "title": "神看着是好的——分开、设立、充满的创造秩序",
+     "scripture": "创世记 1:4-25",
+     "author": "Guangyi Zhao",
+     "path": "articles/sermons/2026-10-09-god-saw-that-it-was-good.md",
+     "page": "articles/sermons/2026-10-09-god-saw-that-it-was-good.html"
+    },
+    {
+     "date": "2026-10-02",
+     "title": "清心者的属灵视界：在动荡时代得见神",
+     "scripture": "马太福音 5:8",
+     "author": "Guangyi Zhao",
+     "path": "articles/sermons/2026-10-02-spiritual-vision-of-the-pure-in-heart.md",
+     "page": "articles/sermons/2026-10-02-spiritual-vision-of-the-pure-in-heart.html"
+    },
+    {
+     "date": "2026-10-02",
+     "title": "天国的颠覆性生命：哀恸与温柔的胜过大能",
+     "scripture": "马太福音 5:4-5",
+     "author": "Guangyi Zhao",
+     "path": "articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.md",
+     "page": "articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.html"
+    },
+    {
+     "date": "2026-08-16",
+     "title": "你的明天在神的手中",
+     "scripture": "约书亚记 3:5、4:20-24；使徒行传 1:8；马太福音 6:34",
+     "author": "Guangyi Zhao",
+     "path": "articles/sermons/2026-08-16-your-tomorrow-in-gods-hands.md",
+     "page": "articles/sermons/2026-08-16-your-tomorrow-in-gods-hands.html"
+    }
+   ]
+  }
+ ]
 }
