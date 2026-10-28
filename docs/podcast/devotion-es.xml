@@ -7,7 +7,7 @@
     <language>es</language>
     <description>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 09:38:04 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:43:50 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</itunes:summary>
     <itunes:keywords>devoción diaria,lectura bíblica,oración,escritura,devocional matutino,devocional nocturno,fe cristiana,meditación</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] El bien y la misericordia me seguirán</title>
+      <description>Su bien y su misericordia no van lejos detrás de ti; como dos guardianes fieles, te han acompañado hasta casa. Escritura: Salmos 23:6 (RVR1909)</description>
+      <pubDate>Wed, 28 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-10-28/audio.mp3" length="2047625" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Todas las cosas ayudan a bien</title>
+      <description>No cada cosa es buena en sí misma, pero en la mano de Dios cada hilo, oscuro o brillante, se teje para tu bien. Escritura: Romanos 8:28 (RVR1909)</description>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-10-28/audio.mp3" length="1662684" type="audio/mpeg"/>
+      <itunes:duration>1:44</itunes:duration>
+    </item>
     <item>
       <title>[PM] Paz completa</title>
       <description>La paz completa no es ausencia de tormentas; es echar de nuevo el ancla en su fidelidad que nunca cambia. Escritura: Isaías 26:3 (RVR1909)</description>

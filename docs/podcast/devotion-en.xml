@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 09:38:04 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:43:50 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Goodness and Mercy Follow Me</title>
+      <description>His goodness and mercy are not trailing far behind; like two loyal guards, they have escorted you all the way home. Scripture: Psalm 23:6 (WEB)</description>
+      <pubDate>Wed, 28 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-10-28/audio.mp3" length="1823598" type="audio/mpeg"/>
+      <itunes:duration>1:54</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] All Things Work Together for Good</title>
+      <description>Not every thing is itself good, but in God&#x27;s hand every thread — dark or bright — is woven into good for your life. Scripture: Romans 8:28 (WEB)</description>
+      <pubDate>Wed, 28 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-28/audio.mp3" length="1844078" type="audio/mpeg"/>
+      <itunes:duration>1:55</itunes:duration>
+    </item>
     <item>
       <title>[PM] Perfect Peace</title>
       <description>Peace is not a life without storms; it is an anchor cast again into His unchanging faithfulness. Scripture: Isaiah 26:3 (WEB)</description>
