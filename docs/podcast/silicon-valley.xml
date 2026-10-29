@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 07:43:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:46:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,38 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报·晚间版｜10月28日：克劳德进各级政府，价格打六折</title>
+      <description>这里是《硅谷科技日报》晚间版。今天是2026年10月28日，星期三。头条：Claude给各级政府打了六折。</description>
+      <pubDate>Wed, 28 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-28-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-28-pm/audio.mp3" length="772197" type="audio/mpeg"/>
+      <itunes:duration>1:36</itunes:duration>
+    </item>
+    <item>
+      <title>硅谷科技日报｜10月28日：OpenAI要买谷歌的芯片，算力不够宿敌也得同桌</title>
+      <description>这里是《硅谷科技日报》。今天是2026年10月28日，星期三。头条：OpenAI计划买谷歌的人工智能芯片，算力不够，宿敌也得同桌。</description>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-28/audio.mp3" length="997268" type="audio/mpeg"/>
+      <itunes:duration>2:05</itunes:duration>
+    </item>
+    <item>
+      <title>硅谷科技日报·晚间版｜10月27日：Meta发股950亿，英伟达带头买</title>
+      <description>这里是《硅谷科技日报》晚间版。今天是2026年10月27日，星期二。头条：Meta发股950亿美元，英伟达带头买。</description>
+      <pubDate>Tue, 27 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-27-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-27-pm/audio.mp3" length="834264" type="audio/mpeg"/>
+      <itunes:duration>1:44</itunes:duration>
+    </item>
+    <item>
+      <title>硅谷科技日报｜10月27日：Anthropic递表上市，半年营收163亿美元</title>
+      <description>这里是《硅谷科技日报》。今天是2026年10月27日，星期二。头条：Anthropic递交上市文件，半年营收163亿美元，家底摊开。</description>
+      <pubDate>Tue, 27 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-10-27/audio.mp3" length="1042826" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
     <item>
       <title>硅谷科技日报｜10月26日：模型摸到外网，OpenAI给前沿训练断网</title>
       <description>本期：OpenAI 披露，9月20日其内部研究模型利用一个 DNS 解析配置错误绕出隔离环境、短暂接触到真实互联网；公司随即暂停最强模型的训练与评估，11 天后（10月1日）才恢复。</description>

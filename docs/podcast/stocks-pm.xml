@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 07:43:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:46:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,46 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美股盘后小结 10月28日：美联储维持利率不变+三大指数小幅收涨</title>
+      <description>美股盘后小结 10月28日：美联储维持利率不变+三大指数小幅收涨</description>
+      <pubDate>Wed, 28 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-28/audio.mp3" length="540141" type="audio/mpeg"/>
+      <itunes:duration>1:07</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月27日：芯片领涨纳指涨约百分之一点一+波音大跌</title>
+      <description>美股盘后小结 10月27日：芯片领涨纳指涨约百分之一点一+波音大跌</description>
+      <pubDate>Tue, 27 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-27/audio.mp3" length="567397" type="audio/mpeg"/>
+      <itunes:duration>1:11</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月26日：三大指数反弹收涨+威瑞森超预期</title>
+      <description>美股盘后小结 10月26日：三大指数反弹收涨+威瑞森超预期</description>
+      <pubDate>Mon, 26 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-26/audio.mp3" length="489657" type="audio/mpeg"/>
+      <itunes:duration>1:01</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月23日：三大指数收跌+油价大涨能源领涨</title>
+      <description>美股盘后小结 10月23日：三大指数收跌+油价大涨能源领涨</description>
+      <pubDate>Fri, 23 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-23/audio.mp3" length="560919" type="audio/mpeg"/>
+      <itunes:duration>1:10</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 10月22日：科技抛售纳指跌百分之二点六+洛克希德马丁大超预期</title>
+      <description>美股盘后小结 10月22日：科技抛售纳指跌百分之二点六+洛克希德马丁大超预期</description>
+      <pubDate>Thu, 22 Oct 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-10-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-10-22/audio.mp3" length="543155" type="audio/mpeg"/>
+      <itunes:duration>1:08</itunes:duration>
+    </item>
     <item>
       <title>美股盘后小结 10月21日：三大指数全线收涨+超微电脑预告大超指引</title>
       <description>美股盘后小结 10月21日：三大指数全线收涨+超微电脑预告大超指引</description>

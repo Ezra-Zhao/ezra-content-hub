@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：移民政策速报、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 07:43:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:46:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：移民政策速报、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,30 @@
     <itunes:category text="News"/>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>本期文字版清单（可直接转发）：｜10月28日</title>
+      <description>1）主打：2026年11月3日（周二），de Young美术馆与荣誉军团美术馆（Legion of Honor）普通门票对所有访客免费，不看住址，9:30–17:15。de Young成人票平时$25。只限常设展，特别展览照常收费；建议先在</description>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bay-area-benefits-2026-10-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/bay-area-benefits/2026-10-28/audio.mp3" length="776168" type="audio/mpeg"/>
+      <itunes:duration>1:37</itunes:duration>
+    </item>
+    <item>
+      <title>本期文字版清单（可直接转发）：｜10月27日</title>
+      <description>1）主打：2026年10月31日（周六），de Young美术馆与荣誉军团美术馆（Legion of Honor）对湾区9县居民免费（每周六Free Saturdays）。带驾照、或印着家里地址的邮戳信封核验换票，一张票当天两馆通用；只限常</description>
+      <pubDate>Tue, 27 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bay-area-benefits-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/bay-area-benefits/2026-10-27/audio.mp3" length="812739" type="audio/mpeg"/>
+      <itunes:duration>1:42</itunes:duration>
+    </item>
+    <item>
+      <title>本期文字版清单（可直接转发）：</title>
+      <description>1）主打：CalFresh果蔬返现试点已于2026年10月1日重启，经费耗尽为止。正在领CalFresh、或以前领过且EBT卡仍有食品余额的，在参与店买新鲜水果蔬菜，花$1返$1、每月最高返$60，自动到账、不用报名；只有在参与店消费才能赚</description>
+      <pubDate>Mon, 26 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bay-area-benefits-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/bay-area-benefits/2026-10-26/audio.mp3" length="815874" type="audio/mpeg"/>
+      <itunes:duration>1:42</itunes:duration>
+    </item>
     <item>
       <title>本期文字版清单（可直接转发）：</title>
       <description>1）10月24日（周六）11:00–16:00，圣何塞艺术博物馆（110 South Market Street, San Jose）亡灵节社区日，全天免费入场；全年龄可参加，建议提前在官网免费注册，也可直接到场；糖骷髅装饰免费，但需另领当</description>
