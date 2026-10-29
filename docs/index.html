@@ -3,30 +3,45 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ezra 内容中央枢纽 · Guangyi Zhao</title>
-<meta name="description" content="Guangyi Zhao 全部音频、视频与文字的集中档案：早晚新闻、股市、灵修、讲道与讲书。">
-<meta property="og:title" content="Ezra 内容中央枢纽 · Guangyi Zhao">
-<meta property="og:description" content="Guangyi Zhao 全部音频、视频与文字的集中档案：早晚新闻、股市、灵修、讲道与讲书。">
+<title>圣经伴读 · 赞美诗 · 讲道 · 信仰问答 | Ezra Zhao 内容枢纽（Guangyi Zhao）</title>
+<meta name="description" content="Guangyi Zhao（Ezra Zhao）的读书、听歌、播客与视频集散页：《圣经伴读·约翰福音》免费试读、原创赞美诗、讲道播客《瓦器里的宝贝》、每日灵修、信仰问答与代祷。">
+<meta property="og:title" content="Ezra Zhao 内容枢纽 · 圣经伴读 / 赞美诗 / 讲道 / 信仰问答">
+<meta property="og:description" content="读书、听歌、听播客、看视频、问信仰、请代祷——Guangyi Zhao 的全部内容，都从这一页进。">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://ezra-zhao.github.io/ezra-content-hub/">
-<meta property="og:site_name" content="Ezra 内容中央枢纽">
+<meta property="og:site_name" content="Ezra 内容枢纽">
 <meta property="og:image" content="https://ezra-zhao.github.io/ezra-content-hub/podcast/cover-devotion.png">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Ezra 内容中央枢纽 · Guangyi Zhao">
-<meta name="twitter:description" content="Guangyi Zhao 全部音频、视频与文字的集中档案：早晚新闻、股市、灵修、讲道与讲书。">
+<meta name="twitter:title" content="Ezra Zhao 内容枢纽 · 圣经伴读 / 赞美诗 / 讲道 / 信仰问答">
+<meta name="twitter:description" content="读书、听歌、听播客、看视频、问信仰、请代祷——Guangyi Zhao 的全部内容，都从这一页进。">
 <style>
   :root{--bg:#0f1420;--card:#1a2233;--card2:#222d44;--ink:#eef2f8;--sub:#9fb0c9;--acc:#e8b34b;--line:#2c3a55}
   *{box-sizing:border-box;margin:0;padding:0}
-  body{background:var(--bg);color:var(--ink);font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.6}
-  header{padding:28px 18px 10px;max-width:760px;margin:0 auto}
-  header h1{font-size:24px;letter-spacing:1px}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.65}
+  header{padding:30px 18px 6px;max-width:760px;margin:0 auto;text-align:center}
+  header h1{font-size:25px;letter-spacing:1px}
   header h1 span{color:var(--acc)}
-  header p{color:var(--sub);font-size:14px;margin-top:6px}
+  header .pos{color:var(--ink);font-size:15px;margin-top:8px}
+  header .sub{color:var(--sub);font-size:13px;margin-top:4px}
+  .follow{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:16px 0 4px}
+  .follow a{display:inline-block;background:var(--card2);border:1px solid var(--line);border-radius:20px;padding:6px 14px;text-decoration:none;font-size:13px;color:var(--ink)}
+  .follow a b{color:var(--acc);font-weight:600}
+  nav{max-width:760px;margin:0 auto;padding:10px 14px 0;display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+  nav a{font-size:13px;color:var(--sub);text-decoration:none;border:1px solid var(--line);border-radius:20px;padding:4px 12px}
   main{max-width:760px;margin:0 auto;padding:8px 14px 40px}
   section{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;margin-top:14px}
   section h2{font-size:18px;display:flex;align-items:center;gap:8px}
   section h2 .tag{font-size:11px;color:#0f1420;background:var(--acc);border-radius:20px;padding:2px 9px;font-weight:700}
-  section .desc{color:var(--sub);font-size:13px;margin:4px 0 10px}
+  section .desc{color:var(--sub);font-size:13px;margin:4px 0 6px}
+  .item{border-top:1px solid var(--line);padding:11px 0}
+  .item:first-of-type{border-top:none}
+  .item h3{font-size:16px;margin:2px 0}
+  .item h3 a{color:var(--ink);text-decoration:none}
+  .item h3 a:hover{color:var(--acc)}
+  .item p{font-size:13.5px;color:var(--sub)}
+  .item .go{font-size:13px;white-space:nowrap}
+  .badge{font-size:11px;color:#0f1420;background:var(--acc);border-radius:20px;padding:1px 8px;font-weight:700;vertical-align:2px}
+  .badge.gray{background:var(--card2);color:var(--sub);border:1px solid var(--line)}
   .ep{border-top:1px solid var(--line);padding:12px 0}
   .ep:first-of-type{border-top:none}
   .ep .meta{color:var(--sub);font-size:12px}
@@ -42,29 +57,138 @@
   .listen a{white-space:nowrap}
   .rel{font-size:12px;color:var(--sub);margin:0 0 10px;line-height:2}
   .rel a{display:inline-block;background:var(--card2);border:1px solid var(--line);border-radius:20px;padding:1px 10px;margin:2px 4px 2px 0;text-decoration:none;font-size:12px}
-  .hop h2{font-size:18px}
-  .hop p{font-size:14px;margin-top:6px;color:var(--ink)}
-  .hop .soon{color:var(--sub)}
-  footer{max-width:760px;margin:0 auto;padding:0 18px 30px;color:var(--sub);font-size:12px;text-align:center}
+  footer{max-width:760px;margin:0 auto;padding:0 18px 30px;color:var(--sub);font-size:12px;text-align:center;line-height:1.9}
+  footer a{color:#cfe0ff}
   a{color:var(--acc)}
 </style>
 </head>
 <body>
 <header>
-  <h1>Ezra <span>内容中央枢纽</span></h1>
-  <p>Guangyi Zhao 的全部音频、视频与文字，都集中在这里。早晚双版：新闻 · 股市 · 长寿前沿 · 硅谷科技 · 移民政策 · 湾区福利，加上每日灵修、讲道《瓦器分享》与讲书《小憩片刻》。点开任意一集即可收听。</p>
+  <h1>Guangyi Zhao <span>· Ezra Zhao</span></h1>
+  <p class="pos">写书、写歌、讲圣经的人——在这里读圣经、听赞美诗、问信仰。</p>
+  <p class="sub">《圣经伴读》《释经大全》作者 · 原创赞美诗创作者 · 播客《瓦器里的宝贝》与每日灵修主理人</p>
+  <div class="follow" id="follow">
+    <a href="https://www.youtube.com/@ezra-zhao"><b>YouTube</b> 频道</a>
+    <a href="https://open.spotify.com/artist/1h6UkqNEUkNJzfn7fKv64U"><b>Spotify</b> 艺人页</a>
+    <a href="https://www.facebook.com/ezra.zhao"><b>Facebook</b></a>
+    <a href="https://www.threads.com/@ezr3257"><b>Threads</b></a>
+    <a href="https://x.com/EzraZhao64144"><b>X</b></a>
+    <a href="https://github.com/Ezra-Zhao"><b>GitHub</b></a>
+  </div>
 </header>
-<main id="app"><p style="color:#9fb0c9;padding:20px 4px">正在加载目录…</p></main>
+<nav>
+  <a href="#books">读书</a><a href="#music">听歌</a><a href="#podcast">听播客</a><a href="#video">看视频</a><a href="#qa">问答与代祷</a><a href="#archive">每日节目存档</a>
+</nav>
 <main>
-  <section class="hop">
-    <h2>视频版与订阅</h2>
-    <p>长视频系列在 YouTube 频道 <a href="https://www.youtube.com/@ezra-zhao">Ezra-Zhao</a> 发布；每日时效节目在 YouTube 日更频道 Ezra Daily（@EzraDaily777）。</p>
-    <p class="soon">Newsletter《代码与诗篇》订阅入口即将开通，全部新内容将同步通过刊物发送。</p>
+
+  <section id="books">
+    <h2>读书 <span class="tag">圣经伴读</span></h2>
+    <p class="desc">陪你把圣经读进去的书。先试读，再决定。</p>
+    <div class="item">
+      <h3><a href="./shidu.html">《圣经伴读 · 约翰福音》</a> <span class="badge">免费试读</span></h3>
+      <p>21 篇，陪你慢慢读完约翰福音——读着读着，就信了。第一篇全文免费试读。</p>
+      <p><a class="go" href="./shidu.html">开始试读 →</a></p>
+    </div>
+    <div class="item">
+      <h3>《释经大全 · 约翰福音》逐节释经卷 <span class="badge gray">即将上架</span></h3>
+      <p>495 页逐节细解：原文词义、译本对照、历代注释，一节一节把约翰福音讲透。</p>
+    </div>
+    <div class="item">
+      <h3><a href="./articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.html">讲道集</a></h3>
+      <p>已发表的讲道文章存档，从《天国的颠覆性生命》读起。</p>
+      <p><a class="go" href="./articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.html">读讲道 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="./articles/novel/2026-10-25-novel-ch01-solar-snow.html">小说连载</a></h3>
+      <p>连载中的长篇小说，第一章《太阳雪》已上线。</p>
+      <p><a class="go" href="./articles/novel/2026-10-25-novel-ch01-solar-snow.html">读小说 →</a></p>
+    </div>
   </section>
+
+  <section id="music">
+    <h2>听歌 <span class="tag">原创赞美诗</span></h2>
+    <p class="desc">原创中文赞美诗，已在 Spotify 等平台正式发行。</p>
+    <div class="item">
+      <h3><a href="https://open.spotify.com/artist/1h6UkqNEUkNJzfn7fKv64U">Ezra Zhao · Spotify 艺人页</a></h3>
+      <p>全部已发行赞美诗都在这里，进艺人页点关注，新歌上线第一时间听到。</p>
+      <p><a class="go" href="https://open.spotify.com/artist/1h6UkqNEUkNJzfn7fKv64U">去听歌 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="https://open.spotify.com/album/2d99jXP9lgBgnwdsUE6Wx3">《说不尽的恩典》</a> <span class="badge">最新上线</span></h3>
+      <p>说不尽的恩典——最新正式上线的单曲，Spotify 现已可听。</p>
+      <p><a class="go" href="https://open.spotify.com/album/2d99jXP9lgBgnwdsUE6Wx3">在 Spotify 收听 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="https://open.spotify.com/album/5G2NWXX7Tkg96sldiH0fek">《以马内利》</a> <span class="badge">最新上线</span></h3>
+      <p>以马内利，神与我们同在——最新正式上线的单曲，Spotify 现已可听。</p>
+      <p><a class="go" href="https://open.spotify.com/album/5G2NWXX7Tkg96sldiH0fek">在 Spotify 收听 →</a></p>
+    </div>
+  </section>
+
+  <section id="podcast">
+    <h2>听播客 <span class="tag">讲道 · 灵修</span></h2>
+    <p class="desc">讲道与每日灵修，通勤、睡前都能听。</p>
+    <div class="item">
+      <h3>《瓦器里的宝贝》（瓦器分享）</h3>
+      <p>圣经讲解与讲道播客：一卷书一卷书、一段经文一段经文地讲。</p>
+      <p class="listen">在播客平台收听：<a href="https://pca.st/80mejg80">Pocket Casts</a> · <a href="https://castbox.fm/channel/id7462659">Castbox</a></p>
+    </div>
+    <div class="item">
+      <h3>每日灵修｜2 分钟读经与祷告</h3>
+      <p>早间与睡前两档，每天 2 分钟，一段经文、一个祷告，陪你开始和结束一天。</p>
+      <p class="listen">在播客平台收听：<a href="https://open.spotify.com/show/0aRYgnhiksutsHE8Z3C4Ns">Spotify</a> · <a href="https://pca.st/crscel1a">Pocket Casts</a> · <a href="https://castbox.fm/channel/id7461795">Castbox</a></p>
+    </div>
+    <div class="item">
+      <h3>灵修多语版</h3>
+      <p>同一套每日灵修，还有英语、西班牙语、越南语、印地语版本，欢迎转给有需要的朋友。</p>
+      <p class="listen">英语版：<a href="https://pca.st/o3rbpr1h">Pocket Casts</a> · <a href="https://castbox.fm/channel/id7462672">Castbox</a></p>
+    </div>
+  </section>
+
+  <section id="video">
+    <h2>看视频 <span class="tag">YouTube</span></h2>
+    <p class="desc">长视频与每日短节目，都在 YouTube。</p>
+    <div class="item">
+      <h3><a href="https://www.youtube.com/@ezra-zhao">YouTube 频道 Ezra-Zhao</a></h3>
+      <p>长视频系列：讲道、圣经讲解与专题课程。</p>
+      <p><a class="go" href="https://www.youtube.com/@ezra-zhao">去看视频 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="https://www.youtube.com/@EzraDaily777">Ezra Daily 日更频道</a></h3>
+      <p>每日更新的时效节目：新闻、股市、灵修与生活资讯。</p>
+      <p><a class="go" href="https://www.youtube.com/@EzraDaily777">去日更频道 →</a></p>
+    </div>
+  </section>
+
+  <section id="qa">
+    <h2>问答与代祷 <span class="tag">信仰问答</span></h2>
+    <p class="desc">心里有过不去的坎，先看看这些问题里有没有你的那一句；需要有人陪你祷告，也可以把事项留给我们。</p>
+    <div class="item">
+      <h3><a href="./qa.html">信仰问答</a></h3>
+      <p>「神为什么不听我的祷告？」「苦难到底有没有意义？」——从最常被问到的问题读起。</p>
+      <p><a class="go" href="./qa.html">看问题清单 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="./qa.html#intercession">请我们为你代祷</a></h3>
+      <p>每件事项我们认真代祷一个月，期间关怀、满月前等你反馈。规则与提交入口在问答页。</p>
+      <p><a class="go" href="./qa.html#intercession">了解代祷 →</a></p>
+    </div>
+  </section>
+
+  <section id="archive">
+    <h2>每日节目存档 <span class="tag">档案</span></h2>
+    <p class="desc">新闻、股市、长寿前沿、硅谷科技、移民政策、湾区福利与每日灵修的往期节目存档，点开任意一集即可收听。</p>
+    <div id="app"><p style="color:#9fb0c9;padding:10px 0">正在加载目录…</p></div>
+  </section>
+
 </main>
 <footer>
-  <p>本页是中央档案的展示入口；全部内容同时存档于 GitHub 仓库，发布顺序为 GitHub → X → 其他平台。</p>
-  <p>© 2026 Guangyi Zhao 文稿与音频版权所有。</p>
+  <div>© 2026 Guangyi Zhao（赵广义）· Ezra 内容枢纽 — 原创书籍、赞美诗、播客与视频</div>
+  <div>
+    <a href="https://www.youtube.com/@ezra-zhao">YouTube 频道 Ezra-Zhao</a> ·
+    <a href="./privacy-policy.html">隐私政策 Privacy Policy</a> ·
+    <a href="./terms-of-service.html">服务条款 Terms of Service</a>
+  </div>
 </footer>
 <script>
 (function(){
@@ -77,7 +201,7 @@
     var byId = {};
     data.programs.forEach(function(p){ byId[p.id] = p.name; });
     data.programs.forEach(function(p){
-      html += '<section id="prog-' + esc(p.id) + '"><h2>' + esc(p.name) + ' <span class="tag">' + esc(p.slot) + '</span></h2>';
+      html += '<div class="ep" style="border-top:none;padding-top:14px"><h3 style="font-size:17px">' + esc(p.name) + '</h3>';
       html += '<p class="desc">' + esc(p.desc) + '</p>';
       if(p.listen){
         var lp = [];
@@ -88,7 +212,7 @@
       }
       if(p.related && p.related.length){
         var chips = [];
-        p.related.forEach(function(rid){ if(byId[rid]){ chips.push('<a href="#prog-' + esc(rid) + '">' + esc(byId[rid]) + '</a>'); } });
+        p.related.forEach(function(rid){ if(byId[rid]){ chips.push('<a href="#archive">' + esc(byId[rid]) + '</a>'); } });
         if(chips.length){ html += '<p class="rel">相关节目：' + chips.join('') + '</p>'; }
       }
       if(!p.episodes || !p.episodes.length){ html += '<p class="empty">即将上线，敬请期待。</p>'; }
@@ -97,31 +221,23 @@
         html += '<h3>' + esc(e.title) + '</h3><p class="theme">' + esc(e.theme) + '</p>';
         html += '<audio controls preload="none" src="' + BASE + esc(e.audio) + '"></audio></div>';
       });
-      html += '</section>';
+      html += '</div>';
     });
     (data.articles||[]).forEach(function(s){
-      html += '<section><h2>' + esc(s.name) + ' <span class="tag">文章</span></h2>';
+      html += '<div class="ep" style="border-top:none;padding-top:14px"><h3 style="font-size:17px">' + esc(s.name) + '</h3>';
       html += '<p class="desc">' + esc(s.desc) + '</p>';
       if(!s.items || !s.items.length){ html += '<p class="empty">即将上线，敬请期待。</p>'; }
       (s.items||[]).forEach(function(a){
         html += '<div class="art"><div class="meta">' + esc(a.date) + ' · ' + esc(a.scripture||'') + '</div>';
         html += '<a href="' + esc(a.page) + '">' + esc(a.title) + '</a></div>';
       });
-      html += '</section>';
+      html += '</div>';
     });
     document.getElementById('app').innerHTML = html;
   }).catch(function(){
-    document.getElementById('app').innerHTML = '<p style="padding:20px 4px">目录加载失败，请稍后再试。</p>';
+    document.getElementById('app').innerHTML = '<p style="padding:10px 0">目录加载失败，请稍后再试。</p>';
   });
 })();
 </script>
-<footer style="max-width:960px;margin:32px auto 24px;padding:16px 20px;border-top:1px solid #2a3550;color:#9fb0cc;font-size:13px;line-height:1.9;text-align:center">
-  <div>© 2026 Guangyi Zhao（赵广义）· Ezra 内容中央枢纽 — 原创音频、视频与文字档案</div>
-  <div>
-    <a href="https://www.youtube.com/@ezra-zhao" style="color:#cfe0ff">YouTube 频道 Ezra-Zhao</a> ·
-    <a href="./privacy-policy.html" style="color:#cfe0ff">隐私政策 Privacy Policy</a> ·
-    <a href="./terms-of-service.html" style="color:#cfe0ff">服务条款 Terms of Service</a>
-  </div>
-</footer>
 </body>
 </html>
