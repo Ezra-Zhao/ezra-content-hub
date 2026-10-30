@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日早晚两版综合新闻播报：国际、美国、财经、科技要闻一次说清。早间版 7 点、晚间版 21 点。主讲 Guangyi Zhao。关键词：新闻、国际新闻、美国新闻、综合播报。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 20:46:12 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:04:31 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日早晚两版综合新闻播报：国际、美国、财经、科技要闻一次说清。早间版 7 点、晚间版 21 点。主讲 Guangyi Zhao。关键词：新闻、国际新闻、美国新闻、综合播报。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Politics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>新闻矩阵｜10月30日早间版：币安遭史上最大加密盗窃，霍尔木兹油轮遇袭油价冲高，西班牙列车相撞69人遇难</title>
+      <description>新闻矩阵｜10月30日早间版：币安遭史上最大加密盗窃，霍尔木兹油轮遇袭油价冲高，西班牙列车相撞69人遇难</description>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">news-am-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/news-am/2026-10-30/audio.mp3" length="4611804" type="audio/mpeg"/>
+      <itunes:duration>4:48</itunes:duration>
+    </item>
     <item>
       <title>新闻矩阵｜10月29日晚间版：以色列计票完成仍无多数，字母表创纪录大跌，亚马逊英特尔盘后双跌</title>
       <description>新闻矩阵｜10月29日晚间版：以色列计票完成仍无多数，字母表创纪录大跌，亚马逊英特尔盘后双跌</description>

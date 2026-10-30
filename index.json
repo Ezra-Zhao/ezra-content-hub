@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "programs": [
   {
    "id": "devotion-am",
@@ -1135,6 +1135,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-10-30",
+     "title": "新闻矩阵｜10月30日早间版：币安遭史上最大加密盗窃，霍尔木兹油轮遇袭油价冲高，西班牙列车相撞69人遇难",
+     "scripture": "",
+     "theme": "新闻矩阵｜10月30日早间版：币安遭史上最大加密盗窃，霍尔木兹油轮遇袭油价冲高，西班牙列车相撞69人遇难",
+     "audio": "content/news-am/2026-10-30/audio.mp3",
+     "page": "content/news-am/2026-10-30/index.md",
+     "duration_sec": 288,
+     "duration": "4:48",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-10-29",
      "title": "新闻矩阵｜10月29日早间版：美国三季度经济增长3.4%超预期，拉加德宣布提前离任，以色列计票近尾声仍无多数",
      "scripture": "",
@@ -1183,7 +1199,7 @@
      }
     }
    ],
-   "count": 3,
+   "count": 4,
    "related": [
     "fred-am",
     "fred-pm",
