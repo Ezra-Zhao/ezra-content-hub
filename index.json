@@ -2722,8 +2722,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "date": "2026-10-30",
+     "title": "洪水提示延长到周日，今天下午再迎最高潮",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-10-30-coastal-flood-extended-to-sunday.md",
+     "page": "articles/baylocal/2026-10-30-coastal-flood-extended-to-sunday.html"
+    },
     {
      "date": "2026-10-29",
      "title": "BART今早全线延误，出门先看这一条",
