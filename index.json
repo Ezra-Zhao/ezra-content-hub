@@ -2978,8 +2978,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "date": "2026-10-31",
+     "title": "110个投票中心今天全部开放",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-10-31-vote-centers-open.md",
+     "page": "articles/baylocal/2026-10-31-vote-centers-open.html"
+    },
     {
      "date": "2026-10-30",
      "title": "洪水提示延长到周日，今天下午再迎最高潮",
