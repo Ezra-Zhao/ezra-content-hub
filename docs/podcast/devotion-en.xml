@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 10:44:12 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:40:21 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] He Goes Before You</title>
+      <description>You do not have to push open the door of the unknown alone — God has already gone ahead of you, and He is waiting there for you. Scripture: Deuteronomy 31:8 (WEB)</description>
+      <pubDate>Fri, 30 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-10-30/audio.mp3" length="1819837" type="audio/mpeg"/>
+      <itunes:duration>1:54</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Seek First His Kingdom</title>
+      <description>Put the order of your heart back in its right place: you attend to aligning yourself with God&#x27;s heart; your Father will attend to supplying all that you need. Scripture: Matthew 6:33 (WEB)</description>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-10-30/audio.mp3" length="1852020" type="audio/mpeg"/>
+      <itunes:duration>1:56</itunes:duration>
+    </item>
     <item>
       <title>[PM] He Loves You in Silence</title>
       <description>He will rest in His love: tonight God is not tallying your day, He is quietly beside your bed, loving you. Scripture: Zephaniah 3:17 (WEB)</description>
