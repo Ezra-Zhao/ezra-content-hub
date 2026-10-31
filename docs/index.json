@@ -1135,6 +1135,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-10-31",
+     "title": "新闻矩阵｜10月31日早间版：G20外长会分歧难弥，美批准500枚爱国者援乌，提前投票破4900万张",
+     "scripture": "",
+     "theme": "新闻矩阵｜10月31日早间版：G20外长会分歧难弥，美批准500枚爱国者援乌，提前投票破4900万张",
+     "audio": "content/news-am/2026-10-31/audio.mp3",
+     "page": "content/news-am/2026-10-31/index.md",
+     "duration_sec": 293,
+     "duration": "4:53",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-10-30",
      "title": "新闻矩阵｜10月30日早间版：币安遭史上最大加密盗窃，霍尔木兹油轮遇袭油价冲高，西班牙列车相撞69人遇难",
      "scripture": "",
@@ -1199,7 +1215,7 @@
      }
     }
    ],
-   "count": 4,
+   "count": 5,
    "related": [
     "fred-am",
     "fred-pm",
