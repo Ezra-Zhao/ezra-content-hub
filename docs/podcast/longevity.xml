@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 20:45:22 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:44:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,38 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报·晚间版｜10月30日：罕见喉病有了少动手术的新药</title>
+      <description>本期：晚间新增——企业傍晚宣布，食品药品管理局加速批准DNA免疫疗法VOCERYQ，用于成人复发性呼吸道乳头状瘤、减少手术次数，为美国首款获批的这类药物；研究共32人，26人列入疗效评估，7人在治疗后12个月不用再做手术，占27%，加速批准</description>
+      <pubDate>Fri, 30 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-30-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-30-pm/audio.mp3" length="843250" type="audio/mpeg"/>
+      <itunes:duration>1:45</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报｜10月30日：关节炎新选择，一款银屑病药扩大用途</title>
+      <description>本期：Sun Pharma 10月30日宣布，FDA批准ILUMYA（tildrakizumab-asmn）扩大用途，用于成人活动性银屑病关节炎；依据两项52周三期试验（合计超过800名患者），24周主要终点达标，企业公告未公布具体应答百分</description>
+      <pubDate>Fri, 30 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-30/audio.mp3" length="865611" type="audio/mpeg"/>
+      <itunes:duration>1:48</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报·晚间版｜10月29日：不开胸修心瓣，全国首例做完了</title>
+      <description>本期：10月22日本节目报过的导管瓣膜修复系统，10月29日由佛罗里达一家心脏研究所宣布完成获批后全国首例，经导管夹拢瓣叶减漏、不用开胸；该中心获批前入组最多。适用边界：吃足药物仍有症状、手术风险至少中等者须经多学科团队评估，公告未公布这一</description>
+      <pubDate>Thu, 29 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-29-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-29-pm/audio.mp3" length="868119" type="audio/mpeg"/>
+      <itunes:duration>1:48</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报｜10月29日：治动脉出血的水凝胶，获批扩大用途</title>
+      <description>本期：Instylla 10月29日宣布，FDA批准Embrace水凝胶栓塞系统扩大用途，用于直径不超过6毫米的外周动脉出血；依据HALT前瞻性多中心试验（130名患者、22家中心），30天内无重大不良事件100%、临床成功90%。Orex</description>
+      <pubDate>Thu, 29 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-10-29</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-10-29/audio.mp3" length="818382" type="audio/mpeg"/>
+      <itunes:duration>1:42</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报·晚间版｜10月28日：宾州麻疹升至1398例</title>
       <description>本期：宾夕法尼亚州卫生部门10月28日更新，全州麻疹病例升至1398例，比周一多38例，今年住院265人；州里报告5例死亡，美国疾控中心确认3例，两边口径未对齐。疾控中心截至10月22日全美4588例、其中宾州1327例，联邦更新慢于州实时</description>

@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-10-31",
  "programs": [
   {
    "id": "devotion-am",
@@ -1289,6 +1289,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-10-29",
+     "title": "美股盘后小结 10月29日：谷歌大跌拖累三大指数+礼来创历史新高",
+     "scripture": "",
+     "theme": "美股盘后小结 10月29日：谷歌大跌拖累三大指数+礼来创历史新高",
+     "audio": "content/stocks-pm/2026-10-29/audio.mp3",
+     "page": "content/stocks-pm/2026-10-29/index.md",
+     "duration_sec": 73,
+     "duration": "1:13",
+     "video_url": "https://www.youtube.com/watch?v=31tdeMFIlxQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=31tdeMFIlxQ"
+     }
+    },
+    {
      "date": "2026-10-28",
      "title": "美股盘后小结 10月28日：美联储维持利率不变+三大指数小幅收涨",
      "scripture": "",
@@ -1545,7 +1561,7 @@
      }
     }
    ],
-   "count": 16,
+   "count": 17,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
@@ -1566,6 +1582,22 @@
    "desc": "美国百指日报早版：100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-10-29",
+     "title": "《美国百指日报》2026-10-29｜三季度GDP增长3.4%超预期，核心PCE同比3.1%仍烫手",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。",
+     "audio": "content/fred-am/2026-10-29/audio.mp3",
+     "page": "content/fred-am/2026-10-29/index.md",
+     "duration_sec": 470,
+     "duration": "7:50",
+     "video_url": "https://www.youtube.com/watch?v=8NBUzqCGM-U",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=8NBUzqCGM-U"
+     }
+    },
     {
      "date": "2026-10-28",
      "title": "《美国百指日报》2026-10-28｜美联储决议日先到房贷回暖，申请涨3.4%，利率降到7.37%",
@@ -1759,7 +1791,7 @@
      }
     }
    ],
-   "count": 12,
+   "count": 13,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -1780,6 +1812,38 @@
    "desc": "美国百指日报晚版：当日经济指标收官复盘与次日前瞻。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-10-30",
+     "title": "美国百指日报·晚间速报｜10月30日：就业成本涨0.8%放缓，纳指跌2.86%，英特尔暴跌28.6%",
+     "scripture": "",
+     "theme": "本期要点（2026年10月30日，星期五）：",
+     "audio": "content/fred-pm/2026-10-30/audio.mp3",
+     "page": "content/fred-pm/2026-10-30/index.md",
+     "duration_sec": 110,
+     "duration": "1:50",
+     "video_url": "https://www.youtube.com/watch?v=C0E1Px9ebps",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=C0E1Px9ebps"
+     }
+    },
+    {
+     "date": "2026-10-29",
+     "title": "美国百指日报·晚间速报｜10月29日：GDP增长3.4%超预期，纳指跌1.38%，亚马逊云大涨39%",
+     "scripture": "",
+     "theme": "本期要点（2026年10月29日，星期四）：",
+     "audio": "content/fred-pm/2026-10-29/audio.mp3",
+     "page": "content/fred-pm/2026-10-29/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "https://www.youtube.com/watch?v=0p-nrO4EEGA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=0p-nrO4EEGA"
+     }
+    },
     {
      "date": "2026-10-28",
      "title": "美国百指日报·晚间速报｜10月28日：美联储按兵不动两人想加息，贸易逆差扩大到1349亿",
@@ -1925,7 +1989,7 @@
      }
     }
    ],
-   "count": 9,
+   "count": 11,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -1946,6 +2010,70 @@
    "desc": "长寿与健康前沿速报：每天替你读长寿与健康领域的论文与研究。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-10-30",
+     "title": "长寿前沿日报｜10月30日：关节炎新选择，一款银屑病药扩大用途",
+     "scripture": "",
+     "theme": "本期：Sun Pharma 10月30日宣布，FDA批准ILUMYA（tildrakizumab-asmn）扩大用途，用于成人活动性银屑病关节炎；依据两项52周三期试验（合计超过800名患者），24周主要终点达标，企业公告未公布具体应答百分",
+     "audio": "content/longevity/2026-10-30/audio.mp3",
+     "page": "content/longevity/2026-10-30/index.md",
+     "duration_sec": 108,
+     "duration": "1:48",
+     "video_url": "https://www.youtube.com/watch?v=Oi5n0JrZVuA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Oi5n0JrZVuA"
+     }
+    },
+    {
+     "date": "2026-10-30",
+     "title": "长寿前沿日报·晚间版｜10月30日：罕见喉病有了少动手术的新药",
+     "scripture": "",
+     "theme": "本期：晚间新增——企业傍晚宣布，食品药品管理局加速批准DNA免疫疗法VOCERYQ，用于成人复发性呼吸道乳头状瘤、减少手术次数，为美国首款获批的这类药物；研究共32人，26人列入疗效评估，7人在治疗后12个月不用再做手术，占27%，加速批准",
+     "audio": "content/longevity/2026-10-30-pm/audio.mp3",
+     "page": "content/longevity/2026-10-30-pm/index.md",
+     "duration_sec": 105,
+     "duration": "1:45",
+     "video_url": "https://www.youtube.com/watch?v=wObuF7R-qZ8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=wObuF7R-qZ8"
+     }
+    },
+    {
+     "date": "2026-10-29",
+     "title": "长寿前沿日报｜10月29日：治动脉出血的水凝胶，获批扩大用途",
+     "scripture": "",
+     "theme": "本期：Instylla 10月29日宣布，FDA批准Embrace水凝胶栓塞系统扩大用途，用于直径不超过6毫米的外周动脉出血；依据HALT前瞻性多中心试验（130名患者、22家中心），30天内无重大不良事件100%、临床成功90%。Orex",
+     "audio": "content/longevity/2026-10-29/audio.mp3",
+     "page": "content/longevity/2026-10-29/index.md",
+     "duration_sec": 102,
+     "duration": "1:42",
+     "video_url": "https://www.youtube.com/watch?v=NifPP4Z8A1A",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=NifPP4Z8A1A"
+     }
+    },
+    {
+     "date": "2026-10-29",
+     "title": "长寿前沿日报·晚间版｜10月29日：不开胸修心瓣，全国首例做完了",
+     "scripture": "",
+     "theme": "本期：10月22日本节目报过的导管瓣膜修复系统，10月29日由佛罗里达一家心脏研究所宣布完成获批后全国首例，经导管夹拢瓣叶减漏、不用开胸；该中心获批前入组最多。适用边界：吃足药物仍有症状、手术风险至少中等者须经多学科团队评估，公告未公布这一",
+     "audio": "content/longevity/2026-10-29-pm/audio.mp3",
+     "page": "content/longevity/2026-10-29-pm/index.md",
+     "duration_sec": 108,
+     "duration": "1:48",
+     "video_url": "https://www.youtube.com/watch?v=fDsWEnIYVYo",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=fDsWEnIYVYo"
+     }
+    },
     {
      "date": "2026-10-28",
      "title": "长寿前沿日报｜10月28日：一人一药的基因编辑，有了申报新路",
@@ -2203,7 +2331,7 @@
      }
     }
    ],
-   "count": 16,
+   "count": 20,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -2224,6 +2352,54 @@
    "desc": "硅谷科技动态速报：AI 与科技公司最新进展。",
    "category": "科技",
    "episodes": [
+    {
+     "date": "2026-10-30",
+     "title": "硅谷科技日报·晚间版｜10月30日：不想被训练，网站写一行就行",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年10月30日，星期五。头条：不想被训练，网站写一行就行。",
+     "audio": "content/silicon-valley/2026-10-30-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-10-30-pm/index.md",
+     "duration_sec": 107,
+     "duration": "1:47",
+     "video_url": "https://www.youtube.com/watch?v=feSjRb0fJ90",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=feSjRb0fJ90"
+     }
+    },
+    {
+     "date": "2026-10-29",
+     "title": "硅谷科技日报｜10月29日：谷歌的世界模型会说话了",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年10月29日，星期四。头条：谷歌的世界模型会说话了，你还能边玩边改。",
+     "audio": "content/silicon-valley/2026-10-29/audio.mp3",
+     "page": "content/silicon-valley/2026-10-29/index.md",
+     "duration_sec": 119,
+     "duration": "1:59",
+     "video_url": "https://www.youtube.com/watch?v=STDDD5a1Yfo",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=STDDD5a1Yfo"
+     }
+    },
+    {
+     "date": "2026-10-29",
+     "title": "硅谷科技日报·晚间版｜10月29日：谷歌最强模型，先交给找漏洞的人",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年10月29日，星期四。头条：谷歌最强模型，先交给找漏洞的人。",
+     "audio": "content/silicon-valley/2026-10-29-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-10-29-pm/index.md",
+     "duration_sec": 99,
+     "duration": "1:39",
+     "video_url": "https://www.youtube.com/watch?v=jjOkoys-yo4",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=jjOkoys-yo4"
+     }
+    },
     {
      "date": "2026-10-28",
      "title": "硅谷科技日报｜10月28日：OpenAI要买谷歌的芯片，算力不够宿敌也得同桌",
@@ -2417,7 +2593,7 @@
      }
     }
    ],
-   "count": 12,
+   "count": 15,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -2438,6 +2614,22 @@
    "desc": "移民政策速报：美国移民政策与法规变化解读。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-10-29",
+     "title": "移民政策速报｜2026年10月29日：北马里亚纳免签旅行授权暂停明日生效，11月排期与用表周日执行",
+     "scripture": "",
+     "theme": "信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。",
+     "audio": "content/immigration/2026-10-29/audio.mp3",
+     "page": "content/immigration/2026-10-29/index.md",
+     "duration_sec": 94,
+     "duration": "1:34",
+     "video_url": "https://www.youtube.com/watch?v=L_TPM_xYOaY",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=L_TPM_xYOaY"
+     }
+    },
     {
      "date": "2026-10-28",
      "title": "移民政策速报｜2026年10月28日：移民局更新L-1费用指引，延期申请也纳入缴费范围，9月9日起已生效",
@@ -2599,7 +2791,7 @@
      }
     }
    ],
-   "count": 10,
+   "count": 11,
    "listen": {
     "pocketcasts": "https://pca.st/8vhld1p4",
     "castbox": "https://castbox.fm/channel/id7461844"
@@ -2620,6 +2812,38 @@
    "desc": "湾区福利与生活资讯速报：福利、补助与生活信息。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-10-30",
+     "title": "本期文字版清单（可直接转发）：",
+     "scripture": "",
+     "theme": "1）主打：帕西菲卡资源中心（Pacifica Resource Center）感恩节计划登记中，2026年11月6日（周五）截止。登记家庭可领一份节庆食品，外加一张买其他食材的购物礼卡（金额以中心公布为准）。报名电话 (650) 738-7",
+     "audio": "content/bay-area-benefits/2026-10-30/audio.mp3",
+     "page": "content/bay-area-benefits/2026-10-30/index.md",
+     "duration_sec": 111,
+     "duration": "1:51",
+     "video_url": "https://www.youtube.com/watch?v=V9uvzq46_yg",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=V9uvzq46_yg"
+     }
+    },
+    {
+     "date": "2026-10-29",
+     "title": "本期文字版清单（可直接转发）：",
+     "scripture": "",
+     "theme": "1）主打：2026年11月8日（周日）11:00–17:00，圣何塞科技互动馆（The Tech Interactive）全国STEM日社区日，全天免费开放，不用优惠码，地址 201 S. Market St, San Jose。成人票平时",
+     "audio": "content/bay-area-benefits/2026-10-29/audio.mp3",
+     "page": "content/bay-area-benefits/2026-10-29/index.md",
+     "duration_sec": 109,
+     "duration": "1:49",
+     "video_url": "https://www.youtube.com/watch?v=0e9hQ4i6JEY",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=0e9hQ4i6JEY"
+     }
+    },
     {
      "date": "2026-10-28",
      "title": "本期文字版清单（可直接转发）：",
@@ -2717,7 +2941,7 @@
      }
     }
    ],
-   "count": 6,
+   "count": 8,
    "listen": {
     "pocketcasts": "https://pca.st/h33fzfrw",
     "castbox": "https://castbox.fm/channel/id7461845"

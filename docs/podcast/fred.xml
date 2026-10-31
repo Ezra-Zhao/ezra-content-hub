@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 20:45:22 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:44:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,30 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜10月30日：就业成本涨0.8%放缓，纳指跌2.86%，英特尔暴跌28.6%</title>
+      <description>本期要点（2026年10月30日，星期五）：</description>
+      <pubDate>Fri, 30 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-10-30/audio.mp3" length="884210" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
+    </item>
+    <item>
+      <title>美国百指日报·晚间速报｜10月29日：GDP增长3.4%超预期，纳指跌1.38%，亚马逊云大涨39%</title>
+      <description>本期要点（2026年10月29日，星期四）：</description>
+      <pubDate>Thu, 29 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-10-29</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-10-29/audio.mp3" length="1022346" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
+    </item>
+    <item>
+      <title>《美国百指日报》2026-10-29｜三季度GDP增长3.4%超预期，核心PCE同比3.1%仍烫手｜10月29日</title>
+      <description>每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。</description>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-10-29</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-10-29/audio.mp3" length="3762068" type="audio/mpeg"/>
+      <itunes:duration>7:50</itunes:duration>
+    </item>
     <item>
       <title>美国百指日报·晚间速报｜10月28日：美联储按兵不动两人想加息，贸易逆差扩大到1349亿</title>
       <description>本期要点（2026年10月28日，星期三）：</description>

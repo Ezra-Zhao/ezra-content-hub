@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：移民政策速报、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 20:45:22 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:44:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：移民政策速报、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,22 @@
     <itunes:category text="News"/>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>本期文字版清单（可直接转发）：｜10月30日</title>
+      <description>1）主打：帕西菲卡资源中心（Pacifica Resource Center）感恩节计划登记中，2026年11月6日（周五）截止。登记家庭可领一份节庆食品，外加一张买其他食材的购物礼卡（金额以中心公布为准）。报名电话 (650) 738-7</description>
+      <pubDate>Fri, 30 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bay-area-benefits-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/bay-area-benefits/2026-10-30/audio.mp3" length="886927" type="audio/mpeg"/>
+      <itunes:duration>1:51</itunes:duration>
+    </item>
+    <item>
+      <title>本期文字版清单（可直接转发）：｜10月29日</title>
+      <description>1）主打：2026年11月8日（周日）11:00–17:00，圣何塞科技互动馆（The Tech Interactive）全国STEM日社区日，全天免费开放，不用优惠码，地址 201 S. Market St, San Jose。成人票平时</description>
+      <pubDate>Thu, 29 Oct 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bay-area-benefits-2026-10-29</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/bay-area-benefits/2026-10-29/audio.mp3" length="874806" type="audio/mpeg"/>
+      <itunes:duration>1:49</itunes:duration>
+    </item>
     <item>
       <title>本期文字版清单（可直接转发）：｜10月28日</title>
       <description>1）主打：2026年11月3日（周二），de Young美术馆与荣誉军团美术馆（Legion of Honor）普通门票对所有访客免费，不看住址，9:30–17:15。de Young成人票平时$25。只限常设展，特别展览照常收费；建议先在</description>
