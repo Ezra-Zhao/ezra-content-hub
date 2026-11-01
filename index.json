@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "programs": [
   {
    "id": "devotion-am",
@@ -1135,6 +1135,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-01",
+     "title": "新闻矩阵｜11月1日早间版：刚果埃博拉死亡破5026人，提前投票破5050万张，纳指重挫2.86%",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月1日早间版：刚果埃博拉死亡破5026人，提前投票破5050万张，纳指重挫2.86%",
+     "audio": "content/news-am/2026-11-01/audio.mp3",
+     "page": "content/news-am/2026-11-01/index.md",
+     "duration_sec": 351,
+     "duration": "5:51",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-10-31",
      "title": "新闻矩阵｜10月31日早间版：G20外长会分歧难弥，美批准500枚爱国者援乌，提前投票破4900万张",
      "scripture": "",
@@ -1215,7 +1231,7 @@
      }
     }
    ],
-   "count": 5,
+   "count": 6,
    "related": [
     "fred-am",
     "fred-pm",
