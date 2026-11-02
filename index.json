@@ -1251,6 +1251,70 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-01",
+     "title": "新闻矩阵｜11月1日晚间版：阿拉斯加同名选票诉讼被驳回，提前投票破5314万张，多哈谈判第三天无突破",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月1日晚间版：阿拉斯加同名选票诉讼被驳回，提前投票破5314万张，多哈谈判第三天无突破",
+     "audio": "content/news-pm/2026-11-01/audio.mp3",
+     "page": "content/news-pm/2026-11-01/index.md",
+     "duration_sec": 338,
+     "duration": "5:38",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-31",
+     "title": "新闻矩阵｜10月31日晚间版：提前投票破5131万创新高，美使馆警报莫斯科恐袭威胁，中国十月PMI三线跌破50",
+     "scripture": "",
+     "theme": "新闻矩阵｜10月31日晚间版：提前投票破5131万创新高，美使馆警报莫斯科恐袭威胁，中国十月PMI三线跌破50",
+     "audio": "content/news-pm/2026-10-31/audio.mp3",
+     "page": "content/news-pm/2026-10-31/index.md",
+     "duration_sec": 372,
+     "duration": "6:12",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-30",
+     "title": "新闻矩阵｜10月30日晚间版：英特尔暴跌28.6%创52年最差，币安备63.4亿美元兜底，提前投票破纪录近4800万张",
+     "scripture": "",
+     "theme": "新闻矩阵｜10月30日晚间版：英特尔暴跌28.6%创52年最差，币安备63.4亿美元兜底，提前投票破纪录近4800万张",
+     "audio": "content/news-pm/2026-10-30/audio.mp3",
+     "page": "content/news-pm/2026-10-30/index.md",
+     "duration_sec": 356,
+     "duration": "5:56",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-10-29",
+     "title": "新闻矩阵｜10月29日晚间版：以色列计票完成仍无多数，字母表创纪录大跌，亚马逊英特尔盘后双跌",
+     "scripture": "",
+     "theme": "新闻矩阵｜10月29日晚间版：以色列计票完成仍无多数，字母表创纪录大跌，亚马逊英特尔盘后双跌",
+     "audio": "content/news-pm/2026-10-29/audio.mp3",
+     "page": "content/news-pm/2026-10-29/index.md",
+     "duration_sec": 309,
+     "duration": "5:09",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-10-28",
      "title": "新闻矩阵｜10月28日晚间版：美联储维持利率两人主张加息，微软财报胜预期字母表盘后大跌，以色列计票仍陷僵局",
      "scripture": "",
