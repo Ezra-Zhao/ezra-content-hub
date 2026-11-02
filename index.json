@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "programs": [
   {
    "id": "devotion-am",
@@ -1135,6 +1135,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-02",
+     "title": "新闻矩阵｜11月2日早间版：提前投票破5400万张，佛州商务机坠毁9人遇难，油价跌破100美元",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月2日早间版：提前投票破5400万张，佛州商务机坠毁9人遇难，油价跌破100美元",
+     "audio": "content/news-am/2026-11-02/audio.mp3",
+     "page": "content/news-am/2026-11-02/index.md",
+     "duration_sec": 314,
+     "duration": "5:14",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-01",
      "title": "新闻矩阵｜11月1日早间版：刚果埃博拉死亡破5026人，提前投票破5050万张，纳指重挫2.86%",
      "scripture": "",
@@ -1231,7 +1247,7 @@
      }
     }
    ],
-   "count": 6,
+   "count": 7,
    "related": [
     "fred-am",
     "fred-pm",
