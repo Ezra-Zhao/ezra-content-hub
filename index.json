@@ -1363,7 +1363,7 @@
      }
     }
    ],
-   "count": 2,
+   "count": 6,
    "related": [
     "fred-am",
     "fred-pm",
@@ -1695,6 +1695,54 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-01",
+     "title": "《美国百指日报》2026-11-01｜周日无新数据，异常榜存档确认；周五就业报告预期分歧明显",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。今天是周日，美国无新的经济数据公布，本期为周末对账版：把异常榜读数再确认一遍，再把下周的就业报告周排清楚。",
+     "audio": "content/fred-am/2026-11-01/audio.mp3",
+     "page": "content/fred-am/2026-11-01/index.md",
+     "duration_sec": 412,
+     "duration": "6:52",
+     "video_url": "https://www.youtube.com/watch?v=6NdrOdLwPfQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=6NdrOdLwPfQ"
+     }
+    },
+    {
+     "date": "2026-10-31",
+     "title": "《美国百指日报》2026-10-31｜30年房贷利率降到7.24%创本月最低，隔夜逆回购月末跳增逾11倍",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。今天是周六，美国无新的经济数据公布，本期看最新已落地读数与下周前瞻。",
+     "audio": "content/fred-am/2026-10-31/audio.mp3",
+     "page": "content/fred-am/2026-10-31/index.md",
+     "duration_sec": 413,
+     "duration": "6:53",
+     "video_url": "https://www.youtube.com/watch?v=ZOLyD7dqr3Y",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=ZOLyD7dqr3Y"
+     }
+    },
+    {
+     "date": "2026-10-30",
+     "title": "《美国百指日报》2026-10-30｜实际利率2.47%钉在异常高位，净出口单期恶化38%",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化。本期监测173个指标。本期为补产：原定2026-10-30晨间播出，因生产链中断于2026-11-01按当日快照口径补产，数字与日期均以2026-10-30当日为准。",
+     "audio": "content/fred-am/2026-10-30/audio.mp3",
+     "page": "content/fred-am/2026-10-30/index.md",
+     "duration_sec": 240,
+     "duration": "4:00",
+     "video_url": "https://www.youtube.com/watch?v=A5QomcTZnfA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=A5QomcTZnfA"
+     }
+    },
+    {
      "date": "2026-10-29",
      "title": "《美国百指日报》2026-10-29｜三季度GDP增长3.4%超预期，核心PCE同比3.1%仍烫手",
      "scripture": "",
@@ -1903,7 +1951,7 @@
      }
     }
    ],
-   "count": 13,
+   "count": 16,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -1924,6 +1972,38 @@
    "desc": "美国百指日报晚版：当日经济指标收官复盘与次日前瞻。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-11-01",
+     "title": "美国百指日报·晚间速报｜11月1日：周日无新数据，明天制造业打头阵，周五就业定胜负",
+     "scripture": "",
+     "theme": "本期要点（2026年11月1日，星期日）：",
+     "audio": "content/fred-pm/2026-11-01/audio.mp3",
+     "page": "content/fred-pm/2026-11-01/index.md",
+     "duration_sec": 114,
+     "duration": "1:54",
+     "video_url": "https://www.youtube.com/watch?v=rQKG3WCx9BU",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=rQKG3WCx9BU"
+     }
+    },
+    {
+     "date": "2026-10-31",
+     "title": "美国百指日报·晚间速报｜10月31日：周六无新数据，房贷降到7.24%本月最低，信用利差走阔",
+     "scripture": "",
+     "theme": "本期要点（2026年10月31日，星期六）：",
+     "audio": "content/fred-pm/2026-10-31/audio.mp3",
+     "page": "content/fred-pm/2026-10-31/index.md",
+     "duration_sec": 124,
+     "duration": "2:04",
+     "video_url": "https://www.youtube.com/watch?v=8wYZCYwIN3I",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=8wYZCYwIN3I"
+     }
+    },
     {
      "date": "2026-10-30",
      "title": "美国百指日报·晚间速报｜10月30日：就业成本涨0.8%放缓，纳指跌2.86%，英特尔暴跌28.6%",
@@ -2101,7 +2181,7 @@
      }
     }
    ],
-   "count": 11,
+   "count": 13,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
