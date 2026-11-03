@@ -3154,8 +3154,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "date": "2026-11-03",
+     "title": "今天就是选举日，投票中心开到晚上8点",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-03-election-day-vote-by-8pm.md",
+     "page": "articles/baylocal/2026-11-03-election-day-vote-by-8pm.html"
+    },
     {
      "date": "2026-11-02",
      "title": "明天选举日，今天是提前投票最后一天",
