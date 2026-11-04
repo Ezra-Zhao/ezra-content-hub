@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 12:05:16 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:53:09 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
@@ -21,6 +21,54 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 马太福音11:28：到我这里来，得安息｜睡前灵修</title>
+      <description>马太福音11:28：到我这里来，得安息——马太福音 11:28 的话陪你走今天这一步，讲解与祷告均为原创。 经文：马太福音 11:28（和合本）</description>
+      <pubDate>Mon, 02 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-02</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-02/audio.mp3" length="2072284" type="audio/mpeg"/>
+      <itunes:duration>2:09</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 箴言3:5-6：专心仰赖，他必指引你的路｜晨起读经</title>
+      <description>箴言3:5-6：专心仰赖，他必指引你的路——箴言 3:5-6 的话陪你走今天这一步，讲解与祷告均为原创。 经文：箴言 3:5-6（和合本）</description>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-02</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-02/audio.mp3" length="2455971" type="audio/mpeg"/>
+      <itunes:duration>2:33</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 腓立比书4:6-7：一无挂虑，平安守心｜睡前灵修</title>
+      <description>腓立比书4:6-7：一无挂虑，平安守心——腓立比书 4:6-7 的话陪你走今天这一步，讲解与祷告均为原创。 经文：腓立比书 4:6-7（和合本）</description>
+      <pubDate>Sun, 01 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-01</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-01/audio.mp3" length="1937701" type="audio/mpeg"/>
+      <itunes:duration>2:01</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 诗篇122:1：往耶和华的殿去，我就欢喜｜晨起读经</title>
+      <description>诗篇122:1：往耶和华的殿去，我就欢喜——诗篇 122:1 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 122:1（和合本）</description>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-01</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-01/audio.mp3" length="1848258" type="audio/mpeg"/>
+      <itunes:duration>1:55</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 诗篇4:8：安然躺下睡觉｜睡前灵修</title>
+      <description>诗篇4:8：安然躺下睡觉——诗篇 4:8 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 4:8（和合本）</description>
+      <pubDate>Sat, 31 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-10-31</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-10-31/audio.mp3" length="2015860" type="audio/mpeg"/>
+      <itunes:duration>2:05</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 以赛亚书40:31：等候的必重新得力｜晨起读经</title>
+      <description>以赛亚书40:31：等候的必重新得力——以赛亚书 40:31 的话陪你走今天这一步，讲解与祷告均为原创。 经文：以赛亚书 40:31（和合本）</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-10-31</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-10-31/audio.mp3" length="1991618" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
     <item>
       <title>[PM] 申命记31:8：祂必不撇下你</title>
       <description>申命记31:8：祂必不撇下你——申命记 31:8 的话陪你走今天这一步，讲解与祷告均为原创。 经文：申命记 31:8（和合本）</description>
