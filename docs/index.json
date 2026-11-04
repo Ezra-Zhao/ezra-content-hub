@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "programs": [
   {
    "id": "devotion-am",
@@ -1135,6 +1135,38 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-04",
+     "title": "新闻矩阵｜11月4日早间版：民主党夺回国会两院，贝塞拉当选加州州长，美股期指反弹",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月4日早间版：民主党夺回国会两院，贝塞拉当选加州州长，美股期指反弹",
+     "audio": "content/news-am/2026-11-04/audio.mp3",
+     "page": "content/news-am/2026-11-04/index.md",
+     "duration_sec": 259,
+     "duration": "4:19",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-03",
+     "title": "新闻矩阵｜11月3日早间版：选举日投票开启，最高法院驳回隔离加州选票申请，苹果盘前跌逾4%",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月3日早间版：选举日投票开启，最高法院驳回隔离加州选票申请，苹果盘前跌逾4%",
+     "audio": "content/news-am/2026-11-03/audio.mp3",
+     "page": "content/news-am/2026-11-03/index.md",
+     "duration_sec": 296,
+     "duration": "4:56",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-02",
      "title": "新闻矩阵｜11月2日早间版：提前投票破5400万张，佛州商务机坠毁9人遇难，油价跌破100美元",
      "scripture": "",
@@ -1247,7 +1279,7 @@
      }
     }
    ],
-   "count": 7,
+   "count": 9,
    "related": [
     "fred-am",
     "fred-pm",
@@ -1266,6 +1298,38 @@
    "desc": "每日 21 点综合新闻播报：当日要闻收官与次日日程。主讲 Guangyi Zhao。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-11-03",
+     "title": "新闻矩阵｜11月3日晚间版：选举夜计票推进国会归属未定，加州关站开始计票，AMD盘后大涨",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月3日晚间版：选举夜计票推进国会归属未定，加州关站开始计票，AMD盘后大涨",
+     "audio": "content/news-pm/2026-11-03/audio.mp3",
+     "page": "content/news-pm/2026-11-03/index.md",
+     "duration_sec": 311,
+     "duration": "5:11",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-02",
+     "title": "新闻矩阵｜11月2日晚间版：提前投票升至5738万张，佛州坠机疑空中解体，苹果帕兰提尔财报双超预期",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月2日晚间版：提前投票升至5738万张，佛州坠机疑空中解体，苹果帕兰提尔财报双超预期",
+     "audio": "content/news-pm/2026-11-02/audio.mp3",
+     "page": "content/news-pm/2026-11-02/index.md",
+     "duration_sec": 341,
+     "duration": "5:41",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-11-01",
      "title": "新闻矩阵｜11月1日晚间版：阿拉斯加同名选票诉讼被驳回，提前投票破5314万张，多哈谈判第三天无突破",
@@ -1363,7 +1427,7 @@
      }
     }
    ],
-   "count": 6,
+   "count": 8,
    "related": [
     "fred-am",
     "fred-pm",
