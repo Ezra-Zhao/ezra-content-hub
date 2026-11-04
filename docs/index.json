@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "programs": [
   {
    "id": "devotion-am",
@@ -1401,6 +1401,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-10-30",
+     "title": "美股盘后小结 10月30日：科技股重挫三大指数收跌+英特尔暴跌近三成",
+     "scripture": "",
+     "theme": "美股盘后小结，10月30日，星期五。今天科技股重挫，人工智能支出遭质疑，三大指数收跌，防御板块领涨。",
+     "audio": "content/stocks-pm/2026-10-30/audio.mp3",
+     "page": "content/stocks-pm/2026-10-30/index.md",
+     "duration_sec": 64,
+     "duration": "1:04",
+     "video_url": "https://www.youtube.com/watch?v=EWgwKuYlVsA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=EWgwKuYlVsA"
+     }
+    },
+    {
      "date": "2026-10-29",
      "title": "美股盘后小结 10月29日：谷歌大跌拖累三大指数+礼来创历史新高",
      "scripture": "",
@@ -1673,7 +1689,7 @@
      }
     }
    ],
-   "count": 17,
+   "count": 18,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
@@ -1973,6 +1989,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-02",
+     "title": "美国百指日报·晚间速报｜11月2日：制造业55.5超预期，营建支出跌1.9%，道指独涨",
+     "scripture": "",
+     "theme": "本期要点（2026年11月2日，星期一）：",
+     "audio": "content/fred-pm/2026-11-02/audio.mp3",
+     "page": "content/fred-pm/2026-11-02/index.md",
+     "duration_sec": 105,
+     "duration": "1:45",
+     "video_url": "https://www.youtube.com/watch?v=eCjuHsziXNM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=eCjuHsziXNM"
+     }
+    },
+    {
      "date": "2026-11-01",
      "title": "美国百指日报·晚间速报｜11月1日：周日无新数据，明天制造业打头阵，周五就业定胜负",
      "scripture": "",
@@ -2181,7 +2213,7 @@
      }
     }
    ],
-   "count": 13,
+   "count": 14,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -3005,6 +3037,38 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-03",
+     "title": "湾区福利速报｜2026年11月3日：3个新机会：明天圣何塞就业志愿会帮你保住福利",
+     "scripture": "",
+     "theme": "【主打】圣克拉拉县社区连接就业与志愿服务会——明天11月4日（周三）10:00–13:00",
+     "audio": "content/bay-area-benefits/2026-11-03/audio.mp3",
+     "page": "content/bay-area-benefits/2026-11-03/index.md",
+     "duration_sec": 115,
+     "duration": "1:55",
+     "video_url": "https://www.youtube.com/watch?v=Wb0rJ1pZDrQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Wb0rJ1pZDrQ"
+     }
+    },
+    {
+     "date": "2026-11-02",
+     "title": "本期文字版清单（可直接转发）：",
+     "scripture": "",
+     "theme": "1）主打：圣何塞圣心社区服务（Sacred Heart Community Service）圣诞礼物登记今天（2026年11月2日）上午9点已经开启。家里有孩子的，先确认每个孩子都已经加进你的圣心账户，再按官网指引登记；孩子要在2026年1",
+     "audio": "content/bay-area-benefits/2026-11-02/audio.mp3",
+     "page": "content/bay-area-benefits/2026-11-02/index.md",
+     "duration_sec": 106,
+     "duration": "1:46",
+     "video_url": "https://www.youtube.com/watch?v=_Ne4IghnCRA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=_Ne4IghnCRA"
+     }
+    },
+    {
      "date": "2026-10-30",
      "title": "本期文字版清单（可直接转发）：",
      "scripture": "",
@@ -3133,7 +3197,7 @@
      }
     }
    ],
-   "count": 8,
+   "count": 10,
    "listen": {
     "pocketcasts": "https://pca.st/h33fzfrw",
     "castbox": "https://castbox.fm/channel/id7461845"
