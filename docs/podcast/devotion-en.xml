@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 11:48:41 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:57:42 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] When I Am Afraid, I Will Trust in You</title>
+      <description>Fear will come; when it does, turn like David and lean on God&#x27;s faithful word tonight. Scripture: Psalm 56:3-4 (WEB)</description>
+      <pubDate>Tue, 03 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-03</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-03/audio.mp3" length="1793087" type="audio/mpeg"/>
+      <itunes:duration>1:52</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Do Not Be Weary in Doing Good</title>
+      <description>Sow today and do not give up: the harvest has its season, and the season is in God&#x27;s hands. Scripture: Galatians 6:9 (WEB)</description>
+      <pubDate>Tue, 03 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-03</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-03/audio.mp3" length="1964451" type="audio/mpeg"/>
+      <itunes:duration>2:02</itunes:duration>
+    </item>
     <item>
       <title>[PM] Come to Me, and I Will Give You Rest</title>
       <description>Labor in your hands, burden in your heart: come as you are tonight, and receive His rest before the burden lifts. Scripture: Matthew 11:28 (WEB)</description>
