@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 03:46:19 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 03:47:37 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报·晚间版｜11月3日：AI快摸到自己加速自己的门槛了</title>
+      <description>这里是《硅谷科技日报》晚间版。今天是2026年11月3日，星期二。头条：AI快摸到自己加速自己的门槛了。</description>
+      <pubDate>Tue, 03 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-11-03-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-11-03-pm/audio.mp3" length="1713253" type="audio/mpeg"/>
+      <itunes:duration>1:47</itunes:duration>
+    </item>
     <item>
       <title>硅谷科技日报｜11月3日：最能干活的模型，也只干成一成多</title>
       <description>这里是《硅谷科技日报》。今天是2026年11月3日，星期二。头条：智能体新考卷出炉，最能打的模型也只干成一成多。</description>
