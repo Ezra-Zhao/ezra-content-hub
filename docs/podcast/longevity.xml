@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 03:39:34 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 03:45:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,30 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报·晚间版｜11月3日：衰老细胞有个脂肪开关</title>
+      <description>这里是《长寿前沿日报·晚间版》——目标是活到150岁，所以我每天替你读论文。今天是2026年11月3日。头条：衰老细胞有个脂肪开关。</description>
+      <pubDate>Tue, 03 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-03-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-03-pm/audio.mp3" length="784945" type="audio/mpeg"/>
+      <itunes:duration>1:38</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报｜11月3日：脑龄跑太快，死亡风险跟着升</title>
+      <description>这里是《长寿前沿日报》——目标是活到150岁，所以我每天替你读论文。今天是2026年11月3日。头条：脑龄跑得太快，死亡风险跟着升。</description>
+      <pubDate>Tue, 03 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-03</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-03/audio.mp3" length="851609" type="audio/mpeg"/>
+      <itunes:duration>1:46</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报·晚间版｜11月2日：亨廷顿病基因疗法，管理局受理审评</title>
+      <description>这里是《长寿前沿日报·晚间版》——目标是活到150岁，所以我每天替你读论文。今天是2026年11月2日。头条：亨廷顿病基因疗法，管理局受理审评。</description>
+      <pubDate>Mon, 02 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-02-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-02-pm/audio.mp3" length="884837" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报｜11月2日：一年两针防艾滋病毒，仿制药获初步批准</title>
       <description>这里是《长寿前沿日报》——目标是活到150岁，所以我每天替你读论文。今天是2026年11月2日。头条：一年两针防艾滋病毒，仿制药获初步批准。</description>
