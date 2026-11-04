@@ -4,4 +4,4 @@
 > 数据：FRED 2026-11-02 快照（173 个指标，与 2026-11-01 快照逐项比对仅 7 项滚动更新）。头条数据为 ISM 2026-11-02 当日公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。前瞻来源：金十数据当日日历（雷达口径，预期值经多家公开日历交叉核对）。新闻：ETSI 官方新闻稿 2026-11-02；XMax 公司公告（GlobeNewswire）2026-11-02；uniQure 公司公告（GlobeNewswire）、Reuters 报道与 SEC 备案 2026-11-02。 > 主播整理：Guangyi Zhao。配音：ElevenL
 
 时长：6:16
-来源：2026-11-04 ElevenLabs 切回批补产，音频版先行入 feed，视频版后补。
+来源：2026-11-04 ElevenLabs 切回批补产，音频版先行入 feed；视频版已补（2026-11-04 发布）：https://www.youtube.com/watch?v=iDTgc1TnE90。
