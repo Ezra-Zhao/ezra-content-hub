@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 03:49:56 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:44:48 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,30 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报｜11月5日：儿童失眠药，拿到突破性疗法认定</title>
+      <description>本期：FDA授予达瑞雷生突破性疗法认定治儿童青少年失眠，认定不是批准；助听器随机试验主要结局未达标；奥洛他定仿制滴眼液获最终批准。</description>
+      <pubDate>Thu, 05 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-05/audio.mp3" length="940635" type="audio/mpeg"/>
+      <itunes:duration>1:57</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报·晚间版｜11月4日：宾州麻疹第六例死亡，病例升至1467例</title>
+      <description>本期：宾州麻疹第6例死亡、病例升至1467例；FDA批准Evoxac口服溶液治干燥综合征口干；谨慎看待长寿补剂小样本试验，不是长寿证据。</description>
+      <pubDate>Wed, 04 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-04-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-04-pm/audio.mp3" length="755479" type="audio/mpeg"/>
+      <itunes:duration>1:34</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报｜11月4日：白血病药维奈克拉，有了仿制版</title>
+      <description>本期：FDA最终批准维奈克拉片仿制药，10、50、100毫克三规格、与原研药治疗等效；体能研究随访7年综合最高组死亡风险低61%，观察性、不等于因果；维生素E测的是血液水平、不是补剂证据。</description>
+      <pubDate>Wed, 04 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-04</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-04/audio.mp3" length="925797" type="audio/mpeg"/>
+      <itunes:duration>1:55</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报·晚间版｜11月3日：衰老细胞有个脂肪开关</title>
       <description>这里是《长寿前沿日报·晚间版》——目标是活到150岁，所以我每天替你读论文。今天是2026年11月3日。头条：衰老细胞有个脂肪开关。</description>
