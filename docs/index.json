@@ -1497,6 +1497,70 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-05",
+     "title": "美股盘后小结 11月5日：三大指数急跌+芯片领跌纳指进修正区",
+     "scripture": "",
+     "theme": "美股盘后小结，11月5日，星期四。今天三大指数急转大跌，芯片与人工智能股领跌，恐慌指数大涨。以下为尾盘初步数，终值待明天回读确认。",
+     "audio": "content/stocks-pm/2026-11-05/audio.mp3",
+     "page": "content/stocks-pm/2026-11-05/index.md",
+     "duration_sec": 71,
+     "duration": "1:11",
+     "video_url": "https://www.youtube.com/watch?v=aiJiJ8ZkCUk",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=aiJiJ8ZkCUk"
+     }
+    },
+    {
+     "date": "2026-11-04",
+     "title": "美股盘后小结 11月4日：三大指数全线大涨+油价暴跌金价大涨",
+     "scripture": "",
+     "theme": "美股盘后小结，11月4日，星期三。今天三大指数全线大涨，道指创一年多最大涨幅，油价暴跌，金价大涨。",
+     "audio": "content/stocks-pm/2026-11-04/audio.mp3",
+     "page": "content/stocks-pm/2026-11-04/index.md",
+     "duration_sec": 77,
+     "duration": "1:17",
+     "video_url": "https://www.youtube.com/watch?v=92H9eQkUtTY",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=92H9eQkUtTY"
+     }
+    },
+    {
+     "date": "2026-11-03",
+     "title": "美股盘后小结 11月3日：芯片反弹纳指领涨+电商平台大跌",
+     "scripture": "",
+     "theme": "美股盘后小结，11月3日，星期二，选举日。今天格局与昨天完全反转，芯片反弹，纳斯达克与标普收涨，道琼斯回落。",
+     "audio": "content/stocks-pm/2026-11-03/audio.mp3",
+     "page": "content/stocks-pm/2026-11-03/index.md",
+     "duration_sec": 75,
+     "duration": "1:15",
+     "video_url": "https://www.youtube.com/watch?v=M8CE7IC67EY",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=M8CE7IC67EY"
+     }
+    },
+    {
+     "date": "2026-11-02",
+     "title": "美股盘后小结 11月2日：道指收涨纳指收跌+油价大跌金价反弹",
+     "scripture": "",
+     "theme": "美股盘后小结，11月2日，星期一。今天指数涨跌不一，道指收涨，纳指收跌，油价大跌，金价反弹。",
+     "audio": "content/stocks-pm/2026-11-02/audio.mp3",
+     "page": "content/stocks-pm/2026-11-02/index.md",
+     "duration_sec": 75,
+     "duration": "1:15",
+     "video_url": "https://www.youtube.com/watch?v=fnGZCvEldkw",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=fnGZCvEldkw"
+     }
+    },
+    {
      "date": "2026-10-30",
      "title": "美股盘后小结 10月30日：科技股重挫三大指数收跌+英特尔暴跌近三成",
      "scripture": "",
@@ -1785,7 +1849,7 @@
      }
     }
    ],
-   "count": 18,
+   "count": 22,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"

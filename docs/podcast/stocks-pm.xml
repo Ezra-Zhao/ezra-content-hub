@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 03:49:56 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 15:49:35 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -22,12 +22,36 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>每日速报｜11月2日</title>
-      <description>时长：1:14</description>
+      <title>美股盘后小结 11月5日：三大指数急跌+芯片领跌纳指进修正区</title>
+      <description>美股盘后小结，11月5日，星期四。今天三大指数急转大跌，芯片与人工智能股领跌，恐慌指数大涨。以下为尾盘初步数，终值待明天回读确认。</description>
+      <pubDate>Thu, 05 Nov 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-11-05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-11-05/audio.mp3" length="1705581" type="audio/mpeg"/>
+      <itunes:duration>1:11</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 11月4日：三大指数全线大涨+油价暴跌金价大涨</title>
+      <description>美股盘后小结，11月4日，星期三。今天三大指数全线大涨，道指创一年多最大涨幅，油价暴跌，金价大涨。</description>
+      <pubDate>Wed, 04 Nov 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-11-04</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-11-04/audio.mp3" length="1231917" type="audio/mpeg"/>
+      <itunes:duration>1:17</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 11月3日：芯片反弹纳指领涨+电商平台大跌</title>
+      <description>美股盘后小结，11月3日，星期二，选举日。今天格局与昨天完全反转，芯片反弹，纳斯达克与标普收涨，道琼斯回落。</description>
+      <pubDate>Tue, 03 Nov 2026 22:00:00 -0700</pubDate>
+      <guid isPermaLink="false">stocks-pm-2026-11-03</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-11-03/audio.mp3" length="1208109" type="audio/mpeg"/>
+      <itunes:duration>1:15</itunes:duration>
+    </item>
+    <item>
+      <title>美股盘后小结 11月2日：道指收涨纳指收跌+油价大跌金价反弹</title>
+      <description>美股盘后小结，11月2日，星期一。今天指数涨跌不一，道指收涨，纳指收跌，油价大跌，金价反弹。</description>
       <pubDate>Mon, 02 Nov 2026 22:00:00 -0700</pubDate>
       <guid isPermaLink="false">stocks-pm-2026-11-02</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/stocks-pm/2026-11-02/audio.mp3" length="597699" type="audio/mpeg"/>
-      <itunes:duration>1:14</itunes:duration>
+      <itunes:duration>1:15</itunes:duration>
     </item>
     <item>
       <title>美股盘后小结 10月30日：科技股重挫三大指数收跌+英特尔暴跌近三成</title>
