@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>信仰问题解答｜唐崇荣讲道改编播讲</title>
+    <link>https://ezra-zhao.github.io/ezra-content-hub/</link>
+    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/tangqa.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-cn</language>
+    <description>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/</description>
+    <copyright>© 2026 Guangyi Zhao</copyright>
+    <lastBuildDate>Thu, 05 Nov 2026 04:12:25 -0700</lastBuildDate>
+    <itunes:author>Guangyi Zhao</itunes:author>
+    <itunes:summary>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/</itunes:summary>
+    <itunes:keywords>信仰问答,系统神学,护教,唐崇荣,讲道,基督教</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Guangyi Zhao</itunes:name>
+      <itunes:email>ezra777.zhao@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://ezra-zhao.github.io/ezra-content-hub/podcast/cover-tang.png"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>重生得救的人会亵渎圣灵吗</title>
+      <description>真正重生得救的人不可能亵渎圣灵——重生本是圣灵亲自做成的工作；为此担忧的心，恰恰证明圣灵还在动工。 经文：帖撒罗尼迦前书 5:19（和合本）</description>
+      <pubDate>Sat, 07 Nov 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">tangqa-2026-11-07</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/tang-sermons/2026-11-07/audio.mp3" length="3175044" type="audio/mpeg"/>
+      <itunes:duration>6:37</itunes:duration>
+    </item>
+    <item>
+      <title>亵渎圣灵的罪</title>
+      <description>亵渎圣灵不是一句话的失言，而是一生的方向——不是神不肯赦免，是人一辈子把赦免的门堵死了。 经文：马太福音 12:31-32（和合本）</description>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">tangqa-2026-11-06</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/tang-sermons/2026-11-06/audio.mp3" length="2779237" type="audio/mpeg"/>
+      <itunes:duration>5:47</itunes:duration>
+    </item>
+    <item>
+      <title>到底什么是神的旨意</title>
+      <description>旨意是大家都一样的，引导是每个人不一样的——不要把神给个人的引导，当成神的旨意去要求别人。 经文：约翰福音 7:17（和合本）</description>
+      <pubDate>Thu, 05 Nov 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">tangqa-2026-11-05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/tang-sermons/2026-11-05/audio.mp3" length="1522434" type="audio/mpeg"/>
+      <itunes:duration>3:10</itunes:duration>
+    </item>
+  </channel>
+</rss>
