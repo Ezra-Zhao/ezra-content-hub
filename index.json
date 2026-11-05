@@ -1,7 +1,7 @@
 {
   "site": "Ezra 内容中央枢纽",
   "owner": "Guangyi Zhao",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "programs": [
     {
       "id": "devotion-am",
@@ -1135,6 +1135,22 @@
       "category": "时效",
       "episodes": [
         {
+          "date": "2026-11-05",
+          "title": "新闻矩阵｜11月5日早间版：参院仅剩两席未决，英格兰银行加息至4%，纳指期货领跌",
+          "scripture": "",
+          "theme": "新闻矩阵｜11月5日早间版：参院仅剩两席未决，英格兰银行加息至4%，纳指期货领跌",
+          "audio": "content/news-am/2026-11-05/audio.mp3",
+          "page": "content/news-am/2026-11-05/index.md",
+          "duration_sec": 312,
+          "duration": "5:12",
+          "video_url": "",
+          "links": {
+            "spotify": "",
+            "x": "",
+            "youtube": ""
+          }
+        },
+        {
           "date": "2026-11-04",
           "title": "新闻矩阵｜11月4日早间版：民主党夺回国会两院，贝塞拉当选加州州长，美股期指反弹",
           "scripture": "",
@@ -1279,7 +1295,7 @@
           }
         }
       ],
-      "count": 9,
+      "count": 10,
       "related": [
         "fred-am",
         "fred-pm",
