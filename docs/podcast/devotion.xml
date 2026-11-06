@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 02:54:54 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:45:50 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
@@ -21,6 +21,38 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 约翰福音16:33：在祂里面有平安，祂已经胜了世界｜睡前灵修</title>
+      <description>约翰福音16:33：在祂里面有平安，祂已经胜了世界——约翰福音 16:33 的话陪你走今天这一步，讲解与祷告均为原创。 经文：约翰福音 16:33（和合本）</description>
+      <pubDate>Thu, 05 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-05/audio.mp3" length="2094018" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 腓立比书4:19：我的神必使你们一切所需用的都充足｜晨起读经</title>
+      <description>腓立比书4:19：我的神必使你们一切所需用的都充足——腓立比书 4:19 的话陪你走今天这一步，讲解与祷告均为原创。 经文：腓立比书 4:19（和合本）</description>
+      <pubDate>Thu, 05 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-05/audio.mp3" length="2567566" type="audio/mpeg"/>
+      <itunes:duration>2:40</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 以赛亚书26:3：坚心倚赖的，必得十分平安｜睡前灵修</title>
+      <description>以赛亚书26:3：坚心倚赖的，必得十分平安——以赛亚书 26:3 的话陪你走今天这一步，讲解与祷告均为原创。 经文：以赛亚书 26:3（和合本）</description>
+      <pubDate>Wed, 04 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-04</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-04/audio.mp3" length="1960689" type="audio/mpeg"/>
+      <itunes:duration>2:02</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 约书亚记1:9：刚强壮胆，神必与你同在｜晨起读经</title>
+      <description>约书亚记1:9：刚强壮胆，神必与你同在——约书亚记 1:9 的话陪你走今天这一步，讲解与祷告均为原创。 经文：约书亚记 1:9（和合本）</description>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-04</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-04/audio.mp3" length="2496931" type="audio/mpeg"/>
+      <itunes:duration>2:36</itunes:duration>
+    </item>
     <item>
       <title>[PM] 诗篇56:3-4：惧怕的时候，我倚靠祢｜睡前灵修</title>
       <description>诗篇56:3-4：惧怕的时候，我倚靠祢——诗篇 56:3-4 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 56:3-4（和合本）</description>
