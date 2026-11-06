@@ -3746,7 +3746,7 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 11,
+   "count": 12,
    "items": [
     {
      "date": "2026-11-04",
@@ -3835,6 +3835,14 @@
      "author": "Guangyi Zhao",
      "path": "articles/baylocal/2026-11-05-rtm-early-pass.md",
      "page": "articles/baylocal/2026-11-05-rtm-early-pass.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-06-rtm-leads-61-8",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-06-rtm-leads-61-8.md",
+     "page": "articles/baylocal/2026-11-06-rtm-leads-61-8.html"
     }
    ]
   },
