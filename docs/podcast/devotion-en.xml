@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 12:10:51 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:52:10 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] I Have Overcome the World</title>
+      <description>Peace is not found in the world; it is in Him, who has already overcome the world. Scripture: John 16:33 (WEB)</description>
+      <pubDate>Thu, 05 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-05/audio.mp3" length="2051804" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] He Will Supply Every Need</title>
+      <description>God supplies according to His riches in glory, not according to the size of our lack. Scripture: Philippians 4:19 (WEB)</description>
+      <pubDate>Thu, 05 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-05/audio.mp3" length="2267889" type="audio/mpeg"/>
+      <itunes:duration>2:21</itunes:duration>
+    </item>
     <item>
       <title>[PM] Kept in Perfect Peace</title>
       <description>Lean your mind steadfastly on Him tonight, and He Himself will keep your heart in perfect peace. Scripture: Isaiah 26:3 (WEB)</description>
