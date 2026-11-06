@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 19:24:48 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:43:49 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜11月5日：纳指跌5.52%进修正区，初请18.9万创57年低位</title>
+      <description>&gt; 数据：FRED 2026-11-05 快照。今日实际发布以发布机构官方源为准：劳工部初请失业金（截至10月31日当周）、劳工统计局三季度生产率与单位劳动成本初值，均于 2026-11-05 公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。收盘为 Reuters/AP 收盘稿多源交叉一致；抛售归因为收盘稿口径。前瞻来源：金十数据雷达口径，预期值经多家公开经济日历交叉核对。 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
+      <pubDate>Thu, 05 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-05/audio.mp3" length="993089" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
+    <item>
+      <title>美国百指日报·晚间速报｜11月4日：两院易手道指大涨3.03%，就业超预期价格还烫</title>
+      <description>&gt; 数据：FRED 2026-11-04 快照。今日实际发布以发布机构官方源为准：ADP全国就业报告（10月）、供应管理协会服务业报告（10月）、普查局与经济分析局贸易数据（9月），均于 2026-11-04 公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。头条后续：中期选举两院控制权由美联社宣布、Reuters 多源交叉一致；收盘为 AP 收盘稿多源一致。前瞻来源：金十数据雷达口径，预期值经多家公开经济日历交叉核对。 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
+      <pubDate>Wed, 04 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-04</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-04/audio.mp3" length="888599" type="audio/mpeg"/>
+      <itunes:duration>1:51</itunes:duration>
+    </item>
     <item>
       <title>《美国百指日报》2026-11-04｜私营就业增加8.6万超预期，服务业扩张放缓但价格还烫｜11月4日</title>
       <description>&gt; 数据：FRED 2026-11-04 快照（173 个指标）。头条数据为 ADP 就业报告、ISM 服务业报告与普查局贸易数据，均为 2026-11-04 当日公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。前瞻来源：金十数据当日日历（雷达口径，预期值经多家公开日历交叉核对）。新闻：AMD 三季度财报（2026-11-03 公司发布）；CrowdStrike 官方宣布（2026-11-03）；Idorsia 公司新闻稿（2026-11-04）。 &gt; 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
