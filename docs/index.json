@@ -1315,6 +1315,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-05",
+     "title": "新闻矩阵｜11月5日晚间版：纳指跌5.52%坠入回调，芯片指数重挫12%，布伦特反弹至98美元",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月5日晚间版：纳指跌5.52%坠入回调，芯片指数重挫12%，布伦特反弹至98美元",
+     "audio": "content/news-pm/2026-11-05/audio.mp3",
+     "page": "content/news-pm/2026-11-05/index.md",
+     "duration_sec": 278,
+     "duration": "4:38",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-04",
      "title": "新闻矩阵｜11月4日晚间版：道指暴涨1569点创一年半最佳，参院仅剩两席未决，加州富豪税走向否决",
      "scripture": "",
@@ -1459,7 +1475,7 @@
      }
     }
    ],
-   "count": 9,
+   "count": 10,
    "related": [
     "fred-am",
     "fred-pm",
