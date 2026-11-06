@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 19:24:48 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:49:52 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报·晚间版｜11月5日：头颈癌新药获加速批准，四成肿瘤缩小</title>
+      <description>本期：FDA加速批准头颈癌皮下注射药，102人有效率42%、仍需确证试验；威斯康星州1990年以来首例婴儿麻疹死亡；141万人观察性队列中偏瘦与更高死亡风险相关，不等于因果。</description>
+      <pubDate>Thu, 05 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-05-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-05-pm/audio.mp3" length="752344" type="audio/mpeg"/>
+      <itunes:duration>1:34</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报｜11月5日：儿童失眠药，拿到突破性疗法认定</title>
       <description>本期：FDA授予达瑞雷生突破性疗法认定治儿童青少年失眠，认定不是批准；助听器随机试验主要结局未达标；奥洛他定仿制滴眼液获最终批准。</description>
