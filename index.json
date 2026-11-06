@@ -3437,6 +3437,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-05",
+     "title": "湾区福利速报｜2026年11月5日：3个新机会：圣何塞圣心感恩节食物盒日期定了",
+     "scripture": "",
+     "theme": "【主打】圣心社区服务节日食物盒——11月23–25日，圣何塞",
+     "audio": "content/bay-area-benefits/2026-11-05/audio.mp3",
+     "page": "content/bay-area-benefits/2026-11-05/index.md",
+     "duration_sec": 98,
+     "duration": "1:38",
+     "video_url": "https://www.youtube.com/watch?v=Qql2YyIUXbc",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Qql2YyIUXbc"
+     }
+    },
+    {
      "date": "2026-11-03",
      "title": "湾区福利速报｜2026年11月3日：3个新机会：明天圣何塞就业志愿会帮你保住福利",
      "scripture": "",
@@ -3597,7 +3613,7 @@
      }
     }
    ],
-   "count": 10,
+   "count": 11,
    "listen": {
     "pocketcasts": "https://pca.st/h33fzfrw",
     "castbox": "https://castbox.fm/channel/id7461845"
