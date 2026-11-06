@@ -1903,6 +1903,38 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-06",
+     "title": "《美国百指日报》2026-11-06｜非农大增16.5万远超预期，失业率降至4.1%",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。10月非农就业增加16.5万人远超预期6.5万人，失业率降至4.1%；密歇根消费者信心初值51.0超预期，通胀预期双降；FDA加速批准强生头颈癌双靶点药。",
+     "audio": "content/fred-am/2026-11-06/audio.mp3",
+     "page": "content/fred-am/2026-11-06/index.md",
+     "duration_sec": 426,
+     "duration": "7:06",
+     "video_url": "https://www.youtube.com/watch?v=MZjSUcDH1eI",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=MZjSUcDH1eI"
+     }
+    },
+    {
+     "date": "2026-11-05",
+     "title": "《美国百指日报》2026-11-05｜初请18.9万创57年低位，生产率大涨单位成本转跌",
+     "scripture": "",
+     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。初请失业金18.9万人与7月水平并列1969年以来最低；三季度生产率初值增长3.6%、单位劳动成本下降0.7%；FDA加速批准首款质粒DNA免疫疗法。",
+     "audio": "content/fred-am/2026-11-05/audio.mp3",
+     "page": "content/fred-am/2026-11-05/index.md",
+     "duration_sec": 384,
+     "duration": "6:24",
+     "video_url": "https://www.youtube.com/watch?v=Gipb913bebE",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Gipb913bebE"
+     }
+    },
+    {
      "date": "2026-11-04",
      "title": "《美国百指日报》2026-11-04｜私营就业增加8.6万超预期，服务业扩张放缓但价格还烫",
      "scripture": "",
