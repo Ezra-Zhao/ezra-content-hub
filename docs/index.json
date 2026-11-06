@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-06",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -1906,80 +1906,80 @@
      "date": "2026-11-06",
      "title": "《美国百指日报》2026-11-06｜非农大增16.5万远超预期，失业率降至4.1%",
      "scripture": "",
-     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。10月非农就业增加16.5万人远超预期6.5万人，失业率降至4.1%；密歇根消费者信心初值51.0超预期，通胀预期双降；FDA加速批准强生头颈癌双靶点药。",
+     "theme": "> 数据：FRED 2026-11-06 快照（173 个指标）。头条数据为劳工统计局 10 月就业报告与密歇根大学消费者信心初值，均为 2026-11-06 当日公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。前瞻来源：金十数据当日日历（雷达口径，预期值经多家公开日历交叉核对）。新闻：Five9 收购 Level AI 公司公告（2026-11-05）；METR 对 Anthropic 的独立评估报告（2026-11-05）；FDA 批准公告（2026-11-05）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
      "audio": "content/fred-am/2026-11-06/audio.mp3",
      "page": "content/fred-am/2026-11-06/index.md",
      "duration_sec": 426,
      "duration": "7:06",
-     "video_url": "https://www.youtube.com/watch?v=MZjSUcDH1eI",
+     "video_url": "https://www.youtube.com/watch?v=MZjSUcDH1eI。",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=MZjSUcDH1eI"
+      "youtube": "https://www.youtube.com/watch?v=MZjSUcDH1eI。"
      }
     },
     {
      "date": "2026-11-05",
      "title": "《美国百指日报》2026-11-05｜初请18.9万创57年低位，生产率大涨单位成本转跌",
      "scripture": "",
-     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。初请失业金18.9万人与7月水平并列1969年以来最低；三季度生产率初值增长3.6%、单位劳动成本下降0.7%；FDA加速批准首款质粒DNA免疫疗法。",
+     "theme": "> 数据：FRED 2026-11-05 快照（173 个指标）。头条数据为劳工部初请失业金报告与劳工统计局生产率报告，均为 2026-11-05 当日公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。前瞻来源：金十数据当日日历（雷达口径，预期值经多家公开日历交叉核对）。新闻：高通财季四季度财报（2026-11-04 公司发布）；腾讯混元 Hy4 发布（2026-11-04）；FDA 批准 Voceryq 新闻稿（2026-10-30）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
      "audio": "content/fred-am/2026-11-05/audio.mp3",
      "page": "content/fred-am/2026-11-05/index.md",
      "duration_sec": 384,
      "duration": "6:24",
-     "video_url": "https://www.youtube.com/watch?v=Gipb913bebE",
+     "video_url": "https://www.youtube.com/watch?v=Gipb913bebE。",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=Gipb913bebE"
+      "youtube": "https://www.youtube.com/watch?v=Gipb913bebE。"
      }
     },
     {
      "date": "2026-11-04",
      "title": "《美国百指日报》2026-11-04｜私营就业增加8.6万超预期，服务业扩张放缓但价格还烫",
      "scripture": "",
-     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。10月ADP私营就业增加8.6万人超预期；ISM服务业指数54.5连续第28个月扩张，支付价格73.0仍处高位；9月贸易逆差1050亿美元，进口创历史新高。",
+     "theme": "> 数据：FRED 2026-11-04 快照（173 个指标）。头条数据为 ADP 就业报告、ISM 服务业报告与普查局贸易数据，均为 2026-11-04 当日公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。前瞻来源：金十数据当日日历（雷达口径，预期值经多家公开日历交叉核对）。新闻：AMD 三季度财报（2026-11-03 公司发布）；CrowdStrike 官方宣布（2026-11-03）；Idorsia 公司新闻稿（2026-11-04）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
      "audio": "content/fred-am/2026-11-04/audio.mp3",
      "page": "content/fred-am/2026-11-04/index.md",
      "duration_sec": 373,
      "duration": "6:13",
-     "video_url": "https://www.youtube.com/watch?v=ByjarMDdB00",
+     "video_url": "https://www.youtube.com/watch?v=ByjarMDdB00。",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=ByjarMDdB00"
+      "youtube": "https://www.youtube.com/watch?v=ByjarMDdB00。"
      }
     },
     {
      "date": "2026-11-03",
      "title": "《美国百指日报》2026-11-03｜职位空缺752.3万远超预期，信用利差全线走阔",
      "scripture": "",
-     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。9月职位空缺752.3万个远超预期，工厂订单环比涨1.8%；信用利差全线走阔，AAA级利差0.49个百分点、偏离+3.50个标准差。",
+     "theme": "> 数据：FRED 2026-11-03 快照（173 个指标）。头条数据为劳工统计局 JOLTS 与商务部工厂订单，均为 2026-11-03 当日 10:00 ET 公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。前瞻来源：金十数据当日日历（雷达口径，预期值经多家公开日历交叉核对）。新闻：Menlo Ventures 官方新闻稿（GlobeNewswire）2026-11-03；Reuters 2026-11-02。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
      "audio": "content/fred-am/2026-11-03/audio.mp3",
      "page": "content/fred-am/2026-11-03/index.md",
-     "duration_sec": 343,
-     "duration": "5:43",
-     "video_url": "https://www.youtube.com/watch?v=mklmnACX8Tg",
+     "duration_sec": 342,
+     "duration": "5:42",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=mklmnACX8Tg"
+      "youtube": ""
      }
     },
     {
      "date": "2026-11-02",
      "title": "《美国百指日报》2026-11-02｜制造业指数55.5超预期，生产分项创2021年以来新高，工厂价格还烫",
      "scripture": "",
-     "theme": "每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。10月制造业PMI为55.5超预期、连续第10个月扩张，生产指数59.0创2021年以来新高；支付价格75.2仍处高位。",
+     "theme": "> 数据：FRED 2026-11-02 快照（173 个指标，与 2026-11-01 快照逐项比对仅 7 项滚动更新）。头条数据为 ISM 2026-11-02 当日公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。前瞻来源：金十数据当日日历（雷达口径，预期值经多家公开日历交叉核对）。新闻：ETSI 官方新闻稿 2026-11-02；XMax 公司公告（GlobeNewswire）2026-11-02；uniQure 公司公告（GlobeNewswire）、Reuters 报道与 SEC 备案 2026-11-02。 > 主播整理：Guangyi Zhao。配音：ElevenL",
      "audio": "content/fred-am/2026-11-02/audio.mp3",
      "page": "content/fred-am/2026-11-02/index.md",
-     "duration_sec": 377,
-     "duration": "6:17",
-     "video_url": "https://www.youtube.com/watch?v=iDTgc1TnE90",
+     "duration_sec": 376,
+     "duration": "6:16",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=iDTgc1TnE90"
+      "youtube": ""
      }
     },
     {
@@ -2239,7 +2239,7 @@
      }
     }
    ],
-   "count": 19,
+   "count": 21,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -2264,48 +2264,48 @@
      "date": "2026-11-05",
      "title": "美国百指日报·晚间速报｜11月5日：纳指跌5.52%进修正区，初请18.9万创57年低位",
      "scripture": "",
-     "theme": "本期要点（2026年11月5日，星期四）：初请失业金18.9万人与7月并列1969年以来最低；三季度生产率初值增长3.6%、单位劳动成本下降0.7%。收盘选后大涨全数回吐：道指跌3.44%、标普跌4.36%、纳指跌5.52%进入修正区，费城半导体指数跌12.25%。",
+     "theme": "> 数据：FRED 2026-11-05 快照。今日实际发布以发布机构官方源为准：劳工部初请失业金（截至10月31日当周）、劳工统计局三季度生产率与单位劳动成本初值，均于 2026-11-05 公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。收盘为 Reuters/AP 收盘稿多源交叉一致；抛售归因为收盘稿口径。前瞻来源：金十数据雷达口径，预期值经多家公开经济日历交叉核对。 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
      "audio": "content/fred-pm/2026-11-05/audio.mp3",
      "page": "content/fred-pm/2026-11-05/index.md",
      "duration_sec": 124,
      "duration": "2:04",
-     "video_url": "https://www.youtube.com/watch?v=AvoZ9m36D2A",
+     "video_url": "https://www.youtube.com/watch?v=AvoZ9m36D2A。",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=AvoZ9m36D2A"
+      "youtube": "https://www.youtube.com/watch?v=AvoZ9m36D2A。"
      }
     },
     {
      "date": "2026-11-04",
      "title": "美国百指日报·晚间速报｜11月4日：两院易手道指大涨3.03%，就业超预期价格还烫",
      "scripture": "",
-     "theme": "本期要点（2026年11月4日，星期三）：ADP 10月私营就业增加8.6万人超预期；ISM服务业54.5、支付价格73.0仍高；9月贸易逆差1050亿美元、进口创纪录。中期选举民主党夺回参众两院，道指大涨3.03%，为2025年4月以来最佳单日。",
+     "theme": "> 数据：FRED 2026-11-04 快照。今日实际发布以发布机构官方源为准：ADP全国就业报告（10月）、供应管理协会服务业报告（10月）、普查局与经济分析局贸易数据（9月），均于 2026-11-04 公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。头条后续：中期选举两院控制权由美联社宣布、Reuters 多源交叉一致；收盘为 AP 收盘稿多源一致。前瞻来源：金十数据雷达口径，预期值经多家公开经济日历交叉核对。 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
      "audio": "content/fred-pm/2026-11-04/audio.mp3",
      "page": "content/fred-pm/2026-11-04/index.md",
      "duration_sec": 111,
      "duration": "1:51",
-     "video_url": "https://www.youtube.com/watch?v=YjrTgM0iiKs",
+     "video_url": "https://www.youtube.com/watch?v=YjrTgM0iiKs。本页为",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=YjrTgM0iiKs"
+      "youtube": "https://www.youtube.com/watch?v=YjrTgM0iiKs。本页为"
      }
     },
     {
      "date": "2026-11-03",
      "title": "美国百指日报·晚间速报｜11月3日：空缺752.3万远超预期，纳指止跌反弹，道指独跌",
      "scripture": "",
-     "theme": "本期要点（2026年11月3日，星期二）：9月职位空缺752.3万个远超预期，工厂订单环比增长1.8%；收盘纳指止跌反弹、道指独跌。",
+     "theme": "> 数据：FRED 2026-11-03 快照。今日实际发布以发布机构官方源为准：劳工统计局职位空缺与劳动力流动调查（9月）、商务部工厂订单（9月），均于 2026-11-03 10:00 ET 公布（尚不在 FRED 快照内，后续以 FRED 落定为准）；收盘为 Reuters 收盘稿多源一致；信用利差为快照异常榜、数据日期 2026-10-30。前瞻来源：金十数据雷达口径，预期值经多家公开经济日历交叉核对（ADP 预期各家日历在 6.5 万至 6.9 万之间，稿中取与今晨早间版一致的 6.5 万口径并登记差异）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线",
      "audio": "content/fred-pm/2026-11-03/audio.mp3",
      "page": "content/fred-pm/2026-11-03/index.md",
      "duration_sec": 116,
      "duration": "1:56",
-     "video_url": "https://www.youtube.com/watch?v=5VR9zCDJbJk",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=5VR9zCDJbJk"
+      "youtube": ""
      }
     },
     {
@@ -2533,7 +2533,7 @@
      }
     }
    ],
-   "count": 14,
+   "count": 17,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -2555,6 +2555,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-06",
+     "title": "长寿前沿日报｜11月6日：高龄乳腺癌，先看肿瘤不只看年龄",
+     "scripture": "",
+     "theme": "本期：JAMA Network Open荟萃分析显示高龄乳腺癌先用内分泌治疗生存不劣于先手术、选人要看肿瘤生物学；全美麻疹确诊5182例；五种长寿干预在小鼠身上的共同代谢分子是麦角硫因（小鼠阶段）。",
+     "audio": "content/longevity/2026-11-06/audio.mp3",
+     "page": "content/longevity/2026-11-06/index.md",
+     "duration_sec": 106,
+     "duration": "1:46",
+     "video_url": "https://www.youtube.com/watch?v=Cokde_lZ3DA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Cokde_lZ3DA"
+     }
+    },
+    {
      "date": "2026-11-05",
      "title": "长寿前沿日报｜11月5日：儿童失眠药，拿到突破性疗法认定",
      "scripture": "",
@@ -2568,6 +2584,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=08EKDhmALxA"
+     }
+    },
+    {
+     "date": "2026-11-05",
+     "title": "长寿前沿日报·晚间版｜11月5日：头颈癌新药获加速批准，四成肿瘤缩小",
+     "scripture": "",
+     "theme": "本期：FDA加速批准头颈癌皮下注射药，102人有效率42%、仍需确证试验；威斯康星州1990年以来首例婴儿麻疹死亡；141万人观察性队列中偏瘦与更高死亡风险相关，不等于因果。",
+     "audio": "content/longevity/2026-11-05-pm/audio.mp3",
+     "page": "content/longevity/2026-11-05-pm/index.md",
+     "duration_sec": 94,
+     "duration": "1:34",
+     "video_url": "https://www.youtube.com/watch?v=XCXqesLykSQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=XCXqesLykSQ"
      }
     },
     {
@@ -2611,11 +2643,11 @@
      "page": "content/longevity/2026-11-03/index.md",
      "duration_sec": 106,
      "duration": "1:46",
-     "video_url": "https://www.youtube.com/watch?v=1LlOBCWeqyg",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=1LlOBCWeqyg"
+      "youtube": ""
      }
     },
     {
@@ -2627,11 +2659,11 @@
      "page": "content/longevity/2026-11-03-pm/index.md",
      "duration_sec": 98,
      "duration": "1:38",
-     "video_url": "https://www.youtube.com/watch?v=EaDrNpc4r94",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=EaDrNpc4r94"
+      "youtube": ""
      }
     },
     {
@@ -2659,11 +2691,11 @@
      "page": "content/longevity/2026-11-02-pm/index.md",
      "duration_sec": 110,
      "duration": "1:50",
-     "video_url": "https://www.youtube.com/watch?v=78ZK9JnK34Y",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=78ZK9JnK34Y"
+      "youtube": ""
      }
     },
     {
@@ -2987,7 +3019,7 @@
      }
     }
    ],
-   "count": 27,
+   "count": 29,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -3038,6 +3070,70 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=V0hdDxVAK1U"
+     }
+    },
+    {
+     "date": "2026-11-03",
+     "title": "硅谷科技日报｜11月3日：最能干活的模型，也只干成一成多",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月3日，星期二。头条：智能体新考卷出炉，最能打的模型也只干成一成多。",
+     "audio": "content/silicon-valley/2026-11-03/audio.mp3",
+     "page": "content/silicon-valley/2026-11-03/index.md",
+     "duration_sec": 119,
+     "duration": "1:59",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-03",
+     "title": "硅谷科技日报·晚间版｜11月3日：AI快摸到自己加速自己的门槛了",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月3日，星期二。头条：AI快摸到自己加速自己的门槛了。",
+     "audio": "content/silicon-valley/2026-11-03-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-03-pm/index.md",
+     "duration_sec": 107,
+     "duration": "1:47",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-02",
+     "title": "硅谷科技日报｜11月2日：DeepSeek把编程智能体开源了",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月2日，星期一。头条：DeepSeek把会主动干活的编程智能体开源了。周末的旗舰泄露传闻官方未证实，本期不展开。",
+     "audio": "content/silicon-valley/2026-11-02/audio.mp3",
+     "page": "content/silicon-valley/2026-11-02/index.md",
+     "duration_sec": 116,
+     "duration": "1:56",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-02",
+     "title": "硅谷科技日报·晚间版｜11月2日：苹果智能后天在中国内地开测",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月2日，星期一。头条：苹果智能后天在中国内地开测，背后接的是通义千问。",
+     "audio": "content/silicon-valley/2026-11-02-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-02-pm/index.md",
+     "duration_sec": 107,
+     "duration": "1:47",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
      }
     },
     {
@@ -3281,7 +3377,7 @@
      }
     }
    ],
-   "count": 16,
+   "count": 21,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -3311,11 +3407,11 @@
      "page": "content/immigration/2026-11-05/index.md",
      "duration_sec": 91,
      "duration": "1:31",
-     "video_url": "https://www.youtube.com/watch?v=Ur27IiRd1Zs",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=Ur27IiRd1Zs"
+      "youtube": ""
      }
     },
     {
@@ -3327,11 +3423,11 @@
      "page": "content/immigration/2026-11-04/index.md",
      "duration_sec": 98,
      "duration": "1:38",
-     "video_url": "https://www.youtube.com/watch?v=aQ1WK7tsuJw",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=aQ1WK7tsuJw"
+      "youtube": ""
      }
     },
     {
@@ -3343,11 +3439,11 @@
      "page": "content/immigration/2026-11-03/index.md",
      "duration_sec": 98,
      "duration": "1:38",
-     "video_url": "https://www.youtube.com/watch?v=BSecM4bJjzM",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=BSecM4bJjzM"
+      "youtube": ""
      }
     },
     {
@@ -3357,13 +3453,13 @@
      "theme": "这里是移民政策速报。今天是二零二六年十一月二日。十一月排期与用表已经生效，亲属与职业类递交都按递交表。",
      "audio": "content/immigration/2026-11-02/audio.mp3",
      "page": "content/immigration/2026-11-02/index.md",
-     "duration_sec": 102,
-     "duration": "1:42",
-     "video_url": "https://www.youtube.com/watch?v=J2MEUAsyIEU",
+     "duration_sec": 101,
+     "duration": "1:41",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=J2MEUAsyIEU"
+      "youtube": ""
      }
     },
     {
