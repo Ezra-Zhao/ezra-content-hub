@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "programs": [
   {
    "id": "devotion-am",
@@ -2976,6 +2976,22 @@
    "desc": "硅谷科技动态速报：AI 与科技公司最新进展。",
    "category": "科技",
    "episodes": [
+    {
+     "date": "2026-11-06",
+     "title": "硅谷科技日报｜11月6日：克劳德能看你的银行账了，但只能看不能动",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月6日，星期五。头条：克劳德能看你的银行账了，但只能看，不能动。",
+     "audio": "content/silicon-valley/2026-11-06/audio.mp3",
+     "page": "content/silicon-valley/2026-11-06/index.md",
+     "duration_sec": 125,
+     "duration": "2:05",
+     "video_url": "https://www.youtube.com/watch?v=5dZQvbaPJ6s",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=5dZQvbaPJ6s"
+     }
+    },
     {
      "date": "2026-11-05",
      "title": "硅谷科技日报·晚间版｜11月5日：专攻找漏洞的新模型，只给审核过的人用",
