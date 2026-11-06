@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 04:12:25 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:21:37 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/</itunes:summary>
     <itunes:keywords>信仰问答,系统神学,护教,唐崇荣,讲道,基督教</itunes:keywords>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>信与受洗的关系</title>
+      <description>信救人，洗不救人——洗礼不是门票，是制服：得救靠的是信，得救的人应当受洗。 经文：马可福音 16:16（和合本）</description>
+      <pubDate>Sun, 08 Nov 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">tangqa-2026-11-08</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/tang-sermons/2026-11-08/audio.mp3" length="2754787" type="audio/mpeg"/>
+      <itunes:duration>5:44</itunes:duration>
+    </item>
     <item>
       <title>重生得救的人会亵渎圣灵吗</title>
       <description>真正重生得救的人不可能亵渎圣灵——重生本是圣灵亲自做成的工作；为此担忧的心，恰恰证明圣灵还在动工。 经文：帖撒罗尼迦前书 5:19（和合本）</description>
