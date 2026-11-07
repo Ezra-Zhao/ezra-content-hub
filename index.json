@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-06",
  "programs": [
   {
    "id": "devotion-am",
@@ -3693,6 +3693,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-06",
+     "title": "湾区福利速报｜2026年11月6日：2个新机会：明天三场免费流感疫苗不用预约",
+     "scripture": "",
+     "theme": "【主打】圣马特奥县免费流感疫苗——11月7日（周六）三场，无医保免费",
+     "audio": "content/bay-area-benefits/2026-11-06/audio.mp3",
+     "page": "content/bay-area-benefits/2026-11-06/index.md",
+     "duration_sec": 103,
+     "duration": "1:43",
+     "video_url": "https://www.youtube.com/watch?v=h1lO4hfym_w",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=h1lO4hfym_w"
+     }
+    },
+    {
      "date": "2026-11-05",
      "title": "湾区福利速报｜2026年11月5日：3个新机会：圣何塞圣心感恩节食物盒日期定了",
      "scripture": "",
@@ -3869,7 +3885,7 @@
      }
     }
    ],
-   "count": 11,
+   "count": 12,
    "listen": {
     "pocketcasts": "https://pca.st/h33fzfrw",
     "castbox": "https://castbox.fm/channel/id7461845"

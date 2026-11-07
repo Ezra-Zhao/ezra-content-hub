@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：移民政策速报、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 14:33:01 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:26:39 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：移民政策速报、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="News"/>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>湾区福利速报｜2026年11月6日：2个新机会：明天三场免费流感疫苗不用预约</title>
+      <description>【主打】圣马特奥县免费流感疫苗——11月7日（周六）三场，无医保免费</description>
+      <pubDate>Fri, 06 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">bay-area-benefits-2026-11-06</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/bay-area-benefits/2026-11-06/audio.mp3" length="827368" type="audio/mpeg"/>
+      <itunes:duration>1:43</itunes:duration>
+    </item>
     <item>
       <title>湾区福利速报｜2026年11月5日：3个新机会：圣何塞圣心感恩节食物盒日期定了</title>
       <description>【主打】圣心社区服务节日食物盒——11月23–25日，圣何塞</description>
