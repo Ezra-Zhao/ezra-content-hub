@@ -1983,6 +1983,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-07",
+     "title": "《美国百指日报》2026-11-07｜消费信贷单月增278.4亿美元远超共识，信用卡年率跳升14.5%",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-07 快照（173 个指标，42 个异常）。头条数据为美联储 2026-11-06 公布的 9 月消费者信贷报告（G.19），与周五收盘、贝克休斯钻井数据，均为官方或多源核定口径。前瞻来源：金十数据当日日历（雷达口径）。新闻：OpenAI 官方发布（2026-11-05）；三星 Bioepis 三期数据（2026-11-06 年会展示，公司公告交叉核对）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-am/2026-11-07/audio.mp3",
+     "page": "content/fred-am/2026-11-07/index.md",
+     "duration_sec": 409,
+     "duration": "6:49",
+     "video_url": "https://www.youtube.com/watch?v=ea6g20sNogM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=ea6g20sNogM"
+     }
+    },
+    {
      "date": "2026-11-06",
      "title": "《美国百指日报》2026-11-06｜非农大增16.5万远超预期，失业率降至4.1%",
      "scripture": "",
