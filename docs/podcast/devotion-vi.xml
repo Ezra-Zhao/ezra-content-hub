@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 00:41:00 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:01:12 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -84,6 +84,62 @@
       <guid isPermaLink="false">devotion-am-vi-2026-11-03</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-03/audio.mp3" length="2159221" type="audio/mpeg"/>
       <itunes:duration>2:15</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] Hãy Đến Cùng Ta, Ta Sẽ Cho Yên-nghỉ</title>
+      <description>Hỡi những kẻ mệt mỏi và gánh nặng, hãy đến cùng ta, ta sẽ cho các ngươi được yên nghỉ — đêm nay cứ đến bên Ngài mà nghỉ. Kinh Thánh: Ma-thi-ơ 11:28 (Bản Truyền Thống 1925)</description>
+      <pubDate>Mon, 02 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-11-02</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-11-02/audio.mp3" length="1947693" type="audio/mpeg"/>
+      <itunes:duration>2:02</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Hãy Hết Lòng Tin-cậy Đức Giê-hô-va</title>
+      <description>Chớ nương cậy nơi sự thông sáng của con; phàm trong các việc làm của con, khá nhận biết Ngài, thì Ngài sẽ chỉ dẫn các nẻo của con. Kinh Thánh: Châm-ngôn 3:5-6 (Bản Truyền Thống 1925)</description>
+      <pubDate>Mon, 02 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-02</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-02/audio.mp3" length="2242221" type="audio/mpeg"/>
+      <itunes:duration>2:20</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Tôi Vui Mừng Khi Đi Đến Nhà Đức Giê-hô-va</title>
+      <description>Tôi vui mừng khi người ta nói với tôi rằng: Ta hãy đi đến nhà Đức Giê-hô-va — ngày của Chúa, lòng vui mừng mà đi thờ phượng. Kinh Thánh: Thi-thiên 122:1 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-01</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-01/audio.mp3" length="1777581" type="audio/mpeg"/>
+      <itunes:duration>1:51</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] Nằm Và Ngủ Bình An</title>
+      <description>Tôi sẽ nằm và ngủ bình an; vì chỉ một mình Ngài làm cho tôi được ở yên ổn — đêm cuối tuần này cứ yên lòng mà ngủ. Kinh Thánh: Thi-thiên 4:8 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sat, 31 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-10-31</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-10-31/audio.mp3" length="1803309" type="audio/mpeg"/>
+      <itunes:duration>1:53</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Trông-đợi Đức Giê-hô-va Thì Được Sức Mới</title>
+      <description>Ai trông đợi Đức Giê-hô-va thì chắc được sức mới, cất cánh bay cao như chim ưng; chạy mà không mệt nhọc, đi mà không mòn mỏi. Kinh Thánh: Ê-sai 40:31 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sat, 31 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-10-31</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-10-31/audio.mp3" length="1868589" type="audio/mpeg"/>
+      <itunes:duration>1:57</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] Ngài Sẽ Đi Trước Ngươi</title>
+      <description>Chánh Đức Giê-hô-va sẽ đi trước ngươi, Ngài sẽ ở cùng ngươi, chẳng lìa khỏi ngươi — đêm nay chớ sợ, chớ kinh khủng. Kinh Thánh: Phục-truyền Luật-lệ Ký 31:8 (Bản Truyền Thống 1925)</description>
+      <pubDate>Fri, 30 Oct 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-10-30/audio.mp3" length="2039853" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Trước Hết, Hãy Tìm-kiếm Nước Đức Chúa Trời</title>
+      <description>Trước hết hãy tìm kiếm nước Đức Chúa Trời và sự công bình của Ngài, thì Ngài sẽ cho thêm mọi điều ấy nữa — thứ tự đúng rồi, lòng mới yên. Kinh Thánh: Ma-thi-ơ 6:33 (Bản Truyền Thống 1925)</description>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-10-30</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-10-30/audio.mp3" length="2047626" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
     </item>
     <item>
       <title>[PM] Ngài Sẽ Ca-hát Mừng-rỡ Vì Cớ Ngươi</title>
