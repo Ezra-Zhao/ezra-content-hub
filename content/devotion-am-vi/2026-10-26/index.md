@@ -3,7 +3,7 @@
 - 节目：每日灵修 · 早间（越南语版）
 - 日期：2026-10-26
 - 经文：Thi-thiên 121:1-2 (Bản Truyền Thống 1925)
-- 时长：2:13
+- 时长：2:25
 - 主讲：Guangyi Zhao
 - 状态：初译待母语校对（first translation, pending native proofreading）
 

@@ -3,7 +3,7 @@
 - 节目：每日灵修 · 睡前（越南语版）
 - 日期：2026-11-01
 - 经文：Phi-líp 4:6-7 (Bản Truyền Thống 1925)
-- 时长：1:59
+- 时长：2:18
 - 主讲：Guangyi Zhao
 - 状态：初译待母语校对（first translation, pending native proofreading）
 
