@@ -209,6 +209,22 @@
       "category": "信仰",
       "episodes": [
         {
+          "date": "2026-10-27",
+          "title": "Thoughts of Peace",
+          "scripture": "Jeremiah 29:11 (WEB)",
+          "theme": "His thoughts toward you are peace, not harm — even in Babylon, He is quietly burying hope for your future.",
+          "audio": "content/devotion-am-en/2026-10-27/audio.mp3",
+          "page": "content/devotion-am-en/2026-10-27/index.md",
+          "duration_sec": 95,
+          "duration": "1:35",
+          "video_url": "",
+          "links": {
+            "spotify": "",
+            "x": "",
+            "youtube": ""
+          }
+        },
+        {
           "date": "2026-10-23",
           "title": "Be Strong and Courageous",
           "scripture": "Joshua 1:9 (WEB)",
@@ -341,6 +357,22 @@
       "desc": "Daily Devotion, morning edition in Spanish: one verse, a short reflection, and a prayer to start the day. First translation, pending native-speaker proofreading. 初译待母语校对。",
       "category": "信仰",
       "episodes": [
+        {
+          "date": "2026-10-27",
+          "title": "Pensamientos de paz",
+          "scripture": "Jeremías 29:11 (RVR1909)",
+          "theme": "Sus pensamientos hacia ti son de paz y no de mal; aun en Babilonia, él siembra la esperanza de tu futuro.",
+          "audio": "content/devotion-am-es/2026-10-27/audio.mp3",
+          "page": "content/devotion-am-es/2026-10-27/index.md",
+          "duration_sec": 99,
+          "duration": "1:39",
+          "video_url": "",
+          "links": {
+            "spotify": "",
+            "x": "",
+            "youtube": ""
+          }
+        },
         {
           "date": "2026-10-23",
           "title": "Esfuérzate y sé valiente",
