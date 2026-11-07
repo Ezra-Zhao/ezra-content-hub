@@ -26,6 +26,8 @@ PDT = timezone(timedelta(hours=-7))
 FEEDS = {
     "devotion-en.xml": (("devotion-am-en", "devotion-pm-en"), " Scripture: "),
     "devotion-es.xml": (("devotion-am-es", "devotion-pm-es"), " Escritura: "),
+    "devotion-vi.xml": (("devotion-am-vi", "devotion-pm-vi"), " Kinh Thánh: "),
+    "devotion-hi.xml": (("devotion-am-hi", "devotion-pm-hi"), " पवित्रशास्त्र: "),
 }
 
 
