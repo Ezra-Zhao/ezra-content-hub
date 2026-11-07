@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 01:01:12 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:45:17 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -100,6 +100,14 @@
       <guid isPermaLink="false">devotion-am-vi-2026-11-02</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-02/audio.mp3" length="2242221" type="audio/mpeg"/>
       <itunes:duration>2:20</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] Chớ Lo-phiền Chi Hết</title>
+      <description>Trong mọi sự hãy dùng lời cầu nguyện, nài xin và sự tạ ơn mà trình cho Đức Chúa Trời; sự bình an của Ngài sẽ giữ gìn lòng và ý tưởng anh em. Kinh Thánh: Phi-líp 4:6-7 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sun, 01 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-11-01</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-11-01/audio.mp3" length="1903149" type="audio/mpeg"/>
+      <itunes:duration>1:59</itunes:duration>
     </item>
     <item>
       <title>[AM] Tôi Vui Mừng Khi Đi Đến Nhà Đức Giê-hô-va</title>
@@ -196,6 +204,14 @@
       <guid isPermaLink="false">devotion-pm-vi-2026-10-26</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-10-26/audio.mp3" length="1831341" type="audio/mpeg"/>
       <itunes:duration>1:54</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Sự Tiếp-trợ Tôi Đến Từ Đức Giê-hô-va</title>
+      <description>Sự tiếp trợ tôi đến từ Đức Giê-hô-va, là Đấng đã dựng nên trời và đất — tuần mới này, bạn không một mình đối diện với những điều chưa biết. Kinh Thánh: Thi-thiên 121:1-2 (Bản Truyền Thống 1925)</description>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-10-26</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-10-26/audio.mp3" length="2134701" type="audio/mpeg"/>
+      <itunes:duration>2:13</itunes:duration>
     </item>
     <item>
       <title>[PM] Trao Mọi Điều Lo Lắng Cho Ngài</title>
