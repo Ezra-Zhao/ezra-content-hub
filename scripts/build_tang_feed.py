@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the 《信仰问题解答》唐崇荣讲道改编播讲 podcast RSS feed from hub content/tang-sermons.
+"""Build the 《信仰问题解答》唐崇荣讲道播讲 podcast RSS feed from hub content/tang-sermons.
 
 Mirrors build_broadcast_feeds.py / build_devotion_feed.py: episodes are
 read from content/sermons/<date>/index.md + audio.mp3, enclosures point
@@ -19,7 +19,7 @@ RAW = "https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main"
 PAGES = "https://ezra-zhao.github.io/ezra-content-hub"
 PDT = timezone(timedelta(hours=-7))
 
-TITLE = "信仰问题解答｜唐崇荣讲道改编播讲"
+TITLE = "信仰问题解答｜唐崇荣讲道播讲"
 DESC = ("信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。"
         "署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。"
         "文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/")
