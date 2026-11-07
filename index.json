@@ -2261,6 +2261,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-06",
+     "title": "美国百指日报·晚间速报｜11月6日：非农大增16.5万远超预期，纳指反弹道指独跌",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-06 快照。今日实际发布以发布机构官方源为准：劳工统计局10月就业报告、密歇根大学11月消费者信心初值、美联储9月消费者信贷（G.19）、贝克休斯周度钻井数，均于 2026-11-06 公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。收盘为 AP 收盘稿多源交叉一致；加息概率与收益率归因为 Reuters 收盘稿口径。前瞻来源：公开经济日历雷达口径。 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-06/audio.mp3",
+     "page": "content/fred-pm/2026-11-06/index.md",
+     "duration_sec": 126,
+     "duration": "2:06",
+     "video_url": "https://www.youtube.com/watch?v=FZQ64XzTxWE",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=FZQ64XzTxWE"
+     }
+    },
+    {
      "date": "2026-11-05",
      "title": "美国百指日报·晚间速报｜11月5日：纳指跌5.52%进修正区，初请18.9万创57年低位",
      "scripture": "",
@@ -2533,7 +2549,7 @@
      }
     }
    ],
-   "count": 17,
+   "count": 18,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"

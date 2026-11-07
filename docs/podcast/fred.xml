@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 19:46:03 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:38:11 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜11月6日：非农大增16.5万远超预期，纳指反弹道指独跌</title>
+      <description>&gt; 数据：FRED 2026-11-06 快照。今日实际发布以发布机构官方源为准：劳工统计局10月就业报告、密歇根大学11月消费者信心初值、美联储9月消费者信贷（G.19）、贝克休斯周度钻井数，均于 2026-11-06 公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。收盘为 AP 收盘稿多源交叉一致；加息概率与收益率归因为 Reuters 收盘稿口径。前瞻来源：公开经济日历雷达口径。 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-06</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-06/audio.mp3" length="1010225" type="audio/mpeg"/>
+      <itunes:duration>2:06</itunes:duration>
+    </item>
     <item>
       <title>《美国百指日报》2026-11-06｜非农大增16.5万远超预期，失业率降至4.1%｜11月6日</title>
       <description>&gt; 数据：FRED 2026-11-06 快照（173 个指标）。头条数据为劳工统计局 10 月就业报告与密歇根大学消费者信心初值，均为 2026-11-06 当日公布（尚不在 FRED 快照内，后续以 FRED 落定为准）。前瞻来源：金十数据当日日历（雷达口径，预期值经多家公开日历交叉核对）。新闻：Five9 收购 Level AI 公司公告（2026-11-05）；METR 对 Anthropic 的独立评估报告（2026-11-05）；FDA 批准公告（2026-11-05）。 &gt; 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
