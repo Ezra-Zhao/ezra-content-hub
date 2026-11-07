@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 12:45:50 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:54:41 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 诗篇46:1：祂是随时的帮助｜睡前灵修</title>
+      <description>诗篇46:1：祂是随时的帮助——诗篇 46:1 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 46:1（和合本）</description>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-06</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-06/audio.mp3" length="1973646" type="audio/mpeg"/>
+      <itunes:duration>2:03</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 诗篇143:8：清晨得听祂慈爱之言｜晨起读经</title>
+      <description>诗篇143:8：清晨得听祂慈爱之言——诗篇 143:8 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 143:8（和合本）</description>
+      <pubDate>Fri, 06 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-06</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-06/audio.mp3" length="2231945" type="audio/mpeg"/>
+      <itunes:duration>2:19</itunes:duration>
+    </item>
     <item>
       <title>[PM] 约翰福音16:33：在祂里面有平安，祂已经胜了世界｜睡前灵修</title>
       <description>约翰福音16:33：在祂里面有平安，祂已经胜了世界——约翰福音 16:33 的话陪你走今天这一步，讲解与祷告均为原创。 经文：约翰福音 16:33（和合本）</description>
