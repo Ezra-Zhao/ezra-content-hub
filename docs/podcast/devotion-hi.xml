@@ -7,7 +7,7 @@
     <language>hi</language>
     <description>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 23:12:34 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:52:30 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</itunes:summary>
     <itunes:keywords>दैनिक भक्ति,बाइबल पाठ,प्रार्थना,पवित्रशास्त्र,सुबह की भक्ति,रात की भक्ति,मसीही विश्वास,मनन</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] मेरा मन भी रात में मुझे शिक्षा देता है</title>
+      <description>दिन की आवाज़ों में उनकी सम्मति की बात दब जाती है; रात की शांति में मन जाग उठता है और कोमलता से याद दिलाता है। पवित्रशास्त्र: भजन संहिता 16:7 (HHBD)</description>
+      <pubDate>Sat, 07 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-hi-2026-11-07</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-hi/2026-11-07/audio.mp3" length="2174253" type="audio/mpeg"/>
+      <itunes:duration>2:16</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] हमें अपने दिन गिनना सिखा</title>
+      <description>मूसा ने दिन बढ़ाने की माँग नहीं की, केवल अपने दिन ठीक से गिनना सीखना माँगा — बुद्धिमान हृदय हर दिन को संजोने से आरंभ होता है। पवित्रशास्त्र: भजन संहिता 90:12 (HHBD)</description>
+      <pubDate>Sat, 07 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-hi-2026-11-07</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-hi/2026-11-07/audio.mp3" length="2271789" type="audio/mpeg"/>
+      <itunes:duration>2:22</itunes:duration>
+    </item>
     <item>
       <title>[PM] परमेश्वर हमारा शरणस्थान और बल है</title>
       <description>सहायता के लिए पहले से समय नहीं लेना पड़ता; वे संकट में अति सहज से मिलने वाले सहायक हैं — आज रात थकान और लटकी हुई बातें शरणस्थान के द्वार पर रखकर सो जाओ। पवित्रशास्त्र: भजन संहिता 46:1 (HHBD)</description>

@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 07:45:17 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:52:30 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Ban Đêm Lòng Tôi Cũng Dạy-Dỗ Tôi</title>
+      <description>Ban ngày lời khuyên-bảo của Ngài bị che lấp giữa bao nhiêu tiếng nói; trong sự yên tĩnh của ban đêm, lòng ta tỉnh ra và được nhắc nhở cách dịu dàng. Kinh Thánh: Thi-thiên 16:7 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sat, 07 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-11-07</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-11-07/audio.mp3" length="2026029" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Dạy Chúng Tôi Biết Đếm Các Ngày</title>
+      <description>Môi-se không cầu xin thêm ngày, chỉ cầu xin đếm cho đúng những ngày của mình — lòng khôn-ngoan bắt đầu từ việc trân trọng mỗi ngày. Kinh Thánh: Thi-thiên 90:12 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sat, 07 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-07</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-07/audio.mp3" length="2077101" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
     <item>
       <title>[PM] Đấng Sẵn Giúp Đỡ Trong Cơn Gian Truân</title>
       <description>Ngài là nơi nương náu, là sức lực, là sự giúp đỡ luôn sẵn có — đêm nay ta có thể yên nằm ngủ trong Ngài. Kinh Thánh: Thi-thiên 46:1 (Bản Truyền Thống 1925)</description>
