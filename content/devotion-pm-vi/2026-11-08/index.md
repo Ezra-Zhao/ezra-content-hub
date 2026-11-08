@@ -1,0 +1,20 @@
+# Linh-hồn Êm-dịu An-tịnh Như Con Trẻ Dứt Sữa
+
+- 节目：每日灵修 · 睡前（越南语版）
+- 日期：2026-11-08
+- 经文：Thi-thiên 131:2 (Bản Truyền Thống 1925)
+- 时长：2:09
+- 主讲：Guangyi Zhao
+- 状态：初译待母语校对（first translation, pending native proofreading）
+
+## 一句话主题
+
+Con trẻ dứt sữa nép mình trong lòng mẹ, không còn vì bú sữa, chỉ vì Ngài ở đó — lòng bình an rồi, việc của ngày mai, ngày mai sẽ giao phó từng việc một.
+
+## 平台链接
+
+- Spotify：（待补）
+- X：（待补）
+- YouTube：（待补）
+
+© 2026 Guangyi Zhao 版权所有。
