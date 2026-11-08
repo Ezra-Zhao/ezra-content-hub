@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-08",
  "programs": [
   {
    "id": "devotion-am",
@@ -1183,6 +1183,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-08",
+     "title": "新闻矩阵｜11月8日早间版：波兰克拉科夫枪击全国哀悼，乌克兰逾六十万人断电，艾森科特今日受命组阁",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月8日早间版：波兰克拉科夫枪击全国哀悼，乌克兰逾六十万人断电，艾森科特今日受命组阁",
+     "audio": "content/news-am/2026-11-08/audio.mp3",
+     "page": "content/news-am/2026-11-08/index.md",
+     "duration_sec": 348,
+     "duration": "5:48",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-07",
      "title": "新闻矩阵｜11月7日早间版：基辅遭导弹夜袭，众院计票更新至254比162，甲骨文湾区裁员441人",
      "scripture": "",
@@ -1375,7 +1391,7 @@
      }
     }
    ],
-   "count": 12,
+   "count": 13,
    "related": [
     "fred-am",
     "fred-pm",
