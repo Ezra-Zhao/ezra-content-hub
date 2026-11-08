@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 22:54:41 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:31:33 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
@@ -21,6 +21,38 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 诗篇131:2：心平稳安静如婴孩｜睡前灵修</title>
+      <description>诗篇131:2：心平稳安静如婴孩——诗篇 131:2 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 131:2（和合本）</description>
+      <pubDate>Sun, 08 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-08</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-08/audio.mp3" length="2123275" type="audio/mpeg"/>
+      <itunes:duration>2:13</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 诗篇84:10：在祢院宇住一日胜千日｜晨起读经</title>
+      <description>诗篇84:10：在祢院宇住一日胜千日——诗篇 84:10 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 84:10（和合本）</description>
+      <pubDate>Sun, 08 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-08</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-08/audio.mp3" length="2156712" type="audio/mpeg"/>
+      <itunes:duration>2:15</itunes:duration>
+    </item>
+    <item>
+      <title>[PM] 诗篇16:7：祂在夜间也指教我｜睡前灵修</title>
+      <description>诗篇16:7：祂在夜间也指教我——诗篇 16:7 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 16:7（和合本）</description>
+      <pubDate>Sat, 07 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-07</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-07/audio.mp3" length="2104049" type="audio/mpeg"/>
+      <itunes:duration>2:11</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 诗篇90:12：求祢指教我们数算日子｜晨起读经</title>
+      <description>诗篇90:12：求祢指教我们数算日子——诗篇 90:12 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 90:12（和合本）</description>
+      <pubDate>Sat, 07 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-07</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-07/audio.mp3" length="2247409" type="audio/mpeg"/>
+      <itunes:duration>2:20</itunes:duration>
+    </item>
     <item>
       <title>[PM] 诗篇46:1：祂是随时的帮助｜睡前灵修</title>
       <description>诗篇46:1：祂是随时的帮助——诗篇 46:1 的话陪你走今天这一步，讲解与祷告均为原创。 经文：诗篇 46:1（和合本）</description>
