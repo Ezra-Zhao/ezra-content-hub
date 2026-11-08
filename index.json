@@ -2357,6 +2357,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-07",
+     "title": "美国百指日报·晚间速报｜11月7日：加息概率升至78.6%，周末无新数据待周二通胀",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-07 快照。今日为周六，无新重头数据发布、市场休市；最新实际值以发布机构官方源为准：劳工统计局10月就业报告、密歇根大学11月消费者信心初值、美联储9月消费者信贷（G.19）、贝克休斯周度钻井数，均于 2026-11-06 公布（后续以 FRED 落定为准）。收盘为 AP 收盘稿多源交叉一致；12月加息概率周六读数为 CME FedWatch 口径（The Economics Desk 2026-11-07 回读）。前瞻来源：劳工统计局官网发布日程与公开经济日历雷达口径。主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-07/audio.mp3",
+     "page": "content/fred-pm/2026-11-07/index.md",
+     "duration_sec": 122,
+     "duration": "2:02",
+     "video_url": "https://www.youtube.com/watch?v=mudC2xKVKyo",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=mudC2xKVKyo"
+     }
+    },
+    {
      "date": "2026-11-06",
      "title": "美国百指日报·晚间速报｜11月6日：非农大增16.5万远超预期，纳指反弹道指独跌",
      "scripture": "",
@@ -2645,7 +2661,7 @@
      }
     }
    ],
-   "count": 18,
+   "count": 19,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
