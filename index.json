@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-08",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -2015,6 +2015,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-08",
+     "title": "《美国百指日报》2026-11-08｜周日无新数据，恐慌指数异常居首，下周二通胀是关口",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-08 快照（173 个指标，41 个异常）。今天是周日，美国市场休市、无新的重头宏观指标公布；下一关口为劳工统计局日程表上的 11 月 10 日消费者物价指数。前瞻来源：金十数据雷达与多家公开日历交叉。新闻：谷歌 ADK 2.14.0 发布说明（2026-11-07）；强生官方新闻稿（2026-11-07）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-am/2026-11-08/audio.mp3",
+     "page": "content/fred-am/2026-11-08/index.md",
+     "duration_sec": 335,
+     "duration": "5:35",
+     "video_url": "https://www.youtube.com/watch?v=IKpnKDf_j-8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=IKpnKDf_j-8"
+     }
+    },
+    {
      "date": "2026-11-07",
      "title": "《美国百指日报》2026-11-07｜消费信贷单月增278.4亿美元远超共识，信用卡年率跳升14.5%",
      "scripture": "",
@@ -2365,25 +2381,9 @@
       "x": "",
       "youtube": ""
      }
-    },
-    {
-     "date": "2026-11-08",
-     "title": "《美国百指日报》2026-11-08｜周日无新数据，恐慌指数异常居首，下周二通胀是关口",
-     "scripture": "",
-     "theme": "> 数据：FRED 2026-11-08 快照（173 个指标，41 个异常）。今天是周日，美国市场休市、无新的重头宏观指标公布；下一关口为劳工统计局日程表上的 11 月 10 日消费者物价指数。前瞻来源：金十数据雷达与多家公开日历交叉。新闻：谷歌 ADK 2.14.0 发布说明（2026-11-07）；强生官方新闻稿（2026-11-07）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
-     "audio": "content/fred-am/2026-11-08/audio.mp3",
-     "page": "content/fred-am/2026-11-08/index.md",
-     "duration_sec": 335,
-     "duration": "5:35",
-     "video_url": "https://www.youtube.com/watch?v=IKpnKDf_j-8",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=IKpnKDf_j-8"
-     }
     }
    ],
-   "count": 21,
+   "count": 23,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -2405,6 +2405,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-08",
+     "title": "美国百指日报·晚间速报｜11月8日：周日无新数据，恐慌余波未消待周二通胀",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-08 快照。今日为周日，无新重头数据发布、市场休市，本期为一周收尾速报；快照异常榜首为恐慌指数，11月5日读数28.18，从16.61跳升69.66%，为周四股市大跌当天落点，同日标普跌4.36%。周五实际值以发布机构官方源为准：劳工统计局10月就业报告（非农增加16.5万人、高于预期6.5万人，失业率降至4.1%）、密歇根大学11月消费者信心初值51.0、美联储9月消费者信贷（G.19，增加278.4亿美元，循环信贷按年率涨14.5%），均于2026-11-06公布。收盘为AP收盘稿多源交叉一致；12月加息概率周六读数为CME FedWatch口径。前瞻来源：劳工统计局官网发布日程与公开经济日历雷达口径。主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-08/audio.mp3",
+     "page": "content/fred-pm/2026-11-08/index.md",
+     "duration_sec": 122,
+     "duration": "2:02",
+     "video_url": "https://www.youtube.com/watch?v=_ubjUfqQ0hg",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=_ubjUfqQ0hg"
+     }
+    },
+    {
      "date": "2026-11-07",
      "title": "美国百指日报·晚间速报｜11月7日：加息概率升至78.6%，周末无新数据待周二通胀",
      "scripture": "",
@@ -2413,11 +2429,11 @@
      "page": "content/fred-pm/2026-11-07/index.md",
      "duration_sec": 122,
      "duration": "2:02",
-     "video_url": "https://www.youtube.com/watch?v=mudC2xKVKyo",
+     "video_url": "https://www.youtube.com/watch?v=mudC2xKVKyo。",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=mudC2xKVKyo"
+      "youtube": "https://www.youtube.com/watch?v=mudC2xKVKyo。"
      }
     },
     {
@@ -2429,11 +2445,11 @@
      "page": "content/fred-pm/2026-11-06/index.md",
      "duration_sec": 126,
      "duration": "2:06",
-     "video_url": "https://www.youtube.com/watch?v=FZQ64XzTxWE",
+     "video_url": "https://www.youtube.com/watch?v=FZQ64XzTxWE。",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=FZQ64XzTxWE"
+      "youtube": "https://www.youtube.com/watch?v=FZQ64XzTxWE。"
      }
     },
     {
@@ -2709,7 +2725,7 @@
      }
     }
    ],
-   "count": 19,
+   "count": 20,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
