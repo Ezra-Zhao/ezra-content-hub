@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 11:46:14 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:57:08 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Đầy Sự Nhân-từ</title>
+      <description>Điều tiếp nhận chúng ta không phải là thành tích hôm nay, mà là sự nhân-từ đầy dẫy của Ngài — cứ yên lòng giao phó mà ngủ. Kinh Thánh: Thi-thiên 103:8 (Bản Truyền Thống 1925)</description>
+      <pubDate>Mon, 09 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-11-09</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-11-09/audio.mp3" length="2133549" type="audio/mpeg"/>
+      <itunes:duration>2:13</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Ngài Không Hề Thay Đổi</title>
+      <description>Mọi sự đều thay đổi, chỉ một mình Ngài không hề thay đổi — trước hết trao tuần mới vào tay Ngài, rồi làm từng việc một. Kinh Thánh: Ma-la-chi 3:6 (Bản Truyền Thống 1925)</description>
+      <pubDate>Mon, 09 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-09</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-09/audio.mp3" length="2314029" type="audio/mpeg"/>
+      <itunes:duration>2:25</itunes:duration>
+    </item>
     <item>
       <title>[PM] Linh-hồn Êm-dịu An-tịnh Như Con Trẻ Dứt Sữa</title>
       <description>Con trẻ dứt sữa nép mình trong lòng mẹ, không còn vì bú sữa, chỉ vì Ngài ở đó — lòng bình an rồi, việc của ngày mai, ngày mai sẽ giao phó từng việc một. Kinh Thánh: Thi-thiên 131:2 (Bản Truyền Thống 1925)</description>
