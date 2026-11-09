@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-09",
  "programs": [
   {
    "id": "devotion-am",
@@ -1427,6 +1427,22 @@
      }
     },
     {
+     "date": "2026-11-07",
+     "title": "新闻矩阵｜11月7日晚间版：克拉科夫广场枪击六人遇难，赫尔佐格周日晚授艾森科特组阁，芯片股一周过山车",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月7日晚间版：克拉科夫广场枪击六人遇难，赫尔佐格周日晚授艾森科特组阁，芯片股一周过山车",
+     "audio": "content/news-pm/2026-11-07/audio.mp3",
+     "page": "content/news-pm/2026-11-07/index.md",
+     "duration_sec": 357,
+     "duration": "5:57",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-06",
      "title": "新闻矩阵｜11月6日晚间版：芯片股反弹4.21%纳指涨1.09%，参院两席第三天未决，十二月加息定价升至78%",
      "scripture": "",
@@ -1603,7 +1619,7 @@
      }
     }
    ],
-   "count": 12,
+   "count": 13,
    "related": [
     "fred-am",
     "fred-pm",
