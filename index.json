@@ -1183,6 +1183,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-09",
+     "title": "新闻矩阵｜11月9日早间版：克拉科夫枪手在医院死亡，扎波罗热核电站恢复供电，COP31今日在安塔利亚开幕",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月9日早间版：克拉科夫枪手在医院死亡，扎波罗热核电站恢复供电，COP31今日在安塔利亚开幕",
+     "audio": "content/news-am/2026-11-09/audio.mp3",
+     "page": "content/news-am/2026-11-09/index.md",
+     "duration_sec": 355,
+     "duration": "5:55",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-08",
      "title": "新闻矩阵｜11月8日早间版：波兰克拉科夫枪击全国哀悼，乌克兰逾六十万人断电，艾森科特今日受命组阁",
      "scripture": "",
@@ -1391,7 +1407,7 @@
      }
     }
    ],
-   "count": 13,
+   "count": 14,
    "related": [
     "fred-am",
     "fred-pm",
