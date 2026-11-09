@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-09",
  "programs": [
   {
    "id": "devotion-am",
@@ -4201,6 +4201,41 @@
     "longevity",
     "immigration",
     "stocks-pm"
+   ]
+  },
+  {
+   "id": "history-rhymes",
+   "name": "弹古论今｜History Rhymes",
+   "slot": "晚间",
+   "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
+   "category": "时效",
+   "count": 1,
+   "related": [
+    "news-am",
+    "news-pm",
+    "silicon-valley",
+    "immigration",
+    "fred-am",
+    "fred-pm"
+   ],
+   "title": "弹古论今 · History Rhymes",
+   "episodes": [
+    {
+     "date": "2026-11-09",
+     "title": "《弹古论今》特辑｜黄仁勋事件：奥本海默的剧本重演？",
+     "scripture": "",
+     "theme": "英伟达董事会调查黄仁勋，把事件放进七十多年的历史线里看：奥本海默1954、钱学森1950、李文和1999、陈立武2025；五条可证伪预判立此存照。",
+     "audio": "content/history-rhymes/2026-11-09/audio.mp3",
+     "page": "content/history-rhymes/2026-11-09/index.md",
+     "duration_sec": 295,
+     "duration": "4:55",
+     "video_url": "https://www.youtube.com/watch?v=KfWfJsf-nhg",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=KfWfJsf-nhg"
+     }
+    }
    ]
   }
  ],

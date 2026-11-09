@@ -74,6 +74,15 @@ FEEDS = {
         [("News", None), ("News", "Politics")],
         [("news-am", 7), ("news-pm", 21)],
     ),
+    "history-rhymes.xml": (
+        "弹古论今｜History Rhymes：以史看今",
+        "取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。"
+        "关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。",
+        "历史,时事评论,历史类比,科技史,奥本海默,黄仁勋",
+        [("History", None), ("News", "Politics")],
+        [("history-rhymes", 19)],
+    ),
     "stocks-pm.xml": (
         "美股盘后小结｜三大指数与板块复盘",
         "每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。"
