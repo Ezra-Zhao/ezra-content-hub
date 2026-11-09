@@ -4,4 +4,5 @@
 这里是《硅谷科技日报》。今天是2026年11月3日，星期二。头条：智能体新考卷出炉，最能打的模型也只干成一成多。
 
 时长：1:59
+视频：https://www.youtube.com/watch?v=HXxXuajCKso
 来源：2026-11-04 ElevenLabs 切回批补产，音频版先行入 feed；视频版已补（2026-11-04 发布）：https://www.youtube.com/watch?v=HXxXuajCKso。
