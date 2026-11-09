@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 09:02:44 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:06:12 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报｜11月9日：克劳德会做梦了，醒来先改自己的错笔记</title>
+      <description>这里是《硅谷科技日报》。今天是2026年11月9日，星期一。头条：克劳德会做梦了，醒来先改自己的错笔记。</description>
+      <pubDate>Mon, 09 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-11-09</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-11-09/audio.mp3" length="1033422" type="audio/mpeg"/>
+      <itunes:duration>2:09</itunes:duration>
+    </item>
     <item>
       <title>硅谷科技日报·晚间版｜11月6日：谷歌170亿美元建数据中心，电先自己备好</title>
       <description>这里是《硅谷科技日报》晚间版。今天是2026年11月6日，星期五。头条：谷歌170亿美元建数据中心，电先自己备好。</description>

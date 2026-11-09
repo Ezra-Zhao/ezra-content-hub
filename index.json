@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-09",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -1673,6 +1673,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-06",
+     "title": "美股盘后小结 11月6日：科技反弹指数分化+芯片领涨",
+     "scripture": "",
+     "theme": "美股盘后小结，11月6日，星期五。今天科技股带头小幅反弹，三大指数涨跌不一，市场分化明显。",
+     "audio": "content/stocks-pm/2026-11-06/audio.mp3",
+     "page": "content/stocks-pm/2026-11-06/index.md",
+     "duration_sec": 65,
+     "duration": "1:05",
+     "video_url": "https://www.youtube.com/watch?v=Kt1dFciphKo",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Kt1dFciphKo"
+     }
+    },
+    {
      "date": "2026-11-05",
      "title": "美股盘后小结 11月5日：三大指数急跌+芯片领跌纳指进修正区",
      "scripture": "",
@@ -2025,7 +2041,7 @@
      }
     }
    ],
-   "count": 22,
+   "count": 23,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
@@ -2431,7 +2447,7 @@
      }
     }
    ],
-   "count": 23,
+   "count": 24,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -3297,6 +3313,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-09",
+     "title": "硅谷科技日报｜11月9日：克劳德会做梦了，醒来先改自己的错笔记",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月9日，星期一。头条：克劳德会做梦了，醒来先改自己的错笔记。",
+     "audio": "content/silicon-valley/2026-11-09/audio.mp3",
+     "page": "content/silicon-valley/2026-11-09/index.md",
+     "duration_sec": 129,
+     "duration": "2:09",
+     "video_url": "https://www.youtube.com/watch?v=oq7_Lu9cNUw",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=oq7_Lu9cNUw"
+     }
+    },
+    {
      "date": "2026-11-06",
      "title": "硅谷科技日报｜11月6日：克劳德能看你的银行账了，但只能看不能动",
      "scripture": "",
@@ -3649,7 +3681,7 @@
      }
     }
    ],
-   "count": 22,
+   "count": 23,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
