@@ -2047,6 +2047,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-09",
+     "title": "《美国百指日报》2026-11-09｜周一无重头数据，恐慌指数仍居异常榜首，明日通胀定方向",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-09 快照（173 个指标，41 个异常）。今天是周一，美东上午开盘前尚无新的重头宏观指标公布；下一关口为劳工统计局日程表上的 11 月 10 日消费者物价指数。前瞻来源：金十数据雷达与多家公开日历交叉。新闻：谷歌官方博客（2026-11-09）；MIT News（2026-11-09）；强生官方新闻稿（2026-11-05）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-am/2026-11-09/audio.mp3",
+     "page": "content/fred-am/2026-11-09/index.md",
+     "duration_sec": 373,
+     "duration": "6:13",
+     "video_url": "https://www.youtube.com/watch?v=2t0R_4VuB1I",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=2t0R_4VuB1I"
+     }
+    },
+    {
      "date": "2026-11-08",
      "title": "《美国百指日报》2026-11-08｜周日无新数据，恐慌指数异常居首，下周二通胀是关口",
      "scripture": "",
