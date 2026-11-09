@@ -1363,6 +1363,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-08",
+     "title": "新闻矩阵｜11月8日晚间版：艾森科特正式受命组阁，波兰以恐怖罪行立案，中国十月物价一冷一热",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月8日晚间版：艾森科特正式受命组阁，波兰以恐怖罪行立案，中国十月物价一冷一热",
+     "audio": "content/news-pm/2026-11-08/audio.mp3",
+     "page": "content/news-pm/2026-11-08/index.md",
+     "duration_sec": 386,
+     "duration": "6:26",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-06",
      "title": "新闻矩阵｜11月6日晚间版：芯片股反弹4.21%纳指涨1.09%，参院两席第三天未决，十二月加息定价升至78%",
      "scripture": "",
@@ -1539,7 +1555,7 @@
      }
     }
    ],
-   "count": 10,
+   "count": 12,
    "related": [
     "fred-am",
     "fred-pm",
