@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 11:46:14 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:49:05 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Psalm 42:5: Hope in God</title>
+      <description>Hope in God — speak to your own soul tonight, remind it of His help, and let praise, not despair, be the ending. Scripture: Psalm 42:5 (WEB)</description>
+      <pubDate>Tue, 10 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-10</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-10/audio.mp3" length="2028398" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Isaiah 6:3: Holy Is Yahweh of Armies</title>
+      <description>Holy, holy, holy is Yahweh of Armies — His glory fills the whole earth, so go out today with reverence and peace. Scripture: Isaiah 6:3 (WEB)</description>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-10</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-10/audio.mp3" length="2077300" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
     <item>
       <title>[PM] Psalm 103:8: Abundant in Loving Kindness</title>
       <description>He is merciful and gracious, slow to anger, and abundant in loving kindness; what receives us tonight is His mercy, not our performance. Scripture: Psalm 103:8 (WEB)</description>
