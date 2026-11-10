@@ -4357,7 +4357,7 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 15,
+   "count": 16,
    "items": [
     {
      "date": "2026-11-04",
@@ -4478,6 +4478,14 @@
      "author": "Guangyi Zhao",
      "path": "articles/baylocal/2026-11-09-bart-yellow-line-single-tracking.md",
      "page": "articles/baylocal/2026-11-09-bart-yellow-line-single-tracking.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-10-coastal-flood-high-tide",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-10-coastal-flood-high-tide.md",
+     "page": "articles/baylocal/2026-11-10-coastal-flood-high-tide.html"
     }
    ]
   },
@@ -4486,7 +4494,7 @@
    "name": "每日速报",
    "desc": "《代码与诗篇》速报：财经、科技、安全与应急的当日要点，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 3,
+   "count": 9,
    "items": [
     {
      "date": "2026-10-22",
@@ -4511,6 +4519,54 @@
      "author": "Guangyi Zhao",
      "path": "articles/flash/2026-10-22-php2shell.md",
      "page": "articles/flash/2026-10-22-php2shell.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-en",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-en.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-en.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-es",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-es.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-es.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-hi",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-hi.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-hi.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-ko",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-ko.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-ko.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-vi",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-vi.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-vi.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-zh",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-zh.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-zh.html"
     }
    ]
   },

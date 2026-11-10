@@ -3410,6 +3410,22 @@
    "episodes": [
     {
      "date": "2026-11-09",
+     "title": "硅谷科技日报·晚间版｜11月9日：克劳德新旗舰分两版，完整版只给审核过的人用",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月9日，星期一。头条：克劳德新旗舰分两版，完整版只给审核过的人用。",
+     "audio": "content/silicon-valley/2026-11-09-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-09-pm/index.md",
+     "duration_sec": 106,
+     "duration": "1:46",
+     "video_url": "https://www.youtube.com/watch?v=pmAUjvJ1wyc",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=pmAUjvJ1wyc"
+     }
+    },
+    {
+     "date": "2026-11-09",
      "title": "硅谷科技日报｜11月9日：克劳德会做梦了，醒来先改自己的错笔记",
      "scripture": "",
      "theme": "这里是《硅谷科技日报》。今天是2026年11月9日，星期一。头条：克劳德会做梦了，醒来先改自己的错笔记。",
@@ -3777,7 +3793,7 @@
      }
     }
    ],
-   "count": 23,
+   "count": 24,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -4341,7 +4357,7 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 15,
+   "count": 16,
    "items": [
     {
      "date": "2026-11-04",
@@ -4462,6 +4478,14 @@
      "author": "Guangyi Zhao",
      "path": "articles/baylocal/2026-11-09-bart-yellow-line-single-tracking.md",
      "page": "articles/baylocal/2026-11-09-bart-yellow-line-single-tracking.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-10-coastal-flood-high-tide",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-10-coastal-flood-high-tide.md",
+     "page": "articles/baylocal/2026-11-10-coastal-flood-high-tide.html"
     }
    ]
   },
@@ -4470,7 +4494,7 @@
    "name": "每日速报",
    "desc": "《代码与诗篇》速报：财经、科技、安全与应急的当日要点，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 3,
+   "count": 9,
    "items": [
     {
      "date": "2026-10-22",
@@ -4495,6 +4519,54 @@
      "author": "Guangyi Zhao",
      "path": "articles/flash/2026-10-22-php2shell.md",
      "page": "articles/flash/2026-10-22-php2shell.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-en",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-en.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-en.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-es",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-es.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-es.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-hi",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-hi.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-hi.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-ko",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-ko.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-ko.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-vi",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-vi.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-vi.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-09-history-rhymes-jensen-huang-zh",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-zh.md",
+     "page": "articles/flash/2026-11-09-history-rhymes-jensen-huang-zh.html"
     }
    ]
   },
