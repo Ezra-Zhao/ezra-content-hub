@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-10",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -1705,6 +1705,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-10",
+     "title": "美股盘后小结 11月10日：10月通胀超预期+三大指数回吐",
+     "scripture": "",
+     "theme": "美股盘后小结，11月10日，星期二。昨天大涨之后，今天三大指数回吐，十月通胀高于预期是主要原因。",
+     "audio": "content/stocks-pm/2026-11-10/audio.mp3",
+     "page": "content/stocks-pm/2026-11-10/index.md",
+     "duration_sec": 65,
+     "duration": "1:05",
+     "video_url": "https://www.youtube.com/watch?v=YEFsORgDnUI",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=YEFsORgDnUI"
+     }
+    },
+    {
      "date": "2026-11-09",
      "title": "美股盘后小结 11月9日：三大指数强劲反弹创4月来最佳+英伟达逆势大跌",
      "scripture": "",
@@ -2089,7 +2105,7 @@
      }
     }
    ],
-   "count": 24,
+   "count": 25,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
