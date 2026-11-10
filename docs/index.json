@@ -1708,7 +1708,7 @@
      "date": "2026-11-09",
      "title": "美股盘后小结 11月9日：三大指数强劲反弹创4月来最佳+英伟达逆势大跌",
      "scripture": "",
-     "theme": "美股盘后小结 11月9日：三大指数强劲反弹创4月来最佳+英伟达逆势大跌",
+     "theme": "美股盘后小结，11月9日，星期一。上周大跌之后，今天三大指数强劲反弹，创4月以来最佳单日表现。",
      "audio": "content/stocks-pm/2026-11-09/audio.mp3",
      "page": "content/stocks-pm/2026-11-09/index.md",
      "duration_sec": 65,
@@ -1724,7 +1724,7 @@
      "date": "2026-11-06",
      "title": "美股盘后小结 11月6日：科技反弹指数分化+芯片领涨",
      "scripture": "",
-     "theme": "美股盘后小结 11月6日：科技反弹指数分化+芯片领涨",
+     "theme": "美股盘后小结，11月6日，星期五。今天科技股带头小幅反弹，三大指数涨跌不一，市场分化明显。",
      "audio": "content/stocks-pm/2026-11-06/audio.mp3",
      "page": "content/stocks-pm/2026-11-06/index.md",
      "duration_sec": 65,
@@ -1740,7 +1740,7 @@
      "date": "2026-11-05",
      "title": "美股盘后小结 11月5日：三大指数急跌+芯片领跌纳指进修正区",
      "scripture": "",
-     "theme": "美股盘后小结 11月5日：三大指数急跌+芯片领跌纳指进修正区",
+     "theme": "美股盘后小结，11月5日，星期四。今天三大指数急转大跌，芯片与人工智能股领跌，恐慌指数大涨。以下为尾盘初步数，终值待明天回读确认。",
      "audio": "content/stocks-pm/2026-11-05/audio.mp3",
      "page": "content/stocks-pm/2026-11-05/index.md",
      "duration_sec": 71,
@@ -1756,7 +1756,7 @@
      "date": "2026-11-04",
      "title": "美股盘后小结 11月4日：三大指数全线大涨+油价暴跌金价大涨",
      "scripture": "",
-     "theme": "美股盘后小结 11月4日：三大指数全线大涨+油价暴跌金价大涨",
+     "theme": "美股盘后小结，11月4日，星期三。今天三大指数全线大涨，道指创一年多最大涨幅，油价暴跌，金价大涨。",
      "audio": "content/stocks-pm/2026-11-04/audio.mp3",
      "page": "content/stocks-pm/2026-11-04/index.md",
      "duration_sec": 77,
@@ -1772,7 +1772,7 @@
      "date": "2026-11-03",
      "title": "美股盘后小结 11月3日：芯片反弹纳指领涨+电商平台大跌",
      "scripture": "",
-     "theme": "美股盘后小结 11月3日：芯片反弹纳指领涨+电商平台大跌",
+     "theme": "美股盘后小结，11月3日，星期二，选举日。今天格局与昨天完全反转，芯片反弹，纳斯达克与标普收涨，道琼斯回落。",
      "audio": "content/stocks-pm/2026-11-03/audio.mp3",
      "page": "content/stocks-pm/2026-11-03/index.md",
      "duration_sec": 75,
@@ -1788,7 +1788,7 @@
      "date": "2026-11-02",
      "title": "美股盘后小结 11月2日：道指收涨纳指收跌+油价大跌金价反弹",
      "scripture": "",
-     "theme": "美股盘后小结 11月2日：道指收涨纳指收跌+油价大跌金价反弹",
+     "theme": "美股盘后小结，11月2日，星期一。今天指数涨跌不一，道指收涨，纳指收跌，油价大跌，金价反弹。",
      "audio": "content/stocks-pm/2026-11-02/audio.mp3",
      "page": "content/stocks-pm/2026-11-02/index.md",
      "duration_sec": 75,
@@ -1804,7 +1804,7 @@
      "date": "2026-10-30",
      "title": "美股盘后小结 10月30日：科技股重挫三大指数收跌+英特尔暴跌近三成",
      "scripture": "",
-     "theme": "美股盘后小结 10月30日：科技股重挫三大指数收跌+英特尔暴跌近三成",
+     "theme": "美股盘后小结，10月30日，星期五。今天科技股重挫，人工智能支出遭质疑，三大指数收跌，防御板块领涨。",
      "audio": "content/stocks-pm/2026-10-30/audio.mp3",
      "page": "content/stocks-pm/2026-10-30/index.md",
      "duration_sec": 64,
@@ -2110,6 +2110,22 @@
    "desc": "美国百指日报早版：100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-11-10",
+     "title": "《美国百指日报》2026-11-10｜10月物价环比涨0.4%高于共识，核心连着三个月涨0.3%",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-10 快照（173 个指标，33 个异常）。头条实际值：劳工统计局 2026-11-10 公布的 10 月消费者物价指数（官方稿经多源逐项核对）。前瞻来源：金十数据雷达与多家公开日历交叉。新闻：微软官方新闻源（2026-11-10）；路透（2026-11-09）；RESTEM 官方发布稿（2026-11-10）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-am/2026-11-10/audio.mp3",
+     "page": "content/fred-am/2026-11-10/index.md",
+     "duration_sec": 279,
+     "duration": "4:39",
+     "video_url": "https://www.youtube.com/watch?v=foTh3NHA7pg",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=foTh3NHA7pg"
+     }
+    },
     {
      "date": "2026-11-09",
      "title": "《美国百指日报》2026-11-09｜周一无重头数据，恐慌指数仍居异常榜首，明日通胀定方向",
@@ -2495,7 +2511,7 @@
      }
     }
    ],
-   "count": 24,
+   "count": 25,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -3410,22 +3426,6 @@
    "episodes": [
     {
      "date": "2026-11-09",
-     "title": "硅谷科技日报·晚间版｜11月9日：克劳德新旗舰分两版，完整版只给审核过的人用",
-     "scripture": "",
-     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月9日，星期一。头条：克劳德新旗舰分两版，完整版只给审核过的人用。",
-     "audio": "content/silicon-valley/2026-11-09-pm/audio.mp3",
-     "page": "content/silicon-valley/2026-11-09-pm/index.md",
-     "duration_sec": 106,
-     "duration": "1:46",
-     "video_url": "https://www.youtube.com/watch?v=pmAUjvJ1wyc",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=pmAUjvJ1wyc"
-     }
-    },
-    {
-     "date": "2026-11-09",
      "title": "硅谷科技日报｜11月9日：克劳德会做梦了，醒来先改自己的错笔记",
      "scripture": "",
      "theme": "这里是《硅谷科技日报》。今天是2026年11月9日，星期一。头条：克劳德会做梦了，醒来先改自己的错笔记。",
@@ -3438,6 +3438,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=oq7_Lu9cNUw"
+     }
+    },
+    {
+     "date": "2026-11-09",
+     "title": "硅谷科技日报·晚间版｜11月9日：克劳德新旗舰分两版，完整版只给审核过的人用",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月9日，星期一。头条：克劳德新旗舰分两版，完整版只给审核过的人用。",
+     "audio": "content/silicon-valley/2026-11-09-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-09-pm/index.md",
+     "duration_sec": 106,
+     "duration": "1:46",
+     "video_url": "https://www.youtube.com/watch?v=pmAUjvJ1wyc",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=pmAUjvJ1wyc"
      }
     },
     {
@@ -3823,11 +3839,11 @@
      "page": "content/immigration/2026-11-09/index.md",
      "duration_sec": 111,
      "duration": "1:51",
-     "video_url": "https://www.youtube.com/watch?v=bE1JATaoJBw",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=bE1JATaoJBw"
+      "youtube": ""
      }
     },
     {

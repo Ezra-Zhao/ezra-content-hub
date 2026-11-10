@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 08:42:59 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:10:47 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>《美国百指日报》2026-11-10｜10月物价环比涨0.4%高于共识，核心连着三个月涨0.3%｜11月10日</title>
+      <description>&gt; 数据：FRED 2026-11-10 快照（173 个指标，33 个异常）。头条实际值：劳工统计局 2026-11-10 公布的 10 月消费者物价指数（官方稿经多源逐项核对）。前瞻来源：金十数据雷达与多家公开日历交叉。新闻：微软官方新闻源（2026-11-10）；路透（2026-11-09）；RESTEM 官方发布稿（2026-11-10）。 &gt; 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-11-10</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-11-10/audio.mp3" length="2230875" type="audio/mpeg"/>
+      <itunes:duration>4:39</itunes:duration>
+    </item>
     <item>
       <title>美国百指日报·晚间速报｜11月9日：三大指数齐涨逾2%，批发库存上修至0.7%</title>
       <description>&gt; 数据：FRED 2026-11-09 快照。今日实际发布 2 项：人口普查局 9 月批发库存终值环比增长 0.7%（高于初值 0.6%，总额 10131 亿美元，批发销售增长 2.8%）；纽约联储 10 月消费者预期调查，一年期通胀预期 3.9%、三年期 3.3%、五年期 3.0%，均与 9 月持平，预计一年后失业率更高者占比升至 2020 年 4 月以来最高。收盘为 AP 终值多源一致：标普涨 2.35% 收 7549.94 点、道指涨 2.15% 收 52389.75 点、纳指涨 2.74% 收 25253.14 点，11 个板块全线上涨、为 4 月以来最强单日，英伟达逆势跌 4.27%。前瞻：周二 08:30 ET 公布 10 月 CPI，共识环比 +0.3%、核心 +0.2%，本次不公布同比。主播整理：Guangyi Zhao。配音：ElevenLabs 定版克隆声线（模型 eleven_v3）。</description>
