@@ -2907,6 +2907,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-10",
+     "title": "长寿前沿日报｜11月10日：关节肿瘤新药获批，难切的有了口服选择",
+     "scripture": "",
+     "theme": "本期：FDA今日批准pimicotinib治手术难切的成人有症状腱鞘巨细胞瘤，三期94人第25周缓解率54%对3%、说明书警告肝毒性；78,656人队列显示布洛芬与急性肾损伤风险高约22%相关、观察性不等于因果；50人随机试验显示尿石素A主要终点无改善、不能证明抗衰老。",
+     "audio": "content/longevity/2026-11-10/audio.mp3",
+     "page": "content/longevity/2026-11-10/index.md",
+     "duration_sec": 122,
+     "duration": "2:02",
+     "video_url": "https://www.youtube.com/watch?v=JGSHUmCeUK8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=JGSHUmCeUK8"
+     }
+    },
+    {
      "date": "2026-11-09",
      "title": "长寿前沿日报｜11月9日：头颈癌双靶向药获加速批准",
      "scripture": "",
@@ -3419,7 +3435,7 @@
      }
     }
    ],
-   "count": 32,
+   "count": 33,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -4705,6 +4721,39 @@
      "author": "Guangyi Zhao",
      "path": "articles/sermons/2026-08-16-your-tomorrow-in-gods-hands.md",
      "page": "articles/sermons/2026-08-16-your-tomorrow-in-gods-hands.html"
+    }
+   ]
+  },
+  {
+   "id": "tech-nvidia",
+   "name": "英伟达技术研究",
+   "desc": "数据中心基础设施一线视角拆解 NVIDIA 平台：Blackwell/GB300、NVLink、液冷与供电、CUDA 与推理软件栈。只用 NVIDIA 官方公开资料，数字标出处。",
+   "category": "科技",
+   "count": 3,
+   "items": [
+    {
+     "date": "2026-11-10",
+     "title": "AI 工厂的电：PUE 之外，真正要看的三笔账",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/tech-nvidia/2026-11-10-ai-factory-power-beyond-pue.md",
+     "page": "articles/tech-nvidia/2026-11-10-ai-factory-power-beyond-pue.html"
+    },
+    {
+     "date": "2026-11-10",
+     "title": "从 CUDA Tile 到 Dynamo：英伟达推理软件栈在补哪一课",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/tech-nvidia/2026-11-10-cuda-stack-dynamo-inference.md",
+     "page": "articles/tech-nvidia/2026-11-10-cuda-stack-dynamo-inference.html"
+    },
+    {
+     "date": "2026-11-10",
+     "title": "NVLink 的 scale-up 域：为什么 72 张卡要先当成一台机器",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/tech-nvidia/2026-11-10-nvlink-scale-up-domain.md",
+     "page": "articles/tech-nvidia/2026-11-10-nvlink-scale-up-domain.html"
     }
    ]
   }

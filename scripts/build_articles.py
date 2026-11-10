@@ -42,6 +42,11 @@ SERIES_META = {
         "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
         "category": "时效",
     },
+    "tech-nvidia": {
+        "name": "英伟达技术研究",
+        "desc": "数据中心基础设施一线视角拆解 NVIDIA 平台：Blackwell/GB300、NVLink、液冷与供电、CUDA 与推理软件栈。只用 NVIDIA 官方公开资料，数字标出处。",
+        "category": "科技",
+    },
 }
 
 PAGE_CSS = """

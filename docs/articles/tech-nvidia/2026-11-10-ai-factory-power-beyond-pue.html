@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI 工厂的电：PUE 之外，真正要看的三笔账 · Ezra 内容中央枢纽</title>
+<style>
+:root{--bg:#0f1420;--card:#1a2233;--ink:#eef2f8;--sub:#9fb0c9;--acc:#e8b34b;--line:#2c3a55}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.85}
+.wrap{max-width:760px;margin:0 auto;padding:22px 18px 48px}
+a{color:var(--acc);text-decoration:none}
+.back{font-size:13px;color:var(--sub)}
+h1{font-size:23px;line-height:1.45;margin:14px 0 6px}
+.meta{color:var(--sub);font-size:13px;border-bottom:1px solid var(--line);padding-bottom:12px;margin-bottom:18px}
+article h2{font-size:19px;margin:26px 0 8px}
+article h3{font-size:16px;margin:20px 0 6px}
+article p{margin:10px 0;font-size:16px}
+article blockquote{border-left:3px solid var(--acc);padding:2px 0 2px 12px;margin:12px 0;color:#dbe5f2}
+article ul,article ol{margin:10px 0 10px 22px}
+article li{margin:4px 0}
+article hr{border:none;border-top:1px solid var(--line);margin:22px 0}
+footer{color:var(--sub);font-size:12px;text-align:center;margin-top:36px;border-top:1px solid var(--line);padding-top:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<a class="back" href="../../index.html">← 返回内容中央枢纽</a>
+<h1>AI 工厂的电：PUE 之外，真正要看的三笔账</h1>
+<div class="meta">2026-11-10 · 作者：Guangyi Zhao</div>
+<article>
+<p>传统数据中心谈能效，张口就是 PUE。到了 AI 工厂这一代，PUE 还在表上，但它已经不是主角了。一线做基础设施规划时，我现在算的是另外三笔账：每兆瓦能产出多少 token、电网看到的负载曲线长什么样、配电架构还能往上撑几代。这三笔账，恰好对应 NVIDIA 最近两年在官方博客里反复讲的三件事。</p>
+<h3>第一笔账：产出账——每兆瓦多少 token</h3>
+<p>PUE 只回答「有多少电浪费在制冷和配电上」，不回答「剩下的电干出了多少活」。AI 推理是按 token 卖钱的，所以官方口径这两年全面转向每瓦性能：NVIDIA 给的数字是，六代 GPU 架构下来，推理吞吐每兆瓦提升了 1,000,000 倍；落到当前一代，GB300 NVL72 对 Hopper 跑 DeepSeek-R1，每兆瓦吞吐最高 50 倍、每 token 成本低 35 倍（数据出自 SemiAnalysis InferenceX，官方博客引用）。</p>
+<p>PUE 不是没用：Blackwell 系统运行 PUE 约 1.25，靠的是约 80% 热量进液冷、45 °C 温水进水让冷机少开工；官方对比传统风冷架构给出能效最高 25 倍、水效 300 倍以上的口径；下一代 Vera Rubin 目标是 100% 液冷、PUE 约 1.1。但规划时要清楚，PUE 从 1.25 压到 1.1 省的是两成辅助功耗，平台换代带来的每兆瓦产出差是几十倍量级——先定平台代际，再抠 PUE 小数点，顺序别反。</p>
+<h3>第二笔账：曲线账——负载在毫秒级跳动</h3>
+<p>同步训练有个传统负载没有的毛病：成千上万张 GPU 锁步运行，算完一段一起通信、一起等数据，整柜功率可以在毫秒内从约 30% 摆到 100% 再摆回来。电网侧的发电资源爬坡要 1 到 90 分钟，根本跟不上这种摆动；几百兆瓦的机房一起摆，就是电网事故。</p>
+<p>GB300 NVL72 的解法是把平滑做进机柜，分三段：</p>
+<ul><li><strong>开机段</strong>：电源控制器给 GPU 设功率上限，沿电网能接受的爬坡率逐步放开（power cap）；</li><li><strong>稳态段</strong>：电源架里塞了电解电容储能，每 GPU 65 焦耳（约占电源体积的一半，与 LITEON 共同设计），低谷时充电、高峰时放电，把快速波动就地吃掉；</li><li><strong>停机段</strong>：负载突然结束时，GPU 进入 burn 模式继续耗电，再按可控速率平滑降下来，不让电网看到悬崖。</li></ul>
+<p>官方实测（同柜、同 Megatron 训练负载、对比 GB200 电源）：电网侧峰值需求降 30%。这套机制的规划含义很实在——设施不必再按瞬时最大功率配电，可以更贴近平均功耗配置，同样的电力包络里能多塞机柜。这部分 NVIDIA、微软、OpenAI 还联合发了论文（arXiv:2508.14318），把 GPU 侧的可编程爬坡率、最小功率下限、停机延迟计时器一起标准化，是少有的把问题讲透的一手材料。</p>
+<h3>第三笔账：架构账——配电要换代了</h3>
+<p>机柜功率从几十千瓦涨到 130 kW 量级，官方路线图上 1 MW/柜已经在 horizon 上。传统 415/480 VAC 配到柜、柜内电源再转 54 VDC 的链条，电流大到铜排和损耗都不可持续。NVIDIA 2025 年 10 月发的 800 VDC 白皮书给的方案是：设施侧直接出 800 VDC 送到柜，同线规可多送 157% 功率，砍掉多级 AC/DC 转换（传统链路端到端效率可以低于 90%）；到下一代 Kyber 机架，节点侧用 64:1 LLC 变换器单级降到 12 V，占位比传统多级方案省 26%。</p>
+<p>储能也被拉进配电架构一起设计：柜侧电容管毫秒到秒，设施级电池（BESS）管秒到分钟，多时间尺度分层。这件事目前还在生态共建期（OCP 框架下谈标准），但方向已定：新建 AI 工厂的电气设计如果还按传统 AC 架构做满生命周期测算，大概率在第二代机柜进场时被迫返工。</p>
+<h3>小结</h3>
+<p>PUE 是卫生指标，不是经营指标。AI 工厂的电，真正要算的是：每兆瓦产出多少 token（决定收入）、负载曲线对电网有多不友好（决定能不能并网、要配多少平滑）、配电架构能撑几代机柜（决定资产寿命）。这三笔账算不清，PUE 再漂亮也只是报表好看。</p>
+<h3>来源</h3>
+<ul><li>NVIDIA Technical Blog《Scaling Token Factory Revenue and AI Efficiency by Maximizing Performance per Watt》（六代 1,000,000 倍、GB300 对 Hopper 50 倍吞吐/MW 与 35 倍低 token 成本、PUE 约 1.25、25 倍能效与 300 倍水效、Vera Rubin PUE 约 1.1 与 45 °C 进水）：https://developer.nvidia.com/blog/scaling-token-factory-revenue-and-ai-efficiency-by-maximizing-performance-per-watt/</li><li>NVIDIA Technical Blog《How New GB300 NVL72 Features Provide Steady Power for AI》（65 J/GPU 储能、峰值需求降 30%、power cap / burn 机制、与 LITEON 共同设计）：https://developer.nvidia.com/blog/how-new-gb300-nvl72-features-provide-steady-power-for-ai</li><li>NVIDIA Technical Blog《Building the 800 VDC Ecosystem for Efficient, Scalable AI Factories》（800 VDC、同线规 +157%、Kyber 64:1 LLC、多时间尺度储能、负载 30%↔100% 毫秒级摆动）：https://developer.nvidia.com/blog/building-the-800-vdc-ecosystem-for-efficient-scalable-ai-factories</li><li>Choukse et al.《Power Stabilization for AI Training Datacenters》（NVIDIA/Microsoft/OpenAI，arXiv:2508.14318）：https://arxiv.org/abs/2508.14318</li></ul>
+<blockquote>说明：本文为本人独立撰写，只使用公开资料，不涉及任何雇主或客户信息；文中数字均为厂商或论文公开口径，不构成任何投资建议。</blockquote>
+</article>
+<footer>© 2026 Guangyi Zhao 文稿版权所有 · Ezra 内容中央枢纽</footer>
+</div>
+</body>
+</html>
