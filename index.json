@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-09",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -2469,6 +2469,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-09",
+     "title": "美国百指日报·晚间速报｜11月9日：三大指数齐涨逾2%，批发库存上修至0.7%",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-09 快照。今日实际发布 2 项：人口普查局 9 月批发库存终值环比增长 0.7%（高于初值 0.6%，总额 10131 亿美元，批发销售增长 2.8%）；纽约联储 10 月消费者预期调查，一年期通胀预期 3.9%、三年期 3.3%、五年期 3.0%，均与 9 月持平，预计一年后失业率更高者占比升至 2020 年 4 月以来最高。收盘为 AP 终值多源一致：标普涨 2.35% 收 7549.94 点、道指涨 2.15% 收 52389.75 点、纳指涨 2.74% 收 25253.14 点，11 个板块全线上涨、为 4 月以来最强单日，英伟达逆势跌 4.27%。前瞻：周二 08:30 ET 公布 10 月 CPI，共识环比 +0.3%、核心 +0.2%，本次不公布同比。主播整理：Guangyi Zhao。配音：ElevenLabs 定版克隆声线（模型 eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-09/audio.mp3",
+     "page": "content/fred-pm/2026-11-09/index.md",
+     "duration_sec": 118,
+     "duration": "1:58",
+     "video_url": "https://www.youtube.com/watch?v=4jM22I7Qw3o",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=4jM22I7Qw3o"
+     }
+    },
+    {
      "date": "2026-11-08",
      "title": "美国百指日报·晚间速报｜11月8日：周日无新数据，恐慌余波未消待周二通胀",
      "scripture": "",
@@ -2789,7 +2805,7 @@
      }
     }
    ],
-   "count": 20,
+   "count": 21,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -2812,22 +2828,6 @@
    "episodes": [
     {
      "date": "2026-11-09",
-     "title": "长寿前沿日报·晚间版｜11月9日：防再中风，有了新类别的药",
-     "scripture": "",
-     "theme": "本期：FDA批准首款因子XIa抑制剂Sunharbo防再中风，三期12327人、缺血性中风风险低26%，高龄与头90天出血偏多；FDA要求GLP-1类药物全类加NAION罕见眼病潜在风险提示，126项试验仅15例可能病例、未证明因果；《自然·衰老》硫酸氧钒小鼠研究中位寿命约长7%，仅小鼠阶段、不是服用建议。",
-     "audio": "content/longevity/2026-11-09-pm/audio.mp3",
-     "page": "content/longevity/2026-11-09-pm/index.md",
-     "duration_sec": 104,
-     "duration": "1:44",
-     "video_url": "https://www.youtube.com/watch?v=DP9HFYiQ33g",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=DP9HFYiQ33g"
-     }
-    },
-    {
-     "date": "2026-11-09",
      "title": "长寿前沿日报｜11月9日：头颈癌双靶向药获加速批准",
      "scripture": "",
      "theme": "本期：FDA加速批准Rybrevant Faspro治化疗免疫后进展的头颈鳞癌，102人有效率42%、仍需确证试验；FDA宣布苜蓿芽苗暴发结束、77人感染；1068人横断面研究显示全血NAD不随健康衰老下降、不能证明补充剂有用。",
@@ -2840,6 +2840,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=6qUe9pTjetw"
+     }
+    },
+    {
+     "date": "2026-11-09",
+     "title": "长寿前沿日报·晚间版｜11月9日：防再中风，有了新类别的药",
+     "scripture": "",
+     "theme": "本期：FDA批准首款因子XIa抑制剂Sunharbo防再中风，三期12327人、缺血性中风风险低26%，高龄与头90天出血偏多；FDA要求GLP-1类药物全类加NAION罕见眼病潜在风险提示，126项试验仅15例可能病例、未证明因果；《自然·衰老》硫酸氧钒小鼠研究中位寿命约长7%，仅小鼠阶段、不是服用建议。",
+     "audio": "content/longevity/2026-11-09-pm/audio.mp3",
+     "page": "content/longevity/2026-11-09-pm/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "https://www.youtube.com/watch?v=DP9HFYiQ33g",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=DP9HFYiQ33g"
      }
     },
     {
@@ -3323,7 +3339,7 @@
      }
     }
    ],
-   "count": 30,
+   "count": 32,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
