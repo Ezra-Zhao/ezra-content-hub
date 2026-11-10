@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日早晚两版综合新闻播报：国际、美国、财经、科技要闻一次说清。早间版 7 点、晚间版 21 点。主讲 Guangyi Zhao。关键词：新闻、国际新闻、美国新闻、综合播报。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 08:42:59 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:45:01 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日早晚两版综合新闻播报：国际、美国、财经、科技要闻一次说清。早间版 7 点、晚间版 21 点。主讲 Guangyi Zhao。关键词：新闻、国际新闻、美国新闻、综合播报。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Politics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>新闻矩阵｜11月10日早间版：十月CPI环比涨0.4%超预期，阿布扎比三方会谈重启，COP31主推2035年电气化目标</title>
+      <description>新闻矩阵｜11月10日早间版：十月CPI环比涨0.4%超预期，阿布扎比三方会谈重启，COP31主推2035年电气化目标</description>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">news-am-2026-11-10</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/news-am/2026-11-10/audio.mp3" length="5777910" type="audio/mpeg"/>
+      <itunes:duration>6:01</itunes:duration>
+    </item>
     <item>
       <title>新闻矩阵｜11月9日晚间版：美股创四月以来最佳单日，卡塔尔首相白宫会晤无读出稿，艾森科特与利伯曼定下议长人选</title>
       <description>新闻矩阵｜11月9日晚间版：美股创四月以来最佳单日，卡塔尔首相白宫会晤无读出稿，艾森科特与利伯曼定下议长人选</description>
