@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 20:35:49 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:39:45 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,46 @@
       <itunes:category text="Politics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>कल और आज विशेष | जेनसन हुआंग मामला: ओपेनहाइमर की पटकथा फिर से?</title>
+      <description>एनवीडिया बोर्ड ने अपने CEO जेनसन हुआंग की स्वतंत्र जांच शुरू की है। यह एपिसोड इस घटना को सत्तर साल की ऐतिहासिक धारा में रखता है: ओपेनहाइमर 1954, चियान श्वेसन 1950, वेन हो ली 1999, लिप-बु टैन 2025। पांच परखे जा सकने वाले अनुमान, रिकॉर्ड पर।</description>
+      <pubDate>Mon, 09 Nov 2026 19:25:00 -0700</pubDate>
+      <guid isPermaLink="false">history-rhymes-2026-11-09-hi</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/history-rhymes/2026-11-09/audio-hi.mp3" length="2751861" type="audio/mpeg"/>
+      <itunes:duration>5:44</itunes:duration>
+    </item>
+    <item>
+      <title>Xưa và Nay · Đặc biệt | Vụ Jensen Huang: Kịch bản Oppenheimer tái diễn?</title>
+      <description>Hội đồng Nvidia đã mở cuộc điều tra độc lập về CEO Jensen Huang. Tập này đặt sự kiện lên một dòng lịch sử bảy mươi năm: Oppenheimer 1954, Tiền Học Sâm 1950, Wen Ho Lee 1999, Lip-Bu Tan 2025. Năm dự đoán có thể kiểm chứng, ghi lại làm bằng.</description>
+      <pubDate>Mon, 09 Nov 2026 19:20:00 -0700</pubDate>
+      <guid isPermaLink="false">history-rhymes-2026-11-09-vi</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/history-rhymes/2026-11-09/audio-vi.mp3" length="2462633" type="audio/mpeg"/>
+      <itunes:duration>5:08</itunes:duration>
+    </item>
+    <item>
+      <title>옛날과 오늘 특집 | 젠슨 황 사건: 오펜하이머의 각본이 되풀이되나?</title>
+      <description>엔비디아 이사회가 CEO 젠슨 황에 대한 독립 조사를 개시했습니다. 이 에피소드는 이 사건을 70년의 역사적 흐름 위에 놓습니다: 오펜하이머 1954, 첸쉐선 1950, 리원허 1999, 리푸 탄 2025. 검증 가능한 예측 다섯 가지를 기록으로 남깁니다.</description>
+      <pubDate>Mon, 09 Nov 2026 19:15:00 -0700</pubDate>
+      <guid isPermaLink="false">history-rhymes-2026-11-09-ko</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/history-rhymes/2026-11-09/audio-ko.mp3" length="2502966" type="audio/mpeg"/>
+      <itunes:duration>5:13</itunes:duration>
+    </item>
+    <item>
+      <title>Ayer y Hoy · Especial | El caso Jensen Huang: ¿se repite el guión de Oppenheimer?</title>
+      <description>La junta de Nvidia abrió una investigación independiente sobre su CEO, Jensen Huang. Este episodio coloca el caso en una línea histórica de setenta años: Oppenheimer 1954, Qian Xuesen 1950, Wen Ho Lee 1999, Lip-Bu Tan 2025. Cinco predicciones verificables, puestas en registro.</description>
+      <pubDate>Mon, 09 Nov 2026 19:10:00 -0700</pubDate>
+      <guid isPermaLink="false">history-rhymes-2026-11-09-es</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/history-rhymes/2026-11-09/audio-es.mp3" length="2981738" type="audio/mpeg"/>
+      <itunes:duration>6:13</itunes:duration>
+    </item>
+    <item>
+      <title>History Rhymes Special | Jensen Huang Under Investigation: Oppenheimer&#x27;s Script Replayed?</title>
+      <description>The Nvidia board has opened an independent investigation into CEO Jensen Huang. This episode places the event on a seventy-year historical line: Oppenheimer 1954, Qian Xuesen 1950, Wen Ho Lee 1999, Lip-Bu Tan 2025. Five falsifiable predictions, placed on record.</description>
+      <pubDate>Mon, 09 Nov 2026 19:05:00 -0700</pubDate>
+      <guid isPermaLink="false">history-rhymes-2026-11-09-en</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/history-rhymes/2026-11-09/audio-en.mp3" length="2884981" type="audio/mpeg"/>
+      <itunes:duration>6:01</itunes:duration>
+    </item>
     <item>
       <title>《弹古论今》特辑｜黄仁勋事件：奥本海默的剧本重演？｜11月9日</title>
       <description>英伟达董事会宣布调查CEO黄仁勋，本期把事件放进一条七十多年的历史线里看：奥本海默1954、钱学森1950、李文和1999、陈立武2025——这个剧本演过多少回，这一回会如何收场。五条可证伪预判，立此存照。</description>

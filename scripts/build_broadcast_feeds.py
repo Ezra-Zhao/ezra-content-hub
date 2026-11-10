@@ -8,6 +8,7 @@ the raw.githubusercontent.com URLs of the committed audio files.
 import os
 import re
 import html
+import json
 from datetime import datetime, timezone, timedelta
 from email.utils import format_datetime
 
@@ -125,6 +126,8 @@ def parse_episode(series, dir_name, hour):
         "size": os.path.getsize(au_path),
         "guid": series + "-" + dir_name,
         "duration": dur.group(1) if dur else "",
+        "series": series,
+        "dir_name": dir_name,
     }
 
 
@@ -138,6 +141,36 @@ def build(fname, title, desc, keywords, categories, series_list):
             ep = parse_episode(series, dir_name, hour)
             if ep:
                 eps.append(ep)
+                # Multi-language variants: an episode dir may carry a
+                # langs.json sidecar listing audio-<lang>.mp3 variants
+                # (title/desc/duration/pub_offset_min per language).
+                # Emit each as its own feed item so routine rebuilds
+                # never drop published language episodes (regression
+                # 2026-11-09: history-rhymes 5 lang items wiped by a
+                # later rebuild before this support existed).
+                sidecar = os.path.join(base, dir_name, "langs.json")
+                if os.path.exists(sidecar):
+                    try:
+                        variants = json.load(open(sidecar, encoding="utf-8"))
+                    except Exception:
+                        variants = []
+                    for v in variants:
+                        fpath = os.path.join(base, dir_name, v["file"])
+                        if not os.path.exists(fpath):
+                            continue
+                        eps.append({
+                            "title": v["title"],
+                            "desc": v.get("desc", v["title"]),
+                            "pub": ep["pub"] + timedelta(
+                                minutes=v.get("pub_offset_min", 5)),
+                            "url": RAW + "/content/" + series + "/"
+                                   + dir_name + "/" + v["file"],
+                            "size": os.path.getsize(fpath),
+                            "guid": ep["guid"] + "-" + v["lang"],
+                            "duration": v.get("duration", ""),
+                            "series": series,
+                            "dir_name": dir_name,
+                        })
     eps.sort(key=lambda e: e["pub"], reverse=True)
     items = []
     for ep in eps:
