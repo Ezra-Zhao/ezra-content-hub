@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-10",
  "programs": [
   {
    "id": "devotion-am",
@@ -1443,6 +1443,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-10",
+     "title": "新闻矩阵｜11月10日晚间版：美股收跌两年期收益率跳升，阿布扎比首日称建设性，乔丹当选众院共和党领袖",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月10日晚间版：美股收跌两年期收益率跳升，阿布扎比首日称建设性，乔丹当选众院共和党领袖",
+     "audio": "content/news-pm/2026-11-10/audio.mp3",
+     "page": "content/news-pm/2026-11-10/index.md",
+     "duration_sec": 374,
+     "duration": "6:14",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-09",
      "title": "新闻矩阵｜11月9日晚间版：美股创四月以来最佳单日，卡塔尔首相白宫会晤无读出稿，艾森科特与利伯曼定下议长人选",
      "scripture": "",
@@ -1667,7 +1683,7 @@
      }
     }
    ],
-   "count": 14,
+   "count": 15,
    "related": [
     "fred-am",
     "fred-pm",
