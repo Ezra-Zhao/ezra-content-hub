@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 20:39:14 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:46:51 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Politics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>《弹古论今》11月10日｜阿布扎比三方会谈重启：板门店的教训</title>
+      <description>美俄乌三方会谈在阿布扎比重启，卡点仍是接触线划在哪里；七十多年前的开城与板门店谈判（1951–1953）把同一道题演过一遍：谈判桌上每拖一个月，前线就多一个月用炮火给线重新标价。四条可证伪预判，立此存照。</description>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">history-rhymes-2026-11-10</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/history-rhymes/2026-11-10/audio.mp3" length="2577154" type="audio/mpeg"/>
+      <itunes:duration>5:22</itunes:duration>
+    </item>
     <item>
       <title>कल और आज विशेष | जेनसन हुआंग मामला: ओपेनहाइमर की पटकथा फिर से?</title>
       <description>एनवीडिया बोर्ड ने अपने CEO जेनसन हुआंग की स्वतंत्र जांच शुरू की है। यह एपिसोड इस घटना को सत्तर साल की ऐतिहासिक धारा में रखता है: ओपेनहाइमर 1954, चियान श्वेसन 1950, वेन हो ली 1999, लिप-बु टैन 2025। पांच परखे जा सकने वाले अनुमान, रिकॉर्ड पर।</description>
