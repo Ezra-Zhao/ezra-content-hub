@@ -2549,6 +2549,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-10",
+     "title": "美国百指日报·晚间速报｜11月10日：10月物价超预期，核心连涨三个月三大指数齐跌",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-10 快照。今日实际发布只有一批：劳工统计局公布 10 月消费者物价指数环比上涨 0.4%（9 月 +0.6%），高于共识 0.3%；核心环比上涨 0.3%，与 8 月、9 月相同，高于共识 0.2%。住房上涨 0.3%，占总涨幅 30% 以上；食品上涨 0.5%；能源上涨 0.7%（9 月 +5.2%）；二手车下降 1.2%。同批实际收入显示实际平均时薪环比持平。因 2025 年 10 月停摆未采价，本次不公布同比。收盘为 AP 终值：标普跌 0.38% 收 7520.93 点、道指跌 0.30% 收 52231.89 点、纳指跌 0.74% 收 25065.88 点，只回吐昨日大涨一小部分；英伟达跌约 5.5%，十年期国债收益率升至约 4.98%。官员表态为路透报道大意：洛根认为离适度紧缩还差至少 0.5 个百分点，施密德称政策仍偏宽松，鲍曼提醒金融条件已收紧。前瞻：11 月 11 日退伍军人节债市休市、股市正常，无重头数据；周四初请失业金，周五公布 10 月生产者物价指数。主播整理：Guangyi Zhao。配音：ElevenLabs 定版克隆声线（模型 eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-10/audio.mp3",
+     "page": "content/fred-pm/2026-11-10/index.md",
+     "duration_sec": 121,
+     "duration": "2:01",
+     "video_url": "https://www.youtube.com/watch?v=lfgBy6F8Wdg",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=lfgBy6F8Wdg"
+     }
+    },
+    {
      "date": "2026-11-09",
      "title": "美国百指日报·晚间速报｜11月9日：三大指数齐涨逾2%，批发库存上修至0.7%",
      "scripture": "",
@@ -2885,7 +2901,7 @@
      }
     }
    ],
-   "count": 21,
+   "count": 22,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -3451,7 +3467,7 @@
      }
     }
    ],
-   "count": 33,
+   "count": 34,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -3873,7 +3889,7 @@
      }
     }
    ],
-   "count": 24,
+   "count": 25,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
