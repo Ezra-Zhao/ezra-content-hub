@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "programs": [
   {
    "id": "devotion-am",
@@ -3506,6 +3506,22 @@
    "episodes": [
     {
      "date": "2026-11-10",
+     "title": "硅谷科技日报｜11月10日：谷歌一年连发四款芯片，新款先管保密和长上下文",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月10日，星期二。头条：谷歌一年连发四款芯片，新款先管保密和长上下文。",
+     "audio": "content/silicon-valley/2026-11-10/audio.mp3",
+     "page": "content/silicon-valley/2026-11-10/index.md",
+     "duration_sec": 121,
+     "duration": "2:01",
+     "video_url": "https://www.youtube.com/watch?v=hTeFPqpNHiQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=hTeFPqpNHiQ"
+     }
+    },
+    {
+     "date": "2026-11-10",
      "title": "硅谷科技日报·晚间版｜11月10日：上市最多募644亿美元，估值冲万亿",
      "scripture": "",
      "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月10日，星期二。头条：Anthropic上市募644亿美元，估值冲万亿。",
@@ -3905,7 +3921,7 @@
      }
     }
    ],
-   "count": 25,
+   "count": 26,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
