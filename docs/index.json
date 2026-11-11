@@ -3959,6 +3959,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-10",
+     "title": "移民政策速报｜2026年11月10日：移民上诉委员会新判例，保释裁定须说明证据取舍理由",
+     "scripture": "",
+     "theme": "这里是移民政策速报。今天是二零二六年十一月十日，星期二。本期主打：移民上诉委员会发布新判例，保释裁定必须说明证据取舍理由。",
+     "audio": "content/immigration/2026-11-10/audio.mp3",
+     "page": "content/immigration/2026-11-10/index.md",
+     "duration_sec": 110,
+     "duration": "1:50",
+     "video_url": "https://www.youtube.com/watch?v=tI7vxdA_RI8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=tI7vxdA_RI8"
+     }
+    },
+    {
      "date": "2026-11-09",
      "title": "移民政策速报｜2026年11月9日：移民局入籍良好品格新指引，抚养与担保义务纳入审查",
      "scripture": "",
@@ -4231,7 +4247,7 @@
      }
     }
    ],
-   "count": 17,
+   "count": 18,
    "listen": {
     "pocketcasts": "https://pca.st/8vhld1p4",
     "castbox": "https://castbox.fm/channel/id7461844"
