@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 10:42:47 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:50:40 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 诗篇100:4：以感谢进入祂的门｜睡前灵修</title>
+      <description>诗篇100:4：以感谢进入祂的门——诗篇 100:4 的话陪你走今天这一步，讲解改编自比尔·约翰逊《神的同在》、经彻底重写，祷告为原创。 经文：诗篇 100:4（和合本）</description>
+      <pubDate>Wed, 11 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-11</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-11/audio.mp3" length="1872500" type="audio/mpeg"/>
+      <itunes:duration>1:57</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 腓立比书4:13：靠着祂凡事都能做｜晨起读经</title>
+      <description>腓立比书4:13：靠着祂凡事都能做——腓立比书 4:13 的话陪你走今天这一步，讲解改编自刘彤《得胜环境的秘诀》、经彻底重写，祷告为原创。 经文：腓立比书 4:13（和合本）</description>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-11</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-11/audio.mp3" length="1866230" type="audio/mpeg"/>
+      <itunes:duration>1:57</itunes:duration>
+    </item>
     <item>
       <title>[PM] 诗篇42:5：应当仰望神｜睡前灵修</title>
       <description>诗篇42:5：应当仰望神——诗篇 42:5 的话陪你走今天这一步，讲解改编自钟马田《属灵低沉总论》、经彻底重写，祷告为原创。 经文：诗篇 42:5（和合本）</description>
