@@ -5653,7 +5653,7 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 16,
+   "count": 17,
    "items": [
     {
      "date": "2026-11-04",
@@ -5782,6 +5782,14 @@
      "author": "Guangyi Zhao",
      "path": "articles/baylocal/2026-11-10-coastal-flood-high-tide.md",
      "page": "articles/baylocal/2026-11-10-coastal-flood-high-tide.html"
+    },
+    {
+     "date": "",
+     "title": "2026-11-11-veterans-day-high-tide",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-11-veterans-day-high-tide.md",
+     "page": "articles/baylocal/2026-11-11-veterans-day-high-tide.html"
     }
    ]
   },
