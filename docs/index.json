@@ -1183,6 +1183,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-11",
+     "title": "新闻矩阵｜11月11日早间版：阿布扎比两日会谈同意大规模换俘，霍尔木兹油轮再遇袭，纳指期货领涨反弹",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月11日早间版：阿布扎比两日会谈同意大规模换俘，霍尔木兹油轮再遇袭，纳指期货领涨反弹",
+     "audio": "content/news-am/2026-11-11/audio.mp3",
+     "page": "content/news-am/2026-11-11/index.md",
+     "duration_sec": 317,
+     "duration": "5:17",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-10",
      "title": "新闻矩阵｜11月10日早间版：十月CPI环比涨0.4%超预期，阿布扎比三方会谈重启，COP31主推2035年电气化目标",
      "scripture": "",
@@ -1423,7 +1439,7 @@
      }
     }
    ],
-   "count": 15,
+   "count": 16,
    "related": [
     "fred-am",
     "fred-pm",
