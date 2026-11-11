@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 11:54:03 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:55:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Psalm 100:4: Enter His Gates with Thanksgiving</title>
+      <description>Enter into his gates with thanksgiving — count His help today and rest tonight in His presence. Scripture: Psalm 100:4 (WEB)</description>
+      <pubDate>Wed, 11 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-11</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-11/audio.mp3" length="1835301" type="audio/mpeg"/>
+      <itunes:duration>1:55</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Philippians 4:13: I Can Do All Things Through Christ</title>
+      <description>I can do all things through Christ, who strengthens me — strength comes one step at a time, so do well the one thing in front of you today. Scripture: Philippians 4:13 (WEB)</description>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-11</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-11/audio.mp3" length="1853274" type="audio/mpeg"/>
+      <itunes:duration>1:56</itunes:duration>
+    </item>
     <item>
       <title>[PM] Psalm 42:5: Hope in God</title>
       <description>Hope in God — speak to your own soul tonight, remind it of His help, and let praise, not despair, be the ending. Scripture: Psalm 42:5 (WEB)</description>

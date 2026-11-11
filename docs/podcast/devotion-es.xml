@@ -7,7 +7,7 @@
     <language>es</language>
     <description>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 11:54:03 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:55:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</itunes:summary>
     <itunes:keywords>devoción diaria,lectura bíblica,oración,escritura,devocional matutino,devocional nocturno,fe cristiana,meditación</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Salmos 100:4: Entrad por sus puertas con reconocimiento</title>
+      <description>Entrad por sus puertas con reconocimiento — cuenta su ayuda de hoy y reposa esta noche en su presencia. Escritura: Salmos 100:4 (RVR1909)</description>
+      <pubDate>Wed, 11 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-11-11</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-11-11/audio.mp3" length="1842825" type="audio/mpeg"/>
+      <itunes:duration>1:55</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Filipenses 4:13: Todo lo puedo en Cristo</title>
+      <description>Todo lo puedo en Cristo que me fortalece — la fuerza viene paso á paso; haz bien hoy la única cosa que tienes delante. Escritura: Filipenses 4:13 (RVR1909)</description>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-11-11</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-11-11/audio.mp3" length="1969884" type="audio/mpeg"/>
+      <itunes:duration>2:03</itunes:duration>
+    </item>
     <item>
       <title>[PM] Salmos 42:5: Espera á Dios</title>
       <description>Espera á Dios: háblale esta noche á tu propia alma, recuérdale su ayuda, y que la alabanza, no el abatimiento, sea el final. Escritura: Salmos 42:5 (RVR1909)</description>
