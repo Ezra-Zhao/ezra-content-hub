@@ -4769,6 +4769,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-12",
+     "title": "硅谷科技日报｜11月12日：DNA模型读到单个细胞，找病变异近翻倍",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月12日，星期四。头条：DNA模型读到单个细胞，找致病变异的能力近翻倍。",
+     "audio": "content/silicon-valley/2026-11-12/audio.mp3",
+     "page": "content/silicon-valley/2026-11-12/index.md",
+     "duration_sec": 126,
+     "duration": "2:06",
+     "video_url": "https://www.youtube.com/watch?v=xs4cZb0W9R0",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=xs4cZb0W9R0"
+     }
+    },
+    {
      "date": "2026-11-11",
      "title": "硅谷科技日报｜11月11日：谷歌最强模型向付费用户全开，优惠价只到月底",
      "scripture": "",
@@ -5217,7 +5233,7 @@
      }
     }
    ],
-   "count": 28,
+   "count": 29,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
