@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-11",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -3311,6 +3311,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-11",
+     "title": "《美国百指日报》2026-11-11｜房贷申请涨6.2%，利率连降四周到7.21%，今天无重头数据",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-11 快照（173 个指标，29 个异常）。头条实际值：抵押贷款银行家协会 2026-11-11 公布的每周抵押贷款申请调查（截至 11 月 6 日当周）。前瞻来源：金十数据雷达与劳工统计局发布日程表交叉。新闻：谷歌官方博客与 Google DeepMind 官方博客（2026-11-10）；美国食品药品管理局官方批准稿（2026-11-10）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-am/2026-11-11/audio.mp3",
+     "page": "content/fred-am/2026-11-11/index.md",
+     "duration_sec": 259,
+     "duration": "4:19",
+     "video_url": "https://www.youtube.com/watch?v=1wqkgkndZ9w",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=1wqkgkndZ9w"
+     }
+    },
+    {
      "date": "2026-11-10",
      "title": "《美国百指日报》2026-11-10｜10月物价环比涨0.4%高于共识，核心连着三个月涨0.3%",
      "scripture": "",
@@ -3711,7 +3727,7 @@
      }
     }
    ],
-   "count": 25,
+   "count": 26,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -4706,6 +4722,22 @@
    "episodes": [
     {
      "date": "2026-11-11",
+     "title": "硅谷科技日报｜11月11日：谷歌最强模型向付费用户全开，优惠价只到月底",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月11日，星期三。头条：谷歌最强模型向付费用户全开，优惠价只到月底。",
+     "audio": "content/silicon-valley/2026-11-11/audio.mp3",
+     "page": "content/silicon-valley/2026-11-11/index.md",
+     "duration_sec": 119,
+     "duration": "1:59",
+     "video_url": "https://www.youtube.com/watch?v=OOZvyUjCYyo",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=OOZvyUjCYyo"
+     }
+    },
+    {
+     "date": "2026-11-11",
      "title": "硅谷科技日报·晚间版｜11月11日：上市路演正式启动，对手一季亏109亿",
      "scripture": "",
      "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月11日，星期三。头条：Anthropic上市路演正式启动，对手一季亏109亿美元。",
@@ -5137,7 +5169,7 @@
      }
     }
    ],
-   "count": 27,
+   "count": 28,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -5158,6 +5190,22 @@
    "desc": "移民政策速报：美国移民政策与法规变化解读。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-11-11",
+     "title": "移民政策速报｜2026年11月11日：EB-5新收费本月30日生效，投资者申请费翻倍",
+     "scripture": "",
+     "theme": "这里是移民政策速报。今天是二零二六年十一月十一日，星期三。本期主打日历：投资移民新收费本月三十日生效，投资者申请费翻倍。",
+     "audio": "content/immigration/2026-11-11/audio.mp3",
+     "page": "content/immigration/2026-11-11/index.md",
+     "duration_sec": 108,
+     "duration": "1:48",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-11-10",
      "title": "移民政策速报｜2026年11月10日：移民上诉委员会新判例，保释裁定须说明证据取舍理由",
@@ -5447,7 +5495,7 @@
      }
     }
    ],
-   "count": 18,
+   "count": 19,
    "listen": {
     "pocketcasts": "https://pca.st/8vhld1p4",
     "castbox": "https://castbox.fm/channel/id7461844"
