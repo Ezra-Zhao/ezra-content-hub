@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-11",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -3717,6 +3717,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-11",
+     "title": "美国百指日报·晚间速报｜11月11日：房贷利率连降四周到7.21%，三大指数反弹齐涨",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-11 快照。今日实际发布只有一份：抵押贷款银行家协会公布每周调查，截至 11 月 6 日当周市场综合指数上涨 6.2%，购房申请涨 8%，再融资申请涨 5%；30 年期固定利率降到 7.21%（前周 7.30%），连降四周、为 9 月中旬以来最低，联邦住房管理局贷款利率回到 7% 以下；同比仍低，购房低 18%、再融资低 57%。收盘为 AP 终值：标普涨 1.31% 收 7619.38 点、道指涨 0.49% 收 52486.49 点、纳指涨 1.60% 收 25466.19 点，人工智能云服务商 CoreWeave 涨 24.7% 带动芯片股反弹；债市因退伍军人节休市。前瞻：周四美东时间上午 8 点 30 分公布初请失业金，预期约 19.5 万人、前值 18.9 万人；周五公布 10 月生产者物价，预期环比涨 0.4%、核心涨 0.3%。主播整理：Guangyi Zhao。配音：ElevenLabs 定版声线（模型 eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-11/audio.mp3",
+     "page": "content/fred-pm/2026-11-11/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "https://www.youtube.com/watch?v=az3T6sGnL8A",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=az3T6sGnL8A"
+     }
+    },
+    {
      "date": "2026-11-10",
      "title": "美国百指日报·晚间速报｜11月10日：10月物价超预期，核心连涨三个月三大指数齐跌",
      "scripture": "",
@@ -4069,7 +4085,7 @@
      }
     }
    ],
-   "count": 22,
+   "count": 23,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5105,7 +5121,7 @@
      }
     }
    ],
-   "count": 26,
+   "count": 27,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -5135,11 +5151,11 @@
      "page": "content/immigration/2026-11-10/index.md",
      "duration_sec": 110,
      "duration": "1:50",
-     "video_url": "https://www.youtube.com/watch?v=tI7vxdA_RI8",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=tI7vxdA_RI8"
+      "youtube": ""
      }
     },
     {

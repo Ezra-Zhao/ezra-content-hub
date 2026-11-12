@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 19:46:14 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:30:08 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜11月11日：房贷利率连降四周到7.21%，三大指数反弹齐涨</title>
+      <description>&gt; 数据：FRED 2026-11-11 快照。今日实际发布只有一份：抵押贷款银行家协会公布每周调查，截至 11 月 6 日当周市场综合指数上涨 6.2%，购房申请涨 8%，再融资申请涨 5%；30 年期固定利率降到 7.21%（前周 7.30%），连降四周、为 9 月中旬以来最低，联邦住房管理局贷款利率回到 7% 以下；同比仍低，购房低 18%、再融资低 57%。收盘为 AP 终值：标普涨 1.31% 收 7619.38 点、道指涨 0.49% 收 52486.49 点、纳指涨 1.60% 收 25466.19 点，人工智能云服务商 CoreWeave 涨 24.7% 带动芯片股反弹；债市因退伍军人节休市。前瞻：周四美东时间上午 8 点 30 分公布初请失业金，预期约 19.5 万人、前值 18.9 万人；周五公布 10 月生产者物价，预期环比涨 0.4%、核心涨 0.3%。主播整理：Guangyi Zhao。配音：ElevenLabs 定版声线（模型 eleven_v3）。</description>
+      <pubDate>Wed, 11 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-11</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-11/audio.mp3" length="1026316" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
+    </item>
     <item>
       <title>美国百指日报·晚间速报｜11月10日：10月物价超预期，核心连涨三个月三大指数齐跌</title>
       <description>&gt; 数据：FRED 2026-11-10 快照。今日实际发布只有一批：劳工统计局公布 10 月消费者物价指数环比上涨 0.4%（9 月 +0.6%），高于共识 0.3%；核心环比上涨 0.3%，与 8 月、9 月相同，高于共识 0.2%。住房上涨 0.3%，占总涨幅 30% 以上；食品上涨 0.5%；能源上涨 0.7%（9 月 +5.2%）；二手车下降 1.2%。同批实际收入显示实际平均时薪环比持平。因 2025 年 10 月停摆未采价，本次不公布同比。收盘为 AP 终值：标普跌 0.38% 收 7520.93 点、道指跌 0.30% 收 52231.89 点、纳指跌 0.74% 收 25065.88 点，只回吐昨日大涨一小部分；英伟达跌约 5.5%，十年期国债收益率升至约 4.98%。官员表态为路透报道大意：洛根认为离适度紧缩还差至少 0.5 个百分点，施密德称政策仍偏宽松，鲍曼提醒金融条件已收紧。前瞻：11 月 11 日退伍军人节债市休市、股市正常，无重头数据；周四初请失业金，周五公布 10 月生产者物价指数。主播整理：Guangyi Zhao。配音：ElevenLabs 定版克隆声线（模型 eleven_v3）。</description>
