@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 08:49:33 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:11:31 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>《美国百指日报》2026-11-12｜初请失业金升到20万人高于预期，续请却降到169.7万人｜11月12日</title>
+      <description>&gt; 数据：FRED 2026-11-12 快照（173 个指标，28 个异常）。头条实际值：美国劳工部 2026-11-12 公布的每周失业金申领报告（截至 11 月 7 日当周），快照同值定版。前瞻来源：金十数据雷达与多家公开日历交叉。新闻：ElevenLabs 纽约峰会报道（CIOL、Unite.AI，2026-11-11）；Aravax 公司发布稿（GlobeNewswire，2026-11-12）。 &gt; 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-11-12/audio.mp3" length="2753742" type="audio/mpeg"/>
+      <itunes:duration>5:44</itunes:duration>
+    </item>
     <item>
       <title>美国百指日报·晚间速报｜11月11日：房贷利率连降四周到7.21%，三大指数反弹齐涨</title>
       <description>&gt; 数据：FRED 2026-11-11 快照。今日实际发布只有一份：抵押贷款银行家协会公布每周调查，截至 11 月 6 日当周市场综合指数上涨 6.2%，购房申请涨 8%，再融资申请涨 5%；30 年期固定利率降到 7.21%（前周 7.30%），连降四周、为 9 月中旬以来最低，联邦住房管理局贷款利率回到 7% 以下；同比仍低，购房低 18%、再融资低 57%。收盘为 AP 终值：标普涨 1.31% 收 7619.38 点、道指涨 0.49% 收 52486.49 点、纳指涨 1.60% 收 25466.19 点，人工智能云服务商 CoreWeave 涨 24.7% 带动芯片股反弹；债市因退伍军人节休市。前瞻：周四美东时间上午 8 点 30 分公布初请失业金，预期约 19.5 万人、前值 18.9 万人；周五公布 10 月生产者物价，预期环比涨 0.4%、核心涨 0.3%。主播整理：Guangyi Zhao。配音：ElevenLabs 定版声线（模型 eleven_v3）。</description>
