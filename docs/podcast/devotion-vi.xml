@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 11:45:19 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:56:18 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Chúa Ở Cùng Tôi, Tôi Sẽ Chẳng Sợ</title>
+      <description>Trũng sâu không bị dời đi, nhưng Ngài ở cùng bạn — cây trượng và cây gậy của Ngài an ủi bạn tối nay. Kinh Thánh: Thi-thiên 23:4 (Bản Truyền Thống 1925)</description>
+      <pubDate>Thu, 12 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-11-12/audio.mp3" length="1819821" type="audio/mpeg"/>
+      <itunes:duration>1:54</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Chớ Sợ, Trận Giặc Là Của Đức Chúa Trời</title>
+      <description>Đứng vững, không kinh hãi — trận giặc chẳng phải của chúng ta, bèn là của Đức Chúa Trời; cứ đứng yên xem Ngài hành động. Kinh Thánh: II Sử-ký 20:15 (Bản Truyền Thống 1925)</description>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-12/audio.mp3" length="1981101" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
     <item>
       <title>[PM] Hãy Cảm Tạ Mà Vào Các Cửa Ngài</title>
       <description>Cảm tạ là con đường đến gần Ngài — tối nay hãy đếm lại ơn Ngài và an nghỉ trong sự hiện diện của Ngài. Kinh Thánh: Thi-thiên 100:4 (Bản Truyền Thống 1925)</description>
