@@ -4091,6 +4091,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-11",
+     "title": "长寿前沿日报·晚间版｜11月11日：老兵新冠疫苗对比，就医风险低35.9%",
+     "scripture": "",
+     "theme": "本期：JAMA Network Open今日发表真实世界研究294499名65岁以上退伍军人，莫德纳新款新冠疫苗组就医感染风险低35.9%、住院风险低47%，回顾性观察性、关联不等于因果、莫德纳资助、人群以老年男性为主；Frontiers in Nutrition英国生物银行队列155413人，行星健康饮食依从最高组糖尿病风险低15%到17%、观察性不等于因果；印第安纳州麻疹153例（一周前107例），PAHO审查委员会开会至11月13日、消除地位尚无最终决定。",
+     "audio": "content/longevity/2026-11-11-pm/audio.mp3",
+     "page": "content/longevity/2026-11-11-pm/index.md",
+     "duration_sec": 96,
+     "duration": "1:36",
+     "video_url": "https://www.youtube.com/watch?v=4WJ6pXn5Zko",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=4WJ6pXn5Zko"
+     }
+    },
+    {
      "date": "2026-11-10",
      "title": "长寿前沿日报｜11月10日：关节肿瘤新药获批，难切的有了口服选择",
      "scripture": "",
@@ -4635,7 +4651,7 @@
      }
     }
    ],
-   "count": 34,
+   "count": 35,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
