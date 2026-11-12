@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "programs": [
   {
    "id": "devotion-am",
@@ -5134,6 +5134,22 @@
       "spotify": "",
       "x": "",
       "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-11",
+     "title": "硅谷科技日报｜11月11日：谷歌最强模型向付费用户全开，优惠价只到月底",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月11日，星期三。头条：谷歌最强模型向付费用户全开，优惠价只到月底。",
+     "audio": "content/silicon-valley/2026-11-11/audio.mp3",
+     "page": "content/silicon-valley/2026-11-11/index.md",
+     "duration_sec": 119,
+     "duration": "1:59",
+     "video_url": "https://www.youtube.com/watch?v=OOZvyUjCYyo",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=OOZvyUjCYyo"
      }
     }
    ],
