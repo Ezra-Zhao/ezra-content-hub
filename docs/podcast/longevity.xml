@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 21:46:15 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:49:34 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -26,6 +26,14 @@
       <guid isPermaLink="false">longevity-2026-11-11-pm</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-11-pm/audio.mp3" length="767809" type="audio/mpeg"/>
       <itunes:duration>1:36</itunes:duration>
+    </item>
+    <item>
+      <title>长寿前沿日报｜11月11日：干燥综合征三期达标，无获批药的病有了候选</title>
+      <description>本期：安进2026年11月11日公布dazodalibep三期OASIZ-301完整结果：648名干燥综合征患者，随机双盲安慰剂对照，第48周每4周用药组疾病活动评分降5.6分、安慰剂组降3.8分，两组给药方案均达主要终点；该病目前无美国食品药品管理局批准疗法，本次是试验达标、不是获批。快讯：Neurology队列352名70岁女性，绝经激素治疗与更低脑小血管病负担相关（比值比0.41），观察性、不等于因果，作者称证据不足以推荐激素预防认知衰退。轮换位：430名平均78岁老人横断面分析，每天至少4025步者认知受损几率比少于2449步者低约54%，但4年随访无显著关联，不能证明走路防痴呆。</description>
+      <pubDate>Wed, 11 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-11</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-11/audio.mp3" length="883583" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
     </item>
     <item>
       <title>长寿前沿日报·晚间版｜11月10日：宾州麻疹破1505例，消除地位在审</title>
