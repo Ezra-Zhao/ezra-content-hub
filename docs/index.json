@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-11",
  "programs": [
   {
    "id": "devotion-am",
@@ -2579,6 +2579,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-11",
+     "title": "新闻矩阵｜11月11日晚间版：美股强劲反弹纳指涨百分之一点六，密西西比参院席位翻蓝，阿布扎比换俘逾千人细节待定",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月11日晚间版：美股强劲反弹纳指涨百分之一点六，密西西比参院席位翻蓝，阿布扎比换俘逾千人细节待定",
+     "audio": "content/news-pm/2026-11-11/audio.mp3",
+     "page": "content/news-pm/2026-11-11/index.md",
+     "duration_sec": 337,
+     "duration": "5:37",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-10",
      "title": "新闻矩阵｜11月10日晚间版：美股收跌两年期收益率跳升，阿布扎比首日称建设性，乔丹当选众院共和党领袖",
      "scripture": "",
@@ -2819,7 +2835,7 @@
      }
     }
    ],
-   "count": 15,
+   "count": 16,
    "related": [
     "fred-am",
     "fred-pm",
