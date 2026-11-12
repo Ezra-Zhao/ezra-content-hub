@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 11:55:06 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:45:19 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Psalm 23:4: You Are With Me in the Valley</title>
+      <description>Even though I walk through the valley of the shadow of death, I will fear no evil — He is with you tonight, and His rod and staff comfort you. Scripture: Psalm 23:4 (WEB)</description>
+      <pubDate>Thu, 12 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-12/audio.mp3" length="1711167" type="audio/mpeg"/>
+      <itunes:duration>1:47</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 2 Chronicles 20:15: The Battle Is Not Yours, But God&#x27;s</title>
+      <description>Don&#x27;t be afraid, and don&#x27;t be dismayed because of this great multitude — the battle is not yours, but God&#x27;s; stand still and watch how He works. Scripture: 2 Chronicles 20:15 (WEB)</description>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-12/audio.mp3" length="2023383" type="audio/mpeg"/>
+      <itunes:duration>2:06</itunes:duration>
+    </item>
     <item>
       <title>[PM] Psalm 100:4: Enter His Gates with Thanksgiving</title>
       <description>Enter into his gates with thanksgiving — count His help today and rest tonight in His presence. Scripture: Psalm 100:4 (WEB)</description>
