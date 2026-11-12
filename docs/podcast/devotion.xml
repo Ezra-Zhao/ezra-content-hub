@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 10:50:40 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:51:13 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 诗篇23:4：祢与我同在就不怕｜睡前灵修</title>
+      <description>诗篇23:4：祢与我同在就不怕——诗篇 23:4 的话陪你走今天这一步，讲解改编自刘彤《你可以不再惧怕》、经彻底重写，祷告为原创。 经文：诗篇 23:4（和合本）</description>
+      <pubDate>Thu, 12 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-12/audio.mp3" length="1918475" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 历代志下20:15：胜败不在乎你们乃在乎神｜晨起读经</title>
+      <description>历代志下20:15：胜败不在乎你们乃在乎神——历代志下 20:15 的话陪你走今天这一步，讲解改编自卓尔君《绝境中的神操作》、经彻底重写，祷告为原创。 经文：历代志下 20:15（和合本）</description>
+      <pubDate>Thu, 12 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-12/audio.mp3" length="2086077" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
     <item>
       <title>[PM] 诗篇100:4：以感谢进入祂的门｜睡前灵修</title>
       <description>诗篇100:4：以感谢进入祂的门——诗篇 100:4 的话陪你走今天这一步，讲解改编自比尔·约翰逊《神的同在》、经彻底重写，祷告为原创。 经文：诗篇 100:4（和合本）</description>
