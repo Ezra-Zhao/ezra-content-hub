@@ -2857,6 +2857,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-11",
+     "title": "美股盘后小结 11月11日：三大指数反弹科技领涨+云服务财报超预期",
+     "scripture": "",
+     "theme": "美股盘后小结，11月11日，星期三。昨天回落之后，今天三大指数反弹，科技股领涨，人工智能基础设施财报是主要推动。",
+     "audio": "content/stocks-pm/2026-11-11/audio.mp3",
+     "page": "content/stocks-pm/2026-11-11/index.md",
+     "duration_sec": 60,
+     "duration": "1:00",
+     "video_url": "https://www.youtube.com/watch?v=k8wB5IAVFco",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=k8wB5IAVFco"
+     }
+    },
+    {
      "date": "2026-11-10",
      "title": "美股盘后小结 11月10日：10月通胀超预期+三大指数回吐",
      "scripture": "",
@@ -3257,7 +3273,7 @@
      }
     }
    ],
-   "count": 25,
+   "count": 26,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
