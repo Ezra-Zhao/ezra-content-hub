@@ -5973,8 +5973,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 18,
+   "count": 19,
    "items": [
+    {
+     "date": "2026-11-13",
+     "title": "今天12:49高潮，湾岸低洼先防漫水",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-13-high-tide-data-center-pause.md",
+     "page": "articles/baylocal/2026-11-13-high-tide-data-center-pause.html"
+    },
     {
      "date": "2026-11-04",
      "title": "圣何塞市议会初步结果出炉，今晚5点再更新",
