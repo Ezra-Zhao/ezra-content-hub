@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "programs": [
   {
    "id": "devotion-am",
@@ -4817,6 +4817,22 @@
      }
     },
     {
+     "date": "2026-11-12",
+     "title": "硅谷科技日报·晚间版｜11月12日：谷歌快模型全量上线，干活快两倍半",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月12日，星期四。头条：谷歌快模型今天全量上线，干活快两倍半。",
+     "audio": "content/silicon-valley/2026-11-12-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-12-pm/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "https://www.youtube.com/watch?v=YRfMz8ETJlQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=YRfMz8ETJlQ"
+     }
+    },
+    {
      "date": "2026-11-11",
      "title": "硅谷科技日报｜11月11日：谷歌最强模型向付费用户全开，优惠价只到月底",
      "scripture": "",
@@ -5265,7 +5281,7 @@
      }
     }
    ],
-   "count": 29,
+   "count": 30,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
