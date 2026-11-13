@@ -7,7 +7,7 @@
     <language>hi</language>
     <description>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 11:45:39 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:58:38 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</itunes:summary>
     <itunes:keywords>दैनिक भक्ति,बाइबल पाठ,प्रार्थना,पवित्रशास्त्र,सुबह की भक्ति,रात की भक्ति,मसीही विश्वास,मनन</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] मसीह के साथ स्वर्गीय स्थानों में बैठाया</title>
+      <description>जीवन बैठने से शुरू होता है: वे सब पूरा कर चुके हैं, आज रात बैठकर ग्रहण कीजिए, सारा बोझ सौंपकर उनके पूरे किए काम में विश्राम कीजिए। पवित्रशास्त्र: इफिसियों 2:6 (HHBD)</description>
+      <pubDate>Fri, 13 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-hi-2026-11-13</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-hi/2026-11-13/audio.mp3" length="2088621" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] मांगो तो पाओगे, आनन्द पूरा होगा</title>
+      <description>पिता के मन के अनुसार प्रार्थना: पहले उनके निकट आइए, प्रभु के नाम से माँगिए, हार मत मानिए — माँगो तो पाओगे, आनन्द पूरा होगा। पवित्रशास्त्र: यूहन्ना 16:24 (HHBD)</description>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-hi-2026-11-13</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-hi/2026-11-13/audio.mp3" length="2006829" type="audio/mpeg"/>
+      <itunes:duration>2:05</itunes:duration>
+    </item>
     <item>
       <title>[PM] तू मेरे साथ रहता है</title>
       <description>तराई हटाई नहीं गई, पर वे आपके साथ हैं — उनके सोंटे और लाठी से आज रात शान्ति मिलती है। पवित्रशास्त्र: भजन संहिता 23:4 (HHBD)</description>
