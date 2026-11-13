@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-12",
  "programs": [
   {
    "id": "devotion-am",
@@ -2595,6 +2595,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-12",
+     "title": "新闻矩阵｜11月12日晚间版：黄仁勋辞职英伟达收跌百分之四点三四，布鲁克林坍塌死亡升至八人，美特使莫斯科会谈称三方谈判重启",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月12日晚间版：黄仁勋辞职英伟达收跌百分之四点三四，布鲁克林坍塌死亡升至八人，美特使莫斯科会谈称三方谈判重启",
+     "audio": "content/news-pm/2026-11-12/audio.mp3",
+     "page": "content/news-pm/2026-11-12/index.md",
+     "duration_sec": 334,
+     "duration": "5:34",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-11",
      "title": "新闻矩阵｜11月11日晚间版：美股强劲反弹纳指涨百分之一点六，密西西比参院席位翻蓝，阿布扎比换俘逾千人细节待定",
      "scripture": "",
@@ -2851,7 +2867,7 @@
      }
     }
    ],
-   "count": 16,
+   "count": 17,
    "related": [
     "fred-am",
     "fred-pm",
