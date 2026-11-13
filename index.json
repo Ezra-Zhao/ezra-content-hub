@@ -2303,6 +2303,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-13",
+     "title": "新闻矩阵｜11月13日早间版：欧洲入局乌谈判未定，微软故障渐恢复，生产者价格低于预期期货反弹",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月13日早间版：欧洲入局乌谈判未定，微软故障渐恢复，生产者价格低于预期期货反弹",
+     "audio": "content/news-am/2026-11-13/audio.mp3",
+     "page": "content/news-am/2026-11-13/index.md",
+     "duration_sec": 286,
+     "duration": "4:46",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-12",
      "title": "新闻矩阵｜11月12日早间版：美方特使抵莫斯科谈阿布扎比成果，布鲁克林楼房坍塌两人死亡，英伟达人事传闻拖累期货",
      "scripture": "",
@@ -2575,7 +2591,7 @@
      }
     }
    ],
-   "count": 16,
+   "count": 18,
    "related": [
     "fred-am",
     "fred-pm",
