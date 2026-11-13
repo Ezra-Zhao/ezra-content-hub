@@ -2921,6 +2921,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-13",
+     "title": "美股盘后小结 11月13日：芯片领跌三大指数收跌",
+     "scripture": "",
+     "theme": "美股盘后小结，11月13日，星期五。三大指数收跌，芯片股领跌，科技板块跌约百分之三，十年期美债收益率站上百分之五。",
+     "audio": "content/stocks-pm/2026-11-13/audio.mp3",
+     "page": "content/stocks-pm/2026-11-13/index.md",
+     "duration_sec": 79,
+     "duration": "1:19",
+     "video_url": "https://www.youtube.com/watch?v=WUKa2g9ZIyc",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=WUKa2g9ZIyc"
+     }
+    },
+    {
      "date": "2026-11-12",
      "title": "美股盘后小结 11月12日：三大指数收跌英伟达人事巨变",
      "scripture": "",
@@ -3353,7 +3369,7 @@
      }
     }
    ],
-   "count": 27,
+   "count": 28,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
