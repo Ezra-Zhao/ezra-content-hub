@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 13:17:48 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:07:13 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -28,6 +28,14 @@
       <guid isPermaLink="false">fred-am-2026-11-13</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-11-13/audio.mp3" length="3053209" type="audio/mpeg"/>
       <itunes:duration>6:22</itunes:duration>
+    </item>
+    <item>
+      <title>美国百指日报·晚间速报｜11月12日：成屋销售创16年新低，初请升到20万人收益率升过5.1%</title>
+      <description>&gt; 数据：FRED 2026-11-12 快照。今日发布两份：劳工部公布截至 11 月 7 日当周初请失业金 20 万人，比前周修正值 19.1 万人增加 9000 人，高于预期 19.5 万人；续请（截至 10 月 31 日当周）169.7 万人，减少 2 万人，就业未明显转弱。全国房地产经纪人协会公布 10 月成屋销售环比降 5.5%，年化 375 万套，低于预期 385 万套，是 2010 年 8 月以来最低；中位价 41.67 万美元，同比涨 0.4%，10 月房贷平均利率 7.33%，量跌而价没跌。收盘为 AP 终值：标普降 0.35% 收 7592.40 点、道指降 0.36% 收 52297.09 点、纳指降 0.39% 收 25366.09 点；英伟达首席执行官辞职，股价收跌 4.3%；十年期收益率升到 5.10%（上个交易日 4.98%）。前瞻：周五美东时间上午 8 点 30 分公布 10 月生产者物价，预期环比涨 0.4%、同比涨 6.6%、核心涨 0.3%。主播整理：Guangyi Zhao。配音：ElevenLabs 定版声线（模型 eleven_v3）。</description>
+      <pubDate>Thu, 12 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-12/audio.mp3" length="1029451" type="audio/mpeg"/>
+      <itunes:duration>2:09</itunes:duration>
     </item>
     <item>
       <title>《美国百指日报》2026-11-12｜初请失业金升到20万人高于预期，续请却降到169.7万人｜11月12日</title>
