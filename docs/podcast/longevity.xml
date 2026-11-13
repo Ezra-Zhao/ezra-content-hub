@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 09:11:31 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:06:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报｜11月12日：脂蛋白降了七成八，心血管事件没降</title>
+      <description>本期：NEJM发表Lp(a)HORIZON三期试验（8322人、42国797中心，中位随访57个月）：pelacarsen一年时把脂蛋白(a)压低78.4%（安慰剂3.2%），但主要心血管事件12.3%对12.1%几乎没有差别；该药仍为在研、未获批，资深作者称单项试验不能定论降脂蛋白(a)策略无益。快讯：CDC 11月12日确认2026年全美麻疹相关死亡6例，病例超过5000例、1991年以来首次，两剂MMR疫苗有效率约97%，消除地位审查决定预计未来几天公布。轮换位：FDA授予nula-cel再生医学先进疗法认定，优化工艺治疗的3人均脱离输血、无血管阻塞事件，但认定不是批准、仍是1/2期早期证据。</description>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-12/audio.mp3" length="872089" type="audio/mpeg"/>
+      <itunes:duration>1:49</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报·晚间版｜11月11日：老兵新冠疫苗对比，就医风险低35.9%</title>
       <description>本期：JAMA Network Open今日发表真实世界研究294499名65岁以上退伍军人，莫德纳新款新冠疫苗组就医感染风险低35.9%、住院风险低47%，回顾性观察性、关联不等于因果、莫德纳资助、人群以老年男性为主；Frontiers in Nutrition英国生物银行队列155413人，行星健康饮食依从最高组糖尿病风险低15%到17%、观察性不等于因果；印第安纳州麻疹153例（一周前107例），PAHO审查委员会开会至11月13日、消除地位尚无最终决定。</description>

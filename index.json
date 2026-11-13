@@ -4171,6 +4171,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-12",
+     "title": "长寿前沿日报｜11月12日：脂蛋白降了七成八，心血管事件没降",
+     "scripture": "",
+     "theme": "本期：NEJM发表Lp(a)HORIZON三期试验（8322人、42国797中心，中位随访57个月）：pelacarsen一年时把脂蛋白(a)压低78.4%（安慰剂3.2%），但主要心血管事件12.3%对12.1%几乎没有差别；该药仍为在研、未获批，资深作者称单项试验不能定论降脂蛋白(a)策略无益。快讯：CDC 11月12日确认2026年全美麻疹相关死亡6例，病例超过5000例、1991年以来首次，两剂MMR疫苗有效率约97%，消除地位审查决定预计未来几天公布。轮换位：FDA授予nula-cel再生医学先进疗法认定，优化工艺治疗的3人均脱离输血、无血管阻塞事件，但认定不是批准、仍是1/2期早期证据。",
+     "audio": "content/longevity/2026-11-12/audio.mp3",
+     "page": "content/longevity/2026-11-12/index.md",
+     "duration_sec": 109,
+     "duration": "1:49",
+     "video_url": "https://www.youtube.com/watch?v=D3LgX_RncCY",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=D3LgX_RncCY"
+     }
+    },
+    {
      "date": "2026-11-11",
      "title": "长寿前沿日报｜11月11日：干燥综合征三期达标，无获批药的病有了候选",
      "scripture": "",
@@ -4747,7 +4763,7 @@
      }
     }
    ],
-   "count": 36,
+   "count": 37,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
