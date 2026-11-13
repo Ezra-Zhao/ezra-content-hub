@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-13",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -4203,6 +4203,22 @@
      }
     },
     {
+     "date": "2026-11-12",
+     "title": "长寿前沿日报·晚间版｜11月12日：颈动脉支架新入路获批，30天零重大事件",
+     "scripture": "",
+     "theme": "本期：美国食品药品管理局今天批准一款颈动脉支架系统用于经颈动脉血运重建手术，关键试验在美国11个中心纳入50名手术高风险患者，术后30天器械急性成功率100%，没有死亡、中风、心肌梗死或支架内血栓的报告，仅50人单臂只看30天、零事件不等于长期零风险；美国疾控中心口径今年麻疹确诊5182例（截至11月5日），泛美卫生组织审查委员会开会至11月13日、尚无最终决定；一家企业在研药人体试验申请获放行，目前只验安全性、没有疗效结果。",
+     "audio": "content/longevity/2026-11-12-pm/audio.mp3",
+     "page": "content/longevity/2026-11-12-pm/index.md",
+     "duration_sec": 110,
+     "duration": "1:50",
+     "video_url": "https://www.youtube.com/watch?v=mhfiBWtTsJk",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=mhfiBWtTsJk"
+     }
+    },
+    {
      "date": "2026-11-11",
      "title": "长寿前沿日报｜11月11日：干燥综合征三期达标，无获批药的病有了候选",
      "scripture": "",
@@ -4779,7 +4795,7 @@
      }
     }
    ],
-   "count": 37,
+   "count": 38,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
