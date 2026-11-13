@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：湾区福利速报、美国百指日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 13:17:48 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:31:02 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：湾区福利速报、美国百指日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="Government"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>移民政策速报｜2026年11月13日：移民上诉委员会新判例，特定社会群体认定标准明确</title>
+      <description>这里是移民政策速报。今天是二零二六年十一月十三日，星期五。本期主打判例：移民上诉委员会新判例，特定社会群体认定标准明确。</description>
+      <pubDate>Fri, 13 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">immigration-2026-11-13</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/immigration/2026-11-13/audio.mp3" length="744612" type="audio/mpeg"/>
+      <itunes:duration>1:33</itunes:duration>
+    </item>
     <item>
       <title>移民政策速报｜2026年11月12日：两项规则评论期明天截止，延期参照拟议在列</title>
       <description>这里是移民政策速报。今天是二零二六年十一月十二日，星期四。本期主打日历：两项移民规则的评论期，明天十三日截止。</description>
