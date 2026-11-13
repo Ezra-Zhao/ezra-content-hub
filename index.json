@@ -4235,6 +4235,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-13",
+     "title": "长寿前沿日报｜11月13日：首款新机制抗凝药获批，复发中风降了两成六",
+     "scripture": "",
+     "theme": "本期：FDA批准首款Factor XIa抑制剂asundexian（SUNHARBO），联合抗血小板治疗降低近期非心源性缺血性中风或高风险短暂性脑缺血发作后再次中风的风险；三期试验12327人，缺血性中风6.2%对8.4%、相对下降26%，大出血率两组相近，不适用于房颤患者。快讯：Lancet Digital Health发表ClinicalAge衰老模型研究，在4728376名英国患者中验证、与20种非癌症疾病及死亡风险相关，观察性不等于因果。轮换位：CDC 11月13日更新全美麻疹5412例、96%与暴发相关、死亡6例，消除地位决定预计下周初公布。",
+     "audio": "content/longevity/2026-11-13/audio.mp3",
+     "page": "content/longevity/2026-11-13/index.md",
+     "duration_sec": 113,
+     "duration": "1:53",
+     "video_url": "https://www.youtube.com/watch?v=Z4EvkD0hKPk",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Z4EvkD0hKPk"
+     }
+    },
+    {
      "date": "2026-11-12",
      "title": "长寿前沿日报｜11月12日：脂蛋白降了七成八，心血管事件没降",
      "scripture": "",
@@ -4843,7 +4859,7 @@
      }
     }
    ],
-   "count": 38,
+   "count": 39,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
