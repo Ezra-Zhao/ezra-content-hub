@@ -2921,6 +2921,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-12",
+     "title": "美股盘后小结 11月12日：三大指数收跌英伟达人事巨变",
+     "scripture": "",
+     "theme": "美股盘后小结，11月12日，星期四。三大指数收跌，英伟达首席执行官辞职的消息成为全场焦点，芯片股出现明显分化。",
+     "audio": "content/stocks-pm/2026-11-12/audio.mp3",
+     "page": "content/stocks-pm/2026-11-12/index.md",
+     "duration_sec": 71,
+     "duration": "1:11",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-11",
      "title": "美股盘后小结 11月11日：三大指数反弹科技领涨+云服务财报超预期",
      "scripture": "",
@@ -3337,7 +3353,7 @@
      }
     }
    ],
-   "count": 26,
+   "count": 27,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
