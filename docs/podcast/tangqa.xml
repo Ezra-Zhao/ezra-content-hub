@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 12:31:15 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:16:25 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/</itunes:summary>
     <itunes:keywords>信仰问答,系统神学,护教,唐崇荣,讲道,基督教</itunes:keywords>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>人类不是上帝所造的吗？</title>
+      <description>人是尘土，也是神吹了气的尘土——进化讲变化、不讲源头，生命的源头只能是神。 经文：创世记 1:27、2:7（和合本）</description>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">tangqa-2026-11-13</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/tang-sermons/2026-11-13/audio.mp3" length="2468484" type="audio/mpeg"/>
+      <itunes:duration>5:09</itunes:duration>
+    </item>
     <item>
       <title>耶稣再来有可能吗？</title>
       <description>耶稣再来不是「可能」，是「必定」——别算日子、别躺平：明天主来，今天照样种种子。 经文：使徒行传 1:11、马太福音 24:36（和合本）</description>
