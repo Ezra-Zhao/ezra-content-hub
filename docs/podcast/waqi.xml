@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，把宝贝放在瓦器里，显明莫大的能力是出于神。关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：《每日灵修》早晚双版也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 08:46:59 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:19:44 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，把宝贝放在瓦器里，显明莫大的能力是出于神。关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：《每日灵修》早晚双版也在本枢纽更新。</itunes:summary>
     <itunes:keywords>讲道,解经,圣经讲解,查经,基督教,信仰生活</itunes:keywords>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>甚愿祢赐福与我</title>
+      <description>名字叫痛苦的人没有认命，开口求告——先求神的手同在，再求其余；神就应允他所求的，可最后一句不由名字写，由神写。 经文：历代志上 4 章 9-10 节（和合本）</description>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">sermons-2026-11-11</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/sermons/2026-11-11/audio.mp3" length="2641938" type="audio/mpeg"/>
+      <itunes:duration>5:30</itunes:duration>
+    </item>
     <item>
       <title>赐我一颗能听的心</title>
       <description>所罗门没有求寿、求富、求仇敌的命，单求一颗能听的心——听得进神的话，也听得完百姓的话；智慧先是肯听，公义才落得到最弱的人身上。 经文：列王纪上 3 章（和合本）</description>
