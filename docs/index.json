@@ -4897,6 +4897,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-13",
+     "title": "硅谷科技日报｜11月13日：智能体服务能整个搬进自家机房了",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月13日，星期五。头条：智能体服务能整个搬进自家机房了。",
+     "audio": "content/silicon-valley/2026-11-13/audio.mp3",
+     "page": "content/silicon-valley/2026-11-13/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "https://www.youtube.com/watch?v=NKCRMQOM54g",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=NKCRMQOM54g"
+     }
+    },
+    {
      "date": "2026-11-12",
      "title": "硅谷科技日报｜11月12日：DNA模型读到单个细胞，找病变异近翻倍",
      "scripture": "",
@@ -5377,7 +5393,7 @@
      }
     }
    ],
-   "count": 30,
+   "count": 31,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
