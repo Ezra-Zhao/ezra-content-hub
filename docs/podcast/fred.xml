@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 09:11:31 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:05:42 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>《美国百指日报》2026-11-13｜生产者物价单月涨0.3%降温，同比6.5%却创2022年11月以来最高｜11月13日</title>
+      <description>&gt; 数据：FRED 2026-11-13 快照（173 个指标，29 个异常）。头条实际值：美国劳工统计局 2026-11-13 公布的 10 月生产者物价指数（USDL 26-1687）。前瞻来源：金十数据雷达与多家公开日历交叉。新闻：谷歌官方博客（2026-11-12）；InspireMD 公司发布稿（GlobeNewswire，2026-11-12）。 &gt; 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
+      <pubDate>Fri, 13 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-11-13</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-11-13/audio.mp3" length="3053209" type="audio/mpeg"/>
+      <itunes:duration>6:22</itunes:duration>
+    </item>
     <item>
       <title>《美国百指日报》2026-11-12｜初请失业金升到20万人高于预期，续请却降到169.7万人｜11月12日</title>
       <description>&gt; 数据：FRED 2026-11-12 快照（173 个指标，28 个异常）。头条实际值：美国劳工部 2026-11-12 公布的每周失业金申领报告（截至 11 月 7 日当周），快照同值定版。前瞻来源：金十数据雷达与多家公开日历交叉。新闻：ElevenLabs 纽约峰会报道（CIOL、Unite.AI，2026-11-11）；Aravax 公司发布稿（GlobeNewswire，2026-11-12）。 &gt; 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
