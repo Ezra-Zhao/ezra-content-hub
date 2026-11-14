@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 20:13:44 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:45:45 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜11月13日：生产者物价同比涨6.5%创2022年11月以来最高，股市全周大涨</title>
+      <description>&gt; 数据：FRED 2026-11-13 快照。今日发布一份：劳工统计局公布 10 月生产者物价环比涨 0.3%，低于预期 0.4%，9 月由原报 1.3% 上修到 1.4%；同比涨 6.5%，高于 9 月的 6.3%，是 2022 年 11 月以来最大涨幅。商品环比涨 0.5%（食品涨 1.3%、能源跌 0.1%），商品同比涨 10.2%；服务涨 0.2%，运输仓储涨 2.0%；核心口径环比涨 0.5%、同比涨 4.9%。收盘为 AP 终值：标普降 0.40% 收 7561.67 点、纳指降 0.91% 收 25136.27 点、道指涨 0.10% 收 52347.55 点；芯片股回吐，AMD 跌约 8.8%；全周标普涨 2.5%、纳指涨 2.3%、道指涨 2.1%。前瞻：周六无重头数据，周一纽约联储制造业指数，周二零售销售与英伟达业绩，周三新屋开工与联储会议纪要。主播整理：Guangyi Zhao。配音：ElevenLabs 定版声线（模型 eleven_v3）。</description>
+      <pubDate>Fri, 13 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-13</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-13/audio.mp3" length="1012315" type="audio/mpeg"/>
+      <itunes:duration>2:06</itunes:duration>
+    </item>
     <item>
       <title>《美国百指日报》2026-11-13｜生产者物价单月涨0.3%降温，同比6.5%却创2022年11月以来最高｜11月13日</title>
       <description>&gt; 数据：FRED 2026-11-13 快照（173 个指标，29 个异常）。头条实际值：美国劳工统计局 2026-11-13 公布的 10 月生产者物价指数（USDL 26-1687）。前瞻来源：金十数据雷达与多家公开日历交叉。新闻：谷歌官方博客（2026-11-12）；InspireMD 公司发布稿（GlobeNewswire，2026-11-12）。 &gt; 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
