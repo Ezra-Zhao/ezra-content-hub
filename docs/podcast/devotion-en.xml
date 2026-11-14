@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 11:45:39 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:45:55 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Luke 8:15: Hold the Word Tightly in an Honest and Good Heart</title>
+      <description>Those in the good ground, with an honest and good heart, hold the word tightly and produce fruit with perseverance — tonight let the Lord clear the soil of your heart. Scripture: Luke 8:15 (WEB)</description>
+      <pubDate>Sat, 14 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-14</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-14/audio.mp3" length="2432983" type="audio/mpeg"/>
+      <itunes:duration>2:32</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] John 3:3: Unless One Is Born Anew, He Can&#x27;t See God&#x27;s Kingdom</title>
+      <description>Most certainly, I tell you, unless one is born anew, he can&#x27;t see God&#x27;s Kingdom — being born again is a new life given by the Spirit, not the old life patched up. Scripture: John 3:3 (WEB)</description>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-14</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-14/audio.mp3" length="2246155" type="audio/mpeg"/>
+      <itunes:duration>2:20</itunes:duration>
+    </item>
     <item>
       <title>[PM] Ephesians 2:6: Raised Up With Him, Seated With Him in the Heavenly Places</title>
       <description>And raised us up with him, and made us to sit with him in the heavenly places — tonight first sit down and rest in His finished work. Scripture: Ephesians 2:6 (WEB)</description>
