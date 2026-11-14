@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 20:46:59 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:04:28 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Politics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>《弹古论今》11月13日｜飞机全停在地上四个小时：明末裁驿省下的那笔账</title>
+      <description>FAA 因空管通信故障全国停飞逾四小时（9·11 以来第二次），取消一千多架次、延误近一万架次：老旧网络打补丁时过载，138 套系统四分之三被 GAO 判不可持续，去年批的 125 亿美元之外白宫当天再要 301 亿。四百年前明朝驿传同病：积弊多年、靠借债硬撑，崇祯二年（1629）刘懋议裁驿省钱、四年报告裁下 685,720 余两，《明史》却把因果写死——裁驿使山陕仰驿糈者无所得食俱从贼、贼转盛，银川驿卒李自成 1644 年打进北京。省钱和拖延不是免费的，只是账单寄到的时间不同。四条可证伪预判，立此存照。</description>
+      <pubDate>Fri, 13 Nov 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">history-rhymes-2026-11-13</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/history-rhymes/2026-11-13/audio.mp3" length="3240873" type="audio/mpeg"/>
+      <itunes:duration>6:45</itunes:duration>
+    </item>
     <item>
       <title>《弹古论今》11月12日｜调查还没开始，先被警告是犯罪：杨涟二十四大罪的镜子</title>
       <description>中期选举民主党夺下两院，新国会一月才就职，监督议程未开张先收到白宫警告信：调查可能构成「明目张胆的犯罪」。四百年前明朝都察院演过同一幕——1624年左副都御史杨涟列魏忠贤二十四大罪，天启温谕留人、严旨切责，次年杨涟、左光斗等六人下诏狱拷打致死；调查者与被查者谁先进被告席，胜负手在裁判是否中立。四条可证伪预判，立此存照。</description>
