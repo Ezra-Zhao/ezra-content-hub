@@ -6181,8 +6181,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 19,
+   "count": 20,
    "items": [
+    {
+     "date": "2026-11-14",
+     "title": "BART绿线今天停运，去旧金山先留半小时",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-14-bart-green-line-shutdown.md",
+     "page": "articles/baylocal/2026-11-14-bart-green-line-shutdown.html"
+    },
     {
      "date": "2026-11-13",
      "title": "今天12:49高潮，湾岸低洼先防漫水",
@@ -6190,6 +6198,70 @@
      "author": "Guangyi Zhao",
      "path": "articles/baylocal/2026-11-13-high-tide-data-center-pause.md",
      "page": "articles/baylocal/2026-11-13-high-tide-data-center-pause.html"
+    },
+    {
+     "date": "2026-11-12",
+     "title": "今天12:10高潮，湾岸低洼先防漫水",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-12-el-nino-emergency-high-tide.md",
+     "page": "articles/baylocal/2026-11-12-el-nino-emergency-high-tide.html"
+    },
+    {
+     "date": "2026-11-11",
+     "title": "今天11:35高潮，湾岸低洼先防漫水",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-11-veterans-day-high-tide.md",
+     "page": "articles/baylocal/2026-11-11-veterans-day-high-tide.html"
+    },
+    {
+     "date": "2026-11-10",
+     "title": "今天11:04高潮，湾岸低洼先防漫水",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-10-coastal-flood-high-tide.md",
+     "page": "articles/baylocal/2026-11-10-coastal-flood-high-tide.html"
+    },
+    {
+     "date": "2026-11-09",
+     "title": "BART黄线今晚起三晚单线，午夜后先多留十几分钟",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-09-bart-yellow-line-single-tracking.md",
+     "page": "articles/baylocal/2026-11-09-bart-yellow-line-single-tracking.html"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "下周末BART绿线全线停运，先记这一条",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-08-bart-green-line-next-weekend.md",
+     "page": "articles/baylocal/2026-11-08-bart-green-line-next-weekend.html"
+    },
+    {
+     "date": "2026-11-07",
+     "title": "旧金山101南向周末全封闭，南下改走280",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-07-us101-sb-weekend-closure.md",
+     "page": "articles/baylocal/2026-11-07-us101-sb-weekend-closure.html"
+    },
+    {
+     "date": "2026-11-06",
+     "title": "区域交通税赞成升到61.8%",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-06-rtm-leads-61-8.md",
+     "page": "articles/baylocal/2026-11-06-rtm-leads-61-8.html"
+    },
+    {
+     "date": "2026-11-05",
+     "title": "区域交通税初步过关，五县赞成61.5%",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-05-rtm-early-pass.md",
+     "page": "articles/baylocal/2026-11-05-rtm-early-pass.html"
     },
     {
      "date": "2026-11-04",
@@ -6270,70 +6342,6 @@
      "author": "Guangyi Zhao",
      "path": "articles/baylocal/2026-10-25-bart-green-line.md",
      "page": "articles/baylocal/2026-10-25-bart-green-line.html"
-    },
-    {
-     "date": "",
-     "title": "2026-11-05-rtm-early-pass",
-     "scripture": "",
-     "author": "Guangyi Zhao",
-     "path": "articles/baylocal/2026-11-05-rtm-early-pass.md",
-     "page": "articles/baylocal/2026-11-05-rtm-early-pass.html"
-    },
-    {
-     "date": "",
-     "title": "2026-11-06-rtm-leads-61-8",
-     "scripture": "",
-     "author": "Guangyi Zhao",
-     "path": "articles/baylocal/2026-11-06-rtm-leads-61-8.md",
-     "page": "articles/baylocal/2026-11-06-rtm-leads-61-8.html"
-    },
-    {
-     "date": "",
-     "title": "2026-11-07-us101-sb-weekend-closure",
-     "scripture": "",
-     "author": "Guangyi Zhao",
-     "path": "articles/baylocal/2026-11-07-us101-sb-weekend-closure.md",
-     "page": "articles/baylocal/2026-11-07-us101-sb-weekend-closure.html"
-    },
-    {
-     "date": "",
-     "title": "2026-11-08-bart-green-line-next-weekend",
-     "scripture": "",
-     "author": "Guangyi Zhao",
-     "path": "articles/baylocal/2026-11-08-bart-green-line-next-weekend.md",
-     "page": "articles/baylocal/2026-11-08-bart-green-line-next-weekend.html"
-    },
-    {
-     "date": "",
-     "title": "2026-11-09-bart-yellow-line-single-tracking",
-     "scripture": "",
-     "author": "Guangyi Zhao",
-     "path": "articles/baylocal/2026-11-09-bart-yellow-line-single-tracking.md",
-     "page": "articles/baylocal/2026-11-09-bart-yellow-line-single-tracking.html"
-    },
-    {
-     "date": "",
-     "title": "2026-11-10-coastal-flood-high-tide",
-     "scripture": "",
-     "author": "Guangyi Zhao",
-     "path": "articles/baylocal/2026-11-10-coastal-flood-high-tide.md",
-     "page": "articles/baylocal/2026-11-10-coastal-flood-high-tide.html"
-    },
-    {
-     "date": "",
-     "title": "2026-11-11-veterans-day-high-tide",
-     "scripture": "",
-     "author": "Guangyi Zhao",
-     "path": "articles/baylocal/2026-11-11-veterans-day-high-tide.md",
-     "page": "articles/baylocal/2026-11-11-veterans-day-high-tide.html"
-    },
-    {
-     "date": "",
-     "title": "2026-11-12-el-nino-emergency-high-tide",
-     "scripture": "",
-     "author": "Guangyi Zhao",
-     "path": "articles/baylocal/2026-11-12-el-nino-emergency-high-tide.md",
-     "page": "articles/baylocal/2026-11-12-el-nino-emergency-high-tide.html"
     }
    ]
   },
@@ -6370,7 +6378,7 @@
     },
     {
      "date": "",
-     "title": "2026-11-09-history-rhymes-jensen-huang-en",
+     "title": "(Draft translation — pending proofreading)",
      "scripture": "",
      "author": "Guangyi Zhao",
      "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-en.md",
@@ -6378,7 +6386,7 @@
     },
     {
      "date": "",
-     "title": "2026-11-09-history-rhymes-jensen-huang-es",
+     "title": "(Traducción preliminar — pendiente de revisión)",
      "scripture": "",
      "author": "Guangyi Zhao",
      "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-es.md",
@@ -6386,7 +6394,7 @@
     },
     {
      "date": "",
-     "title": "2026-11-09-history-rhymes-jensen-huang-hi",
+     "title": "ओपेनहाइमर वाली पटकथा, क्या अब जेन्सेन हुआंग की बारी है?",
      "scripture": "",
      "author": "Guangyi Zhao",
      "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-hi.md",
@@ -6394,7 +6402,7 @@
     },
     {
      "date": "",
-     "title": "2026-11-09-history-rhymes-jensen-huang-ko",
+     "title": "오펜하이머의 각본, 이번에는 젠슨 황 차례인가?",
      "scripture": "",
      "author": "Guangyi Zhao",
      "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-ko.md",
@@ -6402,7 +6410,7 @@
     },
     {
      "date": "",
-     "title": "2026-11-09-history-rhymes-jensen-huang-vi",
+     "title": "Kịch bản Oppenheimer, giờ đến lượt Jensen Huang?",
      "scripture": "",
      "author": "Guangyi Zhao",
      "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-vi.md",
@@ -6410,7 +6418,7 @@
     },
     {
      "date": "",
-     "title": "2026-11-09-history-rhymes-jensen-huang-zh",
+     "title": "奥本海默的剧本，轮到黄仁勋了？",
      "scripture": "",
      "author": "Guangyi Zhao",
      "path": "articles/flash/2026-11-09-history-rhymes-jensen-huang-zh.md",

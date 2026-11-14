@@ -69,22 +69,91 @@ footer{color:var(--sub);font-size:12px;text-align:center;margin-top:36px;border-
 """
 
 
-def parse_frontmatter(text):
-    """解析 md 文件头的 YAML frontmatter（只支持 key: value 平面字段）。"""
-    if not text.startswith("---"):
-        return {}, text
-    end = text.find("\n---", 3)
-    if end == -1:
-        return {}, text
+def _parse_meta_block(block):
     meta = {}
-    for line in text[3:end].strip().splitlines():
+    for line in block.strip().splitlines():
         line = line.strip()
         if not line or line.startswith("#") or ":" not in line:
             continue
         k, v = line.split(":", 1)
         meta[k.strip()] = v.strip().strip('"').strip("'")
-    body = text[end + 4 :].lstrip("\n")
-    return meta, body
+    return meta
+
+
+def parse_frontmatter(text):
+    """解析 md 文件头的 YAML frontmatter（只支持 key: value 平面字段）。
+
+    容错：文件丢了开头的 --- 分隔线、只剩 key: value 头块接 --- 时也认
+    （2026-11 湾区速报 8 篇曾因此整批标题丢失、页面显示「未命名」）。"""
+    if text.startswith("---"):
+        end = text.find("\n---", 3)
+        if end == -1:
+            return {}, text
+        body = text[end + 4 :].lstrip("\n")
+        return _parse_meta_block(text[3:end]), body
+    # 无开头 ---：前若干行若全是 key: value 且以 --- 收尾，按 frontmatter 解析
+    lines = text.splitlines()
+    head = []
+    for i, line in enumerate(lines[:12]):
+        s = line.strip()
+        if s == "---":
+            if head and all(":" in h for h in head):
+                return _parse_meta_block("\n".join(head)), \
+                    "\n".join(lines[i + 1:]).lstrip("\n")
+            break
+        if not s or ":" not in s:
+            break
+        head.append(s)
+    return {}, text
+
+
+def extract_title(body):
+    """标题兜底：正文首个 # 标题 → 首个非空行（去 markdown 标记）。"""
+    for raw in body.splitlines():
+        s = raw.strip()
+        if not s:
+            continue
+        m = re.match(r"^#{1,4}\s+(.*)$", s)
+        if m:
+            return re.sub(r"[*_`]", "", m.group(1)).strip()
+        if s.startswith((">", "---", "![", "（", "(")) and len(s) < 40:
+            continue  # 译稿说明/引用等短行不是标题，继续往下找
+        return re.sub(r"[*_`]", "", s).strip()
+    return ""
+
+
+def strip_md(s):
+    s = re.sub(r"!\[([^\]]*)\]\([^)]+\)", r"\1", s)
+    s = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", s)
+    s = re.sub(r"[*_`#>]", "", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def extract_description(body, limit=150):
+    """meta description：正文首个实质段落（报头短句自动与下一段拼接），
+    去标记后截断到约 limit 字。"""
+    texts = []
+    for block in re.split(r"\n\s*\n", body):
+        lines = [l.strip() for l in block.splitlines() if l.strip()]
+        if not lines:
+            continue
+        first = lines[0]
+        if first.startswith(("#", "![", "---", "***")):
+            continue
+        if re.match(r"^\s*[-*]\s+", first) or re.match(r"^\s*\d+[.)]\s+", first):
+            continue
+        text = strip_md(" ".join(l.lstrip("> ") for l in lines))
+        if len(text) < 15:
+            continue  # 译稿说明、经文出处等短行不作描述
+        texts.append(text)
+        if sum(len(t) for t in texts) >= 60:
+            break
+    if not texts:
+        return ""
+    desc = " ".join(texts)
+    if len(desc) > limit:
+        desc = desc[:limit].rstrip("，、；：,. ") + "…"
+    return desc
 
 
 def inline(s):
@@ -154,8 +223,13 @@ def md_to_html(md):
     return "\n".join(out)
 
 
-def render_page(meta, body_html):
-    title = html.escape(meta.get("title", "未命名"))
+def render_page(meta, body_html, body_md=""):
+    title = html.escape(meta["title"])
+    desc = meta.get("description") or extract_description(body_md)
+    desc_line = ""
+    if desc:
+        desc_line = ("<meta name=\"description\" content=\""
+                     + html.escape(desc, quote=True) + "\">\n")
     meta_bits = []
     if meta.get("date"):
         meta_bits.append(html.escape(meta["date"]))
@@ -166,7 +240,8 @@ def render_page(meta, body_html):
     return (
         "<!DOCTYPE html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-8\">\n"
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n"
-        "<title>" + title + " · Ezra 内容中央枢纽</title>\n<style>" + PAGE_CSS + "</style>\n</head>\n<body>\n"
+        + desc_line
+        + "<title>" + title + " · Ezra 内容中央枢纽</title>\n<style>" + PAGE_CSS + "</style>\n</head>\n<body>\n"
         "<div class=\"wrap\">\n<a class=\"back\" href=\"../../index.html\">← 返回内容中央枢纽</a>\n"
         "<h1>" + title + "</h1>\n"
         "<div class=\"meta\">" + " · ".join(meta_bits) + "</div>\n"
@@ -189,15 +264,21 @@ def main():
             if md_file.name.lower() == "readme.md":
                 continue
             meta, body = parse_frontmatter(md_file.read_text(encoding="utf-8"))
+            if not meta.get("title"):
+                meta["title"] = extract_title(body)
+            if not meta.get("title"):
+                print("错误：{0} 无标题（frontmatter 无 title、正文也提取不到），"
+                      "构建停住，先补标题再重跑".format(md_file), file=sys.stderr)
+                return 1
             slug = md_file.stem
             rel_md = "articles/{0}/{1}.md".format(sid, slug)
             rel_html = "articles/{0}/{1}.html".format(sid, slug)
             out_path = DOCS_ARTICLES / sid / (slug + ".html")
             out_path.parent.mkdir(parents=True, exist_ok=True)
-            out_path.write_text(render_page(meta, md_to_html(body)), encoding="utf-8")
+            out_path.write_text(render_page(meta, md_to_html(body), body), encoding="utf-8")
             items.append({
                 "date": meta.get("date", ""),
-                "title": meta.get("title", slug),
+                "title": meta["title"],
                 "scripture": meta.get("scripture", ""),
                 "author": meta.get("author", "Guangyi Zhao"),
                 "path": rel_md,
@@ -218,6 +299,13 @@ def main():
         data["articles"] = series_list
         idx_path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
         print("已更新索引 {0}（系列 {1} 个）".format(idx_path.relative_to(ROOT), len(series_list)))
+    # 构建末尾自动重建 sitemap（SEO 修复 2026-11-14：不再手工维护）
+    import subprocess
+    r = subprocess.run([sys.executable, str(ROOT / "scripts" / "gen_sitemap.py")],
+                       capture_output=True, text=True)
+    print(r.stdout.strip() or r.stderr.strip())
+    if r.returncode != 0:
+        print("警告：sitemap 生成失败，构建结果不完整", file=sys.stderr)
     return 0
 
 

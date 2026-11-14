@@ -1,22 +1,268 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-10-25-bart-green-line.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-10-26-vta-service-changes.html</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-10-27-coastal-flood-advisory.html</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-10-28-coastal-flood-extended.html</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-10-29-bart-morning-delays.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-10-30-coastal-flood-extended-to-sunday.html</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-10-31-vote-centers-open.html</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-02-election-day-tomorrow.html</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-03-election-day-vote-by-8pm.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-04-council-early-results.html</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-05-rtm-early-pass.html</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-06-rtm-leads-61-8.html</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-07-us101-sb-weekend-closure.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-08-bart-green-line-next-weekend.html</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-09-bart-yellow-line-single-tracking.html</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-10-coastal-flood-high-tide.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-11-veterans-day-high-tide.html</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-12-el-nino-emergency-high-tide.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-13-high-tide-data-center-pause.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-14-bart-green-line-shutdown.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-10-22-earnings-premarket.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-10-22-flood-prep.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-10-22-php2shell.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-11-09-history-rhymes-jensen-huang-en.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-11-09-history-rhymes-jensen-huang-es.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-11-09-history-rhymes-jensen-huang-hi.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-11-09-history-rhymes-jensen-huang-ko.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-11-09-history-rhymes-jensen-huang-vi.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-11-09-history-rhymes-jensen-huang-zh.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch01-solar-snow.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch02-unsigned.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch03-hardest-year.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch04-clean-books.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch05-dinner-table.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-08-16-your-tomorrow-in-gods-hands.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-02-spiritual-vision-of-the-pure-in-heart.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-09-god-saw-that-it-was-good.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-11-asleep-in-preparation.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-14-clothed-before-the-expulsion.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/tech-nvidia/2026-11-10-ai-factory-power-beyond-pue.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/tech-nvidia/2026-11-10-cuda-stack-dynamo-inference.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/tech-nvidia/2026-11-10-nvlink-scale-up-domain.html</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ezra-zhao.github.io/ezra-content-hub/</loc>
     <lastmod>2026-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/shidu.html</loc>
-    <lastmod>2026-10-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/qa.html</loc>
-    <lastmod>2026-10-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://ezra-zhao.github.io/ezra-content-hub/privacy-policy.html</loc>
@@ -25,170 +271,116 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/qa.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/shidu.html</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://ezra-zhao.github.io/ezra-content-hub/terms-of-service.html</loc>
     <lastmod>2026-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-10-25-bart-green-line.html</loc>
-    <lastmod>2026-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-10-22-earnings-premarket.html</loc>
-    <lastmod>2026-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-10-22-flood-prep.html</loc>
-    <lastmod>2026-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/flash/2026-10-22-php2shell.html</loc>
-    <lastmod>2026-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch01-solar-snow.html</loc>
-    <lastmod>2026-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch02-unsigned.html</loc>
-    <lastmod>2026-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch03-hardest-year.html</loc>
-    <lastmod>2026-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch04-clean-books.html</loc>
-    <lastmod>2026-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch05-dinner-table.html</loc>
-    <lastmod>2026-10-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-08-16-your-tomorrow-in-gods-hands.html</loc>
-    <lastmod>2026-08-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-02-spiritual-vision-of-the-pure-in-heart.html</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.html</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-09-god-saw-that-it-was-good.html</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-11-asleep-in-preparation.html</loc>
-    <lastmod>2026-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-14-clothed-before-the-expulsion.html</loc>
-    <lastmod>2026-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion.xml</loc>
-    <lastmod>2026-10-26</lastmod>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/bay-area-benefits.xml</loc>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-en.xml</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-es.xml</loc>
-    <lastmod>2026-10-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-vi.xml</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-hi.xml</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-vi.xml</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion.xml</loc>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/fred.xml</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/waqi.xml</loc>
-    <lastmod>2026-10-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/silicon-valley.xml</loc>
-    <lastmod>2026-10-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/longevity.xml</loc>
-    <lastmod>2026-10-26</lastmod>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/history-rhymes.xml</loc>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/immigration.xml</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/bay-area-benefits.xml</loc>
-    <lastmod>2026-10-26</lastmod>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/longevity.xml</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/news.xml</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/silicon-valley.xml</loc>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/stocks-pm.xml</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/tangqa.xml</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/podcast/waqi.xml</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ezra-zhao.github.io/ezra-content-hub/novel-rss.xml</loc>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
