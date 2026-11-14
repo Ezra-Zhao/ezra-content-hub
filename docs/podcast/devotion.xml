@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 10:46:21 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:42:08 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 路加福音8:15：持守在诚实善良的心里｜睡前灵修</title>
+      <description>路加福音8:15：持守在诚实善良的心里——路加福音 8:15 的话陪你走今天这一步，讲解改编自宋尚节《撒种的心田》、经彻底重写，祷告为原创。 经文：路加福音 8:15（和合本）</description>
+      <pubDate>Sat, 14 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-14</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-14/audio.mp3" length="1945225" type="audio/mpeg"/>
+      <itunes:duration>2:02</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 约翰福音3:3：人若不重生就不能见神的国｜晨起读经</title>
+      <description>约翰福音3:3：人若不重生就不能见神的国——约翰福音 3:3 的话陪你走今天这一步，讲解改编自王明道《重生真义》、经彻底重写，祷告为原创。 经文：约翰福音 3:3（和合本）</description>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-14</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-14/audio.mp3" length="1966958" type="audio/mpeg"/>
+      <itunes:duration>2:03</itunes:duration>
+    </item>
     <item>
       <title>[PM] 以弗所书2:6：与基督一同坐在天上｜睡前灵修</title>
       <description>以弗所书2:6：与基督一同坐在天上——以弗所书 2:6 的话陪你走今天这一步，讲解改编自倪柝声《坐、行、站》、经彻底重写，祷告为原创。 经文：以弗所书 2:6（和合本）</description>
