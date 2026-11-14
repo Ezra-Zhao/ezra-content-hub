@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-14",
  "programs": [
   {
    "id": "devotion-am",
@@ -2303,6 +2303,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-14",
+     "title": "新闻矩阵｜11月14日早间版：全美停飞四小时后恢复缓慢，尼日尔伏击至少38人死亡，星舰第二次入轨",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月14日早间版：全美停飞四小时后恢复缓慢，尼日尔伏击至少38人死亡，星舰第二次入轨",
+     "audio": "content/news-am/2026-11-14/audio.mp3",
+     "page": "content/news-am/2026-11-14/index.md",
+     "duration_sec": 301,
+     "duration": "5:01",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-13",
      "title": "新闻矩阵｜11月13日早间版：欧洲入局乌谈判未定，微软故障渐恢复，生产者价格低于预期期货反弹",
      "scripture": "",
@@ -2591,7 +2607,7 @@
      }
     }
    ],
-   "count": 18,
+   "count": 19,
    "related": [
     "fred-am",
     "fred-pm",
