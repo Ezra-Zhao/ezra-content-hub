@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 20:45:45 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:46:59 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Politics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>《弹古论今》11月12日｜调查还没开始，先被警告是犯罪：杨涟二十四大罪的镜子</title>
+      <description>中期选举民主党夺下两院，新国会一月才就职，监督议程未开张先收到白宫警告信：调查可能构成「明目张胆的犯罪」。四百年前明朝都察院演过同一幕——1624年左副都御史杨涟列魏忠贤二十四大罪，天启温谕留人、严旨切责，次年杨涟、左光斗等六人下诏狱拷打致死；调查者与被查者谁先进被告席，胜负手在裁判是否中立。四条可证伪预判，立此存照。</description>
+      <pubDate>Thu, 12 Nov 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">history-rhymes-2026-11-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/history-rhymes/2026-11-12/audio.mp3" length="2940151" type="audio/mpeg"/>
+      <itunes:duration>6:07</itunes:duration>
+    </item>
     <item>
       <title>《弹古论今》11月11日｜政府还没组起来，废法案先递上去了：北宋元祐更化的镜子</title>
       <description>以色列第二十六届议会宣誓，艾森科特组阁未成（53/48/19、过半61、期限12月6日），其阵营第一天先递废司法改革、立十月七日国家调查、设总理任期三法案，并以67人联署换议长（11月17日表决）——九百四十年前北宋元祐更化（1085–1105）演过同一结构：先换人、先废法、联盟靠反对拼成、废易立难，二十年政策翻三个来回。四条可证伪预判，立此存照。另：特辑预判一（黄仁勋11月11日前确认出席国会简报）到期对账——未应验，认账：无公开确认、据报提出派总法律顾问代替、三主席转而威胁传票。</description>
