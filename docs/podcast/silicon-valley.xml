@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 13:22:35 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:07:09 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报｜11月15日：智能体能替你付钱了，卡号还不经它的手</title>
+      <description>这里是《硅谷科技日报》。今天是2026年11月15日，星期日。头条：智能体能替你付钱了，卡号还不经它的手。</description>
+      <pubDate>Sun, 15 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-11-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-11-15/audio.mp3" length="963622" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
     <item>
       <title>硅谷科技日报·晚间版｜11月13日：克劳德进会议室了，边开会边写文档</title>
       <description>这里是《硅谷科技日报》晚间版。今天是2026年11月13日，星期五。头条：克劳德进会议室了，边开会边写文档。</description>
