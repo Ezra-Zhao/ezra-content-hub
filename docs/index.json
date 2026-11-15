@@ -3925,6 +3925,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-14",
+     "title": "美国百指日报·晚间速报｜11月14日：周六无新数据，成屋销售375万套创16年低位",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-14 快照（173 个指标，30 个异常）。今日实际发布：星期六无预定经济数据发布（CME 日历当日 0 项、多源一致），清单为空。成屋销售为全国房地产经纪人协会 2026-11-12 公布的 10 月数据：环比降 5.5%，年率 375 万套，前值 397 万套，低于预期 385 万套，同比降 8.8%，为 2010 年 8 月以来最低；中位价 416700 美元、同比涨 0.4%，未售库存 159 万套、供应 5.1 个月。收盘为 AP 终值：周五标普降 0.40% 收 7561.67 点、纳指降 0.91%、道指涨 0.10%，全周标普涨 2.51%、纳指涨 2.27%、道指涨 2.07%。前瞻：周一纽约联储制造业指数（预期 17.6、前值 25.5），周二零售销售（预期涨 0.2%）与英伟达业绩，周三联储会议纪要。主播整理：Guangyi Zhao。配音：ElevenLabs 定版声线（模型 eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-14/audio.mp3",
+     "page": "content/fred-pm/2026-11-14/index.md",
+     "duration_sec": 123,
+     "duration": "2:03",
+     "video_url": "https://www.youtube.com/watch?v=G3dsVt4wztY",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=G3dsVt4wztY"
+     }
+    },
+    {
      "date": "2026-11-13",
      "title": "美国百指日报·晚间速报｜11月13日：生产者物价同比涨6.5%创2022年11月以来最高，股市全周大涨",
      "scripture": "",
@@ -4325,7 +4341,7 @@
      }
     }
    ],
-   "count": 25,
+   "count": 26,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
