@@ -2627,6 +2627,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-14",
+     "title": "新闻矩阵｜11月14日晚间版：星舰飞船首次被发射塔接住，全美航班周六再取消五千多班，阿拉斯加最后一席领先过万",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月14日晚间版：星舰飞船首次被发射塔接住，全美航班周六再取消五千多班，阿拉斯加最后一席领先过万",
+     "audio": "content/news-pm/2026-11-14/audio.mp3",
+     "page": "content/news-pm/2026-11-14/index.md",
+     "duration_sec": 338,
+     "duration": "5:38",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-13",
      "title": "新闻矩阵｜11月13日晚间版：欧洲五国代表组敲定俄方未确认放行，芯片股回吐纳指收跌百分之零点九一，巴林两架无人机被击落",
      "scripture": "",
@@ -2915,7 +2931,7 @@
      }
     }
    ],
-   "count": 18,
+   "count": 19,
    "related": [
     "fred-am",
     "fred-pm",
