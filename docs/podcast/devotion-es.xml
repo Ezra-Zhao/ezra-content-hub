@@ -7,7 +7,7 @@
     <language>es</language>
     <description>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 11:45:55 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:46:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</itunes:summary>
     <itunes:keywords>devoción diaria,lectura bíblica,oración,escritura,devocional matutino,devocional nocturno,fe cristiana,meditación</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Juan 6:11: Habiendo dado gracias, repartió cuanto querían</title>
+      <description>Y tomó Jesús aquellos panes, y habiendo dado gracias, repartió á los discípulos — esta noche descansa en la abundancia del Rey que todo lo provee. Escritura: Juan 6:11 (RVR1909)</description>
+      <pubDate>Sun, 15 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-11-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-11-15/audio.mp3" length="2092764" type="audio/mpeg"/>
+      <itunes:duration>2:11</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Marcos 1:3: Aparejad el camino del Señor, enderezad sus veredas</title>
+      <description>Voz del que clama en el desierto: Aparejad el camino del Señor; Enderezad sus veredas — antes de la reunión de hoy, prepara el camino de tu corazón. Escritura: Marcos 1:3 (RVR1909)</description>
+      <pubDate>Sun, 15 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-11-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-11-15/audio.mp3" length="2064343" type="audio/mpeg"/>
+      <itunes:duration>2:09</itunes:duration>
+    </item>
     <item>
       <title>[PM] Lucas 8:15: Retienen la palabra oída, y llevan fruto en paciencia</title>
       <description>Mas la que en buena tierra, éstos son los que con corazón bueno y recto retienen la palabra oída — esta noche deja que el Señor limpie la tierra de tu corazón. Escritura: Lucas 8:15 (RVR1909)</description>

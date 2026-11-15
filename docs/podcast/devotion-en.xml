@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 11:45:55 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:46:05 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] John 6:11: He Gave Thanks, and Distributed to Those Sitting Down</title>
+      <description>Jesus took the loaves, and having given thanks, distributed as much as they desired — tonight rest in the abundance of the all-providing King. Scripture: John 6:11 (WEB)</description>
+      <pubDate>Sun, 15 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-15/audio.mp3" length="2031324" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Mark 1:3: Make Ready the Way of the Lord, Make His Paths Straight</title>
+      <description>The voice of one crying in the wilderness, Make ready the way of the Lord, Make his paths straight — before worship today, prepare the road in your heart. Scripture: Mark 1:3 (WEB)</description>
+      <pubDate>Sun, 15 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-15/audio.mp3" length="2006665" type="audio/mpeg"/>
+      <itunes:duration>2:05</itunes:duration>
+    </item>
     <item>
       <title>[PM] Luke 8:15: Hold the Word Tightly in an Honest and Good Heart</title>
       <description>Those in the good ground, with an honest and good heart, hold the word tightly and produce fruit with perseverance — tonight let the Lord clear the soil of your heart. Scripture: Luke 8:15 (WEB)</description>
