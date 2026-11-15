@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 00:32:57 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:15:51 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Politics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>《弹古论今》11月14日｜辞职第三天，十一万人请他回来：邓小平复出的那道门</title>
+      <description>黄仁勋辞职第三天（11月12日辞职、结束33年任期），请愿网站自报签名逾11.5万（自称现任员工5,965人、股东63,063人，马斯克等站台），诉求是先请回、再让独立调查查清事实；但几路请愿数字不一致、且均无约束力，预测市场只给回任9%的概率。对应的旧剧本是邓小平：1976年4月7日被撤销一切职务、只保留党籍以观后效，1977年7月十届三中全会决议恢复全部职务——复出用了十五个月，前提是做决定的一方先变了局，不是签名人数。本期同时提前认账：特辑预判三「2027年中前不会下台」已被辞职事实击穿。四条可证伪预判，立此存照。</description>
+      <pubDate>Sat, 14 Nov 2026 19:00:00 -0700</pubDate>
+      <guid isPermaLink="false">history-rhymes-2026-11-14</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/history-rhymes/2026-11-14/audio.mp3" length="3120919" type="audio/mpeg"/>
+      <itunes:duration>6:30</itunes:duration>
+    </item>
     <item>
       <title>《弹古论今》11月13日｜飞机全停在地上四个小时：明末裁驿省下的那笔账</title>
       <description>FAA 因空管通信故障全国停飞逾四小时（9·11 以来第二次），取消一千多架次、延误近一万架次：老旧网络打补丁时过载，138 套系统四分之三被 GAO 判不可持续，去年批的 125 亿美元之外白宫当天再要 301 亿。四百年前明朝驿传同病：积弊多年、靠借债硬撑，崇祯二年（1629）刘懋议裁驿省钱、四年报告裁下 685,720 余两，《明史》却把因果写死——裁驿使山陕仰驿糈者无所得食俱从贼、贼转盛，银川驿卒李自成 1644 年打进北京。省钱和拖延不是免费的，只是账单寄到的时间不同。四条可证伪预判，立此存照。</description>
