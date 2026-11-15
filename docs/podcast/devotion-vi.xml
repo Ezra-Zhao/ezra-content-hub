@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 11:46:06 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:54:20 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Ngài Tạ Ơn Rồi Phân Phát Cho Mọi Người</title>
+      <description>Chu cấp không ở chỗ tay ta có bao nhiêu, mà ở chỗ trao vào tay ai: tạ ơn trước, giao phó, và an nghỉ trong sự giàu có của Chúa. Kinh Thánh: Giăng 6:11 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sun, 15 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-11-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-11-15/audio.mp3" length="1919661" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Hãy Dọn Đường Chúa, Ban Bằng Các Nẻo Ngài</title>
+      <description>Dọn đường Chúa là ăn năn thật trong đồng vắng: san bằng kiêu ngạo, sửa thẳng cong quẹo, và bắt đầu từ việc nhỏ cụ thể hôm nay. Kinh Thánh: Mác 1:3 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sun, 15 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-15/audio.mp3" length="1846701" type="audio/mpeg"/>
+      <itunes:duration>1:55</itunes:duration>
+    </item>
     <item>
       <title>[PM] Đất Tốt: Giữ Đạo Và Bền Lòng Kết Quả</title>
       <description>Đất tốt là lòng để Chúa dọn đi đá và gai, giữ đạo trong lòng thật thà tử tế, buông xuống lo lắng và bền lòng chờ kết quả. Kinh Thánh: Lu-ca 8:15 (Bản Truyền Thống 1925)</description>
