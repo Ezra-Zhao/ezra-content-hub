@@ -6261,8 +6261,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 20,
+   "count": 21,
    "items": [
+    {
+     "date": "2026-11-15",
+     "title": "BART绿线停运最后一天，去旧金山先留半小时",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-15-bart-green-line-last-day.md",
+     "page": "articles/baylocal/2026-11-15-bart-green-line-last-day.html"
+    },
     {
      "date": "2026-11-14",
      "title": "BART绿线今天停运，去旧金山先留半小时",
