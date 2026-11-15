@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 08:45:58 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:22:35 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报｜11月15日：膀胱癌新组合获批，死亡风险降了四成二</title>
+      <description>本期：FDA批准度伐利尤单抗联合恩诺单抗用于肌层浸润性膀胱癌（手术前联合、手术后单药），适用不能用或拒绝顺铂的成年人；VOLGA三期695人，中位无事件生存期未达到对12.1个月、事件风险降49%，死亡风险降42%。快讯：Lancet Diabetes &amp; Endocrinology发表REDEFINE 9三期，在研减重复方药68周平均体重下降约21%、安慰剂2.0%，在研未获批。轮换位：FDA批准Gazyva为首款原发性膜性肾病专用药，MAJESTY三期142人、104周尿蛋白完全缓解36%对6%。</description>
+      <pubDate>Sun, 15 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-15/audio.mp3" length="823397" type="audio/mpeg"/>
+      <itunes:duration>1:43</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报·晚间版｜11月13日：罕见肾病有了首款对症药，完全缓解高出五倍多</title>
       <description>本期：美国食品药品管理局今天批准Gazyva注射液治疗有病情进展风险的成人原发性膜性肾病，这是第一款专门获批治疗这类病的药；三期试验142名成人、随访104周，完全缓解36%对6%，说明书带有黑框警告，具体风险以说明书为准。快讯跟进麻疹线：路透社转述《华尔街日报》报道，泛美卫生组织已撤销美国保持了26年的麻疹消除地位，理由是同一病毒株连续传播超过12个月，该组织尚未立即回应置评请求、正式口径以其后续公告为准。轮换位：《自然·代谢》新研究测了1068名成人，健康人血液NAD水平并不随年龄普遍下降，在心血管病尤其高血压人群里更低，观察性关联、不等于因果，不能证明补这类分子能防病。</description>
