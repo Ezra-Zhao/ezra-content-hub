@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 11:46:05 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:45:39 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Psalm 34:8: Taste and See That Yahweh Is Good</title>
+      <description>Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him — tonight count the grace you tasted today, and rest. Scripture: Psalm 34:8 (WEB)</description>
+      <pubDate>Mon, 16 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-16/audio.mp3" length="1758397" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 1 John 1:9: If We Confess Our Sins, He Forgives and Cleanses Us</title>
+      <description>If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness — begin the new week with a clean heart. Scripture: 1 John 1:9 (WEB)</description>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-16/audio.mp3" length="2251171" type="audio/mpeg"/>
+      <itunes:duration>2:21</itunes:duration>
+    </item>
     <item>
       <title>[PM] John 6:11: He Gave Thanks, and Distributed to Those Sitting Down</title>
       <description>Jesus took the loaves, and having given thanks, distributed as much as they desired — tonight rest in the abundance of the all-providing King. Scripture: John 6:11 (WEB)</description>

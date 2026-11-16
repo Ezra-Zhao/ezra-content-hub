@@ -7,7 +7,7 @@
     <language>es</language>
     <description>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 11:46:06 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:45:39 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</itunes:summary>
     <itunes:keywords>devoción diaria,lectura bíblica,oración,escritura,devocional matutino,devocional nocturno,fe cristiana,meditación</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Salmos 34:8: Gustad y ved que es bueno Jehová</title>
+      <description>Gustad, y ved que es bueno Jehová: Dichoso el hombre que confiará en él — esta noche cuenta la gracia que probaste hoy, y descansa. Escritura: Salmos 34:8 (RVR1909)</description>
+      <pubDate>Mon, 16 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-11-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-11-16/audio.mp3" length="2020875" type="audio/mpeg"/>
+      <itunes:duration>2:06</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 1 Juan 1:9: Si confesamos nuestros pecados, él nos perdona y nos limpia</title>
+      <description>Si confesamos nuestros pecados, él es fiel y justo para que nos perdone nuestros pecados, y nos limpie de toda maldad — comienza la semana nueva con un corazón limpio. Escritura: 1 Juan 1:9 (RVR1909)</description>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-11-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-11-16/audio.mp3" length="2102795" type="audio/mpeg"/>
+      <itunes:duration>2:11</itunes:duration>
+    </item>
     <item>
       <title>[PM] Juan 6:11: Habiendo dado gracias, repartió cuanto querían</title>
       <description>Y tomó Jesús aquellos panes, y habiendo dado gracias, repartió á los discípulos — esta noche descansa en la abundancia del Rey que todo lo provee. Escritura: Juan 6:11 (RVR1909)</description>
