@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-16",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -3487,6 +3487,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-16",
+     "title": "《美国百指日报》2026-11-16｜纽约制造业降到7.8低于预期，比特币反弹3.02%，明天看零售销售",
+     "scripture": "",
+     "theme": "大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月十六日，星期一。",
+     "audio": "content/fred-am/2026-11-16/audio.mp3",
+     "page": "content/fred-am/2026-11-16/index.md",
+     "duration_sec": 362,
+     "duration": "6:02",
+     "video_url": "https://www.youtube.com/watch?v=ihNtoIeSlUQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=ihNtoIeSlUQ"
+     }
+    },
+    {
      "date": "2026-11-15",
      "title": "《美国百指日报》2026-11-15｜周日无新数据，比特币跌7.76%，下周看零售销售与联储纪要",
      "scripture": "",
@@ -3967,7 +3983,7 @@
      }
     }
    ],
-   "count": 30,
+   "count": 31,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -4442,6 +4458,22 @@
    "desc": "长寿与健康前沿速报：每天替你读长寿与健康领域的论文与研究。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-11-16",
+     "title": "长寿前沿日报｜11月16日：乳腺癌口服新组合获批，无进展时间延到十个月",
+     "scripture": "",
+     "theme": "本期：FDA批准口服雌激素受体拮抗剂联合依维莫司，用于ESR1突变、内分泌治疗后进展或复发的晚期乳腺癌；evERA三期373人、突变207人，中位无进展生存期10个月对5.5个月、进展或死亡风险降62%，肿瘤缩小27%对14%，总生存数据未成熟。快讯：FDA批准首款双结合纳米抗体C5抑制剂治全身型重症肌无力，PREVAIL三期260人、26周日常活动评分改善4.2分对2.6分，每周一次皮下注射。轮换位：Nature Medicine汇总51项临床研究、110多个表观遗传指标，运动配合健康饮食稳定降低表观年龄指标、常见保健品无明确效果，表观年龄下降不等于已证明延寿。",
+     "audio": "content/longevity/2026-11-16/audio.mp3",
+     "page": "content/longevity/2026-11-16/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "https://www.youtube.com/watch?v=f_8l6PgR6ok",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=f_8l6PgR6ok"
+     }
+    },
     {
      "date": "2026-11-15",
      "title": "长寿前沿日报｜11月15日：膀胱癌新组合获批，死亡风险降了四成二",
@@ -5115,7 +5147,7 @@
      }
     }
    ],
-   "count": 42,
+   "count": 43,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -5136,6 +5168,22 @@
    "desc": "硅谷科技动态速报：AI 与科技公司最新进展。",
    "category": "科技",
    "episodes": [
+    {
+     "date": "2026-11-16",
+     "title": "硅谷科技日报｜11月16日：新旗舰上线，一次读一百万词元",
+     "scripture": "",
+     "theme": "这里是硅谷科技日报，今天是二零二六年十一月十六日，星期一。今天头条：通义千问新旗舰今天上线，一次能读一百万个词元。",
+     "audio": "content/silicon-valley/2026-11-16/audio.mp3",
+     "page": "content/silicon-valley/2026-11-16/index.md",
+     "duration_sec": 119,
+     "duration": "1:59",
+     "video_url": "https://www.youtube.com/watch?v=mD91if28beQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=mD91if28beQ"
+     }
+    },
     {
      "date": "2026-11-15",
      "title": "硅谷科技日报｜11月15日：智能体能替你付钱了，卡号还不经它的手",
@@ -5681,7 +5729,7 @@
      }
     }
    ],
-   "count": 34,
+   "count": 35,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -5702,6 +5750,22 @@
    "desc": "移民政策速报：美国移民政策与法规变化解读。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-11-16",
+     "title": "移民政策速报｜2026年11月16日：民事罚款申诉今日截止，十二月排期公告尚未发布",
+     "scripture": "",
+     "theme": "这里是移民政策速报。今天是二零二六年十一月十六日，星期一。本期主打日历：国土安全部追认的一批移民民事罚款，被处罚人主张受旧程序影响的申诉，今天是最后送达日。",
+     "audio": "content/immigration/2026-11-16/audio.mp3",
+     "page": "content/immigration/2026-11-16/index.md",
+     "duration_sec": 111,
+     "duration": "1:51",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-11-15",
      "title": "移民政策速报｜2026年11月15日：黎巴嫩临时保护本月27日到期，EB-5新收费30日生效",
@@ -6055,7 +6119,7 @@
      }
     }
    ],
-   "count": 22,
+   "count": 23,
    "listen": {
     "pocketcasts": "https://pca.st/8vhld1p4",
     "castbox": "https://castbox.fm/channel/id7461844"
@@ -6305,7 +6369,7 @@
    "slot": "晚间",
    "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
    "category": "时效",
-   "count": 6,
+   "count": 7,
    "related": [
     "news-am",
     "news-pm",
@@ -6316,6 +6380,22 @@
    ],
    "title": "弹古论今 · History Rhymes",
    "episodes": [
+    {
+     "date": "2026-11-15",
+     "title": "《弹古论今》11月15日｜法官赶在换届前塞满，本党人先拦了：明朝传奉官的那道程序门",
+     "scripture": "",
+     "theme": "据路透社报道，参议院一月将由民主党接掌，白宫赶在跛脚鸭会期确认法官（本届任期已确认57人、23人待确认），却被本党参议员用蓝条与委员会程序拦下三人：Rudofsky提名已被撤回改提Hiland，Gaiser无蓝条周三进不了听证，West被本州参议员撤回支持。对应的旧剧本是明朝成化年间的传奉官：宪宗绕过吏部铨选与会推、一道圣旨直接授官，李孜省以方术得进官至礼部侍郎；成化二十一年群臣论弊、一次斥罢五百余人，孝宗即位尽行裁革，但弘治年间又复炽至文职八百九十余人——程序门被绕开过一次，就总有人再绕。关键不同：联邦法官是终身职，确认了裁不掉。四条可证伪预判，立此存照。",
+     "audio": "content/history-rhymes/2026-11-15/audio.mp3",
+     "page": "content/history-rhymes/2026-11-15/index.md",
+     "duration_sec": 447,
+     "duration": "7:27",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-11-14",
      "title": "《弹古论今》11月14日｜辞职第三天，十一万人请他回来：邓小平复出的那道门",
