@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 23:13:26 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:43:28 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜11月15日：周日无新数据，比特币跌7.76%至62890.64美元</title>
+      <description>&gt; 数据：FRED 2026-11-15 快照。今日实际发布：星期日无预定经济数据发布、市场休市，清单为空（facts.json today_releases 已逐项登记为空）。周末信号为快照最大异常：比特币 2026-11-14 报 62890.64 美元、前值 68178.05 美元、单期跌 7.76%（偏离度 z=-3.26），快照不提供原因、稿中不臆测。定价起点（11 月 12 日读数）：1 年期国债 4.65%、10 年期 5.1%、30 年房贷利率 7.11%；10 月成屋销售 375 万套仍为 16 年低位。周五收盘 AP 终值与今晨早间版同源定版（标普 7561.67、跌 0.40%，全周涨 2.51%）。前瞻：周一 08:30 ET 纽约联储制造业（预期 17.6、前值 25.5），周二零售销售（预期涨 0.2%）与英伟达业绩，周三 14:00 ET 联储纪要（金十雷达与公开日历交叉）。主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
+      <pubDate>Sun, 15 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-15</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-15/audio.mp3" length="1001239" type="audio/mpeg"/>
+      <itunes:duration>2:05</itunes:duration>
+    </item>
     <item>
       <title>《美国百指日报》2026-11-15｜周日无新数据，比特币跌7.76%，下周看零售销售与联储纪要｜11月15日</title>
       <description>&gt; 数据：FRED 2026-11-15 快照。头条实际值：比特币 2026-11-14 报 62890.64 美元、前值 68178.05 美元、单期跌 7.76%（快照不提供原因、稿中不臆测）。前瞻来源：金十数据雷达与 TipRanks/Scotiabank 公开日历交叉（周一纽约联储制造业、周二零售销售与英伟达业绩、周三联储纪要）。新闻：AT&amp;T 近 500 条智能体工作流在产（SiliconANGLE 2026-11-14，公司自报未独立核实）；Molecular Designs 三联检获 FDA 510(k) 许可 K262789（公司稿 2026-11-14）。 &gt; 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>

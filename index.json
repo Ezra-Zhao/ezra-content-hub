@@ -3973,6 +3973,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-15",
+     "title": "美国百指日报·晚间速报｜11月15日：周日无新数据，比特币跌7.76%至62890.64美元",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-15 快照。今日实际发布：星期日无预定经济数据发布、市场休市，清单为空（facts.json today_releases 已逐项登记为空）。周末信号为快照最大异常：比特币 2026-11-14 报 62890.64 美元、前值 68178.05 美元、单期跌 7.76%（偏离度 z=-3.26），快照不提供原因、稿中不臆测。定价起点（11 月 12 日读数）：1 年期国债 4.65%、10 年期 5.1%、30 年房贷利率 7.11%；10 月成屋销售 375 万套仍为 16 年低位。周五收盘 AP 终值与今晨早间版同源定版（标普 7561.67、跌 0.40%，全周涨 2.51%）。前瞻：周一 08:30 ET 纽约联储制造业（预期 17.6、前值 25.5），周二零售销售（预期涨 0.2%）与英伟达业绩，周三 14:00 ET 联储纪要（金十雷达与公开日历交叉）。主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-15/audio.mp3",
+     "page": "content/fred-pm/2026-11-15/index.md",
+     "duration_sec": 125,
+     "duration": "2:05",
+     "video_url": "https://www.youtube.com/watch?v=gEBUyo75mcg",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=gEBUyo75mcg"
+     }
+    },
+    {
      "date": "2026-11-14",
      "title": "美国百指日报·晚间速报｜11月14日：周六无新数据，成屋销售375万套创16年低位",
      "scripture": "",
@@ -4389,7 +4405,7 @@
      }
     }
    ],
-   "count": 26,
+   "count": 27,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
