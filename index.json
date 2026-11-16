@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-15",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -3471,6 +3471,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-15",
+     "title": "《美国百指日报》2026-11-15｜周日无新数据，比特币跌7.76%，下周看零售销售与联储纪要",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-15 快照。头条实际值：比特币 2026-11-14 报 62890.64 美元、前值 68178.05 美元、单期跌 7.76%（快照不提供原因、稿中不臆测）。前瞻来源：金十数据雷达与 TipRanks/Scotiabank 公开日历交叉（周一纽约联储制造业、周二零售销售与英伟达业绩、周三联储纪要）。新闻：AT&T 近 500 条智能体工作流在产（SiliconANGLE 2026-11-14，公司自报未独立核实）；Molecular Designs 三联检获 FDA 510(k) 许可 K262789（公司稿 2026-11-14）。 > 主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-am/2026-11-15/audio.mp3",
+     "page": "content/fred-am/2026-11-15/index.md",
+     "duration_sec": 325,
+     "duration": "5:25",
+     "video_url": "https://www.youtube.com/watch?v=rUQTDzlMGk0",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=rUQTDzlMGk0"
+     }
+    },
+    {
      "date": "2026-11-14",
      "title": "《美国百指日报》2026-11-14｜周六无新数据，成屋销售375万套创16年低位，全周股市仍涨2.5%",
      "scripture": "",
@@ -3935,7 +3951,7 @@
      }
     }
    ],
-   "count": 29,
+   "count": 30,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
