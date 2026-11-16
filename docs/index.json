@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-15",
  "programs": [
   {
    "id": "devotion-am",
@@ -2643,6 +2643,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-15",
+     "title": "新闻矩阵｜11月15日晚间版：航班周日再取消二千三百多班达菲称周一全面正常，巴林称拦截伊朗空中袭击，佩尔托拉领先扩至一万一千多票",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月15日晚间版：航班周日再取消二千三百多班达菲称周一全面正常，巴林称拦截伊朗空中袭击，佩尔托拉领先扩至一万一千多票",
+     "audio": "content/news-pm/2026-11-15/audio.mp3",
+     "page": "content/news-pm/2026-11-15/index.md",
+     "duration_sec": 344,
+     "duration": "5:44",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-14",
      "title": "新闻矩阵｜11月14日晚间版：星舰飞船首次被发射塔接住，全美航班周六再取消五千多班，阿拉斯加最后一席领先过万",
      "scripture": "",
@@ -2947,7 +2963,7 @@
      }
     }
    ],
-   "count": 19,
+   "count": 20,
    "related": [
     "fred-am",
     "fred-pm",
