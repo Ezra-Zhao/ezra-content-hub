@@ -3017,6 +3017,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-16",
+     "title": "美股盘后小结 11月16日：三大指数连跌第三日",
+     "scripture": "",
+     "theme": "美股盘后小结，11月16日，星期一。三大指数连跌第三天，纳斯达克跌百分之二点四九，科技股领跌，十年期美债收益率升至约百分之五点一。",
+     "audio": "content/stocks-pm/2026-11-16/audio.mp3",
+     "page": "content/stocks-pm/2026-11-16/index.md",
+     "duration_sec": 70,
+     "duration": "1:10",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-13",
      "title": "美股盘后小结 11月13日：芯片领跌三大指数收跌",
      "scripture": "",
@@ -3465,7 +3481,7 @@
      }
     }
    ],
-   "count": 28,
+   "count": 29,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
