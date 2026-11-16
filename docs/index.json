@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-16",
  "programs": [
   {
    "id": "devotion-am",
@@ -2303,6 +2303,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-16",
+     "title": "新闻矩阵｜11月16日早间版：航班周一逐步恢复正常，霍尔木兹油轮起火说法不一，英伟达财报与Anthropic上市考验AI行情",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月16日早间版：航班周一逐步恢复正常，霍尔木兹油轮起火说法不一，英伟达财报与Anthropic上市考验AI行情",
+     "audio": "content/news-am/2026-11-16/audio.mp3",
+     "page": "content/news-am/2026-11-16/index.md",
+     "duration_sec": 269,
+     "duration": "4:29",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-15",
      "title": "新闻矩阵｜11月15日早间版：航班预计今晚恢复正常，星舰飞船首次被发射塔接住，泽连斯基称美方提议以顿巴斯换北约",
      "scripture": "",
@@ -2623,7 +2639,7 @@
      }
     }
    ],
-   "count": 20,
+   "count": 21,
    "related": [
     "fred-am",
     "fred-pm",
