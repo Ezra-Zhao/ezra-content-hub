@@ -6629,8 +6629,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 22,
+   "count": 23,
    "items": [
+    {
+     "date": "2026-11-17",
+     "title": "今晚风暴到，大风提示九点生效，明早通勤先留时间",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-17-storm-wind-advisory-tonight.md",
+     "page": "articles/baylocal/2026-11-17-storm-wind-advisory-tonight.html"
+    },
     {
      "date": "2026-11-16",
      "title": "Powell站南侧入口今天起关闭，进站先走北侧入口",
