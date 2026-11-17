@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 10:49:54 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:03:29 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 诗篇27:4：一生一世瞻仰祂的荣美｜睡前灵修</title>
+      <description>诗篇27:4：一生一世瞻仰祂的荣美——诗篇 27:4 的话陪你走今天这一步，讲解改编自陶恕《神的完全》、经彻底重写，祷告为原创。 经文：诗篇 27:4（和合本）</description>
+      <pubDate>Tue, 17 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-17/audio.mp3" length="1932686" type="audio/mpeg"/>
+      <itunes:duration>2:01</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 马太福音5:48：要完全，像天父完全一样｜晨起读经</title>
+      <description>马太福音5:48：要完全，像天父完全一样——马太福音 5:48 的话陪你走今天这一步，讲解改编自陶恕《神的完全》、经彻底重写，祷告为原创。 经文：马太福音 5:48（和合本）</description>
+      <pubDate>Tue, 17 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-17/audio.mp3" length="2265381" type="audio/mpeg"/>
+      <itunes:duration>2:22</itunes:duration>
+    </item>
     <item>
       <title>[PM] 诗篇34:8：尝尝主恩，便知道祂是美善｜睡前灵修</title>
       <description>诗篇34:8：尝尝主恩，便知道祂是美善——诗篇 34:8 的话陪你走今天这一步，讲解改编自陶恕《神的良善》、经彻底重写，祷告为原创。 经文：诗篇 34:8（和合本）</description>
