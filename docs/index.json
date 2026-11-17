@@ -2303,6 +2303,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-17",
+     "title": "新闻矩阵｜11月17日早间版：乌军再击克里米亚大桥公路拱坍塌，伊朗无人机袭巴林美军雷达，英伟达财报今晚揭晓",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月17日早间版：乌军再击克里米亚大桥公路拱坍塌，伊朗无人机袭巴林美军雷达，英伟达财报今晚揭晓",
+     "audio": "content/news-am/2026-11-17/audio.mp3",
+     "page": "content/news-am/2026-11-17/index.md",
+     "duration_sec": 369,
+     "duration": "6:09",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-16",
      "title": "新闻矩阵｜11月16日早间版：航班周一逐步恢复正常，霍尔木兹油轮起火说法不一，英伟达财报与Anthropic上市考验AI行情",
      "scripture": "",
@@ -2639,7 +2655,7 @@
      }
     }
    ],
-   "count": 21,
+   "count": 22,
    "related": [
     "fred-am",
     "fred-pm",
