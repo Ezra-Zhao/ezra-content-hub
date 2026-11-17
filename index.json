@@ -5186,6 +5186,22 @@
    "episodes": [
     {
      "date": "2026-11-16",
+     "title": "硅谷科技日报·晚间版｜11月16日：英伟达把开放模型打包成科学工具箱",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月16日，星期一。头条：英伟达把开放模型打包成科学工具箱。",
+     "audio": "content/silicon-valley/2026-11-16-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-16-pm/index.md",
+     "duration_sec": 101,
+     "duration": "1:41",
+     "video_url": "https://www.youtube.com/watch?v=qIaf3O7rO_g",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=qIaf3O7rO_g"
+     }
+    },
+    {
+     "date": "2026-11-16",
      "title": "硅谷科技日报｜11月16日：新旗舰上线，一次读一百万词元",
      "scripture": "",
      "theme": "这里是硅谷科技日报，今天是二零二六年十一月十六日，星期一。今天头条：通义千问新旗舰今天上线，一次能读一百万个词元。",
@@ -5745,7 +5761,7 @@
      }
     }
    ],
-   "count": 35,
+   "count": 36,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
