@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-16",
  "programs": [
   {
    "id": "devotion-am",
@@ -2659,6 +2659,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-16",
+     "title": "新闻矩阵｜11月16日晚间版：航班周一基本恢复美股三连跌纳指进回调区，佩尔托拉距过半只差五十二票",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月16日晚间版：航班周一基本恢复美股三连跌纳指进回调区，佩尔托拉距过半只差五十二票",
+     "audio": "content/news-pm/2026-11-16/audio.mp3",
+     "page": "content/news-pm/2026-11-16/index.md",
+     "duration_sec": 381,
+     "duration": "6:21",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-15",
      "title": "新闻矩阵｜11月15日晚间版：航班周日再取消二千三百多班达菲称周一全面正常，巴林称拦截伊朗空中袭击，佩尔托拉领先扩至一万一千多票",
      "scripture": "",
@@ -2979,7 +2995,7 @@
      }
     }
    ],
-   "count": 20,
+   "count": 21,
    "related": [
     "fred-am",
     "fred-pm",
