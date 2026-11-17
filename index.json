@@ -4021,6 +4021,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-16",
+     "title": "美国百指日报·晚间速报｜11月16日：纽约制造业降到7.8低于预期，纳指跌2.49%进入回调区",
+     "scripture": "",
+     "theme": "> 数据：FRED 2026-11-16 快照（173 个指标，29 个异常）。今日实际发布：纽约联储 11 月制造业指数报 7.8，前值 25.5，雷达预期 17.6，明显低于预期；新订单 3.0，雇员人数 18.1 为 2022 年 6 月以来最高，支付价格 45.9。今日收盘 AP 终值：标普 7416.59 点跌 1.92%，纳指 24509.76 点跌 2.49%，道指 51608.17 点跌 1.41%，三大指数连跌第三日，纳指较 10 月 6 日高点跌超 10% 进入回调区；英伟达跌 4.12%。异常榜：1 年期国债 4.65%，比特币 11 月 15 日报 64787.64 美元涨 3.02%。前瞻：周二 08:30 ET 零售销售（预期涨 0.2%、前值涨 0.8%）与盘后英伟达业绩，周三 14:00 ET 联储纪要（金十雷达与公开日历交叉）。主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-16/audio.mp3",
+     "page": "content/fred-pm/2026-11-16/index.md",
+     "duration_sec": 128,
+     "duration": "2:08",
+     "video_url": "https://www.youtube.com/watch?v=30Td2CRoCtM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=30Td2CRoCtM"
+     }
+    },
+    {
      "date": "2026-11-15",
      "title": "美国百指日报·晚间速报｜11月15日：周日无新数据，比特币跌7.76%至62890.64美元",
      "scripture": "",
@@ -4453,7 +4469,7 @@
      }
     }
    ],
-   "count": 27,
+   "count": 28,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5179,7 +5195,7 @@
      }
     }
    ],
-   "count": 43,
+   "count": 44,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -5202,22 +5218,6 @@
    "episodes": [
     {
      "date": "2026-11-16",
-     "title": "硅谷科技日报·晚间版｜11月16日：英伟达把开放模型打包成科学工具箱",
-     "scripture": "",
-     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月16日，星期一。头条：英伟达把开放模型打包成科学工具箱。",
-     "audio": "content/silicon-valley/2026-11-16-pm/audio.mp3",
-     "page": "content/silicon-valley/2026-11-16-pm/index.md",
-     "duration_sec": 101,
-     "duration": "1:41",
-     "video_url": "https://www.youtube.com/watch?v=qIaf3O7rO_g",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=qIaf3O7rO_g"
-     }
-    },
-    {
-     "date": "2026-11-16",
      "title": "硅谷科技日报｜11月16日：新旗舰上线，一次读一百万词元",
      "scripture": "",
      "theme": "这里是硅谷科技日报，今天是二零二六年十一月十六日，星期一。今天头条：通义千问新旗舰今天上线，一次能读一百万个词元。",
@@ -5230,6 +5230,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=mD91if28beQ"
+     }
+    },
+    {
+     "date": "2026-11-16",
+     "title": "硅谷科技日报·晚间版｜11月16日：英伟达把开放模型打包成科学工具箱",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月16日，星期一。头条：英伟达把开放模型打包成科学工具箱。",
+     "audio": "content/silicon-valley/2026-11-16-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-16-pm/index.md",
+     "duration_sec": 101,
+     "duration": "1:41",
+     "video_url": "https://www.youtube.com/watch?v=qIaf3O7rO_g",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=qIaf3O7rO_g"
      }
     },
     {
@@ -6413,7 +6429,7 @@
      }
     }
    ],
-   "count": 13,
+   "count": 14,
    "listen": {
     "pocketcasts": "https://pca.st/h33fzfrw",
     "castbox": "https://castbox.fm/channel/id7461845"

@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 19:52:11 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:31:59 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜11月16日：纽约制造业降到7.8低于预期，纳指跌2.49%进入回调区</title>
+      <description>&gt; 数据：FRED 2026-11-16 快照（173 个指标，29 个异常）。今日实际发布：纽约联储 11 月制造业指数报 7.8，前值 25.5，雷达预期 17.6，明显低于预期；新订单 3.0，雇员人数 18.1 为 2022 年 6 月以来最高，支付价格 45.9。今日收盘 AP 终值：标普 7416.59 点跌 1.92%，纳指 24509.76 点跌 2.49%，道指 51608.17 点跌 1.41%，三大指数连跌第三日，纳指较 10 月 6 日高点跌超 10% 进入回调区；英伟达跌 4.12%。异常榜：1 年期国债 4.65%，比特币 11 月 15 日报 64787.64 美元涨 3.02%。前瞻：周二 08:30 ET 零售销售（预期涨 0.2%、前值涨 0.8%）与盘后英伟达业绩，周三 14:00 ET 联储纪要（金十雷达与公开日历交叉）。主播整理：Guangyi Zhao。配音：ElevenLabs 克隆声线（Ezra 本人声线，模型 eleven_v3）。</description>
+      <pubDate>Mon, 16 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-16</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-16/audio.mp3" length="1021719" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
+    </item>
     <item>
       <title>《美国百指日报》2026-11-16｜纽约制造业降到7.8低于预期，比特币反弹3.02%，明天看零售销售｜11月16日</title>
       <description>大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月十六日，星期一。</description>
