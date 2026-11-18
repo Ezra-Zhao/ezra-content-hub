@@ -2783,6 +2783,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-18",
+     "title": "新闻矩阵｜11月18日早间版：佩尔托拉过半拿下阿拉斯加，英伟达营收1158亿超预期，Anthropic今日定价",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月18日早间版：佩尔托拉过半拿下阿拉斯加，英伟达营收1158亿超预期，Anthropic今日定价",
+     "audio": "content/news-am/2026-11-18/audio.mp3",
+     "page": "content/news-am/2026-11-18/index.md",
+     "duration_sec": 344,
+     "duration": "5:44",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-17",
      "title": "新闻矩阵｜11月17日早间版：乌军再击克里米亚大桥公路拱坍塌，伊朗无人机袭巴林美军雷达，英伟达财报今晚揭晓",
      "scripture": "",
@@ -3135,7 +3151,7 @@
      }
     }
    ],
-   "count": 22,
+   "count": 23,
    "related": [
     "fred-am",
     "fred-pm",
