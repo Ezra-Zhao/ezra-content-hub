@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-18",
  "programs": [
   {
    "id": "devotion-am",
@@ -5099,6 +5099,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-18",
+     "title": "长寿前沿日报｜11月18日：罕见病新药首次证明能延长生存",
+     "scripture": "",
+     "theme": "本期：FDA批准Lembaz（adrabetadex）治婴儿型尼曼匹克病C型，首款证明能降低死亡风险的治疗；36名患者对匹配外部对照，死亡风险低55%，中位生存8.5年对4.9年，带听力损伤黑框警告。快讯：FDA批准giredestrant联合everolimus治ESR1突变晚期乳腺癌，三期试验373人、其中207人带目标突变，中位无进展生存10个月对5.5个月，总生存数据还不成熟。轮换位：JAMA Network Open观察性研究跟踪1338名老人最长19年，白天小睡每多1小时死亡风险关联高13%，观察性、不等于因果。",
+     "audio": "content/longevity/2026-11-18/audio.mp3",
+     "page": "content/longevity/2026-11-18/index.md",
+     "duration_sec": 109,
+     "duration": "1:49",
+     "video_url": "https://www.youtube.com/watch?v=dXRxP2r7NdE",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=dXRxP2r7NdE"
+     }
+    },
+    {
      "date": "2026-11-17",
      "title": "长寿前沿日报｜11月17日：风湿性多肌痛有了新选择，持续缓解翻倍",
      "scripture": "",
@@ -5835,7 +5851,7 @@
      }
     }
    ],
-   "count": 46,
+   "count": 47,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
