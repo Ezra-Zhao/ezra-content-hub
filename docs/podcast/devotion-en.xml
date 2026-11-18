@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 14:00:42 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:48:00 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Romans 8:38-39: Nothing Can Separate Us from God&#x27;s Love</title>
+      <description>For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing will be able to separate us from God&#x27;s love which is in Christ Jesus our Lord — rest your heart in Christ tonight. Scripture: Romans 8:38-39 (WEB)</description>
+      <pubDate>Wed, 18 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-18</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-18/audio.mp3" length="1821091" type="audio/mpeg"/>
+      <itunes:duration>1:54</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Numbers 14:9: Yahweh Is with Us — Do Not Fear</title>
+      <description>Only don&#x27;t rebel against Yahweh, neither fear the people of the land; for they are bread for us: their defense is removed from over them, and Yahweh is with us: don&#x27;t fear them — hear the whole report today, and step out with courage. Scripture: Numbers 14:9 (WEB)</description>
+      <pubDate>Wed, 18 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-18</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-18/audio.mp3" length="2228183" type="audio/mpeg"/>
+      <itunes:duration>2:19</itunes:duration>
+    </item>
     <item>
       <title>[PM] Psalm 27:4: One Thing I Have Asked — To Dwell in Yahweh&#x27;s House and See His Beauty</title>
       <description>One thing I have asked of Yahweh, that I will seek after: that I may dwell in Yahweh&#x27;s house all the days of my life, to see Yahweh&#x27;s beauty, and to inquire in his temple — tonight gather your heart into this one thing, and rest. Scripture: Psalm 27:4 (WEB)</description>

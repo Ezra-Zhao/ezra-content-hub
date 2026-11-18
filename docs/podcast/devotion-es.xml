@@ -7,7 +7,7 @@
     <language>es</language>
     <description>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 14:00:42 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:48:01 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</itunes:summary>
     <itunes:keywords>devoción diaria,lectura bíblica,oración,escritura,devocional matutino,devocional nocturno,fe cristiana,meditación</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Romanos 8:38-39: Nada nos podrá apartar del amor de Dios</title>
+      <description>Por lo cual estoy cierto que ni la muerte, ni la vida, ni ángeles, ni principados, ni potestades, ni lo presente, ni lo por venir, Ni lo alto, ni lo bajo, ni ninguna criatura nos podrá apartar del amor de Dios, que es en Cristo Jesús Señor nuestro — descansa esta noche tu corazón en Cristo. Escritura: Romanos 8:38-39 (RVR1909)</description>
+      <pubDate>Wed, 18 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-11-18</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-11-18/audio.mp3" length="2185969" type="audio/mpeg"/>
+      <itunes:duration>2:17</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Números 14:9: Con nosotros está Jehová — no los temáis</title>
+      <description>Por tanto, no seáis rebeldes contra Jehová, ni temáis al pueblo de aquesta tierra, porque nuestro pan son: su amparo se ha apartado de ellos, y con nosotros está Jehová: no los temáis — escucha hoy el informe completo, y sal con valentía. Escritura: Números 14:9 (RVR1909)</description>
+      <pubDate>Wed, 18 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-11-18</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-11-18/audio.mp3" length="2583030" type="audio/mpeg"/>
+      <itunes:duration>2:41</itunes:duration>
+    </item>
     <item>
       <title>[PM] Salmos 27:4: Una cosa he demandado á Jehová — contemplar su hermosura</title>
       <description>Una cosa he demandado á Jehová, ésta buscaré: Que esté yo en la casa de Jehová todos los días de mi vida, Para contemplar la hermosura de Jehová, y para inquirir en su templo — esta noche recoge tu corazón en esta una cosa, y descansa. Escritura: Salmos 27:4 (RVR1909)</description>
