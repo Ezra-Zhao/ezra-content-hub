@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-18",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -4063,6 +4063,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-18",
+     "title": "《美国百指日报》2026-11-18｜新屋开工130.9万套超预期，营建许可跌7.4%，成屋签约创纪录新低",
+     "scripture": "",
+     "theme": "大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月十八日，星期三。",
+     "audio": "content/fred-am/2026-11-18/audio.mp3",
+     "page": "content/fred-am/2026-11-18/index.md",
+     "duration_sec": 300,
+     "duration": "5:00",
+     "video_url": "https://www.youtube.com/watch?v=nz0x7lDyDeA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=nz0x7lDyDeA"
+     }
+    },
+    {
      "date": "2026-11-17",
      "title": "《美国百指日报》2026-11-17｜零售销售涨0.2%符合预期，进口价格涨1.1%超预期，工业产出跌0.4%",
      "scripture": "",
@@ -4575,7 +4591,7 @@
      }
     }
    ],
-   "count": 32,
+   "count": 33,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -6465,7 +6481,7 @@
      }
     }
    ],
-   "count": 38,
+   "count": 39,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"

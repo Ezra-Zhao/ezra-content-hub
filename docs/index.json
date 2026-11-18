@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-18",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -4063,6 +4063,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-18",
+     "title": "《美国百指日报》2026-11-18｜新屋开工130.9万套超预期，营建许可跌7.4%，成屋签约创纪录新低",
+     "scripture": "",
+     "theme": "大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月十八日，星期三。",
+     "audio": "content/fred-am/2026-11-18/audio.mp3",
+     "page": "content/fred-am/2026-11-18/index.md",
+     "duration_sec": 300,
+     "duration": "5:00",
+     "video_url": "https://www.youtube.com/watch?v=nz0x7lDyDeA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=nz0x7lDyDeA"
+     }
+    },
+    {
      "date": "2026-11-17",
      "title": "《美国百指日报》2026-11-17｜零售销售涨0.2%符合预期，进口价格涨1.1%超预期，工业产出跌0.4%",
      "scripture": "",
@@ -4575,7 +4591,7 @@
      }
     }
    ],
-   "count": 32,
+   "count": 33,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5841,6 +5857,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-18",
+     "title": "硅谷科技日报｜11月18日：新旗舰降价两成，独立榜单冲到第二",
+     "scripture": "",
+     "theme": "这里是硅谷科技日报，今天是二零二六年十一月十八日，星期三。今天头条：新旗舰降价两成，独立榜单冲到第二。",
+     "audio": "content/silicon-valley/2026-11-18/audio.mp3",
+     "page": "content/silicon-valley/2026-11-18/index.md",
+     "duration_sec": 114,
+     "duration": "1:54",
+     "video_url": "https://www.youtube.com/watch?v=SphXcTlUX6o",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=SphXcTlUX6o"
+     }
+    },
+    {
      "date": "2026-11-17",
      "title": "硅谷科技日报｜11月17日：英伟达新芯片单颗五万多个计算核，专为科学仿真而来",
      "scripture": "",
@@ -6449,7 +6481,7 @@
      }
     }
    ],
-   "count": 38,
+   "count": 39,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -7121,7 +7153,7 @@
    "slot": "晚间",
    "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
    "category": "时效",
-   "count": 7,
+   "count": 9,
    "related": [
     "news-am",
     "news-pm",
@@ -7132,6 +7164,22 @@
    ],
    "title": "弹古论今 · History Rhymes",
    "episodes": [
+    {
+     "date": "2026-11-17",
+     "title": "《弹古论今》11月17日｜三方第一次同桌，对照春秋弭兵之会：休兵靠切账，不靠盟约",
+     "scripture": "",
+     "theme": "据美联社与美国国家公共广播电台报道，特朗普11月17日抵达马尼拉出席东盟峰会、与泰国签署贸易联合声明，11月18日转赴深圳出席亚太经合组织领导人会议；中国外交部11月16日确认，11月19日习近平、特朗普、普京举行三国元首第一次三方会晤，议程上核裁军最难切、贸易休战明年1月到期最可能先落子，乌克兰在不在议程上先由白宫说不在、再由特朗普说要谈。对应的旧剧本是春秋弭兵之会：公元前579年宋国华元斡旋晋楚第一次弭兵，盟约只有宣誓、没有执行，四年后鄢陵之战即告破裂；公元前546年向戌再办弭兵，十四个国家会盟，晋楚分霸、小国同时向两家纳贡，反而稳了几十年。开篇对账：11月11日预判的以色列议长表决，卡哈纳以66票对52票当选，预判应验。四条可证伪预判，立此存照。",
+     "audio": "content/history-rhymes/2026-11-17/audio.mp3",
+     "page": "content/history-rhymes/2026-11-17/index.md",
+     "duration_sec": 446,
+     "duration": "7:26",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-11-16",
      "title": "《弹古论今》11月16日｜接班人不再是定数：万斯松动，对照康熙太子胤礽三十三年两立两废",
@@ -7261,6 +7309,26 @@
      }
     }
    ]
+  },
+  {
+   "id": "audiobook-john",
+   "name": "有声伴读｜圣经伴读·约翰福音",
+   "slot": "睡前",
+   "desc": "《圣经伴读》有声版：赵广义本人克隆声线朗读，第一册《约翰福音》，逐篇更新。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-11-18",
+     "title": "第1篇：神不是一个概念，祂来过",
+     "scripture": "约翰福音 1:1-18",
+     "theme": "道成了肉身，住在我们中间——神不是一个概念，祂来过。",
+     "audio": "content/audiobook-john/2026-11-18-ch01/audio.mp3",
+     "page": "content/audiobook-john/2026-11-18-ch01/index.md",
+     "duration_sec": 962,
+     "duration": "16:02"
+    }
+   ],
+   "count": 1
   }
  ],
  "articles": [
