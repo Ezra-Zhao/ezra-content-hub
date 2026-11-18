@@ -1,0 +1,27 @@
+title: 沿海洪水提示到明早，湾岸低洼先防漫水
+date: 2026-11-18
+series: baylocal
+author: Guangyi Zhao
+---
+
+![湾区本地速报第二十四期图卡](2026-11-18-coastal-flood-advisory-bayshore-card.png)
+
+《湾区本地速报》第二十四期，2026年11月18日，星期三，六条本地新闻：
+
+**主打·天气**：国家气象局旧金山湾区海岸危险通告（2026年11月18日 03:25 PST）：沿海洪水提示今天（11月18日）05:00 起生效，持续到明天（11月19日）10:00，范围包括旧金山及湾区湾岸、圣巴勃罗湾沿岸地带。低洼近岸与潮汐水道一带可能出现最高 1.3 英尺漫水，高潮可能淹没低洼设施、造成个别道路临时封闭与海岸侵蚀；旧金山潮位站今晨 06:45 高潮预计 7.1 英尺（高于正常 1.3 英尺），明天 07:15 高潮 7.0 英尺。另据 KION 引气象局提示：大风提示昨晚 21:00 起持续到今天 13:00，沿海与东湾内陆谷地南风 20 到 30 英里/小时、阵风可达 50 英里/小时；东湾山地另有大风警告，高处阵风可达 70 英里/小时，同至今天 13:00。
+
+**天气与安全**：同为气象局海岸危险通告：海岸危险提示持续到今天下午，碎浪 13 到 17 英尺（旧金山段 12 到 17 英尺），暗涌与离岸流风险升高；今天 16:00 起大浪提示接上，持续到明天（11月19日）16:00，碎浪 15 到 18 英尺。官方提醒：不要下水，不要站在礁石、码头等临水设施上，也不要背对大海。
+
+**市政**：圣何塞市议会昨天（11月17日）全票通过数据中心临时暂停令。San José Spotlight 11月18日报道：全市暂停数据中心及其他大型用电项目的土地使用审批，包括正在审的 12 个拟议项目，暂停持续到新开发标准生效；标准已被定为紧急条例，规划委员会今天（11月18日）先审，市议会排定 12月8日表决，如通过将立即生效。因 12 月与 1 月公共会议休会，官员表示暂停实际会延续到新年。（注：本档昨日稿中“16 个项目在开发管线”为 Chronicle 11月13日口径；本期在审项目数以 Spotlight 今日报道的 12 个为准。）
+
+**交通**：加州车管局禁止 Waymo 无人驾驶车上全州高速公路。路透社、CNN 与美联社 11月17日至18日报道：车管局 11月11日对 Waymo 的部署与无人驾驶测试许可加上限制，禁止其无人驾驶车在全州高速公路运行与测试，11月17日公开。车管局发言人称，起因包括 11月5日三辆 Waymo 车开进 101 号公路 Burlingame 附近的施工封闭区，以及 11月6日一辆车在旧金山 280 号高速试图绕过加州高速巡警的拦停；车管局认定其高速无人驾驶运行对公共安全构成紧迫危险。限制持续到 Waymo 证明已采取有效纠正措施为止，没有结束日期；Waymo 已暂停全美各市场的高速载客，普通街道服务照常，行程可能变长。
+
+**交通预告**：BART 官方通告两则：黄线钢轨去应力施工，11月19日至20日两晚在 Lafayette 至 Walnut Creek 之间把双线减为单线，午夜开始、持续到次日运营开始前，延误 20 到 30 分钟；海湾隧道照明更换施工，11月21日周六 22:00 起到当晚服务结束，隧道单线运行，全线每 30 分钟一班，只开蓝、黄、橙三线，红线与绿线当晚停开，黄线另设 SFO 至 Millbrae 接驳车、过 SFO 的乘客须换乘（同类施工 12月6日全天还有一轮）。
+
+**交通**：旧金山国际机场（SFO）昨天（11月17日）共 192 个航班延误、11 个取消。TheTravel 11月18日引 FlightAware 数据：其中联合航空取消 8 个、延误 73 个，为当天最多；联合航空已对 11月18日的航班开放免费改签，条件为原票在 11月16日或之前购买、新航班为 11月17日至20日出发的联合航空航班。今天坐飞机，先查一遍航班状态再出门。
+
+来源：[国家气象局海岸危险通告（NWS MTR 原文，2026-11-18 03:25 PST）](https://forecast.weather.gov/product.php?site=BIS&product=CFW&issuedby=MTR) · [KION：风暴带来大风提示与山火烧毁区山洪观察（2026-11-18）](https://kioncentralcoast.com/news/top-stories/2026/11/18/storm-prompts-wind-advisory-warnings-for-parts-of-bay-area-flash-flood-watch-for-big-sur/) · [San José Spotlight：圣何塞实施数据中心临时暂停令（2026-11-18）](https://sanjosespotlight.com/san-jose-enacts-temporary-data-center-moratorium/) · [美联社（经 WCIA）：加州禁止 Waymo 上州高速公路（2026-11-17）](https://www.wcia.com/news/national/ap-california-bans-waymo-autonomous-vehicles-from-state-freeways-saying-they-pose-an-imminent-hazard/) · [BART 黄线钢轨施工单线通告](https://www.Bart.Gov/news/articles/2025/news20250326-1) · [BART 海湾隧道照明施工单线通告](https://www.bart.gov/news/articles/2026/news20260330) · [TheTravel：SFO 大风扰动与联合航空免费改签（2026-11-18）](https://www.thetravel.com/san-francisco-international-airport-high-wind-disruptions-united-airlines-flexible-rebooking-effective-immediately/)
+
+数字证据说明：本期六条中三条为 A 级（气象局海岸通告、BART 两则通告，核对日期 2026-11-18）；大风提示为 A/B 级（KION 引气象局提示原文）；市政、Waymo 与机场三条为 B 级（可靠媒体引官方声明/数据，车管局与联合航空原文未直接打开，文中用已生效/昨天口径）；所有漫水、碎浪与阵风数字均为通告/预报口径。
+
+*《湾区本地速报》为《代码与诗篇》新闻矩阵第 8 档，每日早上更新。播报版（音频/视频）同日发布于 YouTube「Ezra Daily 每日速报」。© 2026 Guangyi Zhao*
