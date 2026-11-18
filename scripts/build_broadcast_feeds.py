@@ -93,6 +93,14 @@ FEEDS = {
         [("Business", "Investing"), ("News", None)],
         [("stocks-pm", 22)],
     ),
+    "audiobook.xml": (
+        "有声伴读｜圣经伴读有声书",
+        "《圣经伴读》有声版：赵广义（Guangyi Zhao）本人克隆声线朗读，逐章把伴读讲透。"
+        "第一册《约翰福音》。关键词：圣经伴读、有声书、约翰福音、查经。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ ",
+        "圣经伴读,有声书,约翰福音,查经,基督教",
+        [("Religion & Spirituality", "Christianity")],
+        [("audiobook-john", 20)],
+    ),
 }
 
 def parse_episode(series, dir_name, hour):

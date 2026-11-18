@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "programs": [
   {
    "id": "devotion-am",
@@ -7277,6 +7277,26 @@
      }
     }
    ]
+  },
+  {
+   "id": "audiobook-john",
+   "name": "有声伴读｜圣经伴读·约翰福音",
+   "slot": "睡前",
+   "desc": "《圣经伴读》有声版：赵广义本人克隆声线朗读，第一册《约翰福音》，逐篇更新。",
+   "category": "信仰",
+   "episodes": [
+    {
+     "date": "2026-11-18",
+     "title": "第1篇：神不是一个概念，祂来过",
+     "scripture": "约翰福音 1:1-18",
+     "theme": "道成了肉身，住在我们中间——神不是一个概念，祂来过。",
+     "audio": "content/audiobook-john/2026-11-18-ch01/audio.mp3",
+     "page": "content/audiobook-john/2026-11-18-ch01/index.md",
+     "duration_sec": 962,
+     "duration": "16:02"
+    }
+   ],
+   "count": 1
   }
  ],
  "articles": [
