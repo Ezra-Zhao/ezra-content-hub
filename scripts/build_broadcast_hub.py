@@ -26,7 +26,7 @@ YT = {
     ("immigration", "2026-10-16"): "https://www.youtube.com/watch?v=AU2_7ceDGGU",
     ("immigration", "2026-10-19"): "https://www.youtube.com/watch?v=-XNghEigKgc",
     ("immigration", "2026-10-20"): "https://www.youtube.com/watch?v=LuvJC1golLc",
-    ("longevity", "2026-10-16"): "https://www.youtube.com/watch?v=p_H91GBe-4I",
+    ("longevity", "2026-10-16"): "https://www.youtube.com/watch?v=sEBKeomPybQ",
     ("longevity", "2026-10-19"): "https://www.youtube.com/watch?v=blahyx5DQXs",
 }
 

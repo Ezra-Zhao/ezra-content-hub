@@ -4,5 +4,5 @@
 本期：FDA授予达瑞雷生突破性疗法认定治儿童青少年失眠，认定不是批准；助听器随机试验主要结局未达标；奥洛他定仿制滴眼液获最终批准。
 
 时长：1:57
-视频：https://www.youtube.com/watch?v=08EKDhmALxA
+视频：https://www.youtube.com/watch?v=nYx6xQ-YLh4
 来源：当期发布同轮登记；音频与视频同源 narration.mp3。

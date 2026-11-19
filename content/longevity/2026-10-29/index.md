@@ -4,5 +4,5 @@
 本期：Instylla 10月29日宣布，FDA批准Embrace水凝胶栓塞系统扩大用途，用于直径不超过6毫米的外周动脉出血；依据HALT前瞻性多中心试验（130名患者、22家中心），30天内无重大不良事件100%、临床成功90%。Orex
 
 时长：1:42
-视频：https://www.youtube.com/watch?v=NifPP4Z8A1A
+视频：https://www.youtube.com/watch?v=Z6C9xbEtu3U
 来源：存量成品，2026-10-21 分发攻坚登记入枢纽。

@@ -4,5 +4,5 @@
 本期：FDA 批准他拉唑帕利联合恩扎卢胺，用于带同源重组修复基因突变的转移性前列腺癌成人患者（须先以获批检测查出突变），适用阶段较此前前移（监管机构一手）。
 
 时长：2:01
-视频：https://www.youtube.com/watch?v=Y3RgiKT9bcc
+视频：https://www.youtube.com/watch?v=WrdSKWmbHh0
 来源：本地成品补传，2026-10-26 入枢纽。

@@ -4,5 +4,5 @@
 本期：JAMA Network Open荟萃分析显示高龄乳腺癌先用内分泌治疗生存不劣于先手术、选人要看肿瘤生物学；全美麻疹确诊5182例；五种长寿干预在小鼠身上的共同代谢分子是麦角硫因（小鼠阶段）。
 
 时长：1:46
-视频：https://www.youtube.com/watch?v=Cokde_lZ3DA
+视频：https://www.youtube.com/watch?v=nY1lVOqlSOg
 来源：当期发布同轮登记；音频与视频同源 narration.mp3。
