@@ -16,13 +16,13 @@ from email.utils import format_datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = "https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main"
-PAGES = "https://ezra-zhao.github.io/ezra-content-hub"
+PAGES = "https://ezrazhao.com"
 PDT = timezone(timedelta(hours=-7))
 
 TITLE = "信仰问题解答｜唐崇荣讲道播讲"
 DESC = ("信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。"
         "署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。"
-        "文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/")
+        "文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezrazhao.com/")
 KEYWORDS = "信仰问答,系统神学,护教,唐崇荣,讲道,基督教"
 FNAME = "tangqa.xml"
 

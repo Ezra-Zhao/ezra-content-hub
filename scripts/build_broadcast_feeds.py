@@ -14,7 +14,7 @@ from email.utils import format_datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = "https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main"
-PAGES = "https://ezra-zhao.github.io/ezra-content-hub"
+PAGES = "https://ezrazhao.com"
 PDT = timezone(timedelta(hours=-7))
 
 # feed file -> (title, description, keywords,
@@ -24,7 +24,7 @@ FEEDS = {
     "fred.xml": (
         "美国百指日报｜FRED经济指标与宏观速报",
         "每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。"
-        "关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezrazhao.com/ "
         "同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。",
         "美国经济,经济指标,FRED,美联储,宏观经济,AI,生物科技",
         [("Business", "Investing"), ("News", None)],
@@ -33,7 +33,7 @@ FEEDS = {
     "silicon-valley.xml": (
         "硅谷科技日报｜AI与科技产业速报",
         "硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。"
-        "关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezrazhao.com/ "
         "同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。",
         "硅谷,科技新闻,人工智能,AI,科技公司,产业动态",
         [("Technology", None), ("News", "Tech News")],
@@ -42,7 +42,7 @@ FEEDS = {
     "longevity.xml": (
         "长寿前沿日报｜抗衰老与健康科学",
         "每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。"
-        "关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ "
         "同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。",
         "长寿,健康,抗衰老,前沿研究,论文解读",
         [("Health & Fitness", None), ("Science", None)],
@@ -51,7 +51,7 @@ FEEDS = {
     "immigration.xml": (
         "移民政策速报｜美国移民与签证解读",
         "美国移民政策与法规变化速报与解读。主讲 Guangyi Zhao。"
-        "关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "关键词：美国移民、移民政策、签证、绿卡、法规解读。全部节目：https://ezrazhao.com/ "
         "同组节目：湾区福利速报、美国百指日报等每日速报也在本枢纽更新。",
         "美国移民,移民政策,签证,绿卡,法规解读",
         [("News", "Politics"), ("Government", None)],
@@ -60,7 +60,7 @@ FEEDS = {
     "bay-area-benefits.xml": (
         "湾区福利速报｜补助与生活资讯",
         "湾区福利、补助与生活资讯速报。主讲 Guangyi Zhao。"
-        "关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "关键词：湾区、福利、补助、生活资讯、华人社区。全部节目：https://ezrazhao.com/ "
         "同组节目：移民政策速报、硅谷科技日报等每日速报也在本枢纽更新。",
         "湾区,福利,补助,生活资讯,华人社区",
         [("News", None), ("Society & Culture", None)],
@@ -69,7 +69,7 @@ FEEDS = {
     "news.xml": (
         "新闻矩阵｜综合新闻早晚播报",
         "每日早晚两版综合新闻播报：国际、美国、财经、科技要闻一次说清。早间版 7 点、晚间版 21 点。主讲 Guangyi Zhao。"
-        "关键词：新闻、国际新闻、美国新闻、综合播报。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "关键词：新闻、国际新闻、美国新闻、综合播报。全部节目：https://ezrazhao.com/ "
         "同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。",
         "新闻,国际新闻,美国新闻,综合播报,要闻",
         [("News", None), ("News", "Politics")],
@@ -78,7 +78,7 @@ FEEDS = {
     "history-rhymes.xml": (
         "弹古论今｜History Rhymes：以史看今",
         "取当日美国头条，从中国与世界历史中找对应事件，讲清两边的前因后果再作评论。主讲 Guangyi Zhao。"
-        "关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "关键词：历史类比、时事评论、科技史、人物命运。全部节目：https://ezrazhao.com/ "
         "同组节目：新闻矩阵、硅谷科技日报等每日速报也在本枢纽更新。",
         "历史,时事评论,历史类比,科技史,奥本海默,黄仁勋",
         [("History", None), ("News", "Politics")],
@@ -87,7 +87,7 @@ FEEDS = {
     "stocks-pm.xml": (
         "美股盘后小结｜三大指数与板块复盘",
         "每个交易日的美股盘后小结：三大指数、板块轮动与个股要点。主讲 Guangyi Zhao。"
-        "关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "关键词：美股、盘后总结、三大指数、板块轮动、个股。全部节目：https://ezrazhao.com/ "
         "同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。",
         "美股,盘后总结,三大指数,板块轮动,个股",
         [("Business", "Investing"), ("News", None)],
@@ -96,7 +96,7 @@ FEEDS = {
     "audiobook.xml": (
         "有声伴读｜圣经伴读有声书",
         "《圣经伴读》有声版：赵广义（Guangyi Zhao）本人克隆声线朗读，逐章把伴读讲透。"
-        "第一册《约翰福音》。关键词：圣经伴读、有声书、约翰福音、查经。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ ",
+        "第一册《约翰福音》。关键词：圣经伴读、有声书、约翰福音、查经。全部节目：https://ezrazhao.com/ ",
         "圣经伴读,有声书,约翰福音,查经,基督教",
         [("Religion & Spirituality", "Christianity")],
         [("audiobook-john", 20)],

@@ -16,13 +16,13 @@ from email.utils import format_datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = "https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main"
-PAGES = "https://ezra-zhao.github.io/ezra-content-hub"
+PAGES = "https://ezrazhao.com"
 PDT = timezone(timedelta(hours=-7))
 
 TITLE = "瓦器分享｜圣经讲解与讲道"
 DESC = ("瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，"
         "把宝贝放在瓦器里，显明莫大的能力是出于神。"
-        "关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ "
+        "关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezrazhao.com/ "
         "同组节目：《每日灵修》早晚双版也在本枢纽更新。")
 KEYWORDS = "讲道,解经,圣经讲解,查经,基督教,信仰生活"
 FNAME = "waqi.xml"

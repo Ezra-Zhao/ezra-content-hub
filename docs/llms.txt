@@ -6,39 +6,39 @@
 
 ## 主要栏目
 
-- [首页](https://ezra-zhao.github.io/ezra-content-hub/): 全部栏目的导航入口
-- [读书 · 圣经伴读](https://ezra-zhao.github.io/ezra-content-hub/shidu.html): 《圣经伴读 · 约翰福音》等伴读系列
-- [问答与代祷](https://ezra-zhao.github.io/ezra-content-hub/qa.html): 信仰问答与代祷请求
-- [隐私政策](https://ezra-zhao.github.io/ezra-content-hub/privacy-policy.html)
-- [服务条款](https://ezra-zhao.github.io/ezra-content-hub/terms-of-service.html)
+- [首页](https://ezrazhao.com/): 全部栏目的导航入口
+- [读书 · 圣经伴读](https://ezrazhao.com/shidu.html): 《圣经伴读 · 约翰福音》等伴读系列
+- [问答与代祷](https://ezrazhao.com/qa.html): 信仰问答与代祷请求
+- [隐私政策](https://ezrazhao.com/privacy-policy.html)
+- [服务条款](https://ezrazhao.com/terms-of-service.html)
 
 ## 播客（RSS 订阅源）
 
-- [瓦器分享（讲道与圣经讲解）](https://ezra-zhao.github.io/ezra-content-hub/podcast/waqi.xml)
-- [每日灵修（中文）](https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion.xml)
-- [每日灵修（English）](https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-en.xml)
-- [每日灵修（Español）](https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-es.xml)
-- [每日灵修（Tiếng Việt）](https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-vi.xml)
-- [每日灵修（हिन्दी）](https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-hi.xml)
-- [有声伴读 · 约翰福音](https://ezra-zhao.github.io/ezra-content-hub/podcast/audiobook.xml)
-- [唐崇荣问答改编](https://ezra-zhao.github.io/ezra-content-hub/podcast/tangqa.xml)
-- [弹古论今 History Rhymes（每日历史对照时事）](https://ezra-zhao.github.io/ezra-content-hub/podcast/history-rhymes.xml)
-- [新闻矩阵早报](https://ezra-zhao.github.io/ezra-content-hub/podcast/news.xml)
-- [百指日报（FRED 经济指标）](https://ezra-zhao.github.io/ezra-content-hub/podcast/fred.xml)
-- [股市盘后小结](https://ezra-zhao.github.io/ezra-content-hub/podcast/stocks-pm.xml)
-- [硅谷科技日报](https://ezra-zhao.github.io/ezra-content-hub/podcast/silicon-valley.xml)
-- [长寿前沿日报](https://ezra-zhao.github.io/ezra-content-hub/podcast/longevity.xml)
-- [移民政策速报](https://ezra-zhao.github.io/ezra-content-hub/podcast/immigration.xml)
-- [湾区福利速报](https://ezra-zhao.github.io/ezra-content-hub/podcast/bay-area-benefits.xml)
+- [瓦器分享（讲道与圣经讲解）](https://ezrazhao.com/podcast/waqi.xml)
+- [每日灵修（中文）](https://ezrazhao.com/podcast/devotion.xml)
+- [每日灵修（English）](https://ezrazhao.com/podcast/devotion-en.xml)
+- [每日灵修（Español）](https://ezrazhao.com/podcast/devotion-es.xml)
+- [每日灵修（Tiếng Việt）](https://ezrazhao.com/podcast/devotion-vi.xml)
+- [每日灵修（हिन्दी）](https://ezrazhao.com/podcast/devotion-hi.xml)
+- [有声伴读 · 约翰福音](https://ezrazhao.com/podcast/audiobook.xml)
+- [唐崇荣问答改编](https://ezrazhao.com/podcast/tangqa.xml)
+- [弹古论今 History Rhymes（每日历史对照时事）](https://ezrazhao.com/podcast/history-rhymes.xml)
+- [新闻矩阵早报](https://ezrazhao.com/podcast/news.xml)
+- [百指日报（FRED 经济指标）](https://ezrazhao.com/podcast/fred.xml)
+- [股市盘后小结](https://ezrazhao.com/podcast/stocks-pm.xml)
+- [硅谷科技日报](https://ezrazhao.com/podcast/silicon-valley.xml)
+- [长寿前沿日报](https://ezrazhao.com/podcast/longevity.xml)
+- [移民政策速报](https://ezrazhao.com/podcast/immigration.xml)
+- [湾区福利速报](https://ezrazhao.com/podcast/bay-area-benefits.xml)
 
 ## 文章
 
-- [讲道集](https://ezra-zhao.github.io/ezra-content-hub/articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.html): 讲道文章专栏（目录见站点地图）
-- [小说连载](https://ezra-zhao.github.io/ezra-content-hub/articles/novel/2026-10-25-novel-ch01-solar-snow.html): 连载小说第一章，小说 RSS 见下方
-- [小说连载 RSS](https://ezra-zhao.github.io/ezra-content-hub/novel-rss.xml)
-- [湾区本地速报文章](https://ezra-zhao.github.io/ezra-content-hub/articles/baylocal/2026-11-19-coastal-flood-extended-bayshore.html): 每日湾区本地资讯（专栏按日期连载）
-- [科技文章（AI 与数据中心）](https://ezra-zhao.github.io/ezra-content-hub/articles/tech-nvidia/2026-11-10-ai-factory-power-beyond-pue.html): 技术长文专栏示例
-- [站点地图（全部页面）](https://ezra-zhao.github.io/ezra-content-hub/sitemap.xml)
+- [讲道集](https://ezrazhao.com/articles/sermons/2026-10-02-the-subversive-life-of-the-kingdom.html): 讲道文章专栏（目录见站点地图）
+- [小说连载](https://ezrazhao.com/articles/novel/2026-10-25-novel-ch01-solar-snow.html): 连载小说第一章，小说 RSS 见下方
+- [小说连载 RSS](https://ezrazhao.com/novel-rss.xml)
+- [湾区本地速报文章](https://ezrazhao.com/articles/baylocal/2026-11-19-coastal-flood-extended-bayshore.html): 每日湾区本地资讯（专栏按日期连载）
+- [科技文章（AI 与数据中心）](https://ezrazhao.com/articles/tech-nvidia/2026-11-10-ai-factory-power-beyond-pue.html): 技术长文专栏示例
+- [站点地图（全部页面）](https://ezrazhao.com/sitemap.xml)
 
 ## 视频与音乐
 

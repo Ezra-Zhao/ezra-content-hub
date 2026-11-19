@@ -31,7 +31,7 @@ import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
 HUB = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITE = "https://ezra-zhao.github.io/ezra-content-hub"
+SITE = "https://ezrazhao.com"
 WS = os.path.expanduser("~/workspace/your_files")
 PODCAST_LINE = os.path.join(WS, "播客音频线")
 DEVOTION_SRC = os.path.join(WS, "新闻节目", "每日灵修")

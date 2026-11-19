@@ -19,7 +19,7 @@ from email.utils import format_datetime
 
 HUB = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ROOT = HUB
-PAGES = "https://ezra-zhao.github.io/ezra-content-hub"
+PAGES = "https://ezrazhao.com"
 RAW = "https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main"
 PDT = timezone(timedelta(hours=-7))
 

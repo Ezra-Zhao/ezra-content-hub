@@ -6,7 +6,7 @@ from email.utils import format_datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = "https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main"
-PAGES = "https://ezra-zhao.github.io/ezra-content-hub"
+PAGES = "https://ezrazhao.com"
 PDT = timezone(timedelta(hours=-7))
 
 def parse_episode(series, date, hour):
@@ -82,11 +82,11 @@ feed = (
     "    <link>" + PAGES + "/</link>\n"
     "    <atom:link href=\"" + PAGES + "/podcast/devotion.xml\" rel=\"self\" type=\"application/rss+xml\"/>\n"
     "    <language>zh-cn</language>\n"
-    "    <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>\n"
+    "    <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>\n"
     "    <copyright>© 2026 Guangyi Zhao</copyright>\n"
     "    <lastBuildDate>" + now + "</lastBuildDate>\n"
     "    <itunes:author>Guangyi Zhao</itunes:author>\n"
-    "    <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>\n"
+    "    <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>\n"
     "    <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>\n"
     "    <itunes:owner>\n"
     "      <itunes:name>Guangyi Zhao</itunes:name>\n"

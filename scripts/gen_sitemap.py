@@ -23,7 +23,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
-BASE = "https://ezra-zhao.github.io/ezra-content-hub/"
+BASE = "https://ezrazhao.com/"
 OUT = DOCS / "sitemap.xml"
 
 EXCLUDE_DIRS = {"upload-probe"}
