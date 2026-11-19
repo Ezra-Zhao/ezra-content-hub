@@ -4,5 +4,5 @@
 信息来源为美国政府官方公告，链接附于简介；政策以官方原文为准，公告日期见片中标注。
 
 时长：1:32
-视频：https://www.youtube.com/watch?v=ZVZ85L8PBHM
+视频：https://www.youtube.com/watch?v=7fnnMhHiQuI
 来源：本地成品补传，2026-10-26 入枢纽。
