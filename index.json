@@ -3593,6 +3593,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-18",
+     "title": "美股盘后小结 11月18日：三大指数五连跌",
+     "scripture": "",
+     "theme": "美股盘后小结，11月18日，星期三。三大指数五连跌，道琼斯跌约百分之一点二，联合健康大跌拖累道指，英伟达财报超预期却冲高回落。",
+     "audio": "content/stocks-pm/2026-11-18/audio.mp3",
+     "page": "content/stocks-pm/2026-11-18/index.md",
+     "duration_sec": 71,
+     "duration": "1:11",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-17",
      "title": "美股盘后小结 11月17日：三大指数四连跌",
      "scripture": "",
@@ -4073,7 +4089,7 @@
      }
     }
    ],
-   "count": 30,
+   "count": 31,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
