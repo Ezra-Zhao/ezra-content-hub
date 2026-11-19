@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 11:48:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:46:25 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Romans 3:28: Justified by Faith</title>
+      <description>We maintain therefore that a man is justified by faith apart from the works of the law — rest tonight on this firm foundation, not on today&#x27;s performance. Scripture: Romans 3:28 (WEB)</description>
+      <pubDate>Thu, 19 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-19/audio.mp3" length="2092764" type="audio/mpeg"/>
+      <itunes:duration>2:11</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] John 4:23-24: Worship the Father in Spirit and Truth</title>
+      <description>But the hour comes, and now is, when the true worshipers will worship the Father in spirit and truth, for the Father seeks such to be his worshipers — worship first, then step out with your heart set right. Scripture: John 4:23-24 (WEB)</description>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-19/audio.mp3" length="2298818" type="audio/mpeg"/>
+      <itunes:duration>2:24</itunes:duration>
+    </item>
     <item>
       <title>[PM] Romans 8:38-39: Nothing Can Separate Us from God&#x27;s Love</title>
       <description>For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing will be able to separate us from God&#x27;s love which is in Christ Jesus our Lord — rest your heart in Christ tonight. Scripture: Romans 8:38-39 (WEB)</description>
