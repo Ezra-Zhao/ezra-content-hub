@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-18",
  "programs": [
   {
    "id": "devotion-am",
@@ -3171,6 +3171,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-18",
+     "title": "新闻矩阵｜11月18日晚间版：Anthropic定价83美元创纪录上市，美股分化标普五连跌，加沙坦克越黄线",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月18日晚间版：Anthropic定价83美元创纪录上市，美股分化标普五连跌，加沙坦克越黄线",
+     "audio": "content/news-pm/2026-11-18/audio.mp3",
+     "page": "content/news-pm/2026-11-18/index.md",
+     "duration_sec": 360,
+     "duration": "6:00",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-17",
      "title": "新闻矩阵｜11月17日晚间版：英伟达财报大超预期盘后上涨，美股四连跌，佩尔托拉过半锁定阿拉斯加",
      "scripture": "",
@@ -3523,7 +3539,7 @@
      }
     }
    ],
-   "count": 22,
+   "count": 23,
    "related": [
     "fred-am",
     "fred-pm",
