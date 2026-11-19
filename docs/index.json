@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-19",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -4095,6 +4095,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-19",
+     "title": "《美国百指日报》2026-11-19｜费城制造业降到6.3远低于预期，初请升到20.3万人，领先指数跌0.3%",
+     "scripture": "",
+     "theme": "大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月十九日，星期四。",
+     "audio": "content/fred-am/2026-11-19/audio.mp3",
+     "page": "content/fred-am/2026-11-19/index.md",
+     "duration_sec": 393,
+     "duration": "6:33",
+     "video_url": "https://www.youtube.com/watch?v=LAimrLnaiFM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=LAimrLnaiFM"
+     }
+    },
+    {
      "date": "2026-11-18",
      "title": "《美国百指日报》2026-11-18｜新屋开工130.9万套超预期，营建许可跌7.4%，成屋签约创纪录新低",
      "scripture": "",
@@ -4623,7 +4639,7 @@
      }
     }
    ],
-   "count": 33,
+   "count": 34,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5937,6 +5953,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-19",
+     "title": "硅谷科技日报｜11月19日：AI公司今天上市，募资八百多亿美元",
+     "scripture": "",
+     "theme": "这里是硅谷科技日报，今天是二零二六年十一月十九日，星期四。今天头条：做Claude的Anthropic今天开始上市交易，募资八百多亿美元。",
+     "audio": "content/silicon-valley/2026-11-19/audio.mp3",
+     "page": "content/silicon-valley/2026-11-19/index.md",
+     "duration_sec": 112,
+     "duration": "1:52",
+     "video_url": "https://www.youtube.com/watch?v=kmhK0pRKGiA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=kmhK0pRKGiA"
+     }
+    },
+    {
      "date": "2026-11-18",
      "title": "硅谷科技日报｜11月18日：新旗舰降价两成，独立榜单冲到第二",
      "scripture": "",
@@ -6577,7 +6609,7 @@
      }
     }
    ],
-   "count": 40,
+   "count": 41,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -7281,7 +7313,7 @@
    "slot": "晚间",
    "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
    "category": "时效",
-   "count": 9,
+   "count": 10,
    "related": [
     "news-am",
     "news-pm",
@@ -7292,6 +7324,22 @@
    ],
    "title": "弹古论今 · History Rhymes",
    "episodes": [
+    {
+     "date": "2026-11-18",
+     "title": "《弹古论今》11月18日｜深圳第一天只有仪式，对照黄池争长：先歃的名，要拿实处换",
+     "scripture": "",
+     "theme": "据路透社报道，亚太经合组织峰会11月18日在深圳开幕，全天只有仪式：习近平到机场迎接特朗普并短暂拥抱（路透点明是回九月安德鲁斯基地之礼）、习近平讲话呼吁自由开放贸易、合影时特朗普与普京分列习近平两侧、宴会座次使两人无从交谈，实质议程全在11月19日的双边、三方与特普单独会面。对应的旧剧本是公元前482年黄池之会：吴王夫差杀伍子胥后带精锐北上争盟主，与晋定公各引谱系旧账争先歃血；越王勾践趁吴军精锐尽出袭姑苏、俘太子友、焚姑苏台；夫差连夜列三万方阵震晋，最后以去掉王号、只称吴公为代价，按《国语》记成先歃，《左传》却记晋人先歃——争来的名次两本书都没记一致，九年后吴亡于越。开篇对账：11月15日预判的盖瑟听证，科宁拒交蓝条、听证未开，预判应验。四条可证伪预判，立此存照。",
+     "audio": "content/history-rhymes/2026-11-18/audio.mp3",
+     "page": "content/history-rhymes/2026-11-18/index.md",
+     "duration_sec": 420,
+     "duration": "7:00",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-11-17",
      "title": "《弹古论今》11月17日｜三方第一次同桌，对照春秋弭兵之会：休兵靠切账，不靠盟约",

@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-19",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -4095,6 +4095,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-19",
+     "title": "《美国百指日报》2026-11-19｜费城制造业降到6.3远低于预期，初请升到20.3万人，领先指数跌0.3%",
+     "scripture": "",
+     "theme": "大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月十九日，星期四。",
+     "audio": "content/fred-am/2026-11-19/audio.mp3",
+     "page": "content/fred-am/2026-11-19/index.md",
+     "duration_sec": 393,
+     "duration": "6:33",
+     "video_url": "https://www.youtube.com/watch?v=LAimrLnaiFM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=LAimrLnaiFM"
+     }
+    },
+    {
      "date": "2026-11-18",
      "title": "《美国百指日报》2026-11-18｜新屋开工130.9万套超预期，营建许可跌7.4%，成屋签约创纪录新低",
      "scripture": "",
@@ -4623,7 +4639,7 @@
      }
     }
    ],
-   "count": 33,
+   "count": 34,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -6593,7 +6609,7 @@
      }
     }
    ],
-   "count": 40,
+   "count": 41,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
