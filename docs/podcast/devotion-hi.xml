@@ -7,7 +7,7 @@
     <language>hi</language>
     <description>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 11:46:26 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:41:38 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</itunes:summary>
     <itunes:keywords>दैनिक भक्ति,बाइबल पाठ,प्रार्थना,पवित्रशास्त्र,सुबह की भक्ति,रात की भक्ति,मसीही विश्वास,मनन</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] मनुष्य विश्वास के द्वारा धर्मी ठहरता है</title>
+      <description>धर्मी ठहराया जाना कमाई हुई चीज़ नहीं, विश्वास के द्वारा दिया गया दान है; नींव दृढ़ रखकर निश्चिंत सोइए। पवित्रशास्त्र: रोमियो 3:28 (HHBD)</description>
+      <pubDate>Thu, 19 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-hi-2026-11-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-hi/2026-11-19/audio.mp3" length="2262875" type="audio/mpeg"/>
+      <itunes:duration>2:21</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] आत्मा और सच्चाई से भजन करें</title>
+      <description>पिता आराधना के कार्यक्रम को नहीं, अपने आराधकों को ढूंढ़ता है; पहले आराधना कीजिए, फिर घर से निकलिए। पवित्रशास्त्र: यूहन्ना 4:23-24 (HHBD)</description>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-hi-2026-11-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-hi/2026-11-19/audio.mp3" length="2402473" type="audio/mpeg"/>
+      <itunes:duration>2:30</itunes:duration>
+    </item>
     <item>
       <title>[PM] कोई भी हमें परमेश्वर के प्रेम से अलग नहीं कर सकेगी</title>
       <description>पौलुस का निश्चय: न मृत्यु, न जीवन, न वर्तमान, न भविष्य हमें मसीह में परमेश्वर के प्रेम से अलग कर सकेगा; आज रात उसी प्रेम में शांति से सोइए। पवित्रशास्त्र: रोमियों 8:38-39 (HHBD)</description>

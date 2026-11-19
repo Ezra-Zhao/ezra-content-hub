@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 11:46:26 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:41:38 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[AM] Thờ-phượng Thật Bằng Tâm-Thần Và Lẽ Thật</title>
+      <description>Cha không tìm kiếm một buổi thờ phượng, Ngài tìm kiếm người thờ phượng Ngài; hãy thờ phượng trước, rồi hãy ra khỏi nhà. Kinh Thánh: Giăng 4:23-24 (Bản Truyền Thống 1925)</description>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-19/audio.mp3" length="2478959" type="audio/mpeg"/>
+      <itunes:duration>2:35</itunes:duration>
+    </item>
     <item>
       <title>[PM] Không Gì Có Thể Phân Rẽ Chúng Ta Khỏi Tình Yêu Của Đức Chúa Trời</title>
       <description>Phao-lô quả quyết: sự chết, sự sống, việc bây giờ hay việc hầu đến đều không thể phân rẽ chúng ta khỏi tình yêu của Đức Chúa Trời trong Đấng Christ; tối nay hãy yên lòng ngủ trong tình yêu ấy. Kinh Thánh: Rô-ma 8:38-39 (Bản Truyền Thống 1925)</description>
