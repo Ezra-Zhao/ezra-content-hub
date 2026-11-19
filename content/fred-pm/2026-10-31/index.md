@@ -4,5 +4,5 @@
 本期要点（2026年10月31日，星期六）：
 
 时长：2:04
-视频：https://www.youtube.com/watch?v=8wYZCYwIN3I
+视频：https://www.youtube.com/watch?v=AL1q88fvPjo
 来源：存量成品，2026-10-21 分发攻坚登记入枢纽。

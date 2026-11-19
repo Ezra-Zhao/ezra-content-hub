@@ -4,5 +4,5 @@
 美国百指日报·晚间速报｜10月24日：周六无新数据，周五油价涨3.8%推低收盘，下周看美联储与GDP
 
 时长：2:03
-视频：https://www.youtube.com/watch?v=PWxCqqJW8QA
+视频：https://www.youtube.com/watch?v=ZwNGdW7BQJU
 来源：本地成品补传，2026-10-26 入枢纽。
