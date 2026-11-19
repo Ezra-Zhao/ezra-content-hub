@@ -21,7 +21,7 @@ JOBS = [
     ("longevity", os.path.join(SRC, "长寿前沿日报", "episodes-evening", "2026-10-26"),
      "2026-10-26-pm", "2026-10-26", "https://www.youtube.com/watch?v=vdWjP5XwSm0"),
     ("immigration", os.path.join(SRC, "移民政策速报", "episodes", "2026-10-26"),
-     "2026-10-26", "2026-10-26", "https://www.youtube.com/watch?v=tQglAy7dhMc"),
+     "2026-10-26", "2026-10-26", "https://www.youtube.com/watch?v=sqo7tdDJFc4"),
 ]
 
 

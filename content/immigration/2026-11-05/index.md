@@ -4,4 +4,4 @@
 这里是移民政策速报。今天是二零二六年十一月五日。移民上诉委员会今天发布一件新判例，说清逾期不离境的后果。
 
 时长：1:31
-来源：2026-11-05 immigration-daily-video 当期登记入枢纽，视频已发布：https://www.youtube.com/watch?v=Ur27IiRd1Zs。
+来源：2026-11-05 immigration-daily-video 当期登记入枢纽，视频已发布：https://www.youtube.com/watch?v=zK2H6WEKgmg。

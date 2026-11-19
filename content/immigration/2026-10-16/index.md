@@ -4,5 +4,5 @@
 信息来源为美国政府官方公告，政策以官方原文为准，公告日期见片中标注。
 
 时长：1:35
-视频：https://www.youtube.com/watch?v=X4wgpVsvhr8
+视频：https://www.youtube.com/watch?v=AU2_7ceDGGU
 来源：存量成品，2026-10-21 分发攻坚登记入枢纽。
