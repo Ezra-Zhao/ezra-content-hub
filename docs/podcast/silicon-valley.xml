@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 21:52:53 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:59:11 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报｜11月19日：AI公司今天上市，募资八百多亿美元</title>
+      <description>这里是硅谷科技日报，今天是二零二六年十一月十九日，星期四。今天头条：做Claude的Anthropic今天开始上市交易，募资八百多亿美元。</description>
+      <pubDate>Thu, 19 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-11-19</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-11-19/audio.mp3" length="897585" type="audio/mpeg"/>
+      <itunes:duration>1:52</itunes:duration>
+    </item>
     <item>
       <title>硅谷科技日报·晚间版｜11月18日：谷歌快模型今天发布，独立榜单冲到第三</title>
       <description>这里是《硅谷科技日报》晚间版。今天是2026年11月18日，星期三。头条：谷歌快模型今天发布，独立榜单冲到第三。</description>
