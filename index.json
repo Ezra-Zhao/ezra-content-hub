@@ -3593,6 +3593,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-19",
+     "title": "美股盘后小结 11月19日：高开低走三大指数跌约2%",
+     "scripture": "",
+     "theme": "美股盘后小结，11月19日，星期四。三大指数高开低走大跌，标普代理跌百分之一点九六，网安龙头逆市大涨百分之六点四四。",
+     "audio": "content/stocks-pm/2026-11-19/audio.mp3",
+     "page": "content/stocks-pm/2026-11-19/index.md",
+     "duration_sec": 77,
+     "duration": "1:17",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-18",
      "title": "美股盘后小结 11月18日：三大指数五连跌",
      "scripture": "",
@@ -4089,7 +4105,7 @@
      }
     }
    ],
-   "count": 31,
+   "count": 32,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
