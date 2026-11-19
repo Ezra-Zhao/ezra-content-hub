@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "programs": [
   {
    "id": "devotion-am",
@@ -2783,6 +2783,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-19",
+     "title": "新闻矩阵｜11月19日早间版：深圳三方会谈发和平宣言，Anthropic定价83美元今日上市，湾区暴雨破纪录",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月19日早间版：深圳三方会谈发和平宣言，Anthropic定价83美元今日上市，湾区暴雨破纪录",
+     "audio": "content/news-am/2026-11-19/audio.mp3",
+     "page": "content/news-am/2026-11-19/index.md",
+     "duration_sec": 321,
+     "duration": "5:21",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-18",
      "title": "新闻矩阵｜11月18日早间版：佩尔托拉过半拿下阿拉斯加，英伟达营收1158亿超预期，Anthropic今日定价",
      "scripture": "",
@@ -3151,7 +3167,7 @@
      }
     }
    ],
-   "count": 23,
+   "count": 24,
    "related": [
     "fred-am",
     "fred-pm",
