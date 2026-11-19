@@ -4,5 +4,5 @@
 本期：诺和诺德宣布，FDA 批准依柯胰岛素（Awiqli）用于 10 岁及以上 2 型糖尿病儿童——首个获批用于儿童的一周一次基础胰岛素（企业公告口径）。
 
 时长：1:57
-视频：https://www.youtube.com/watch?v=dB8KJx5edII
+视频：https://www.youtube.com/watch?v=nmwrkkOtg-c
 来源：本地成品补传，2026-10-26 入枢纽。

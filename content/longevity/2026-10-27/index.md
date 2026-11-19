@@ -4,5 +4,5 @@
 本期：企业公告宣布FDA批准雷珠单抗生物类似药Lucamzi，用于湿性年龄相关性黄斑变性等视网膜疾病（582人3期研究显示与原研药疗效等效、安全性可比，计划2027年在美国上市）；JAMA Network Open队列研究（4067人，观察
 
 时长：1:51
-视频：https://www.youtube.com/watch?v=QOhN3Wxr5e0
+视频：https://www.youtube.com/watch?v=b5thrsbDGmY
 来源：存量成品，2026-10-21 分发攻坚登记入枢纽。
