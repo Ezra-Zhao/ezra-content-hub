@@ -5163,6 +5163,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-19",
+     "title": "长寿前沿日报｜11月19日：戈谢病脑症状有了第一款药",
+     "scripture": "",
+     "theme": "本期：FDA批准Infilbray（venglustat）治3型戈谢病神经症状，首款能治这类脑症状的药；随机双盲研究43名12岁以上患者、52周，新药组协调与认知合计指标更好，须留意胃肠、情绪与含自杀意念在内的严重精神风险。快讯：FDA批准Livsayis（cemdisiran）治全身型重症肌无力，首款小干扰RNA疗法，三期试验284人、24周日常生活评分改善4.5分对2.2分，每12周皮下注射一次，带脑膜炎球菌感染黑框警告。轮换位：Lancet Digital Health的ClinicalAge病历衰老时钟，开发320891人、验证4728376人，与衰老指标及疾病、死亡风险相关，观察性、不等于因果，且只用了英国数据。",
+     "audio": "content/longevity/2026-11-19/audio.mp3",
+     "page": "content/longevity/2026-11-19/index.md",
+     "duration_sec": 124,
+     "duration": "2:04",
+     "video_url": "https://www.youtube.com/watch?v=BerR49Ea5mQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=BerR49Ea5mQ"
+     }
+    },
+    {
      "date": "2026-11-18",
      "title": "长寿前沿日报｜11月18日：罕见病新药首次证明能延长生存",
      "scripture": "",
@@ -5931,7 +5947,7 @@
      }
     }
    ],
-   "count": 48,
+   "count": 49,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
