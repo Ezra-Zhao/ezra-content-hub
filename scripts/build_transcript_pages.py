@@ -348,9 +348,9 @@ def main():
         for m in missing:
             print(f"    缺稿：{m['date']} {m['title'][:50]}")
     if not args.dry_run:
-        # 总索引只统计已有索引页的 feed
+        # 总索引扫盘上全部已有 feed 索引页（不只当轮运行的 feed，防覆盖丢档）
         existing = []
-        for k, n in feed_rows:
+        for k in FEEDS:
             idx = os.path.join(OUT_ROOT, k, "index.html")
             if os.path.exists(idx):
                 import subprocess
