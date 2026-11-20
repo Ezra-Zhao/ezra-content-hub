@@ -3,24 +3,32 @@
   <channel>
     <title>信仰问题解答｜唐崇荣讲道播讲</title>
     <link>https://ezrazhao.com/</link>
-    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/tangqa.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ezrazhao.com/podcast/tangqa.xml" rel="self" type="application/rss+xml"/>
     <language>zh-cn</language>
-    <description>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/</description>
+    <description>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezrazhao.com/</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 11:50:44 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:52:26 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
-    <itunes:summary>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezra-zhao.github.io/ezra-content-hub/</itunes:summary>
+    <itunes:summary>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezrazhao.com/</itunes:summary>
     <itunes:keywords>信仰问答,系统神学,护教,唐崇荣,讲道,基督教</itunes:keywords>
     <itunes:owner>
       <itunes:name>Guangyi Zhao</itunes:name>
       <itunes:email>ezra777.zhao@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://ezra-zhao.github.io/ezra-content-hub/podcast/cover-tang.png"/>
+    <itunes:image href="https://ezrazhao.com/podcast/cover-tang.png"/>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>人类只有几千年，考古却说几百万年，怎么解释？</title>
+      <description>圣经没有给年表——「约六千年」是人的推算，不是圣经的宣告；推算的年代和记录的历史，是两本账。 经文：创世记 1:1、申命记 29:29（和合本）</description>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">tangqa-2026-11-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/tang-sermons/2026-11-20/audio.mp3" length="3491231" type="audio/mpeg"/>
+      <itunes:duration>7:16</itunes:duration>
+    </item>
     <item>
       <title>怎样证明上帝的存在？</title>
       <description>神不用人证明，祂借着所造之物显明自己——看不见的神，才是神；人的责任是睁眼，不是造神。 经文：罗马书 1:20、诗篇 19:1（和合本）</description>
