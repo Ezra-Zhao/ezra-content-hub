@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 08:43:31 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:16:58 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>《美国百指日报》2026-11-20｜道指跌1101点失守5万点，标普六连跌，密歇根通胀预期降到3.7%｜11月20日</title>
+      <description>大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月二十日，星期五。</description>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-11-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-11-20/audio.mp3" length="2828974" type="audio/mpeg"/>
+      <itunes:duration>5:54</itunes:duration>
+    </item>
     <item>
       <title>美国百指日报·晚间速报｜11月19日：初请升到20.3万人，标普跌2.02%连跌第六日</title>
       <description>&gt; 今日三份数据同向偏弱：初请失业金20.3万人高于预期19.7万人（前周上修20.2万），续请升到176.3万人单周增加7万人；费城联储制造业指数降到6.3远低于预期、支付价格升到58.2，堪萨斯城联储综合指数升到18、生产与雇员指数同创多年高位，地区制造业分化；咨商会领先指数10月跌0.3%降到99.3；天然气库存增加200亿立方英尺低于预期250亿。收盘三大指数齐跌逾2%：标普7175.83点跌2.02%连跌第六日，纳指23879.20点跌2.25%，道指49097.06点跌2.19%跌破5万点；今晨头条的人工智能公司上市首日收97.17美元、高于83美元发行价。前瞻：周五10:00 ET密歇根大学消费者信心终值预期51.5、初值51.0。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。</description>
