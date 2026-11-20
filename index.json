@@ -6002,6 +6002,22 @@
    "episodes": [
     {
      "date": "2026-11-19",
+     "title": "硅谷科技日报·晚间版｜11月19日：上市首日收涨一成七，开盘冲高又回落",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月19日，星期四。头条：Anthropic上市首日收涨一成七，开盘冲高又回落。",
+     "audio": "content/silicon-valley/2026-11-19-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-19-pm/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "https://www.youtube.com/watch?v=7AZyMacfX2E",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=7AZyMacfX2E"
+     }
+    },
+    {
+     "date": "2026-11-19",
      "title": "硅谷科技日报｜11月19日：AI公司今天上市，募资八百多亿美元",
      "scripture": "",
      "theme": "这里是硅谷科技日报，今天是二零二六年十一月十九日，星期四。今天头条：做Claude的Anthropic今天开始上市交易，募资八百多亿美元。",
@@ -6657,7 +6673,7 @@
      }
     }
    ],
-   "count": 41,
+   "count": 42,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
