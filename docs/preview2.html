@@ -43,6 +43,8 @@
   @media(min-width:640px){.fbtns{grid-template-columns:1fr 1fr 1fr}}
   .fbtn{display:block;background:var(--card2);border:1px solid var(--line);border-radius:14px;padding:9px 8px;text-decoration:none;color:var(--ink);font-size:14.5px;line-height:1.45}
   .fbtn b{color:var(--acc);display:block;font-size:16px}
+  .fbtn.soon{grid-column:span 2;border-style:dashed;background:transparent;color:var(--sub)}
+  .fbtn.soon b{color:var(--sub)}
   .followbox .mailab{margin-top:14px;font-size:16.5px;font-weight:700}
   main{max-width:760px;margin:0 auto;padding:6px 14px 48px}
   section{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 18px;margin-top:16px}
@@ -124,6 +126,7 @@
       <a class="fbtn" href="https://www.facebook.com/ezra.zhao"><b>Facebook</b> 关注</a>
       <a class="fbtn" href="https://www.facebook.com/profile.php?id=513125502098379"><b>FB 主页</b> Glory Power Media</a>
       <a class="fbtn" href="https://github.com/Ezra-Zhao"><b>GitHub</b> 关注</a>
+      <div class="fbtn soon"><b>敬请期待</b> 更多平台陆续开通</div>
     </div>
     <p class="mailab">订阅邮件，新内容直达邮箱</p>
     <div class="fbtns">
@@ -148,16 +151,17 @@
   </section>
 
   <div class="doors">
-    <a class="door" href="#about"><h3>认识我 <span class="arr">→</span></h3><p>白天做 AI 与数据中心基础设施的工程师：职业身份、擅长领域与公开主页。</p></a>
+    <a class="door" href="#about"><h3>认识我 <span class="arr">→</span></h3><p>一个认真努力拉动全家的父亲和儿子：他的工作、擅长与公开主页。</p></a>
     <a class="door" href="#podcast"><h3>听节目 <span class="arr">→</span></h3><p>讲道播客、每日灵修（五语）、赞美诗与视频：通勤、睡前都能听。</p></a>
     <a class="door" href="#books"><h3>读书买书 <span class="arr">→</span></h3><p>《圣经伴读》免费试读、讲道全集、拆书笔记、专栏与数字产品。</p></a>
   </div>
 
   <section id="about">
     <h2>认识我 <span class="tag">工程师 · PMP</span></h2>
+    <p class="desc">一个认真努力拉动全家的父亲和儿子。</p>
     <div class="jobs">
       <p>数据中心基础设施与系统工程师 · Quanta Manufacturing Fremont</p>
-      <p>高级技术项目经理（Senior TPM）· CoreNex Capital LLC</p>
+      <p>高级技术项目经理（Senior TPM）</p>
     </div>
     <div class="chips"><span>Data Center Infrastructure</span><span>Liquid Cooling Systems</span><span>Distributed GPU Clusters</span><span>AI Foundation Model Fine-Tuning</span><span>Linux System Administration</span><span>High-Speed Networking (InfiniBand, RoCE, 400G Ethernet)</span><span>Cybersecurity</span><span>Research &amp; Development</span><span>Turnkey Engineering Projects</span><span>AI Deployment</span></div>
     <p class="prow">公开主页：<a href="https://github.com/Ezra-Zhao">GitHub</a> · <a href="https://x.com/EzraZhao64144">X</a> · <a href="https://dev.to/ezrazhao">Dev.to 技术专栏</a></p>
