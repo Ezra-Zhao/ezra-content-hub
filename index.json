@@ -7566,9 +7566,19 @@
      "page": "content/audiobook-john/2026-11-18-ch01/index.md",
      "duration_sec": 962,
      "duration": "16:02"
+    },
+    {
+     "date": "2026-11-19",
+     "title": "第2篇：酒用尽了，好酒才上桌",
+     "scripture": "约翰福音 2:1-22",
+     "theme": "迦拿婚宴水变酒、耶路撒冷洁净圣殿——祂把好酒留到如今。",
+     "audio": "content/audiobook-john/2026-11-19-ch02/audio.mp3",
+     "page": "content/audiobook-john/2026-11-19-ch02/index.md",
+     "duration_sec": 1046,
+     "duration": "17:26"
     }
    ],
-   "count": 1
+   "count": 2
   }
  ],
  "articles": [
