@@ -3,19 +3,19 @@
   <channel>
     <title>瓦器分享｜圣经讲解与讲道</title>
     <link>https://ezrazhao.com/</link>
-    <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/waqi.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ezrazhao.com/podcast/waqi.xml" rel="self" type="application/rss+xml"/>
     <language>zh-cn</language>
-    <description>瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，把宝贝放在瓦器里，显明莫大的能力是出于神。关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：《每日灵修》早晚双版也在本枢纽更新。</description>
+    <description>瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，把宝贝放在瓦器里，显明莫大的能力是出于神。关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezrazhao.com/ 同组节目：《每日灵修》早晚双版也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 15:54:05 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:48:19 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
-    <itunes:summary>瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，把宝贝放在瓦器里，显明莫大的能力是出于神。关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezra-zhao.github.io/ezra-content-hub/ 同组节目：《每日灵修》早晚双版也在本枢纽更新。</itunes:summary>
+    <itunes:summary>瓦器分享：Guangyi Zhao 的讲道节目——圣经原文解经、逐节讲解与生活应用，把宝贝放在瓦器里，显明莫大的能力是出于神。关键词：讲道、解经、圣经讲解、查经。全部节目：https://ezrazhao.com/ 同组节目：《每日灵修》早晚双版也在本枢纽更新。</itunes:summary>
     <itunes:keywords>讲道,解经,圣经讲解,查经,基督教,信仰生活</itunes:keywords>
     <itunes:owner>
       <itunes:name>Guangyi Zhao</itunes:name>
       <itunes:email>ezra777.zhao@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://ezra-zhao.github.io/ezra-content-hub/podcast/cover-waqi.png"/>
+    <itunes:image href="https://ezrazhao.com/podcast/cover-waqi.png"/>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
@@ -60,6 +60,14 @@
       <guid isPermaLink="false">sermons-2026-10-15</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/sermons/2026-10-15/audio.mp3" length="4831853" type="audio/mpeg"/>
       <itunes:duration>5:02</itunes:duration>
+    </item>
+    <item>
+      <title>谁告诉你赤身露体</title>
+      <description>神问亚当「谁告诉你赤身露体」，不是要情报，是给人开口认罪的机会——推诿是把真话排成一个队形、让自己站在队尾；认罪，是把自己放回主语的位置，门就开了。 经文：创世记 3:11-14（和合本）</description>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">sermons-2026-10-12</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/sermons/2026-10-12/audio.mp3" length="21316798" type="audio/mpeg"/>
+      <itunes:duration>22:12</itunes:duration>
     </item>
     <item>
       <title>沉睡中的预备</title>
