@@ -271,7 +271,7 @@
 
   <section id="archive">
     <h2>每日节目存档 <span class="tag">档案</span></h2>
-    <p class="desc">新闻、股市、长寿前沿、硅谷科技、移民政策、湾区福利与每日灵修的往期节目存档，点开任意一集即可收听。</p>
+    <p class="desc">新闻、股市、长寿前沿、硅谷科技、移民政策、湾区福利与每日灵修——每档节目只展示最新一集，点开即可收听；往期节目在各播客平台与逐字稿索引里。</p>
     <div id="app"><p style="color:#9fb0c9;padding:10px 0">正在加载目录…</p></div>
   </section>
 
@@ -347,11 +347,13 @@
         if(chips.length){ html += '<p class="rel">相关节目：' + chips.join('') + '</p>'; }
       }
       if(!p.episodes || !p.episodes.length){ html += '<p class="empty">即将上线，敬请期待。</p>'; }
-      (p.episodes||[]).forEach(function(e){
+      var latestEp = null;
+      (p.episodes||[]).forEach(function(e){ if(!latestEp || (e.date||'') > (latestEp.date||'')){ latestEp = e; } });
+      if(latestEp){ var e = latestEp;
         html += '<div class="ep"><div class="meta">' + esc(e.date) + ' · ' + esc(e.scripture||'') + ' · ' + esc(e.duration||'') + '</div>';
         html += '<h3>' + esc(e.title) + '</h3><p class="theme">' + esc(e.theme) + '</p>';
         html += '<audio controls preload="none" src="' + BASE + esc(e.audio) + '"></audio></div>';
-      });
+      }
       html += '</div>';
     });
     (data.articles||[]).forEach(function(s){
