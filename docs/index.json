@@ -3593,6 +3593,38 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-19",
+     "title": "美股盘后小结 11月19日：高开低走三大指数跌约2%",
+     "scripture": "",
+     "theme": "美股盘后小结，11月19日，星期四。三大指数高开低走大跌，标普代理跌百分之一点九六，网安龙头逆市大涨百分之六点四四。",
+     "audio": "content/stocks-pm/2026-11-19/audio.mp3",
+     "page": "content/stocks-pm/2026-11-19/index.md",
+     "duration_sec": 77,
+     "duration": "1:17",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-18",
+     "title": "美股盘后小结 11月18日：三大指数五连跌",
+     "scripture": "",
+     "theme": "美股盘后小结，11月18日，星期三。三大指数五连跌，道琼斯跌约百分之一点二，联合健康大跌拖累道指，英伟达财报超预期却冲高回落。",
+     "audio": "content/stocks-pm/2026-11-18/audio.mp3",
+     "page": "content/stocks-pm/2026-11-18/index.md",
+     "duration_sec": 71,
+     "duration": "1:11",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-17",
      "title": "美股盘后小结 11月17日：三大指数四连跌",
      "scripture": "",
@@ -4073,7 +4105,7 @@
      }
     }
    ],
-   "count": 30,
+   "count": 32,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
@@ -4661,6 +4693,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-19",
+     "title": "美国百指日报·晚间速报｜11月19日：初请升到20.3万人，标普跌2.02%连跌第六日",
+     "scripture": "",
+     "theme": "> 今日三份数据同向偏弱：初请失业金20.3万人高于预期19.7万人（前周上修20.2万），续请升到176.3万人单周增加7万人；费城联储制造业指数降到6.3远低于预期、支付价格升到58.2，堪萨斯城联储综合指数升到18、生产与雇员指数同创多年高位，地区制造业分化；咨商会领先指数10月跌0.3%降到99.3；天然气库存增加200亿立方英尺低于预期250亿。收盘三大指数齐跌逾2%：标普7175.83点跌2.02%连跌第六日，纳指23879.20点跌2.25%，道指49097.06点跌2.19%跌破5万点；今晨头条的人工智能公司上市首日收97.17美元、高于83美元发行价。前瞻：周五10:00 ET密歇根大学消费者信心终值预期51.5、初值51.0。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-19/audio.mp3",
+     "page": "content/fred-pm/2026-11-19/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "https://www.youtube.com/watch?v=pc_LycY4hXM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=pc_LycY4hXM"
+     }
+    },
+    {
      "date": "2026-11-18",
      "title": "美国百指日报·晚间速报｜11月18日：联储纪要偏鹰几乎所有官员认为还需加息，标普连跌第五日",
      "scripture": "",
@@ -5141,7 +5189,7 @@
      }
     }
    ],
-   "count": 30,
+   "count": 31,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5176,6 +5224,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=BerR49Ea5mQ"
+     }
+    },
+    {
+     "date": "2026-11-19",
+     "title": "长寿前沿日报·晚间版｜11月19日：脑淋巴瘤患者能用CAR-T了",
+     "scripture": "",
+     "theme": "本期：晚间更新——主打为当日新增：FDA更新Breyanzi（lisocabtagene maraleucel）说明书，移除排除原发和继发中枢神经系统淋巴瘤患者的限制用语，非新批适应症；安全性队列仅5人，细胞因子释放综合征60%、神经毒性40%，黑框警告仍在。快讯：CDC MMWR追踪2000年到2024年中风死亡率从每10万人81.4降至51.9、相对下降36.3%，部分人群近年上升，系描述性趋势非因果。轮换位：宾州报告今年第8例麻疹相关死亡、各州合计11例，CDC确认口径为6例待复核，美国刚失去麻疹消除地位。",
+     "audio": "content/longevity/2026-11-19-pm/audio.mp3",
+     "page": "content/longevity/2026-11-19-pm/index.md",
+     "duration_sec": 101,
+     "duration": "1:41",
+     "video_url": "https://www.youtube.com/watch?v=QzLPyhqgCKM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=QzLPyhqgCKM"
      }
     },
     {
@@ -5491,11 +5555,11 @@
      "page": "content/longevity/2026-11-06-pm/index.md",
      "duration_sec": 101,
      "duration": "1:41",
-     "video_url": "https://www.youtube.com/watch?v=qKxymiIA3OI",
+     "video_url": "https://www.youtube.com/watch?v=a5j5skAtbpY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=qKxymiIA3OI"
+      "youtube": "https://www.youtube.com/watch?v=a5j5skAtbpY"
      }
     },
     {
@@ -5523,11 +5587,11 @@
      "page": "content/longevity/2026-11-05-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=91m_eMsE2Sk",
+     "video_url": "https://www.youtube.com/watch?v=XCXqesLykSQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=91m_eMsE2Sk"
+      "youtube": "https://www.youtube.com/watch?v=XCXqesLykSQ"
      }
     },
     {
@@ -5555,11 +5619,11 @@
      "page": "content/longevity/2026-11-04-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=V7M2NaSIdXY",
+     "video_url": "https://www.youtube.com/watch?v=vStGTecY0no",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=V7M2NaSIdXY"
+      "youtube": "https://www.youtube.com/watch?v=vStGTecY0no"
      }
     },
     {
@@ -5651,11 +5715,11 @@
      "page": "content/longevity/2026-10-30-pm/index.md",
      "duration_sec": 105,
      "duration": "1:45",
-     "video_url": "https://www.youtube.com/watch?v=OmMqVvqujXY",
+     "video_url": "https://www.youtube.com/watch?v=wObuF7R-qZ8",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=OmMqVvqujXY"
+      "youtube": "https://www.youtube.com/watch?v=wObuF7R-qZ8"
      }
     },
     {
@@ -5683,11 +5747,11 @@
      "page": "content/longevity/2026-10-29-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=d9ek0ZB72ec",
+     "video_url": "https://www.youtube.com/watch?v=fDsWEnIYVYo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=d9ek0ZB72ec"
+      "youtube": "https://www.youtube.com/watch?v=fDsWEnIYVYo"
      }
     },
     {
@@ -5715,11 +5779,11 @@
      "page": "content/longevity/2026-10-28-pm/index.md",
      "duration_sec": 109,
      "duration": "1:49",
-     "video_url": "https://www.youtube.com/watch?v=TQPKWBLyQT0",
+     "video_url": "https://www.youtube.com/watch?v=gljUrcPJ34Y",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=TQPKWBLyQT0"
+      "youtube": "https://www.youtube.com/watch?v=gljUrcPJ34Y"
      }
     },
     {
@@ -5747,11 +5811,11 @@
      "page": "content/longevity/2026-10-27-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=O3VySZRGLHU",
+     "video_url": "https://www.youtube.com/watch?v=JcF7gi3-P04",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=O3VySZRGLHU"
+      "youtube": "https://www.youtube.com/watch?v=JcF7gi3-P04"
      }
     },
     {
@@ -5779,11 +5843,11 @@
      "page": "content/longevity/2026-10-26-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=MwQTnZAbVWQ",
+     "video_url": "https://www.youtube.com/watch?v=vdWjP5XwSm0",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=MwQTnZAbVWQ"
+      "youtube": "https://www.youtube.com/watch?v=vdWjP5XwSm0"
      }
     },
     {
@@ -5811,11 +5875,11 @@
      "page": "content/longevity/2026-10-23-pm/index.md",
      "duration_sec": 93,
      "duration": "1:33",
-     "video_url": "https://www.youtube.com/watch?v=57XDruS1V4I",
+     "video_url": "https://www.youtube.com/watch?v=-ODHGL6w0Aw",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=57XDruS1V4I"
+      "youtube": "https://www.youtube.com/watch?v=-ODHGL6w0Aw"
      }
     },
     {
@@ -5843,11 +5907,11 @@
      "page": "content/longevity/2026-10-22-pm/index.md",
      "duration_sec": 86,
      "duration": "1:26",
-     "video_url": "https://www.youtube.com/watch?v=mpZXHZPs4fA",
+     "video_url": "https://www.youtube.com/watch?v=vEN768v0OwY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=mpZXHZPs4fA"
+      "youtube": "https://www.youtube.com/watch?v=vEN768v0OwY"
      }
     },
     {
@@ -5947,7 +6011,7 @@
      }
     }
    ],
-   "count": 49,
+   "count": 50,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -5982,6 +6046,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=kmhK0pRKGiA"
+     }
+    },
+    {
+     "date": "2026-11-19",
+     "title": "硅谷科技日报·晚间版｜11月19日：上市首日收涨一成七，开盘冲高又回落",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月19日，星期四。头条：Anthropic上市首日收涨一成七，开盘冲高又回落。",
+     "audio": "content/silicon-valley/2026-11-19-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-19-pm/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "https://www.youtube.com/watch?v=7AZyMacfX2E",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=7AZyMacfX2E"
      }
     },
     {
@@ -6409,11 +6489,11 @@
      "page": "content/silicon-valley/2026-10-29/index.md",
      "duration_sec": 119,
      "duration": "1:59",
-     "video_url": "https://www.youtube.com/watch?v=voFnkkc9KHY",
+     "video_url": "https://www.youtube.com/watch?v=STDDD5a1Yfo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=voFnkkc9KHY"
+      "youtube": "https://www.youtube.com/watch?v=STDDD5a1Yfo"
      }
     },
     {
@@ -6473,11 +6553,11 @@
      "page": "content/silicon-valley/2026-10-27/index.md",
      "duration_sec": 130,
      "duration": "2:10",
-     "video_url": "https://www.youtube.com/watch?v=0L8gp2F2cnM",
+     "video_url": "https://www.youtube.com/watch?v=vSxBDjSzvbM",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=0L8gp2F2cnM"
+      "youtube": "https://www.youtube.com/watch?v=vSxBDjSzvbM"
      }
     },
     {
@@ -6625,7 +6705,7 @@
      }
     }
    ],
-   "count": 41,
+   "count": 42,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -7534,9 +7614,19 @@
      "page": "content/audiobook-john/2026-11-18-ch01/index.md",
      "duration_sec": 962,
      "duration": "16:02"
+    },
+    {
+     "date": "2026-11-19",
+     "title": "第2篇：酒用尽了，好酒才上桌",
+     "scripture": "约翰福音 2:1-22",
+     "theme": "迦拿婚宴水变酒、耶路撒冷洁净圣殿——祂把好酒留到如今。",
+     "audio": "content/audiobook-john/2026-11-19-ch02/audio.mp3",
+     "page": "content/audiobook-john/2026-11-19-ch02/index.md",
+     "duration_sec": 1046,
+     "duration": "17:26"
     }
    ],
-   "count": 1
+   "count": 2
   }
  ],
  "articles": [
