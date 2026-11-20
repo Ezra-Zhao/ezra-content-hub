@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "programs": [
   {
    "id": "devotion-am",
@@ -6049,6 +6049,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-20",
+     "title": "硅谷科技日报｜11月20日：谷歌的智能体能替你操作电脑了",
+     "scripture": "",
+     "theme": "这里是硅谷科技日报，今天是二零二六年十一月二十日，星期五。今天头条：谷歌的智能体能替你操作电脑了，你说话，它动手。",
+     "audio": "content/silicon-valley/2026-11-20/audio.mp3",
+     "page": "content/silicon-valley/2026-11-20/index.md",
+     "duration_sec": 126,
+     "duration": "2:06",
+     "video_url": "https://www.youtube.com/watch?v=gUmeq84Oc9M",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=gUmeq84Oc9M"
+     }
+    },
+    {
      "date": "2026-11-19",
      "title": "硅谷科技日报｜11月19日：AI公司今天上市，募资八百多亿美元",
      "scripture": "",
@@ -6721,7 +6737,7 @@
      }
     }
    ],
-   "count": 42,
+   "count": 43,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
