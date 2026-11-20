@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 12:41:38 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:42:56 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 1 John 4:19: He First Loved Us</title>
+      <description>We love him, because he first loved us — receive His love first tonight, and sleep in the love He gave first. Scripture: 1 John 4:19 (WEB)</description>
+      <pubDate>Fri, 20 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-20/audio.mp3" length="2038847" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Isaiah 52:12: He Goes Before You and Is Your Rear Guard</title>
+      <description>For you shall not go out in haste, neither shall you go by flight: for Yahweh will go before you; and the God of Israel will be your rear guard — no haste and no fleeing today; walk steadily, with God ahead of you and behind you. Scripture: Isaiah 52:12 (WEB)</description>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-20/audio.mp3" length="2045117" type="audio/mpeg"/>
+      <itunes:duration>2:08</itunes:duration>
+    </item>
     <item>
       <title>[PM] Romans 3:28: Justified by Faith</title>
       <description>We maintain therefore that a man is justified by faith apart from the works of the law — rest tonight on this firm foundation, not on today&#x27;s performance. Scripture: Romans 3:28 (WEB)</description>
