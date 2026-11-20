@@ -2783,6 +2783,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-20",
+     "title": "新闻矩阵｜11月20日早间版：国际法院裁定缅甸犯种族灭绝罪，美股六连跌、Anthropic首日涨17%",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月20日早间版：国际法院裁定缅甸犯种族灭绝罪，美股六连跌、Anthropic首日涨17%",
+     "audio": "content/news-am/2026-11-20/audio.mp3",
+     "page": "content/news-am/2026-11-20/index.md",
+     "duration_sec": 312,
+     "duration": "5:12",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-19",
      "title": "新闻矩阵｜11月19日早间版：深圳三方会谈发和平宣言，Anthropic定价83美元今日上市，湾区暴雨破纪录",
      "scripture": "",
@@ -3167,7 +3183,7 @@
      }
     }
    ],
-   "count": 24,
+   "count": 25,
    "related": [
     "fred-am",
     "fred-pm",
