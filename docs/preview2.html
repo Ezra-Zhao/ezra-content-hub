@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guangyi Zhao (Ezra Zhao / 赵广义) - zhaoguangyi | Data Center Infrastructure & AI Systems</title>
+<meta name="keywords" content="Guangyi Zhao, Ezra Zhao, 赵广义, zhaoguangyi, Data Center Infrastructure, Liquid Cooling, Distributed GPU Clusters, AI Systems Engineer, Cybersecurity, R&D, Turnkey Engineering, AI Deployment">
+<meta name="author" content="Guangyi Zhao">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://ezrazhao.com/">
+<meta name="description" content="Guangyi Zhao（Ezra Zhao）的内容集散页：快乐的工程师 · PMP，数据中心与 AI 基础设施从业者；讲道与写作、原创赞美诗、《圣经伴读》免费试读、讲道播客与每日灵修，以及美国法律、税务、在美就医学习笔记。">
+<meta property="og:title" content="Guangyi Zhao (Ezra Zhao / 赵广义) - zhaoguangyi | Data Center Infrastructure & AI Systems">
+<meta property="og:description" content="读书、听歌、听播客、看视频、问信仰、请代祷——Guangyi Zhao 的全部内容，都从这一页进。">
+<meta property="og:type" content="profile">
+<meta property="profile:first_name" content="Guangyi">
+<meta property="profile:last_name" content="Zhao">
+<meta property="profile:username" content="zhaoguangyi">
+<meta property="og:url" content="https://ezrazhao.com/">
+<meta property="og:site_name" content="Ezra 内容枢纽">
+<meta property="og:image" content="https://ezrazhao.com/assets/og-card.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Guangyi Zhao (Ezra Zhao / 赵广义) - zhaoguangyi | Data Center Infrastructure & AI Systems">
+<meta name="twitter:description" content="读书、听歌、听播客、看视频、问信仰、请代祷——Guangyi Zhao 的全部内容，都从这一页进。">
+<meta name="twitter:image" content="https://ezrazhao.com/assets/og-card.png">
+<style>
+  :root{--bg:#0f1420;--card:#1a2233;--card2:#222d44;--ink:#eef2f8;--sub:#9fb0c9;--acc:#e8b34b;--line:#2c3a55}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.7;font-size:16px}
+  header{padding:22px 18px 4px;max-width:760px;margin:0 auto;text-align:center}
+  .avatar{width:108px;height:108px;border-radius:50%;object-fit:cover;border:2.5px solid var(--acc);display:block;margin:0 auto 10px;background:var(--card2)}
+  header h1{font-size:31px;letter-spacing:1px;line-height:1.3}
+  header h1 span{color:var(--acc)}
+  header .pos{color:var(--ink);font-size:16.5px;margin-top:10px}
+  header .sub{color:var(--sub);font-size:13.5px;margin-top:6px}
+  .langs{margin:16px auto 2px;max-width:680px;font-size:13.5px;color:var(--sub);line-height:2.1;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:6px 14px}
+  .langs a{color:var(--sub);text-decoration:none;margin:0 2px}
+  .langs a.cur{color:var(--acc);font-weight:700}
+  .followbox{max-width:760px;margin:14px auto 0;padding:0 14px}
+  .followbox .box{background:var(--card);border:1.5px solid var(--acc);border-radius:16px;padding:16px 16px;text-align:center}
+  .followbox h2{font-size:22px}
+  .followbox .note{color:var(--sub);font-size:14.5px;margin-top:5px}
+  .fbtns{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px}
+  @media(min-width:640px){.fbtns{grid-template-columns:1fr 1fr 1fr}}
+  .fbtn{display:block;background:var(--card2);border:1px solid var(--line);border-radius:14px;padding:9px 8px;text-decoration:none;color:var(--ink);font-size:14.5px;line-height:1.45}
+  .fbtn b{color:var(--acc);display:block;font-size:16px}
+  .followbox .mailab{margin-top:14px;font-size:16.5px;font-weight:700}
+  main{max-width:760px;margin:0 auto;padding:6px 14px 48px}
+  section{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 18px;margin-top:16px}
+  section h2{font-size:20px;display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+  section h2 .tag{font-size:11.5px;color:#0f1420;background:var(--acc);border-radius:20px;padding:2px 10px;font-weight:700}
+  section .desc{color:var(--sub);font-size:15px;margin:6px 0 8px}
+  .item{border-top:1px solid var(--line);padding:13px 0}
+  .item:first-of-type{border-top:none}
+  .item h3{font-size:18px;margin:2px 0}
+  .item h3 a{color:var(--ink);text-decoration:none}
+  .item h3 a:hover{color:var(--acc)}
+  .item p{font-size:15px;color:var(--sub)}
+  .item .go{font-size:14.5px;white-space:nowrap}
+  .badge{font-size:11.5px;color:#0f1420;background:var(--acc);border-radius:20px;padding:1px 9px;font-weight:700;vertical-align:2px}
+  .badge.gray{background:var(--card2);color:var(--sub);border:1px solid var(--line)}
+  .listen{font-size:15px;color:var(--sub);margin:3px 0 9px}
+  .listen a{white-space:normal;overflow-wrap:anywhere}
+  .more{border-top:1px solid var(--line);padding-top:12px;margin-top:2px;text-align:right;font-size:15px}
+  .todaybox{border:1.5px solid var(--acc)}
+  .todaybox .meta{color:var(--sub);font-size:13.5px;margin-top:4px}
+  .todaybox h3{font-size:19px;margin:6px 0 2px;line-height:1.5}
+  .todaybox .theme{font-size:15px;color:var(--sub)}
+  .todaybox audio{width:100%;margin-top:12px;height:40px}
+  .searchbox input{width:100%;background:var(--card2);border:1px solid var(--line);border-radius:12px;padding:14px 16px;color:var(--ink);font-size:16.5px;outline:none}
+  .searchbox input:focus{border-color:var(--acc)}
+  .sres{margin-top:10px}
+  .sres a{display:block;padding:11px 6px;border-top:1px solid var(--line);text-decoration:none;color:var(--ink);font-size:16px}
+  .sres a:first-child{border-top:none}
+  .sres a .k{font-size:11.5px;color:#0f1420;background:var(--acc);border-radius:20px;padding:1px 8px;font-weight:700;margin-right:8px;vertical-align:2px}
+  .sres a .s{display:block;color:var(--sub);font-size:13.5px;margin-top:2px}
+  .sres .none{color:var(--sub);font-size:14.5px;padding:10px 6px}
+  .doors{max-width:1080px;margin:16px auto 0;padding:0 14px;display:grid;grid-template-columns:1fr;gap:10px}
+  @media(min-width:640px){.doors{grid-template-columns:1fr 1fr}}
+  @media(min-width:1024px){.doors{grid-template-columns:1fr 1fr 1fr}}
+  .door{display:block;background:var(--card2);border:1px solid var(--line);border-radius:16px;padding:17px 20px;text-decoration:none;color:var(--ink)}
+  .door:hover{border-color:var(--acc)}
+  .door h3{font-size:21px;display:flex;align-items:center;justify-content:space-between;gap:10px}
+  .door h3 .arr{color:var(--acc);font-size:24px;font-weight:700}
+  .door p{color:var(--sub);font-size:15px;margin-top:8px;line-height:1.65}
+  .jobs p{font-size:16.5px;margin:4px 0}
+  .chips{margin:12px 0 4px;line-height:2.2}
+  .chips span{display:inline-block;background:var(--card2);border:1px solid var(--line);border-radius:20px;padding:2px 12px;margin:2px 4px 2px 0;font-size:13.5px;color:var(--ink)}
+  .prow{font-size:15.5px;margin-top:10px}
+  .archivecard{text-align:center}
+  .archivecard h2{justify-content:center}
+  .archivecard .bignum{font-size:26px;color:var(--acc);font-weight:700}
+  footer{max-width:760px;margin:0 auto;padding:0 18px 34px;color:var(--sub);font-size:12.5px;text-align:center;line-height:1.9}
+  footer a{color:#cfe0ff}
+  a{color:var(--acc)}
+  .stickybar{display:none}
+  @media(max-width:767px){
+    body{padding-bottom:62px}
+    .stickybar{display:flex;position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--acc);z-index:50}
+    .stickybar a{flex:1;text-align:center;padding:13px 4px;color:var(--ink);text-decoration:none;font-size:16px;font-weight:700}
+    .stickybar a+a{border-left:1px solid var(--line)}
+  }
+</style>
+</head>
+<body>
+<header>
+  <img class="avatar" src="./assets/portrait.jpg" alt="Guangyi Zhao">
+  <h1>Guangyi Zhao (Ezra Zhao) <span>- 赵广义</span></h1>
+  <p class="pos">快乐的工程师 · PMP——AI 与数据中心基础设施，安全，Coding，余下时间睡觉、美食、讲道、写作、写赞美诗，哈利路亚</p>
+  <p class="sub">Guangyi Zhao（zhaoguangyi）· 《圣经伴读》《释经大全》作者 · 原创赞美诗创作者 · 播客《瓦器里的宝贝》与每日灵修主理人 · 美国法律／税务／就医学习笔记连载中</p>
+  <div class="langs"><a class="cur" href="https://ezrazhao.com/">简体中文</a> · <a href="https://ezrazhao.com/en/">English</a> · <a href="https://ezrazhao.com/zh-tw/">繁體中文</a> · <a href="https://ezrazhao.com/es/">Español</a> · <a href="https://ezrazhao.com/pt/">Português</a> · <a href="https://ezrazhao.com/ko/">한국어</a> · <a href="https://ezrazhao.com/ja/">日本語</a> · <a href="https://ezrazhao.com/vi/">Tiếng Việt</a> · <a href="https://ezrazhao.com/id/">Bahasa Indonesia</a> · <a href="https://ezrazhao.com/hi/">हिन्दी</a> · <a href="https://ezrazhao.com/fr/">Français</a> · <a href="https://ezrazhao.com/ar/">العربية</a></div>
+</header>
+<div class="followbox" id="follow">
+  <div class="box">
+    <h2>关注我 · 一键直达</h2>
+    <p class="note">点开任意一个平台，在那边点一下「订阅／关注」确认就行，新内容第一时间到你眼前。</p>
+    <div class="fbtns">
+      <a class="fbtn" href="https://www.youtube.com/@ezra-zhao?sub_confirmation=1"><b>YouTube</b> 订阅主频道</a>
+      <a class="fbtn" href="https://www.youtube.com/@EzraDaily777?sub_confirmation=1"><b>Ezra Daily</b> 订阅日更频道</a>
+      <a class="fbtn" href="https://open.spotify.com/artist/1h6UkqNEUkNJzfn7fKv64U"><b>Spotify</b> 关注艺人页</a>
+      <a class="fbtn" href="https://music.apple.com/us/artist/ezra-zhao/6820470536"><b>Apple Music</b> 关注艺人页</a>
+      <a class="fbtn" href="https://www.instagram.com/ezr3257"><b>Instagram</b> 关注</a>
+      <a class="fbtn" href="https://www.threads.com/@ezr3257"><b>Threads</b> 关注</a>
+      <a class="fbtn" href="https://x.com/EzraZhao64144"><b>X</b> 关注</a>
+      <a class="fbtn" href="https://www.facebook.com/ezra.zhao"><b>Facebook</b> 关注</a>
+      <a class="fbtn" href="https://www.facebook.com/profile.php?id=513125502098379"><b>FB 主页</b> Glory Power Media</a>
+      <a class="fbtn" href="https://github.com/Ezra-Zhao"><b>GitHub</b> 关注</a>
+    </div>
+    <p class="mailab">订阅邮件，新内容直达邮箱</p>
+    <div class="fbtns">
+      <a class="fbtn" href="https://codeandpsalms.beehiiv.com"><b>《代码与诗篇》</b> 邮件订阅（beehiiv）</a>
+      <a class="fbtn" href="https://codeandpsalms.substack.com/subscribe"><b>Substack</b> 《代码与诗篇》订阅页</a>
+    </div>
+  </div>
+</div>
+<main>
+
+  <section class="todaybox" id="today" style="display:none">
+    <h2>今日上新 <span class="tag">最新一集</span></h2>
+    <div id="today-body"></div>
+    <p class="more"><a href="./index.html#archive">全部节目存档 →</a></p>
+  </section>
+
+  <section class="searchbox" id="search">
+    <h2>找节目、文章和书 <span class="tag">搜索</span></h2>
+    <p class="desc">想听哪一集、读哪一篇，直接搜：四百多集节目、上千篇文章与全部书目都在这里面。</p>
+    <input id="q" type="search" placeholder="输入关键词，如：约翰福音、股市、长寿、太阳雪…" autocomplete="off">
+    <div class="sres" id="sres"></div>
+  </section>
+
+  <div class="doors">
+    <a class="door" href="#about"><h3>认识我 <span class="arr">→</span></h3><p>白天做 AI 与数据中心基础设施的工程师：职业身份、擅长领域与公开主页。</p></a>
+    <a class="door" href="#podcast"><h3>听节目 <span class="arr">→</span></h3><p>讲道播客、每日灵修（五语）、赞美诗与视频：通勤、睡前都能听。</p></a>
+    <a class="door" href="#books"><h3>读书买书 <span class="arr">→</span></h3><p>《圣经伴读》免费试读、讲道全集、拆书笔记、专栏与数字产品。</p></a>
+  </div>
+
+  <section id="about">
+    <h2>认识我 <span class="tag">工程师 · PMP</span></h2>
+    <div class="jobs">
+      <p>数据中心基础设施与系统工程师 · Quanta Manufacturing Fremont</p>
+      <p>高级技术项目经理（Senior TPM）· CoreNex Capital LLC</p>
+    </div>
+    <div class="chips"><span>Data Center Infrastructure</span><span>Liquid Cooling Systems</span><span>Distributed GPU Clusters</span><span>AI Foundation Model Fine-Tuning</span><span>Linux System Administration</span><span>High-Speed Networking (InfiniBand, RoCE, 400G Ethernet)</span><span>Cybersecurity</span><span>Research &amp; Development</span><span>Turnkey Engineering Projects</span><span>AI Deployment</span></div>
+    <p class="prow">公开主页：<a href="https://github.com/Ezra-Zhao">GitHub</a> · <a href="https://x.com/EzraZhao64144">X</a> · <a href="https://dev.to/ezrazhao">Dev.to 技术专栏</a></p>
+  </section>
+
+  <section id="books">
+    <h2>读书 <span class="tag">圣经伴读</span></h2>
+    <p class="desc">陪你把圣经读进去的书。先试读，再决定。</p>
+    <div class="item">
+      <h3><a href="./shidu.html">《圣经伴读 · 约翰福音》</a> <span class="badge">免费试读</span></h3>
+      <p>21 篇，陪你慢慢读完约翰福音——读着读着，就信了。第一篇全文免费试读。</p>
+      <p><a class="go" href="./shidu.html">开始试读 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="https://github.com/Ezra-Zhao/Sermon-Sharing">讲道全集 · Sermon-Sharing</a></h3>
+      <p>讲道稿全文文库（GitHub）：按卷、按系列持续更新，全集在这里。</p>
+      <p><a class="go" href="https://github.com/Ezra-Zhao/Sermon-Sharing">打开讲道全集 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="https://github.com/Ezra-Zhao/reading-notes">拆书笔记 · reading-notes</a></h3>
+      <p>71 篇拆书笔记：把读过的书拆成能直接用的中文笔记，商业、科技、健康、神学、历史五大领域轮值。</p>
+      <p><a class="go" href="https://github.com/Ezra-Zhao/reading-notes">看拆书笔记 →</a></p>
+    </div>
+    <div class="item">
+      <h3>Substack 专栏</h3>
+      <p>四个邮件专栏，订阅后新文章直达邮箱：信仰与技术、美国法律、在美税务、在美就医。</p>
+      <p class="listen"><a href="https://codeandpsalms.substack.com">《代码与诗篇》</a> · <a href="https://uslawlifenotes.substack.com">US Law Life Notes</a> · <a href="https://dailytaxusa.substack.com">Daily Tax USA</a> · <a href="https://ushealthnotes.substack.com">US Health Notes</a></p>
+    </div>
+    <p class="more"><a href="./index.html#books">查看全部读书内容 →</a></p>
+  </section>
+
+  <section id="music">
+    <h2>听歌 <span class="tag">原创赞美诗</span></h2>
+    <p class="desc">原创中文赞美诗，已在 Spotify 等平台正式发行。</p>
+    <div class="item">
+      <h3><a href="https://open.spotify.com/artist/1h6UkqNEUkNJzfn7fKv64U">Ezra Zhao · Spotify 艺人页</a></h3>
+      <p>全部已发行赞美诗都在这里，进艺人页点关注，新歌上线第一时间听到。</p>
+      <p><a class="go" href="https://open.spotify.com/artist/1h6UkqNEUkNJzfn7fKv64U">去听歌 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="https://open.spotify.com/album/2d99jXP9lgBgnwdsUE6Wx3">《说不尽的恩典》</a> <span class="badge">最新上线</span></h3>
+      <p>说不尽的恩典——最新正式上线的单曲，Spotify 现已可听。</p>
+      <p><a class="go" href="https://open.spotify.com/album/2d99jXP9lgBgnwdsUE6Wx3">在 Spotify 收听 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="https://open.spotify.com/album/5G2NWXX7Tkg96sldiH0fek">《以马内利》</a> <span class="badge">最新上线</span></h3>
+      <p>以马内利，神与我们同在——最新正式上线的单曲，Spotify 现已可听。</p>
+      <p><a class="go" href="https://open.spotify.com/album/5G2NWXX7Tkg96sldiH0fek">在 Spotify 收听 →</a></p>
+    </div>
+    <p class="more"><a href="./index.html#music">查看全部歌曲 →</a></p>
+  </section>
+
+  <section id="podcast">
+    <h2>听播客 <span class="tag">讲道 · 灵修</span></h2>
+    <p class="desc">讲道与每日灵修，通勤、睡前都能听。</p>
+    <div class="item">
+      <h3>《瓦器里的宝贝》（瓦器分享）</h3>
+      <p>圣经讲解与讲道播客：一卷书一卷书、一段经文一段经文地讲。</p>
+      <p class="listen">在播客平台收听：<a href="https://pca.st/80mejg80">Pocket Casts</a> · <a href="https://castbox.fm/channel/id7462659">Castbox</a></p>
+    </div>
+    <div class="item">
+      <h3>每日灵修｜2 分钟读经与祷告</h3>
+      <p>早间与睡前两档，每天 2 分钟，一段经文、一个祷告，陪你开始和结束一天；另有英语、西班牙语、越南语、印地语版本。</p>
+      <p class="listen">中文版：<a href="https://open.spotify.com/show/0aRYgnhiksutsHE8Z3C4Ns">Spotify</a> · <a href="https://pca.st/crscel1a">Pocket Casts</a> · <a href="https://castbox.fm/channel/id7461795">Castbox</a></p>
+      <p class="listen">英语版：<a href="https://pca.st/o3rbpr1h">Pocket Casts</a> · <a href="https://castbox.fm/channel/id7462672">Castbox</a>；西班牙语版：<a href="https://pca.st/gzym30x7">Pocket Casts</a> · <a href="https://castbox.fm/channel/id7462674">Castbox</a></p>
+      <p class="listen">越南语版：<a href="https://pca.st/qpyup9sh">Pocket Casts</a> · <a href="https://castbox.fm/channel/id7462675">Castbox</a>；印地语版：<a href="https://pca.st/ffgflhzn">Pocket Casts</a> · <a href="https://castbox.fm/channel/id7462676">Castbox</a></p>
+    </div>
+    <div class="item">
+      <h3>《小憩片刻》讲书 <span class="badge gray">即将上线</span></h3>
+      <p>讲书节目：五大领域轮值选书，十几分钟讲清一本书的主线与取舍。样板集制作中，上线后在这里收听。</p>
+    </div>
+    <p class="more"><a href="./index.html#podcast">查看全部播客 →</a></p>
+  </section>
+
+  <section id="video">
+    <h2>看视频 <span class="tag">YouTube</span></h2>
+    <p class="desc">长视频与每日短节目，都在 YouTube。</p>
+    <div class="item">
+      <h3><a href="https://www.youtube.com/@ezra-zhao">YouTube 频道 Ezra-Zhao</a></h3>
+      <p>长视频系列：讲道、圣经讲解与专题课程。</p>
+      <p><a class="go" href="https://www.youtube.com/@ezra-zhao">去看视频 →</a></p>
+    </div>
+    <div class="item">
+      <h3><a href="https://www.youtube.com/@EzraDaily777">Ezra Daily 日更频道</a></h3>
+      <p>每日更新的时效节目：新闻、股市、灵修与生活资讯。</p>
+      <p><a class="go" href="https://www.youtube.com/@EzraDaily777">去日更频道 →</a></p>
+    </div>
+    <p class="more"><a href="./index.html#video">查看全部视频 →</a></p>
+  </section>
+
+  <section id="shop">
+    <h2>产品与服务 <span class="tag">购买 · 订阅 · 赞助</span></h2>
+    <p class="desc">能直接买到、用到的都在这里：数字产品、音乐全平台、播客订阅与赞助支持。</p>
+    <div class="item">
+      <h3><a href="https://ezraflow28.gumroad.com/">Gumroad 数字产品店</a></h3>
+      <p>模板与工具包，买下即可下载使用。单品直达：</p>
+      <p class="listen"><a href="https://ezraflow28.gumroad.com/l/cybbmr">数据中心运维值班表 Data Center Operations Shift Workbook</a> · <a href="https://ezraflow28.gumroad.com/l/aadyxd">小店 WhatsApp AI 客服包</a> · <a href="https://ezraflow28.gumroad.com/l/kaqonv">PM 项目交付模板包</a> · <a href="https://ezraflow28.gumroad.com/l/ueochk">教会行政工作簿</a> · <a href="https://ezraflow28.gumroad.com/l/xyvnh">多平台内容发布排期表</a></p>
+      <p><a class="go" href="https://ezraflow28.gumroad.com/">进店看看 →</a></p>
+    </div>
+    <div class="item">
+      <h3>音乐 · Apple Music 与新歌预热</h3>
+      <p>赞美诗除 Spotify（见上方听歌区）外也在 Apple Music 同步发行；最新单曲《忧伤痛悔的心》已开放预热页。</p>
+      <p class="listen"><a href="https://music.apple.com/us/artist/ezra-zhao/6820470536">Apple Music 艺人页</a> · <a href="https://distrokid.com/hyperfollow/ezrazhao/fzLHLHOvAfM">《忧伤痛悔的心》预热页</a></p>
+    </div>
+    <div class="item">
+      <h3>订阅与赞助</h3>
+      <p>《代码与诗篇》通讯免费订阅，技术与信仰的交叉笔记直达邮箱；GitHub Sponsors 的赞助用于服务器与 API 成本，支持免费开源与内容持续更新。</p>
+      <p class="listen"><a href="https://codeandpsalms.beehiiv.com">订阅《代码与诗篇》</a> · <a href="https://github.com/sponsors/Ezra-Zhao">GitHub Sponsors 赞助</a></p>
+      <p class="listen">播客：<a href="https://podcasts.apple.com/us/podcast/id6832770906">在 Apple Podcasts 收听《弹古论今｜History Rhymes》</a></p>
+    </div>
+    <p class="more"><a href="./index.html#shop">查看全部产品与服务 →</a></p>
+  </section>
+
+  <section id="qa">
+    <h2>问答与代祷 <span class="tag">信仰问答</span></h2>
+    <p class="desc">心里有过不去的坎，先看看这些问题里有没有你的那一句；需要有人陪你祷告，也可以把事项留给我们。</p>
+    <p class="prow"><a href="./qa.html">看信仰问答清单 →</a> · <a href="./qa.html#intercession">请我们为你代祷 →</a></p>
+  </section>
+
+  <section class="archivecard" id="archive">
+    <h2>每日节目存档</h2>
+    <p><span class="bignum">400+ 集</span></p>
+    <p class="desc">新闻、股市、长寿前沿、硅谷科技、移民政策、湾区福利与每日灵修的全部往期节目，点开任意一集即可收听。</p>
+    <p class="prow"><a href="./index.html#archive">打开节目存档 →</a></p>
+  </section>
+
+</main>
+<footer>
+  <div>© 2026 Guangyi Zhao（赵广义）· Ezra 内容枢纽 — 原创书籍、赞美诗、播客与视频</div>
+  <div>
+    <a href="https://www.youtube.com/@ezra-zhao">YouTube 频道 Ezra-Zhao</a> ·
+    <a href="./privacy-policy.html">隐私政策 Privacy Policy</a> ·
+    <a href="./terms-of-service.html">服务条款 Terms of Service</a>
+  </div>
+</footer>
+<div class="stickybar">
+  <a href="#follow">关注</a>
+  <a href="#today" id="bar-listen">听最新</a>
+  <a href="#books">读书</a>
+</div>
+<script>
+(function(){
+  var onPages = location.hostname.indexOf('github.io') !== -1;
+  var BASE = onPages ? 'https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/' : '../';
+  function esc(s){return (s||'').replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+  var STATIC = [
+    {k:'书', t:'《圣经伴读 · 约翰福音》免费试读', s:'21 篇，陪你慢慢读完约翰福音', u:'./shidu.html'},
+    {k:'书', t:'《释经大全 · 约翰福音》逐节释经卷', s:'即将上架 · 495 页逐节细解', u:'./index.html#books'},
+    {k:'书', t:'讲道全集 · Sermon-Sharing', s:'讲道稿全文文库（GitHub）', u:'https://github.com/Ezra-Zhao/Sermon-Sharing'},
+    {k:'书', t:'拆书笔记 · reading-notes', s:'71 篇拆书笔记，五大领域轮值', u:'https://github.com/Ezra-Zhao/reading-notes'},
+    {k:'书', t:'技术学习笔记 · go-study-notes', s:'Go / Python / Java clean-room 笔记', u:'https://github.com/Ezra-Zhao/go-study-notes'},
+    {k:'专栏', t:'Dev.to 技术专栏', s:'英文技术文', u:'https://dev.to/ezrazhao'},
+    {k:'专栏', t:'《代码与诗篇》Substack', s:'信仰与技术', u:'https://codeandpsalms.substack.com'},
+    {k:'专栏', t:'US Law Life Notes', s:'美国法律学习笔记', u:'https://uslawlifenotes.substack.com'},
+    {k:'专栏', t:'Daily Tax USA', s:'在美税务学习笔记', u:'https://dailytaxusa.substack.com'},
+    {k:'专栏', t:'US Health Notes', s:'在美就医学习笔记', u:'https://ushealthnotes.substack.com'},
+    {k:'节目', t:'《瓦器里的宝贝》（瓦器分享）', s:'圣经讲解与讲道播客', u:'#podcast'},
+    {k:'节目', t:'每日灵修｜2 分钟读经与祷告', s:'早间与睡前两档，另有英、西、越、印地语版', u:'#podcast'},
+    {k:'节目', t:'《小憩片刻》讲书', s:'即将上线', u:'#podcast'},
+    {k:'歌', t:'Ezra Zhao · Spotify 艺人页', s:'全部已发行赞美诗', u:'https://open.spotify.com/artist/1h6UkqNEUkNJzfn7fKv64U'},
+    {k:'歌', t:'《说不尽的恩典》', s:'最新上线单曲', u:'https://open.spotify.com/album/2d99jXP9lgBgnwdsUE6Wx3'},
+    {k:'歌', t:'《以马内利》', s:'最新上线单曲', u:'https://open.spotify.com/album/5G2NWXX7Tkg96sldiH0fek'},
+    {k:'歌', t:'Apple Music 艺人页', s:'赞美诗同步发行', u:'https://music.apple.com/us/artist/ezra-zhao/6820470536'},
+    {k:'歌', t:'《忧伤痛悔的心》预热页', s:'最新单曲', u:'https://distrokid.com/hyperfollow/ezrazhao/fzLHLHOvAfM'},
+    {k:'节目', t:'《弹古论今｜History Rhymes》Apple Podcasts', s:'以史看今', u:'https://podcasts.apple.com/us/podcast/id6832770906'},
+    {k:'视频', t:'YouTube 频道 Ezra-Zhao', s:'讲道、圣经讲解与专题课程', u:'https://www.youtube.com/@ezra-zhao'},
+    {k:'视频', t:'Ezra Daily 日更频道', s:'新闻、股市、灵修与生活资讯', u:'https://www.youtube.com/@EzraDaily777'},
+    {k:'产品', t:'Gumroad 数字产品店', s:'模板与工具包', u:'https://ezraflow28.gumroad.com/'},
+    {k:'产品', t:'数据中心运维值班表 Data Center Operations Shift Workbook', s:'Gumroad 单品', u:'https://ezraflow28.gumroad.com/l/cybbmr'},
+    {k:'产品', t:'小店 WhatsApp AI 客服包', s:'Gumroad 单品', u:'https://ezraflow28.gumroad.com/l/aadyxd'},
+    {k:'产品', t:'PM 项目交付模板包', s:'Gumroad 单品', u:'https://ezraflow28.gumroad.com/l/kaqonv'},
+    {k:'产品', t:'教会行政工作簿', s:'Gumroad 单品', u:'https://ezraflow28.gumroad.com/l/ueochk'},
+    {k:'产品', t:'多平台内容发布排期表', s:'Gumroad 单品', u:'https://ezraflow28.gumroad.com/l/xyvnh'},
+    {k:'订阅', t:'《代码与诗篇》邮件订阅（beehiiv）', s:'新内容直达邮箱', u:'https://codeandpsalms.beehiiv.com'},
+    {k:'订阅', t:'GitHub Sponsors 赞助', s:'支持免费开源与内容更新', u:'https://github.com/sponsors/Ezra-Zhao'},
+    {k:'问答', t:'信仰问答', s:'最常被问到的问题', u:'./qa.html'},
+    {k:'问答', t:'请我们为你代祷', s:'每件事项认真代祷一个月', u:'./qa.html#intercession'},
+    {k:'存档', t:'每日节目存档', s:'400+ 集往期节目', u:'./index.html#archive'},
+    {k:'存档', t:'逐字稿落地页', s:'每集一页，音频与逐字稿全文', u:'podcast/episodes/index.html'}
+  ];
+  var IDX = STATIC.slice();
+  var input = document.getElementById('q'), box = document.getElementById('sres');
+  function render(q){
+    q = (q||'').trim().toLowerCase();
+    if(!q){ box.innerHTML=''; return; }
+    var hits = [];
+    for(var i=0;i<IDX.length && hits.length<12;i++){
+      var it = IDX[i];
+      if((it.t+' '+it.s).toLowerCase().indexOf(q) !== -1) hits.push(it);
+    }
+    if(!hits.length){ box.innerHTML = '<p class="none">没找到「'+esc(q)+'」，换个词试试，或去节目存档里翻翻。</p>'; return; }
+    box.innerHTML = hits.map(function(it){
+      return '<a href="'+esc(it.u)+'"><span class="k">'+esc(it.k)+'</span>'+esc(it.t)+'<span class="s">'+esc(it.s)+'</span></a>';
+    }).join('');
+  }
+  if(input){ input.addEventListener('input', function(){ render(input.value); }); }
+  fetch('index.json').then(function(r){return r.json()}).then(function(data){
+    // 今日上新：全部节目里日期最新的一集
+    var best=null, bp=null;
+    (data.programs||[]).forEach(function(p){
+      (p.episodes||[]).forEach(function(e){ if(!best || e.date>best.date){ best=e; bp=p; } });
+    });
+    if(best){
+      var meta = esc(bp.name)+' · '+esc(best.date)+(best.duration?' · '+esc(best.duration):'')+(best.scripture?' · '+esc(best.scripture):'');
+      document.getElementById('today-body').innerHTML =
+        '<p class="meta">'+meta+'</p><h3>'+esc(best.title)+'</h3>'+
+        (best.theme && best.theme!==best.title ? '<p class="theme">'+esc(best.theme)+'</p>' : '')+
+        '<audio controls preload="none" src="'+BASE+esc(best.audio)+'"></audio>';
+      document.getElementById('today').style.display='';
+    }
+    // 搜索索引：节目、单集、文章
+    (data.programs||[]).forEach(function(p){
+      IDX.push({k:'节目', t:p.name, s:p.desc||'', u:'./index.html#archive'});
+      (p.episodes||[]).forEach(function(e){
+        IDX.push({k:'单集', t:e.title, s:p.name+' · '+e.date+(e.scripture?' · '+e.scripture:''), u:'./index.html#archive'});
+      });
+    });
+    (data.articles||[]).forEach(function(s){
+      (s.items||[]).forEach(function(a){
+        IDX.push({k:'文章', t:a.title, s:s.name+' · '+a.date+(a.scripture?' · '+a.scripture:''), u:a.page});
+      });
+    });
+    if(input && input.value) render(input.value);
+  }).catch(function(){ /* 数据取不到：今日上新保持隐藏，搜索仍可搜静态条目 */ });
+})();
+</script>
+</body>
+</html>
