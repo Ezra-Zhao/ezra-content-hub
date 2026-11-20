@@ -7667,8 +7667,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 25,
+   "count": 26,
    "items": [
+    {
+     "date": "2026-11-20",
+     "title": "沿海洪水提示延到周六，湾岸低洼先防漫水",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-20-coastal-flood-saturday-bayshore.md",
+     "page": "articles/baylocal/2026-11-20-coastal-flood-saturday-bayshore.html"
+    },
     {
      "date": "2026-11-19",
      "title": "沿海洪水提示到明早，湾岸低洼先防漫水",
