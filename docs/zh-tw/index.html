@@ -317,6 +317,7 @@
     <a href="../privacy-policy.html">隱私政策 Privacy Policy</a> ·
     <a href="../terms-of-service.html">服務條款 Terms of Service</a>
   </div>
+<div style="text-align:center;margin:18px 0 8px;font-size:13.5px"><div style="margin-bottom:6px">覺得有幫助，歡迎轉給一位可能需要的朋友。</div><a href="#" data-share style="display:inline-block;background:#222d44;border:1px solid #2c3a55;border-radius:20px;padding:6px 14px;text-decoration:none;font-size:13px;color:#eef2f8;margin:3px 2px">分享</a><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fezrazhao.com%2Fzh-tw%2F" target="_blank" rel="noopener" style="display:inline-block;background:#222d44;border:1px solid #2c3a55;border-radius:20px;padding:6px 14px;text-decoration:none;font-size:13px;color:#eef2f8;margin:3px 2px">Facebook</a><a href="https://wa.me/?text=https%3A%2F%2Fezrazhao.com%2Fzh-tw%2F" target="_blank" rel="noopener" style="display:inline-block;background:#222d44;border:1px solid #2c3a55;border-radius:20px;padding:6px 14px;text-decoration:none;font-size:13px;color:#eef2f8;margin:3px 2px">WhatsApp</a><a href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2Fezrazhao.com%2Fzh-tw%2F" target="_blank" rel="noopener" style="display:inline-block;background:#222d44;border:1px solid #2c3a55;border-radius:20px;padding:6px 14px;text-decoration:none;font-size:13px;color:#eef2f8;margin:3px 2px">LINE</a><a href="#" data-copy style="display:inline-block;background:#222d44;border:1px solid #2c3a55;border-radius:20px;padding:6px 14px;text-decoration:none;font-size:13px;color:#eef2f8;margin:3px 2px">複製連結</a></div>
 </footer>
 <script>
 (function(){
@@ -368,6 +369,10 @@
     document.getElementById('app').innerHTML = '<p style="padding:10px 0">目錄載入失敗，請稍後再試。</p>';
   });
 })();
+</script>
+<script>
+document.querySelectorAll('[data-share]').forEach(function(a){a.addEventListener('click',function(e){e.preventDefault();if(navigator.share){navigator.share({title:document.title,url:location.href}).catch(function(){})}else if(navigator.clipboard){navigator.clipboard.writeText(location.href);var t=a.textContent;a.textContent='\u2713';setTimeout(function(){a.textContent=t},1600)}})});
+document.querySelectorAll('[data-copy]').forEach(function(a){a.addEventListener('click',function(e){e.preventDefault();if(navigator.clipboard){navigator.clipboard.writeText(location.href);var t=a.textContent;a.textContent='\u2713';setTimeout(function(){a.textContent=t},1600)}})});
 </script>
 </body>
 </html>
