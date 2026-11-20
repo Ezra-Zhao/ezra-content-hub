@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 09:16:58 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:41:01 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报｜11月20日：生长激素一周打一针，一年少打三百多针</title>
+      <description>本期：FDA批准Sogroya（somapacitan-beco）治2.5岁以上特纳综合征儿童生长障碍，首款每周一次长效生长激素；三期REAL8研究105名患儿、52周，每周组年长高8.9厘米、每日组9.7厘米，企业称效果可比，一年313天不用打针，常见副作用为呼吸道感染、发烧、腹泻与注射部位反应。快讯：《自然·医学》分析219000人，出生越晚、进入老年时记忆越好，观察性、不等于因果。轮换位：《自然》报道颗粒酶K推动组织衰老，缺失它的老年小鼠心肝肾更好，仅动物实验。</description>
+      <pubDate>Fri, 20 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-20/audio.mp3" length="1037810" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报·晚间版｜11月19日：脑淋巴瘤患者能用CAR-T了</title>
       <description>本期：晚间更新——主打为当日新增：FDA更新Breyanzi（lisocabtagene maraleucel）说明书，移除排除原发和继发中枢神经系统淋巴瘤患者的限制用语，非新批适应症；安全性队列仅5人，细胞因子释放综合征60%、神经毒性40%，黑框警告仍在。快讯：CDC MMWR追踪2000年到2024年中风死亡率从每10万人81.4降至51.9、相对下降36.3%，部分人群近年上升，系描述性趋势非因果。轮换位：宾州报告今年第8例麻疹相关死亡、各州合计11例，CDC确认口径为6例待复核，美国刚失去麻疹消除地位。</description>

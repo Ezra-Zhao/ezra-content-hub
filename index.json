@@ -5259,6 +5259,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-20",
+     "title": "长寿前沿日报｜11月20日：生长激素一周打一针，一年少打三百多针",
+     "scripture": "",
+     "theme": "本期：FDA批准Sogroya（somapacitan-beco）治2.5岁以上特纳综合征儿童生长障碍，首款每周一次长效生长激素；三期REAL8研究105名患儿、52周，每周组年长高8.9厘米、每日组9.7厘米，企业称效果可比，一年313天不用打针，常见副作用为呼吸道感染、发烧、腹泻与注射部位反应。快讯：《自然·医学》分析219000人，出生越晚、进入老年时记忆越好，观察性、不等于因果。轮换位：《自然》报道颗粒酶K推动组织衰老，缺失它的老年小鼠心肝肾更好，仅动物实验。",
+     "audio": "content/longevity/2026-11-20/audio.mp3",
+     "page": "content/longevity/2026-11-20/index.md",
+     "duration_sec": 130,
+     "duration": "2:10",
+     "video_url": "https://www.youtube.com/watch?v=wcK6zRI08ro",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=wcK6zRI08ro"
+     }
+    },
+    {
      "date": "2026-11-19",
      "title": "长寿前沿日报｜11月19日：戈谢病脑症状有了第一款药",
      "scripture": "",
@@ -6059,7 +6075,7 @@
      }
     }
    ],
-   "count": 50,
+   "count": 51,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
