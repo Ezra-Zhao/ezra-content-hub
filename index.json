@@ -3625,6 +3625,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-20",
+     "title": "美股盘后小结 11月20日：连跌第七天尾盘跌幅扩大",
+     "scripture": "",
+     "theme": "美股盘后小结，11月20日，星期五。三大指数连跌第七天，尾盘卖压加重，恐慌指数盘中升破三十七，创五十二周新高。",
+     "audio": "content/stocks-pm/2026-11-20/audio.mp3",
+     "page": "content/stocks-pm/2026-11-20/index.md",
+     "duration_sec": 74,
+     "duration": "1:14",
+     "video_url": "https://www.youtube.com/watch?v=EUKgRXD50bM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=EUKgRXD50bM"
+     }
+    },
+    {
      "date": "2026-11-19",
      "title": "美股盘后小结 11月19日：高开低走三大指数跌约2%",
      "scripture": "",
@@ -4137,7 +4153,7 @@
      }
     }
    ],
-   "count": 32,
+   "count": 33,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
