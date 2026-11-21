@@ -3633,11 +3633,11 @@
      "page": "content/stocks-pm/2026-11-20/index.md",
      "duration_sec": 74,
      "duration": "1:14",
-     "video_url": "https://www.youtube.com/watch?v=EUKgRXD50bM",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=EUKgRXD50bM"
+      "youtube": ""
      }
     },
     {
@@ -4757,6 +4757,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-20",
+     "title": "美国百指日报·晚间速报｜11月20日：标普跌3.7%连跌第七日，纳指跌5.28%抹去年内涨幅",
+     "scripture": "",
+     "theme": "> 标普收6910.39点跌3.7%连跌第七日、进入回调，本周跌8.6%；纳指收22617.73点跌5.28%、年内转为下跌；道指收48147.33点跌1.93%。今日发布：密歇根消费者信心终值51.5符合预期（初值51.0、10月48.0），一年通胀预期降到3.7%（初值4.3%、10月4.7%）、五年预期3.3%；贝克休斯总钻机数607台增加6台、为2024年4月以来最高，石油钻机469台、天然气128台；美联储理事库克主张继续加息。Anthropic第二日收88.91美元跌8.5%，盘中低点83.05美元仅高于83美元发行价0.05美元；10年期收益率降到4.91%。前瞻：周末无重要数据，下周一08:30 ET芝加哥联储全国活动指数（前值0.07）、09:45 ET标普全球PMI初值。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-20/audio.mp3",
+     "page": "content/fred-pm/2026-11-20/index.md",
+     "duration_sec": 127,
+     "duration": "2:07",
+     "video_url": "https://www.youtube.com/watch?v=3aOiA8ZfxaQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=3aOiA8ZfxaQ"
+     }
+    },
+    {
      "date": "2026-11-19",
      "title": "美国百指日报·晚间速报｜11月19日：初请升到20.3万人，标普跌2.02%连跌第六日",
      "scripture": "",
@@ -5253,7 +5269,7 @@
      }
     }
    ],
-   "count": 31,
+   "count": 32,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5276,22 +5292,6 @@
    "episodes": [
     {
      "date": "2026-11-20",
-     "title": "长寿前沿日报·晚间版｜11月20日：麻疹升至5838例",
-     "scripture": "",
-     "theme": "本期：晚间更新——主打为当日新增：CDC 11月20日周报，全美麻疹升至5838例、单周加426例涨7.9%，96%与暴发相关、43起暴发，为美国失去麻疹消除地位后首份周报；宾州1631例、326人住院、第8例死亡，死亡口径CDC确认6例对各州合计11例待复核。快讯：日间主打每周生长激素补限定——开放标签篮子设计、对照剂量低于批准上限、置信区间跨零、2年安全延长期未报告。轮换位：FDA批准adrabetadex治尼曼匹克病C型、第3款同病药物，机构公告未公布疗效数字。",
-     "audio": "content/longevity/2026-11-20-pm/audio.mp3",
-     "page": "content/longevity/2026-11-20-pm/index.md",
-     "duration_sec": 108,
-     "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=fsbjX86WDug",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=fsbjX86WDug"
-     }
-    },
-    {
-     "date": "2026-11-20",
      "title": "长寿前沿日报｜11月20日：生长激素一周打一针，一年少打三百多针",
      "scripture": "",
      "theme": "本期：FDA批准Sogroya（somapacitan-beco）治2.5岁以上特纳综合征儿童生长障碍，首款每周一次长效生长激素；三期REAL8研究105名患儿、52周，每周组年长高8.9厘米、每日组9.7厘米，企业称效果可比，一年313天不用打针，常见副作用为呼吸道感染、发烧、腹泻与注射部位反应。快讯：《自然·医学》分析219000人，出生越晚、进入老年时记忆越好，观察性、不等于因果。轮换位：《自然》报道颗粒酶K推动组织衰老，缺失它的老年小鼠心肝肾更好，仅动物实验。",
@@ -5304,6 +5304,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=wcK6zRI08ro"
+     }
+    },
+    {
+     "date": "2026-11-20",
+     "title": "长寿前沿日报·晚间版｜11月20日：麻疹升至5838例",
+     "scripture": "",
+     "theme": "本期：晚间更新——主打为当日新增：CDC 11月20日周报，全美麻疹升至5838例、单周加426例涨7.9%，96%与暴发相关、43起暴发，为美国失去麻疹消除地位后首份周报；宾州1631例、326人住院、第8例死亡，死亡口径CDC确认6例对各州合计11例待复核。快讯：日间主打每周生长激素补限定——开放标签篮子设计、对照剂量低于批准上限、置信区间跨零、2年安全延长期未报告。轮换位：FDA批准adrabetadex治尼曼匹克病C型、第3款同病药物，机构公告未公布疗效数字。",
+     "audio": "content/longevity/2026-11-20-pm/audio.mp3",
+     "page": "content/longevity/2026-11-20-pm/index.md",
+     "duration_sec": 108,
+     "duration": "1:48",
+     "video_url": "https://www.youtube.com/watch?v=fsbjX86WDug",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=fsbjX86WDug"
      }
     },
     {
@@ -6107,7 +6123,7 @@
      }
     }
    ],
-   "count": 51,
+   "count": 52,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -6130,22 +6146,6 @@
    "episodes": [
     {
      "date": "2026-11-20",
-     "title": "硅谷科技日报·晚间版｜11月20日：上市次日跌回发行价边上，首日涨幅快吐完了",
-     "scripture": "",
-     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月20日，星期五。头条：Anthropic上市第二天大跌，盘中差一点跌破发行价。",
-     "audio": "content/silicon-valley/2026-11-20-pm/audio.mp3",
-     "page": "content/silicon-valley/2026-11-20-pm/index.md",
-     "duration_sec": 105,
-     "duration": "1:45",
-     "video_url": "https://www.youtube.com/watch?v=UovkwpA5dV8",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=UovkwpA5dV8"
-     }
-    },
-    {
-     "date": "2026-11-20",
      "title": "硅谷科技日报｜11月20日：谷歌的智能体能替你操作电脑了",
      "scripture": "",
      "theme": "这里是硅谷科技日报，今天是二零二六年十一月二十日，星期五。今天头条：谷歌的智能体能替你操作电脑了，你说话，它动手。",
@@ -6158,6 +6158,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=gUmeq84Oc9M"
+     }
+    },
+    {
+     "date": "2026-11-20",
+     "title": "硅谷科技日报·晚间版｜11月20日：上市次日跌回发行价边上，首日涨幅快吐完了",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月20日，星期五。头条：Anthropic上市第二天大跌，盘中差一点跌破发行价。",
+     "audio": "content/silicon-valley/2026-11-20-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-20-pm/index.md",
+     "duration_sec": 105,
+     "duration": "1:45",
+     "video_url": "https://www.youtube.com/watch?v=UovkwpA5dV8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=UovkwpA5dV8"
      }
     },
     {
@@ -6833,7 +6849,7 @@
      }
     }
    ],
-   "count": 43,
+   "count": 44,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"

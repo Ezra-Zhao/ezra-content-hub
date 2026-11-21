@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 20:15:51 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:56:53 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜11月20日：标普跌3.7%连跌第七日，纳指跌5.28%抹去年内涨幅</title>
+      <description>&gt; 标普收6910.39点跌3.7%连跌第七日、进入回调，本周跌8.6%；纳指收22617.73点跌5.28%、年内转为下跌；道指收48147.33点跌1.93%。今日发布：密歇根消费者信心终值51.5符合预期（初值51.0、10月48.0），一年通胀预期降到3.7%（初值4.3%、10月4.7%）、五年预期3.3%；贝克休斯总钻机数607台增加6台、为2024年4月以来最高，石油钻机469台、天然气128台；美联储理事库克主张继续加息。Anthropic第二日收88.91美元跌8.5%，盘中低点83.05美元仅高于83美元发行价0.05美元；10年期收益率降到4.91%。前瞻：周末无重要数据，下周一08:30 ET芝加哥联储全国活动指数（前值0.07）、09:45 ET标普全球PMI初值。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。</description>
+      <pubDate>Fri, 20 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-20</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-20/audio.mp3" length="1021719" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+    </item>
     <item>
       <title>《美国百指日报》2026-11-20｜道指跌1101点失守5万点，标普六连跌，密歇根通胀预期降到3.7%｜11月20日</title>
       <description>大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月二十日，星期五。</description>
