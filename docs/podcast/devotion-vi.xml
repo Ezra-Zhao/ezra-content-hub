@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 12:30:24 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:25:55 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Đức Giê-hô-va Sự Công-Bình Chúng Ta</title>
+      <description>Sự công-bình đã ở trong Đấng Christ: buông xuống gánh nặng tự xưng công-bình, tối nay hãy ở yên-ổn trong Ngài. Kinh Thánh: Giê-rê-mi 23:6 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sat, 21 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-11-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-11-21/audio.mp3" length="2196141" type="audio/mpeg"/>
+      <itunes:duration>2:17</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Ngài Thấy Huyết, Thì Vượt Qua Chúng Ta</title>
+      <description>Ngài thấy huyết thì vượt qua chúng ta: không dựa vào cảm-xúc của mình, chỉ dựa vào sự cứu-chuộc Đấng Christ đã làm xong mà yên lòng đi con đường hôm nay. Kinh Thánh: Xuất Ê-díp-tô Ký 12:13 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-21/audio.mp3" length="2130861" type="audio/mpeg"/>
+      <itunes:duration>2:13</itunes:duration>
+    </item>
     <item>
       <title>[PM] Ngài Đã Yêu Chúng Ta Trước</title>
       <description>Chúng ta yêu, vì Chúa đã yêu chúng ta trước; trước hết tiếp nhận, rồi mới đi yêu — tối nay hãy ngủ trong tình yêu không thay đổi của Ngài. Kinh Thánh: I Giăng 4:19 (Bản Truyền Thống 1925)</description>

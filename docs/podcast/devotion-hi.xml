@@ -7,7 +7,7 @@
     <language>hi</language>
     <description>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 12:30:24 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:25:55 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</itunes:summary>
     <itunes:keywords>दैनिक भक्ति,बाइबल पाठ,प्रार्थना,पवित्रशास्त्र,सुबह की भक्ति,रात की भक्ति,मसीही विश्वास,मनन</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] यहोवा हमारी धार्मिकता</title>
+      <description>धार्मिकता मसीह में पहले से तैयार है; अपने आप को धार्मिक ठहराने का बोझ उतारकर आज रात उसमें निडर विश्राम कीजिए। पवित्रशास्त्र: यिर्मयाह 23:6 (HHBD)</description>
+      <pubDate>Sat, 21 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-hi-2026-11-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-hi/2026-11-21/audio.mp3" length="2078253" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] वह लोहू देखकर हमें छोड़ जाएगा</title>
+      <description>वह लोहू को देखकर हमें छोड़ जाएगा; अपनी भावनाओं के सहारे नहीं, केवल मसीह के पूरे किए हुए उद्धार के सहारे आज शांत मन से चलिए। पवित्रशास्त्र: निर्गमन 12:13 (HHBD)</description>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-hi-2026-11-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-hi/2026-11-21/audio.mp3" length="2111661" type="audio/mpeg"/>
+      <itunes:duration>2:12</itunes:duration>
+    </item>
     <item>
       <title>[PM] उसने हम से पहले प्रेम किया</title>
       <description>हम इसलिये प्रेम करते हैं, कि पहिले उस ने हम से प्रेम किया; पहले ग्रहण कीजिए, फिर प्रेम कीजिए — आज रात उसके न बदलने वाले प्रेम में विश्राम कीजिए। पवित्रशास्त्र: 1 यूहन्ना 4:19 (HHBD)</description>
