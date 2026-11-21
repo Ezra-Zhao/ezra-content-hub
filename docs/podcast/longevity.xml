@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 16:14:07 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:15:51 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报·晚间版｜11月20日：麻疹升至5838例</title>
+      <description>本期：晚间更新——主打为当日新增：CDC 11月20日周报，全美麻疹升至5838例、单周加426例涨7.9%，96%与暴发相关、43起暴发，为美国失去麻疹消除地位后首份周报；宾州1631例、326人住院、第8例死亡，死亡口径CDC确认6例对各州合计11例待复核。快讯：日间主打每周生长激素补限定——开放标签篮子设计、对照剂量低于批准上限、置信区间跨零、2年安全延长期未报告。轮换位：FDA批准adrabetadex治尼曼匹克病C型、第3款同病药物，机构公告未公布疗效数字。</description>
+      <pubDate>Fri, 20 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-20-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-20-pm/audio.mp3" length="861849" type="audio/mpeg"/>
+      <itunes:duration>1:48</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报｜11月20日：生长激素一周打一针，一年少打三百多针</title>
       <description>本期：FDA批准Sogroya（somapacitan-beco）治2.5岁以上特纳综合征儿童生长障碍，首款每周一次长效生长激素；三期REAL8研究105名患儿、52周，每周组年长高8.9厘米、每日组9.7厘米，企业称效果可比，一年313天不用打针，常见副作用为呼吸道感染、发烧、腹泻与注射部位反应。快讯：《自然·医学》分析219000人，出生越晚、进入老年时记忆越好，观察性、不等于因果。轮换位：《自然》报道颗粒酶K推动组织衰老，缺失它的老年小鼠心肝肾更好，仅动物实验。</description>
