@@ -5307,6 +5307,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "长寿前沿日报｜11月21日：细胞疗法第二次被拒，卡在试验数据可信度",
+     "scripture": "",
+     "theme": "本期：FDA 11月20日第二次拒绝批准细胞疗法deramiocel治杜氏肌营养不良症，指关键三期研究HOPE-3存在严重数据完整性问题、数据不可靠且无法事后补救；专家委员会此前9票对3票，企业称两项随机双盲研究均达预设终点。快讯：JAMA Network Open队列3973人、随访12.3年，作息紊乱加活动少加睡眠差与失智风险约1.94倍相关，观察性、不等于因果。轮换位：英国生物银行22618人预印本分析，每天约3.7分钟剧烈日常活动与失智风险低48%相关，未经同行评审。",
+     "audio": "content/longevity/2026-11-21/audio.mp3",
+     "page": "content/longevity/2026-11-21/index.md",
+     "duration_sec": 133,
+     "duration": "2:13",
+     "video_url": "https://www.youtube.com/watch?v=nenZzTF1NlU",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=nenZzTF1NlU"
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "长寿前沿日报｜11月20日：生长激素一周打一针，一年少打三百多针",
      "scripture": "",
@@ -6139,7 +6155,7 @@
      }
     }
    ],
-   "count": 52,
+   "count": 53,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
