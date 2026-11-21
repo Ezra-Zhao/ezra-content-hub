@@ -6145,6 +6145,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "硅谷科技日报｜11月21日：英伟达谈收购，推理模型快到每秒千词",
+     "scripture": "",
+     "theme": "这里是硅谷科技日报，今天是二零二六年十一月二十一日，星期六。今天头条：英伟达谈收购一家推理新创，它的模型每秒能吐一千多个词。",
+     "audio": "content/silicon-valley/2026-11-21/audio.mp3",
+     "page": "content/silicon-valley/2026-11-21/index.md",
+     "duration_sec": 122,
+     "duration": "2:02",
+     "video_url": "https://www.youtube.com/watch?v=YO9IcMWkcOg",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=YO9IcMWkcOg"
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "硅谷科技日报｜11月20日：谷歌的智能体能替你操作电脑了",
      "scripture": "",
@@ -6849,7 +6865,7 @@
      }
     }
    ],
-   "count": 44,
+   "count": 45,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
