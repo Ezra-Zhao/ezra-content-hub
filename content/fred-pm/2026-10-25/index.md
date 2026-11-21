@@ -4,5 +4,5 @@
 美国百指日报·晚间速报｜10月25日：周日无新数据，通胀预期近热远稳，实际利率钉在2.47%
 
 时长：1:53
-视频：https://www.youtube.com/watch?v=tBBXTMGvO-A
+视频：https://www.youtube.com/watch?v=6vsTQ2lGd6s
 来源：本地成品补传，2026-10-26 入枢纽。
