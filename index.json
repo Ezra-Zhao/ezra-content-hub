@@ -7752,9 +7752,19 @@
      "page": "content/audiobook-john/2026-11-19-ch02/index.md",
      "duration_sec": 1046,
      "duration": "17:26"
+    },
+    {
+     "date": "2026-11-20",
+     "title": "第3篇：做好人，为什么还不够",
+     "scripture": "约翰福音 3:1-21",
+     "theme": "尼哥底母夜访——做好人为什么还不够，耶稣说，人必须重生。",
+     "audio": "content/audiobook-john/2026-11-20-ch03/audio.mp3",
+     "page": "content/audiobook-john/2026-11-20-ch03/index.md",
+     "duration_sec": 1001,
+     "duration": "16:41"
     }
    ],
-   "count": 2
+   "count": 3
   }
  ],
  "articles": [
