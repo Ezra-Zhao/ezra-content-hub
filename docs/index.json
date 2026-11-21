@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-21",
  "programs": [
   {
    "id": "devotion-am",
@@ -2783,6 +2783,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "新闻矩阵｜11月21日早间版：美股七连跌标普进回调区，基辅再遭空袭3死，美国失去麻疹消除地位",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月21日早间版：美股七连跌标普进回调区，基辅再遭空袭3死，美国失去麻疹消除地位",
+     "audio": "content/news-am/2026-11-21/audio.mp3",
+     "page": "content/news-am/2026-11-21/index.md",
+     "duration_sec": 295,
+     "duration": "4:55",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "新闻矩阵｜11月20日早间版：国际法院裁定缅甸犯种族灭绝罪，美股六连跌、Anthropic首日涨17%",
      "scripture": "",
@@ -3183,7 +3199,7 @@
      }
     }
    ],
-   "count": 25,
+   "count": 26,
    "related": [
     "fred-am",
     "fred-pm",
@@ -6145,6 +6161,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "硅谷科技日报｜11月21日：英伟达谈收购，推理模型快到每秒千词",
+     "scripture": "",
+     "theme": "这里是硅谷科技日报，今天是二零二六年十一月二十一日，星期六。今天头条：英伟达谈收购一家推理新创，它的模型每秒能吐一千多个词。",
+     "audio": "content/silicon-valley/2026-11-21/audio.mp3",
+     "page": "content/silicon-valley/2026-11-21/index.md",
+     "duration_sec": 122,
+     "duration": "2:02",
+     "video_url": "https://www.youtube.com/watch?v=YO9IcMWkcOg",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=YO9IcMWkcOg"
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "硅谷科技日报｜11月20日：谷歌的智能体能替你操作电脑了",
      "scripture": "",
@@ -6849,7 +6881,7 @@
      }
     }
    ],
-   "count": 44,
+   "count": 45,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -7585,7 +7617,7 @@
    "slot": "晚间",
    "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
    "category": "时效",
-   "count": 11,
+   "count": 12,
    "related": [
     "news-am",
     "news-pm",
@@ -7596,6 +7628,22 @@
    ],
    "title": "弹古论今 · History Rhymes",
    "episodes": [
+    {
+     "date": "2026-11-20",
+     "title": "《弹古论今》11月20日｜数据中心不许建到国外，对照明朝海禁：禁得住的从来不是生意",
+     "scripture": "",
+     "theme": "特朗普在白宫近九十分钟记者会上放话：美国公司把数据中心建到国外就要罚一笔很大的税，理由是中国会把它们全拿走；他点名芬兰一处项目，却没给税率、没给条文，据报道事先连自家班子都没通知。企业往外走的账很清楚：地、电便宜，审批快，而国内社区又怕电价与环境。参议院十一月十九日刚以六十二票对三十三票通过许可改革，加快数据中心审批并要其自担电网成本。对应的旧剧本是明朝海禁：一三七一年朱元璋禁民间出海、只剩朝贡，生意转入地下，嘉靖倭寇多数竟是被禁令逼上船的中国海商，王直一五五二年上书请开海未果被处死；直到一五六七年隆庆开关开月港、发许可证，海上才安静下来。本期无到期未对账预判；四条可证伪预判按方法第二版登记（分类、置信、翻车点齐备），立此存照。",
+     "audio": "content/history-rhymes/2026-11-20/audio.mp3",
+     "page": "content/history-rhymes/2026-11-20/index.md",
+     "duration_sec": 450,
+     "duration": "7:30",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-11-19",
      "title": "《弹古论今》11月19日｜深圳宣言四条没有一个数字，对照澶渊之盟：管用的和平，都写着价钱",

@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-21",
  "programs": [
   {
    "id": "devotion-am",
@@ -2783,6 +2783,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "新闻矩阵｜11月21日早间版：美股七连跌标普进回调区，基辅再遭空袭3死，美国失去麻疹消除地位",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月21日早间版：美股七连跌标普进回调区，基辅再遭空袭3死，美国失去麻疹消除地位",
+     "audio": "content/news-am/2026-11-21/audio.mp3",
+     "page": "content/news-am/2026-11-21/index.md",
+     "duration_sec": 295,
+     "duration": "4:55",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "新闻矩阵｜11月20日早间版：国际法院裁定缅甸犯种族灭绝罪，美股六连跌、Anthropic首日涨17%",
      "scripture": "",
@@ -3183,7 +3199,7 @@
      }
     }
    ],
-   "count": 25,
+   "count": 26,
    "related": [
     "fred-am",
     "fred-pm",
