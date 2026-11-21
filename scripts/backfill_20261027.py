@@ -17,7 +17,7 @@ SRC = os.path.expanduser("~/workspace/your_files/新闻节目")
 JOBS = [
     # (prog_id, ep_dir, dir_name, date, video_url)
     ("fred-pm", os.path.join(SRC, "episodes-evening", "2026-10-26"),
-     "2026-10-26", "2026-10-26", "https://www.youtube.com/watch?v=eyl-XsSzUg0"),
+     "2026-10-26", "2026-10-26", "https://www.youtube.com/watch?v=tQzU4VklI8A"),
     ("longevity", os.path.join(SRC, "长寿前沿日报", "episodes-evening", "2026-10-26"),
      "2026-10-26-pm", "2026-10-26", "https://www.youtube.com/watch?v=MwQTnZAbVWQ"),
     ("immigration", os.path.join(SRC, "移民政策速报", "episodes", "2026-10-26"),

@@ -4,5 +4,5 @@
 每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。今天是周六，美国无新的经济数据公布，本期看最新已落地读数与下周前瞻。
 
 时长：6:53
-视频：https://www.youtube.com/watch?v=ZOLyD7dqr3Y
+视频：https://www.youtube.com/watch?v=lKMzS5aChEk
 来源：存量成品，2026-10-21 分发攻坚登记入枢纽。

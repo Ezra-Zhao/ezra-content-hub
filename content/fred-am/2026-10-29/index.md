@@ -4,5 +4,5 @@
 每天用100个美国关键经济指标（FRED）看异常、比变化，再深耕AI与生物科技的实质进展。本期监测173个指标。
 
 时长：7:50
-视频：https://www.youtube.com/watch?v=8NBUzqCGM-U
+视频：https://www.youtube.com/watch?v=9GD2aZ9a3Iw
 来源：存量成品，2026-10-21 分发攻坚登记入枢纽。
