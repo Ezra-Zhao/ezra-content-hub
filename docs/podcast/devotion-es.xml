@@ -7,7 +7,7 @@
     <language>es</language>
     <description>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 11:42:56 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:42:11 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Devoción Diaria: edición matutina al despertar y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</itunes:summary>
     <itunes:keywords>devoción diaria,lectura bíblica,oración,escritura,devocional matutino,devocional nocturno,fe cristiana,meditación</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Jeremías 23:6: Jehová, justicia nuestra</title>
+      <description>En sus días será salvo Judá, é Israel habitará confiado: y este será su nombre que le llamarán: JEHOVÁ, JUSTICIA NUESTRA — suelta esta noche tu propia justicia y duerme apoyado en la Roca que nunca se mueve. Escritura: Jeremías 23:6 (RVR1909)</description>
+      <pubDate>Sat, 21 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-es-2026-11-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-11-21/audio.mp3" length="2035086" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Éxodo 12:13: Veré la sangre, y pasaré de vosotros</title>
+      <description>Y la sangre os será por señal en las casas donde vosotros estéis; y veré la sangre, y pasaré de vosotros — descansa hoy en lo que Cristo ya terminó, no en tus propios sentimientos. Escritura: Éxodo 12:13 (RVR1909)</description>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-es-2026-11-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-es/2026-11-21/audio.mp3" length="1922237" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
     <item>
       <title>[PM] 1 Juan 4:19: Él nos amó primero</title>
       <description>Nosotros le amamos á él, porque él nos amó primero — recibe primero su amor esta noche y descansa en el amor que él dio primero. Escritura: 1 Juan 4:19 (RVR1909)</description>
