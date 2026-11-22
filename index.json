@@ -7713,7 +7713,7 @@
    "slot": "晚间",
    "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
    "category": "时效",
-   "count": 12,
+   "count": 13,
    "related": [
     "news-am",
     "news-pm",
@@ -7914,6 +7914,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=KfWfJsf-nhg"
+     }
+    },
+    {
+     "date": "2026-11-21",
+     "title": "《弹古论今》2026-11-21｜国会要查账，先过白宫这道闸：对照李林甫的立仗马",
+     "scripture": "",
+     "theme": "特朗普行政令要求联邦承包商接到国会问询须先通报白宫、协调再回复；对照唐朝李林甫立仗马——管住通向皇帝耳朵的通道，谏争路绝。四条可证伪预判登记在案。",
+     "audio": "content/history-rhymes/2026-11-21/audio.mp3",
+     "page": "content/history-rhymes/2026-11-21/index.md",
+     "duration_sec": 452,
+     "duration": "7:32",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
      }
     }
    ]
