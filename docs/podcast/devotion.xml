@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 11:13:47 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:48:48 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 创世记5:24：与神同行｜睡前灵修</title>
+      <description>创世记5:24：与神同行——创世记 5:24 的话陪你安然入睡，讲解改编自怀特菲尔德《与神同行》、经彻底重写，祷告为原创。 经文：创世记 5:24（和合本）</description>
+      <pubDate>Sun, 22 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-22/audio.mp3" length="1749620" type="audio/mpeg"/>
+      <itunes:duration>1:49</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 路加福音14:23：勉强人进来，坐满我的屋子｜晨起读经</title>
+      <description>路加福音14:23：勉强人进来，坐满我的屋子——路加福音 14:23 的话陪你走今天这一步，讲解改编自司布真《勉强人进来》、经彻底重写，祷告为原创。 经文：路加福音 14:23（和合本）</description>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-22/audio.mp3" length="2305087" type="audio/mpeg"/>
+      <itunes:duration>2:24</itunes:duration>
+    </item>
     <item>
       <title>[PM] 耶利米书23:6：耶和华我们的义｜睡前灵修</title>
       <description>耶利米书23:6：耶和华我们的义——耶利米书 23:6 的话陪你安然入睡，讲解改编自怀特菲尔德《耶和华我们的义》、经彻底重写，祷告为原创。 经文：耶利米书 23:6（和合本）</description>
