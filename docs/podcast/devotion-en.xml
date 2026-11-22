@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 11:42:11 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:41:49 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Genesis 5:24: Enoch Walked with God</title>
+      <description>Enoch walked with God, and he was not, for God took him — hand over today&#x27;s gains and losses tonight, sleep on His promises, and walk with Him again tomorrow. Scripture: Genesis 5:24 (WEB)</description>
+      <pubDate>Sun, 22 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-22/audio.mp3" length="1765084" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Luke 14:23: Compel Them to Come In, That My House May Be Filled</title>
+      <description>The lord said to the servant, &#x27;Go out into the highways and hedges, and compel them to come in, that my house may be filled&#x27; — lay down your excuse today, come into His house, and carry the invitation to one person still outside. Scripture: Luke 14:23 (WEB)</description>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-22/audio.mp3" length="1883785" type="audio/mpeg"/>
+      <itunes:duration>1:58</itunes:duration>
+    </item>
     <item>
       <title>[PM] Jeremiah 23:6: Yahweh Our Righteousness</title>
       <description>In his days Judah shall be saved, and Israel shall dwell safely; and this is his name by which he shall be called: Yahweh our righteousness — lay down self-righteousness tonight and sleep on the Rock that never moves. Scripture: Jeremiah 23:6 (WEB)</description>
