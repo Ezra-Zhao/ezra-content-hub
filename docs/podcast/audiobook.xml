@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>《圣经伴读》有声版：赵广义（Guangyi Zhao）本人克隆声线朗读，逐章把伴读讲透。第一册《约翰福音》。关键词：圣经伴读、有声书、约翰福音、查经。全部节目：https://ezrazhao.com/ </description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 13:33:25 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:24:19 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>《圣经伴读》有声版：赵广义（Guangyi Zhao）本人克隆声线朗读，逐章把伴读讲透。第一册《约翰福音》。关键词：圣经伴读、有声书、约翰福音、查经。全部节目：https://ezrazhao.com/ </itunes:summary>
     <itunes:owner>
@@ -20,6 +20,14 @@
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>有声伴读·约翰福音 第4篇：中午来打水的人｜11月21日</title>
+      <description>约翰福音第四章：撒马利亚妇人在正午的井边遇见耶稣——祂先在井边等她，讲活水，也讲用心灵和诚实敬拜的人。</description>
+      <pubDate>Sat, 21 Nov 2026 20:00:00 -0700</pubDate>
+      <guid isPermaLink="false">audiobook-john-2026-11-21-ch04</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/audiobook-john/2026-11-21-ch04/audio.mp3" length="16756445" type="audio/mpeg"/>
+      <itunes:duration>17:27</itunes:duration>
+    </item>
     <item>
       <title>有声伴读·约翰福音 第3篇：做好人，为什么还不够｜11月20日</title>
       <description>约翰福音第三章：尼哥底母夜访——做好人为什么还不够，耶稣说，人必须重生。</description>

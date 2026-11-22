@@ -7890,9 +7890,19 @@
      "page": "content/audiobook-john/2026-11-20-ch03/index.md",
      "duration_sec": 1001,
      "duration": "16:41"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "第4篇：中午来打水的人",
+     "scripture": "约翰福音 4:1-42",
+     "theme": "撒马利亚妇人在正午的井边遇见耶稣——祂先在井边等她，讲活水，也讲用心灵和诚实敬拜的人。",
+     "audio": "content/audiobook-john/2026-11-21-ch04/audio.mp3",
+     "page": "content/audiobook-john/2026-11-21-ch04/index.md",
+     "duration_sec": 1047,
+     "duration": "17:27"
     }
    ],
-   "count": 3
+   "count": 4
   }
  ],
  "articles": [
