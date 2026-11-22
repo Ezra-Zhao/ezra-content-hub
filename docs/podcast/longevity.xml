@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 09:34:08 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:46:09 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报｜11月22日：骑车加练脑，脑皮层保住得更好</title>
+      <description>本期：JAMA Network Open随机试验二次分析146名轻度认知障碍老年人，骑行加认知训练联合组在阿尔茨海默病相关脑皮层厚度上变化更有利，脑白质指标无明显差异，作者称需更大确证试验、只是影像标志。快讯：FDA新近公开Voceryq审评依据，少动手术被认定有价值，支持研究仅32人、27%一年免手术、无对照。轮换位：巴克斯曲坦14人报告停药两年血压仍平均降25，样本小无对照、不能说治好。</description>
+      <pubDate>Sun, 22 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-22/audio.mp3" length="1001239" type="audio/mpeg"/>
+      <itunes:duration>2:05</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报·晚间版｜11月21日：被拒细胞疗法股价一天跌七成八</title>
       <description>本期：晚间更新——主打为日间头条后续：被拒细胞疗法企业11月21日表示正审查运营开支、延长现金使用期，截至9月底现金及有价证券约1.985亿美元、够用至少12个月，股价一天跌七成八；监管方称补交的24个月随访与收窄适应症未改变结论；三期研究共106人，企业口径12个月上肢功能下降比安慰剂慢54%，监管方认定未达预设终点、数据不可靠，企业坚持两项随机双盲研究都达主要终点。快讯：波尔多大学研究追踪3777名老人30年，长期孤独者后来患失智风险比从不孤独者高38%，观察性、不等于因果。轮换位：3501人队列研究，住院30天内出现过谵妄的75人日后患失智风险约为无谵妄者的5.39倍，谵妄人数少、估计不精确，观察性、不等于因果。</description>

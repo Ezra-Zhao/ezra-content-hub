@@ -4821,6 +4821,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "美国百指日报·晚间速报｜11月21日：周六无新数据，标普连跌七日进入回调，下周看核心通胀",
+     "scripture": "",
+     "theme": "> 11月21日星期六，美国无重要经济数据发布、市场休市，本期不凑数，只回顾周五收盘并前瞻下周。周五标普500收6910.39点、跌3.70%，连跌第七日，较10月6日高点回落11.6%进入技术性回调，本周为2025年4月以来最差一周；纳指收22617.73点、跌5.28%，抹去年内涨幅；道指收48147.33点、跌1.93%；罗素2000收2581.79点、跌2.76%；恐慌指数35.89、涨26.20%；10年期美债收益率约4.91%。金融压力指数-0.8655仍为负值，金融条件没有收紧。下周前瞻：周一11月23日制造业采购经理人指数初值（前值55.9）；周三11月25日10月核心个人消费支出价格指数，市场预期环比约涨0.3%。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-21/audio.mp3",
+     "page": "content/fred-pm/2026-11-21/index.md",
+     "duration_sec": 122,
+     "duration": "2:02",
+     "video_url": "https://www.youtube.com/watch?v=MYjRgnm4mE0",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=MYjRgnm4mE0"
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "美国百指日报·晚间速报｜11月20日：标普跌3.7%连跌第七日，纳指跌5.28%抹去年内涨幅",
      "scripture": "",
@@ -5333,7 +5349,7 @@
      }
     }
    ],
-   "count": 32,
+   "count": 33,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5354,6 +5370,22 @@
    "desc": "长寿与健康前沿速报：每天替你读长寿与健康领域的论文与研究。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-11-22",
+     "title": "长寿前沿日报｜11月22日：骑车加练脑，脑皮层保住得更好",
+     "scripture": "",
+     "theme": "本期：JAMA Network Open随机试验二次分析146名轻度认知障碍老年人，骑行加认知训练联合组在阿尔茨海默病相关脑皮层厚度上变化更有利，脑白质指标无明显差异，作者称需更大确证试验、只是影像标志。快讯：FDA新近公开Voceryq审评依据，少动手术被认定有价值，支持研究仅32人、27%一年免手术、无对照。轮换位：巴克斯曲坦14人报告停药两年血压仍平均降25，样本小无对照、不能说治好。",
+     "audio": "content/longevity/2026-11-22/audio.mp3",
+     "page": "content/longevity/2026-11-22/index.md",
+     "duration_sec": 125,
+     "duration": "2:05",
+     "video_url": "https://www.youtube.com/watch?v=DpFi92LJDy8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=DpFi92LJDy8"
+     }
+    },
     {
      "date": "2026-11-21",
      "title": "长寿前沿日报｜11月21日：细胞疗法第二次被拒，卡在试验数据可信度",
@@ -5763,11 +5795,11 @@
      "page": "content/longevity/2026-11-06-pm/index.md",
      "duration_sec": 101,
      "duration": "1:41",
-     "video_url": "https://www.youtube.com/watch?v=qKxymiIA3OI",
+     "video_url": "https://www.youtube.com/watch?v=a5j5skAtbpY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=qKxymiIA3OI"
+      "youtube": "https://www.youtube.com/watch?v=a5j5skAtbpY"
      }
     },
     {
@@ -5795,11 +5827,11 @@
      "page": "content/longevity/2026-11-05-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=91m_eMsE2Sk",
+     "video_url": "https://www.youtube.com/watch?v=XCXqesLykSQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=91m_eMsE2Sk"
+      "youtube": "https://www.youtube.com/watch?v=XCXqesLykSQ"
      }
     },
     {
@@ -5827,11 +5859,11 @@
      "page": "content/longevity/2026-11-04-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=V7M2NaSIdXY",
+     "video_url": "https://www.youtube.com/watch?v=vStGTecY0no",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=V7M2NaSIdXY"
+      "youtube": "https://www.youtube.com/watch?v=vStGTecY0no"
      }
     },
     {
@@ -5923,11 +5955,11 @@
      "page": "content/longevity/2026-10-30-pm/index.md",
      "duration_sec": 105,
      "duration": "1:45",
-     "video_url": "https://www.youtube.com/watch?v=OmMqVvqujXY",
+     "video_url": "https://www.youtube.com/watch?v=wObuF7R-qZ8",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=OmMqVvqujXY"
+      "youtube": "https://www.youtube.com/watch?v=wObuF7R-qZ8"
      }
     },
     {
@@ -5955,11 +5987,11 @@
      "page": "content/longevity/2026-10-29-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=d9ek0ZB72ec",
+     "video_url": "https://www.youtube.com/watch?v=fDsWEnIYVYo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=d9ek0ZB72ec"
+      "youtube": "https://www.youtube.com/watch?v=fDsWEnIYVYo"
      }
     },
     {
@@ -5987,11 +6019,11 @@
      "page": "content/longevity/2026-10-28-pm/index.md",
      "duration_sec": 109,
      "duration": "1:49",
-     "video_url": "https://www.youtube.com/watch?v=TQPKWBLyQT0",
+     "video_url": "https://www.youtube.com/watch?v=gljUrcPJ34Y",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=TQPKWBLyQT0"
+      "youtube": "https://www.youtube.com/watch?v=gljUrcPJ34Y"
      }
     },
     {
@@ -6019,11 +6051,11 @@
      "page": "content/longevity/2026-10-27-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=O3VySZRGLHU",
+     "video_url": "https://www.youtube.com/watch?v=JcF7gi3-P04",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=O3VySZRGLHU"
+      "youtube": "https://www.youtube.com/watch?v=JcF7gi3-P04"
      }
     },
     {
@@ -6051,11 +6083,11 @@
      "page": "content/longevity/2026-10-26-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=MwQTnZAbVWQ",
+     "video_url": "https://www.youtube.com/watch?v=vdWjP5XwSm0",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=MwQTnZAbVWQ"
+      "youtube": "https://www.youtube.com/watch?v=vdWjP5XwSm0"
      }
     },
     {
@@ -6083,11 +6115,11 @@
      "page": "content/longevity/2026-10-23-pm/index.md",
      "duration_sec": 93,
      "duration": "1:33",
-     "video_url": "https://www.youtube.com/watch?v=57XDruS1V4I",
+     "video_url": "https://www.youtube.com/watch?v=-ODHGL6w0Aw",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=57XDruS1V4I"
+      "youtube": "https://www.youtube.com/watch?v=-ODHGL6w0Aw"
      }
     },
     {
@@ -6115,11 +6147,11 @@
      "page": "content/longevity/2026-10-22-pm/index.md",
      "duration_sec": 86,
      "duration": "1:26",
-     "video_url": "https://www.youtube.com/watch?v=mpZXHZPs4fA",
+     "video_url": "https://www.youtube.com/watch?v=vEN768v0OwY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=mpZXHZPs4fA"
+      "youtube": "https://www.youtube.com/watch?v=vEN768v0OwY"
      }
     },
     {
@@ -6219,7 +6251,7 @@
      }
     }
    ],
-   "count": 54,
+   "count": 55,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -6761,11 +6793,11 @@
      "page": "content/silicon-valley/2026-10-30-pm/index.md",
      "duration_sec": 107,
      "duration": "1:47",
-     "video_url": "https://www.youtube.com/watch?v=r_g92OL9Ecc",
+     "video_url": "https://www.youtube.com/watch?v=feSjRb0fJ90",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=r_g92OL9Ecc"
+      "youtube": "https://www.youtube.com/watch?v=feSjRb0fJ90"
      }
     },
     {
@@ -6777,11 +6809,11 @@
      "page": "content/silicon-valley/2026-10-29/index.md",
      "duration_sec": 119,
      "duration": "1:59",
-     "video_url": "https://www.youtube.com/watch?v=voFnkkc9KHY",
+     "video_url": "https://www.youtube.com/watch?v=STDDD5a1Yfo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=voFnkkc9KHY"
+      "youtube": "https://www.youtube.com/watch?v=STDDD5a1Yfo"
      }
     },
     {
@@ -6809,11 +6841,11 @@
      "page": "content/silicon-valley/2026-10-28/index.md",
      "duration_sec": 125,
      "duration": "2:05",
-     "video_url": "https://www.youtube.com/watch?v=JU7xVawlSXI",
+     "video_url": "https://www.youtube.com/watch?v=ecorNNtpMLc",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=JU7xVawlSXI"
+      "youtube": "https://www.youtube.com/watch?v=ecorNNtpMLc"
      }
     },
     {
@@ -6825,11 +6857,11 @@
      "page": "content/silicon-valley/2026-10-28-pm/index.md",
      "duration_sec": 96,
      "duration": "1:36",
-     "video_url": "https://www.youtube.com/watch?v=slOefAbPjLg",
+     "video_url": "https://www.youtube.com/watch?v=-r99WtIvceQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=slOefAbPjLg"
+      "youtube": "https://www.youtube.com/watch?v=-r99WtIvceQ"
      }
     },
     {
@@ -6841,11 +6873,11 @@
      "page": "content/silicon-valley/2026-10-27/index.md",
      "duration_sec": 130,
      "duration": "2:10",
-     "video_url": "https://www.youtube.com/watch?v=0L8gp2F2cnM",
+     "video_url": "https://www.youtube.com/watch?v=vSxBDjSzvbM",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=0L8gp2F2cnM"
+      "youtube": "https://www.youtube.com/watch?v=vSxBDjSzvbM"
      }
     },
     {
@@ -6993,7 +7025,7 @@
      }
     }
    ],
-   "count": 46,
+   "count": 47,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
