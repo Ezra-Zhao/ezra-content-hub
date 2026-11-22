@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 13:33:25 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:39:25 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报·晚间版｜11月21日：被拒细胞疗法股价一天跌七成八</title>
+      <description>本期：晚间更新——主打为日间头条后续：被拒细胞疗法企业11月21日表示正审查运营开支、延长现金使用期，截至9月底现金及有价证券约1.985亿美元、够用至少12个月，股价一天跌七成八；监管方称补交的24个月随访与收窄适应症未改变结论；三期研究共106人，企业口径12个月上肢功能下降比安慰剂慢54%，监管方认定未达预设终点、数据不可靠，企业坚持两项随机双盲研究都达主要终点。快讯：波尔多大学研究追踪3777名老人30年，长期孤独者后来患失智风险比从不孤独者高38%，观察性、不等于因果。轮换位：3501人队列研究，住院30天内出现过谵妄的75人日后患失智风险约为无谵妄者的5.39倍，谵妄人数少、估计不精确，观察性、不等于因果。</description>
+      <pubDate>Sat, 21 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-21-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-21-pm/audio.mp3" length="861222" type="audio/mpeg"/>
+      <itunes:duration>1:48</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报｜11月21日：细胞疗法第二次被拒，卡在试验数据可信度</title>
       <description>本期：FDA 11月20日第二次拒绝批准细胞疗法deramiocel治杜氏肌营养不良症，指关键三期研究HOPE-3存在严重数据完整性问题、数据不可靠且无法事后补救；专家委员会此前9票对3票，企业称两项随机双盲研究均达预设终点。快讯：JAMA Network Open队列3973人、随访12.3年，作息紊乱加活动少加睡眠差与失智风险约1.94倍相关，观察性、不等于因果。轮换位：英国生物银行22618人预印本分析，每天约3.7分钟剧烈日常活动与失智风险低48%相关，未经同行评审。</description>
