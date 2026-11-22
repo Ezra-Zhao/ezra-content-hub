@@ -2783,6 +2783,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-22",
+     "title": "新闻矩阵｜11月22日早间版：气候峰会无协议收场，伊朗袭巴林美军基地，墨军抓获毒枭致11死",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月22日早间版：气候峰会无协议收场，伊朗袭巴林美军基地，墨军抓获毒枭致11死",
+     "audio": "content/news-am/2026-11-22/audio.mp3",
+     "page": "content/news-am/2026-11-22/index.md",
+     "duration_sec": 262,
+     "duration": "4:22",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-21",
      "title": "新闻矩阵｜11月21日早间版：美股七连跌标普进回调区，基辅再遭空袭3死，美国失去麻疹消除地位",
      "scripture": "",
@@ -3199,7 +3215,7 @@
      }
     }
    ],
-   "count": 26,
+   "count": 27,
    "related": [
     "fred-am",
     "fred-pm",
