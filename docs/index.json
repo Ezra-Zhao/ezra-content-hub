@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-21",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -3219,6 +3219,38 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "新闻矩阵｜11月21日晚间版：波兰确认俄导弹落入境内，气候峰会加时无协议，美股创2020年以来最差一周",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月21日晚间版：波兰确认俄导弹落入境内，气候峰会加时无协议，美股创2020年以来最差一周",
+     "audio": "content/news-pm/2026-11-21/audio.mp3",
+     "page": "content/news-pm/2026-11-21/index.md",
+     "duration_sec": 298,
+     "duration": "4:58",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-20",
+     "title": "新闻矩阵｜11月20日晚间版：美股七连跌入修正，纳指暴跌百分之五点二八抹去年内涨幅，欧洲表态愿同俄谈判",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月20日晚间版：美股七连跌入修正，纳指暴跌百分之五点二八抹去年内涨幅，欧洲表态愿同俄谈判",
+     "audio": "content/news-pm/2026-11-20/audio.mp3",
+     "page": "content/news-pm/2026-11-20/index.md",
+     "duration_sec": 320,
+     "duration": "5:20",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-19",
      "title": "新闻矩阵｜11月19日晚间版：美股高开低走齐跌逾百分之二，Anthropic首日收涨百分之十七，柏林峰会力挺乌克兰",
      "scripture": "",
@@ -3603,7 +3635,7 @@
      }
     }
    ],
-   "count": 24,
+   "count": 26,
    "related": [
     "fred-am",
     "fred-pm",
@@ -5307,6 +5339,38 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "长寿前沿日报｜11月21日：细胞疗法第二次被拒，卡在试验数据可信度",
+     "scripture": "",
+     "theme": "本期：FDA 11月20日第二次拒绝批准细胞疗法deramiocel治杜氏肌营养不良症，指关键三期研究HOPE-3存在严重数据完整性问题、数据不可靠且无法事后补救；专家委员会此前9票对3票，企业称两项随机双盲研究均达预设终点。快讯：JAMA Network Open队列3973人、随访12.3年，作息紊乱加活动少加睡眠差与失智风险约1.94倍相关，观察性、不等于因果。轮换位：英国生物银行22618人预印本分析，每天约3.7分钟剧烈日常活动与失智风险低48%相关，未经同行评审。",
+     "audio": "content/longevity/2026-11-21/audio.mp3",
+     "page": "content/longevity/2026-11-21/index.md",
+     "duration_sec": 133,
+     "duration": "2:13",
+     "video_url": "https://www.youtube.com/watch?v=nenZzTF1NlU",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=nenZzTF1NlU"
+     }
+    },
+    {
+     "date": "2026-11-21",
+     "title": "长寿前沿日报·晚间版｜11月21日：被拒细胞疗法股价一天跌七成八",
+     "scripture": "",
+     "theme": "本期：晚间更新——主打为日间头条后续：被拒细胞疗法企业11月21日表示正审查运营开支、延长现金使用期，截至9月底现金及有价证券约1.985亿美元、够用至少12个月，股价一天跌七成八；监管方称补交的24个月随访与收窄适应症未改变结论；三期研究共106人，企业口径12个月上肢功能下降比安慰剂慢54%，监管方认定未达预设终点、数据不可靠，企业坚持两项随机双盲研究都达主要终点。快讯：波尔多大学研究追踪3777名老人30年，长期孤独者后来患失智风险比从不孤独者高38%，观察性、不等于因果。轮换位：3501人队列研究，住院30天内出现过谵妄的75人日后患失智风险约为无谵妄者的5.39倍，谵妄人数少、估计不精确，观察性、不等于因果。",
+     "audio": "content/longevity/2026-11-21-pm/audio.mp3",
+     "page": "content/longevity/2026-11-21-pm/index.md",
+     "duration_sec": 108,
+     "duration": "1:48",
+     "video_url": "https://www.youtube.com/watch?v=-ITZ0o5rIz4",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=-ITZ0o5rIz4"
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "长寿前沿日报｜11月20日：生长激素一周打一针，一年少打三百多针",
      "scripture": "",
@@ -5683,11 +5747,11 @@
      "page": "content/longevity/2026-11-06-pm/index.md",
      "duration_sec": 101,
      "duration": "1:41",
-     "video_url": "https://www.youtube.com/watch?v=qKxymiIA3OI",
+     "video_url": "https://www.youtube.com/watch?v=a5j5skAtbpY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=qKxymiIA3OI"
+      "youtube": "https://www.youtube.com/watch?v=a5j5skAtbpY"
      }
     },
     {
@@ -5715,11 +5779,11 @@
      "page": "content/longevity/2026-11-05-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=91m_eMsE2Sk",
+     "video_url": "https://www.youtube.com/watch?v=XCXqesLykSQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=91m_eMsE2Sk"
+      "youtube": "https://www.youtube.com/watch?v=XCXqesLykSQ"
      }
     },
     {
@@ -5747,11 +5811,11 @@
      "page": "content/longevity/2026-11-04-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=V7M2NaSIdXY",
+     "video_url": "https://www.youtube.com/watch?v=vStGTecY0no",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=V7M2NaSIdXY"
+      "youtube": "https://www.youtube.com/watch?v=vStGTecY0no"
      }
     },
     {
@@ -5843,11 +5907,11 @@
      "page": "content/longevity/2026-10-30-pm/index.md",
      "duration_sec": 105,
      "duration": "1:45",
-     "video_url": "https://www.youtube.com/watch?v=OmMqVvqujXY",
+     "video_url": "https://www.youtube.com/watch?v=wObuF7R-qZ8",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=OmMqVvqujXY"
+      "youtube": "https://www.youtube.com/watch?v=wObuF7R-qZ8"
      }
     },
     {
@@ -5875,11 +5939,11 @@
      "page": "content/longevity/2026-10-29-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=d9ek0ZB72ec",
+     "video_url": "https://www.youtube.com/watch?v=fDsWEnIYVYo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=d9ek0ZB72ec"
+      "youtube": "https://www.youtube.com/watch?v=fDsWEnIYVYo"
      }
     },
     {
@@ -5907,11 +5971,11 @@
      "page": "content/longevity/2026-10-28-pm/index.md",
      "duration_sec": 109,
      "duration": "1:49",
-     "video_url": "https://www.youtube.com/watch?v=TQPKWBLyQT0",
+     "video_url": "https://www.youtube.com/watch?v=gljUrcPJ34Y",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=TQPKWBLyQT0"
+      "youtube": "https://www.youtube.com/watch?v=gljUrcPJ34Y"
      }
     },
     {
@@ -5939,11 +6003,11 @@
      "page": "content/longevity/2026-10-27-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=O3VySZRGLHU",
+     "video_url": "https://www.youtube.com/watch?v=JcF7gi3-P04",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=O3VySZRGLHU"
+      "youtube": "https://www.youtube.com/watch?v=JcF7gi3-P04"
      }
     },
     {
@@ -5971,11 +6035,11 @@
      "page": "content/longevity/2026-10-26-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=MwQTnZAbVWQ",
+     "video_url": "https://www.youtube.com/watch?v=vdWjP5XwSm0",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=MwQTnZAbVWQ"
+      "youtube": "https://www.youtube.com/watch?v=vdWjP5XwSm0"
      }
     },
     {
@@ -6003,11 +6067,11 @@
      "page": "content/longevity/2026-10-23-pm/index.md",
      "duration_sec": 93,
      "duration": "1:33",
-     "video_url": "https://www.youtube.com/watch?v=57XDruS1V4I",
+     "video_url": "https://www.youtube.com/watch?v=-ODHGL6w0Aw",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=57XDruS1V4I"
+      "youtube": "https://www.youtube.com/watch?v=-ODHGL6w0Aw"
      }
     },
     {
@@ -6035,11 +6099,11 @@
      "page": "content/longevity/2026-10-22-pm/index.md",
      "duration_sec": 86,
      "duration": "1:26",
-     "video_url": "https://www.youtube.com/watch?v=mpZXHZPs4fA",
+     "video_url": "https://www.youtube.com/watch?v=vEN768v0OwY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=mpZXHZPs4fA"
+      "youtube": "https://www.youtube.com/watch?v=vEN768v0OwY"
      }
     },
     {
@@ -6139,7 +6203,7 @@
      }
     }
    ],
-   "count": 52,
+   "count": 54,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -6174,6 +6238,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=YO9IcMWkcOg"
+     }
+    },
+    {
+     "date": "2026-11-21",
+     "title": "硅谷科技日报·晚间版｜11月21日：上市正式收官，两笔募资合计约1195亿美元",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月21日，星期六。头条：做克劳德的公司上市正式收官，两笔募资合计约1195亿美元。",
+     "audio": "content/silicon-valley/2026-11-21-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-21-pm/index.md",
+     "duration_sec": 104,
+     "duration": "1:44",
+     "video_url": "https://www.youtube.com/watch?v=wKSF8Qgz0dc",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=wKSF8Qgz0dc"
      }
     },
     {
@@ -6649,11 +6729,11 @@
      "page": "content/silicon-valley/2026-10-30-pm/index.md",
      "duration_sec": 107,
      "duration": "1:47",
-     "video_url": "https://www.youtube.com/watch?v=r_g92OL9Ecc",
+     "video_url": "https://www.youtube.com/watch?v=feSjRb0fJ90",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=r_g92OL9Ecc"
+      "youtube": "https://www.youtube.com/watch?v=feSjRb0fJ90"
      }
     },
     {
@@ -6665,11 +6745,11 @@
      "page": "content/silicon-valley/2026-10-29/index.md",
      "duration_sec": 119,
      "duration": "1:59",
-     "video_url": "https://www.youtube.com/watch?v=voFnkkc9KHY",
+     "video_url": "https://www.youtube.com/watch?v=STDDD5a1Yfo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=voFnkkc9KHY"
+      "youtube": "https://www.youtube.com/watch?v=STDDD5a1Yfo"
      }
     },
     {
@@ -6697,11 +6777,11 @@
      "page": "content/silicon-valley/2026-10-28/index.md",
      "duration_sec": 125,
      "duration": "2:05",
-     "video_url": "https://www.youtube.com/watch?v=JU7xVawlSXI",
+     "video_url": "https://www.youtube.com/watch?v=ecorNNtpMLc",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=JU7xVawlSXI"
+      "youtube": "https://www.youtube.com/watch?v=ecorNNtpMLc"
      }
     },
     {
@@ -6713,11 +6793,11 @@
      "page": "content/silicon-valley/2026-10-28-pm/index.md",
      "duration_sec": 96,
      "duration": "1:36",
-     "video_url": "https://www.youtube.com/watch?v=slOefAbPjLg",
+     "video_url": "https://www.youtube.com/watch?v=-r99WtIvceQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=slOefAbPjLg"
+      "youtube": "https://www.youtube.com/watch?v=-r99WtIvceQ"
      }
     },
     {
@@ -6729,11 +6809,11 @@
      "page": "content/silicon-valley/2026-10-27/index.md",
      "duration_sec": 130,
      "duration": "2:10",
-     "video_url": "https://www.youtube.com/watch?v=0L8gp2F2cnM",
+     "video_url": "https://www.youtube.com/watch?v=vSxBDjSzvbM",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=0L8gp2F2cnM"
+      "youtube": "https://www.youtube.com/watch?v=vSxBDjSzvbM"
      }
     },
     {
@@ -6881,7 +6961,7 @@
      }
     }
    ],
-   "count": 45,
+   "count": 46,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -6902,6 +6982,22 @@
    "desc": "移民政策速报：美国移民政策与法规变化解读。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-11-21",
+     "title": "移民政策速报｜2026年11月21日：特殊移民少年两项新规生效，身份调整须过裁量关",
+     "scripture": "",
+     "theme": "这里是移民政策速报。今天是二零二六年十一月二十一日，星期六。本期主打：移民局连发两条新规，特殊移民少年审查全面收紧。",
+     "audio": "content/immigration/2026-11-21/audio.mp3",
+     "page": "content/immigration/2026-11-21/index.md",
+     "duration_sec": 115,
+     "duration": "1:55",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
     {
      "date": "2026-11-20",
      "title": "移民政策速报｜2026年11月20日：再假释工卡改走单独申请，移民法官伦理准则今日生效",
@@ -7332,22 +7428,6 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=AU2_7ceDGGU"
-     }
-    },
-    {
-     "date": "2026-11-21",
-     "title": "移民政策速报｜2026年11月21日：特殊移民少年两项新规生效，身份调整须过裁量关",
-     "scripture": "",
-     "theme": "这里是移民政策速报。今天是二零二六年十一月二十一日，星期六。本期主打：移民局连发两条新规，特殊移民少年审查全面收紧。",
-     "audio": "content/immigration/2026-11-21/audio.mp3",
-     "page": "content/immigration/2026-11-21/index.md",
-     "duration_sec": 115,
-     "duration": "1:55",
-     "video_url": "https://www.youtube.com/watch?v=pwgzvxYHsc0",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=pwgzvxYHsc0"
      }
     }
    ],
@@ -7874,9 +7954,19 @@
      "page": "content/audiobook-john/2026-11-20-ch03/index.md",
      "duration_sec": 1001,
      "duration": "16:41"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "第4篇：中午来打水的人",
+     "scripture": "约翰福音 4:1-42",
+     "theme": "撒马利亚妇人在正午的井边遇见耶稣——祂先在井边等她，讲活水，也讲用心灵和诚实敬拜的人。",
+     "audio": "content/audiobook-john/2026-11-21-ch04/audio.mp3",
+     "page": "content/audiobook-john/2026-11-21-ch04/index.md",
+     "duration_sec": 1047,
+     "duration": "17:27"
     }
    ],
-   "count": 3
+   "count": 4
   }
  ],
  "articles": [
