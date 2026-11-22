@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 11:41:50 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:09:13 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Đồng Đi Cùng Đức Chúa Trời</title>
+      <description>Hê-nóc đồng đi cùng Đức Chúa Trời: giao hết được mất của hôm nay, yên lòng ngủ, ngày mai lại cùng Ngài đồng đi. Kinh Thánh: Sáng-thế Ký 5:24 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sun, 22 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-11-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-11-22/audio.mp3" length="1787949" type="audio/mpeg"/>
+      <itunes:duration>1:52</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Ép Mời Vào, Cho Đầy Nhà Ta</title>
+      <description>Bàn tiệc đã dọn sẵn: buông cái cớ xuống, bước vào nhà Ngài, rồi đi ra mời một người còn ở ngoài cửa. Kinh Thánh: Lu-ca 14:23 (Bản Truyền Thống 1925)</description>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-22/audio.mp3" length="1993773" type="audio/mpeg"/>
+      <itunes:duration>2:05</itunes:duration>
+    </item>
     <item>
       <title>[PM] Đức Giê-hô-va Sự Công-Bình Chúng Ta</title>
       <description>Sự công-bình đã ở trong Đấng Christ: buông xuống gánh nặng tự xưng công-bình, tối nay hãy ở yên-ổn trong Ngài. Kinh Thánh: Giê-rê-mi 23:6 (Bản Truyền Thống 1925)</description>
