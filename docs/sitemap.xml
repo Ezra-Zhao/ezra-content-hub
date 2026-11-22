@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ezrazhao.com/ar/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -163,6 +163,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ezrazhao.com/articles/baylocal/2026-11-21-coastal-flood-warning-bayshore.html</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://ezrazhao.com/articles/flash/2026-10-22-earnings-premarket.html</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -301,20 +307,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ezrazhao.com/books.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ezrazhao.com/de/index.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ezrazhao.com/en/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/es/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ezrazhao.com/fa/index.html</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/fr/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -332,31 +356,55 @@
   </url>
   <url>
     <loc>https://ezrazhao.com/hi/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/id/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://ezrazhao.com/it/index.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ezrazhao.com/ja/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/ko/index.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ezrazhao.com/letters.html</loc>
     <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ezrazhao.com/message.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ezrazhao.com/nl/index.html</loc>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1454,7 +1502,7 @@
   </url>
   <url>
     <loc>https://ezrazhao.com/pt/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1465,10 +1513,22 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://ezrazhao.com/ru/index.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ezrazhao.com/shidu.html</loc>
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ezrazhao.com/story.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/terms-of-service.html</loc>
@@ -1477,110 +1537,128 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://ezrazhao.com/th/index.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ezrazhao.com/tl/index.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ezrazhao.com/tr/index.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ezrazhao.com/vi/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/zh-tw/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/audiobook.xml</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/bay-area-benefits.xml</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/devotion-en.xml</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/devotion-es.xml</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/devotion-hi.xml</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/devotion-vi.xml</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/devotion.xml</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/fred.xml</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/history-rhymes.xml</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/immigration.xml</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/longevity.xml</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/news.xml</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/silicon-valley.xml</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/stocks-pm.xml</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/tangqa.xml</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ezrazhao.com/podcast/waqi.xml</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1589,59 +1667,5 @@
     <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ezrazhao.com/ru/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ezrazhao.com/books.html</loc>
-    <lastmod>2026-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ezrazhao.com/de/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ezrazhao.com/th/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ezrazhao.com/tl/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ezrazhao.com/fa/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ezrazhao.com/tr/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ezrazhao.com/it/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ezrazhao.com/nl/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
