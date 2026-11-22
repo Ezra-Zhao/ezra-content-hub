@@ -2783,6 +2783,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-22",
+     "title": "新闻矩阵｜11月22日早间版：气候峰会无协议收场，伊朗袭巴林美军基地，墨军抓获毒枭致11死",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月22日早间版：气候峰会无协议收场，伊朗袭巴林美军基地，墨军抓获毒枭致11死",
+     "audio": "content/news-am/2026-11-22/audio.mp3",
+     "page": "content/news-am/2026-11-22/index.md",
+     "duration_sec": 262,
+     "duration": "4:22",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-21",
      "title": "新闻矩阵｜11月21日早间版：美股七连跌标普进回调区，基辅再遭空袭3死，美国失去麻疹消除地位",
      "scripture": "",
@@ -3199,7 +3215,7 @@
      }
     }
    ],
-   "count": 26,
+   "count": 27,
    "related": [
     "fred-am",
     "fred-pm",
@@ -4805,6 +4821,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "美国百指日报·晚间速报｜11月21日：周六无新数据，标普连跌七日进入回调，下周看核心通胀",
+     "scripture": "",
+     "theme": "> 11月21日星期六，美国无重要经济数据发布、市场休市，本期不凑数，只回顾周五收盘并前瞻下周。周五标普500收6910.39点、跌3.70%，连跌第七日，较10月6日高点回落11.6%进入技术性回调，本周为2025年4月以来最差一周；纳指收22617.73点、跌5.28%，抹去年内涨幅；道指收48147.33点、跌1.93%；罗素2000收2581.79点、跌2.76%；恐慌指数35.89、涨26.20%；10年期美债收益率约4.91%。金融压力指数-0.8655仍为负值，金融条件没有收紧。下周前瞻：周一11月23日制造业采购经理人指数初值（前值55.9）；周三11月25日10月核心个人消费支出价格指数，市场预期环比约涨0.3%。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-21/audio.mp3",
+     "page": "content/fred-pm/2026-11-21/index.md",
+     "duration_sec": 122,
+     "duration": "2:02",
+     "video_url": "https://www.youtube.com/watch?v=MYjRgnm4mE0",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=MYjRgnm4mE0"
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "美国百指日报·晚间速报｜11月20日：标普跌3.7%连跌第七日，纳指跌5.28%抹去年内涨幅",
      "scripture": "",
@@ -5317,7 +5349,7 @@
      }
     }
    ],
-   "count": 32,
+   "count": 33,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5747,11 +5779,11 @@
      "page": "content/longevity/2026-11-06-pm/index.md",
      "duration_sec": 101,
      "duration": "1:41",
-     "video_url": "https://www.youtube.com/watch?v=qKxymiIA3OI",
+     "video_url": "https://www.youtube.com/watch?v=a5j5skAtbpY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=qKxymiIA3OI"
+      "youtube": "https://www.youtube.com/watch?v=a5j5skAtbpY"
      }
     },
     {
@@ -5779,11 +5811,11 @@
      "page": "content/longevity/2026-11-05-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=91m_eMsE2Sk",
+     "video_url": "https://www.youtube.com/watch?v=XCXqesLykSQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=91m_eMsE2Sk"
+      "youtube": "https://www.youtube.com/watch?v=XCXqesLykSQ"
      }
     },
     {
@@ -5811,11 +5843,11 @@
      "page": "content/longevity/2026-11-04-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=V7M2NaSIdXY",
+     "video_url": "https://www.youtube.com/watch?v=vStGTecY0no",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=V7M2NaSIdXY"
+      "youtube": "https://www.youtube.com/watch?v=vStGTecY0no"
      }
     },
     {
@@ -5907,11 +5939,11 @@
      "page": "content/longevity/2026-10-30-pm/index.md",
      "duration_sec": 105,
      "duration": "1:45",
-     "video_url": "https://www.youtube.com/watch?v=OmMqVvqujXY",
+     "video_url": "https://www.youtube.com/watch?v=wObuF7R-qZ8",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=OmMqVvqujXY"
+      "youtube": "https://www.youtube.com/watch?v=wObuF7R-qZ8"
      }
     },
     {
@@ -5939,11 +5971,11 @@
      "page": "content/longevity/2026-10-29-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=d9ek0ZB72ec",
+     "video_url": "https://www.youtube.com/watch?v=fDsWEnIYVYo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=d9ek0ZB72ec"
+      "youtube": "https://www.youtube.com/watch?v=fDsWEnIYVYo"
      }
     },
     {
@@ -5971,11 +6003,11 @@
      "page": "content/longevity/2026-10-28-pm/index.md",
      "duration_sec": 109,
      "duration": "1:49",
-     "video_url": "https://www.youtube.com/watch?v=TQPKWBLyQT0",
+     "video_url": "https://www.youtube.com/watch?v=gljUrcPJ34Y",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=TQPKWBLyQT0"
+      "youtube": "https://www.youtube.com/watch?v=gljUrcPJ34Y"
      }
     },
     {
@@ -6003,11 +6035,11 @@
      "page": "content/longevity/2026-10-27-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=O3VySZRGLHU",
+     "video_url": "https://www.youtube.com/watch?v=JcF7gi3-P04",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=O3VySZRGLHU"
+      "youtube": "https://www.youtube.com/watch?v=JcF7gi3-P04"
      }
     },
     {
@@ -6035,11 +6067,11 @@
      "page": "content/longevity/2026-10-26-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=MwQTnZAbVWQ",
+     "video_url": "https://www.youtube.com/watch?v=vdWjP5XwSm0",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=MwQTnZAbVWQ"
+      "youtube": "https://www.youtube.com/watch?v=vdWjP5XwSm0"
      }
     },
     {
@@ -6067,11 +6099,11 @@
      "page": "content/longevity/2026-10-23-pm/index.md",
      "duration_sec": 93,
      "duration": "1:33",
-     "video_url": "https://www.youtube.com/watch?v=57XDruS1V4I",
+     "video_url": "https://www.youtube.com/watch?v=-ODHGL6w0Aw",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=57XDruS1V4I"
+      "youtube": "https://www.youtube.com/watch?v=-ODHGL6w0Aw"
      }
     },
     {
@@ -6099,11 +6131,11 @@
      "page": "content/longevity/2026-10-22-pm/index.md",
      "duration_sec": 86,
      "duration": "1:26",
-     "video_url": "https://www.youtube.com/watch?v=mpZXHZPs4fA",
+     "video_url": "https://www.youtube.com/watch?v=vEN768v0OwY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=mpZXHZPs4fA"
+      "youtube": "https://www.youtube.com/watch?v=vEN768v0OwY"
      }
     },
     {
@@ -6224,6 +6256,22 @@
    "desc": "硅谷科技动态速报：AI 与科技公司最新进展。",
    "category": "科技",
    "episodes": [
+    {
+     "date": "2026-11-22",
+     "title": "硅谷科技日报｜11月22日：上市新股差点跌回发行价",
+     "scripture": "",
+     "theme": "这里是硅谷科技日报，今天是二零二六年十一月二十二日，星期日。今天头条：一家刚上市的人工智能公司，股价差点跌回发行价。",
+     "audio": "content/silicon-valley/2026-11-22/audio.mp3",
+     "page": "content/silicon-valley/2026-11-22/index.md",
+     "duration_sec": 112,
+     "duration": "1:52",
+     "video_url": "https://www.youtube.com/watch?v=ulTYZGUAKM4",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=ulTYZGUAKM4"
+     }
+    },
     {
      "date": "2026-11-21",
      "title": "硅谷科技日报｜11月21日：英伟达谈收购，推理模型快到每秒千词",
@@ -6729,11 +6777,11 @@
      "page": "content/silicon-valley/2026-10-30-pm/index.md",
      "duration_sec": 107,
      "duration": "1:47",
-     "video_url": "https://www.youtube.com/watch?v=r_g92OL9Ecc",
+     "video_url": "https://www.youtube.com/watch?v=feSjRb0fJ90",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=r_g92OL9Ecc"
+      "youtube": "https://www.youtube.com/watch?v=feSjRb0fJ90"
      }
     },
     {
@@ -6745,11 +6793,11 @@
      "page": "content/silicon-valley/2026-10-29/index.md",
      "duration_sec": 119,
      "duration": "1:59",
-     "video_url": "https://www.youtube.com/watch?v=voFnkkc9KHY",
+     "video_url": "https://www.youtube.com/watch?v=STDDD5a1Yfo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=voFnkkc9KHY"
+      "youtube": "https://www.youtube.com/watch?v=STDDD5a1Yfo"
      }
     },
     {
@@ -6777,11 +6825,11 @@
      "page": "content/silicon-valley/2026-10-28/index.md",
      "duration_sec": 125,
      "duration": "2:05",
-     "video_url": "https://www.youtube.com/watch?v=JU7xVawlSXI",
+     "video_url": "https://www.youtube.com/watch?v=ecorNNtpMLc",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=JU7xVawlSXI"
+      "youtube": "https://www.youtube.com/watch?v=ecorNNtpMLc"
      }
     },
     {
@@ -6793,11 +6841,11 @@
      "page": "content/silicon-valley/2026-10-28-pm/index.md",
      "duration_sec": 96,
      "duration": "1:36",
-     "video_url": "https://www.youtube.com/watch?v=slOefAbPjLg",
+     "video_url": "https://www.youtube.com/watch?v=-r99WtIvceQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=slOefAbPjLg"
+      "youtube": "https://www.youtube.com/watch?v=-r99WtIvceQ"
      }
     },
     {
@@ -6809,11 +6857,11 @@
      "page": "content/silicon-valley/2026-10-27/index.md",
      "duration_sec": 130,
      "duration": "2:10",
-     "video_url": "https://www.youtube.com/watch?v=0L8gp2F2cnM",
+     "video_url": "https://www.youtube.com/watch?v=vSxBDjSzvbM",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=0L8gp2F2cnM"
+      "youtube": "https://www.youtube.com/watch?v=vSxBDjSzvbM"
      }
     },
     {
@@ -6961,7 +7009,7 @@
      }
     }
    ],
-   "count": 46,
+   "count": 47,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -7713,7 +7761,7 @@
    "slot": "晚间",
    "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
    "category": "时效",
-   "count": 12,
+   "count": 13,
    "related": [
     "news-am",
     "news-pm",
@@ -7914,6 +7962,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=KfWfJsf-nhg"
+     }
+    },
+    {
+     "date": "2026-11-21",
+     "title": "《弹古论今》2026-11-21｜国会要查账，先过白宫这道闸：对照李林甫的立仗马",
+     "scripture": "",
+     "theme": "特朗普行政令要求联邦承包商接到国会问询须先通报白宫、协调再回复；对照唐朝李林甫立仗马——管住通向皇帝耳朵的通道，谏争路绝。四条可证伪预判登记在案。",
+     "audio": "content/history-rhymes/2026-11-21/audio.mp3",
+     "page": "content/history-rhymes/2026-11-21/index.md",
+     "duration_sec": 452,
+     "duration": "7:32",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
      }
     }
    ]
