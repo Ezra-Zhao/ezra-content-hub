@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezrazhao.com/</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 12:52:26 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:53:38 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>信仰问题解答：唐崇荣牧师讲道改编，由赵广义编纂播讲——系统神学、护教与信仰疑难逐问解答。署名口径：改编自唐崇荣牧师《信仰问题解答》，核心观点归原作者。文字版：https://github.com/Ezra-Zhao/Sermon-Sharing 全部节目：https://ezrazhao.com/</itunes:summary>
     <itunes:keywords>信仰问答,系统神学,护教,唐崇荣,讲道,基督教</itunes:keywords>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>从科学与历史看耶稣的复活</title>
+      <description>复活不能用科学证明，因为科学够不着历史；复活可以用历史查证——见证人的血、仇敌的沉默，和两千年改不完的人心。 经文：哥林多前书 15:14、15:20、使徒行传 2:32（和合本）</description>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 -0700</pubDate>
+      <guid isPermaLink="false">tangqa-2026-11-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/tang-sermons/2026-11-23/audio.mp3" length="4127782" type="audio/mpeg"/>
+      <itunes:duration>8:36</itunes:duration>
+    </item>
     <item>
       <title>人类只有几千年，考古却说几百万年，怎么解释？</title>
       <description>圣经没有给年表——「约六千年」是人的推算，不是圣经的宣告；推算的年代和记录的历史，是两本账。 经文：创世记 1:1、申命记 29:29（和合本）</description>
