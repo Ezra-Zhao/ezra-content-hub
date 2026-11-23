@@ -2783,6 +2783,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-23",
+     "title": "新闻矩阵｜11月23日早间版：英伟达请回黄仁勋股价涨三成，乌称击沉俄护卫舰，气候大会无协议收场",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月23日早间版：英伟达请回黄仁勋股价涨三成，乌称击沉俄护卫舰，气候大会无协议收场",
+     "audio": "content/news-am/2026-11-23/audio.mp3",
+     "page": "content/news-am/2026-11-23/index.md",
+     "duration_sec": 326,
+     "duration": "5:26",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-22",
      "title": "新闻矩阵｜11月22日早间版：气候峰会无协议收场，伊朗袭巴林美军基地，墨军抓获毒枭致11死",
      "scripture": "",
@@ -3215,7 +3231,7 @@
      }
     }
    ],
-   "count": 27,
+   "count": 28,
    "related": [
     "fred-am",
     "fred-pm",
