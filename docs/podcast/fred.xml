@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 13:46:08 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 19:05:03 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -28,6 +28,14 @@
       <guid isPermaLink="false">fred-pm-2026-11-21</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-21/audio.mp3" length="977415" type="audio/mpeg"/>
       <itunes:duration>2:02</itunes:duration>
+    </item>
+    <item>
+      <title>《美国百指日报》2026-11-21｜标普连跌第七日进入回调，纳指抹去年内涨幅，周六无新数据｜11月21日</title>
+      <description>大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月二十一日，星期六。</description>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-am-2026-11-21</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-am/2026-11-21/audio.mp3" length="2348321" type="audio/mpeg"/>
+      <itunes:duration>4:54</itunes:duration>
     </item>
     <item>
       <title>美国百指日报·晚间速报｜11月20日：标普跌3.7%连跌第七日，纳指跌5.28%抹去年内涨幅</title>

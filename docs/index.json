@@ -4239,6 +4239,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "《美国百指日报》2026-11-21｜标普连跌第七日进入回调，纳指抹去年内涨幅，周六无新数据",
+     "scripture": "",
+     "theme": "大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月二十一日，星期六。",
+     "audio": "content/fred-am/2026-11-21/audio.mp3",
+     "page": "content/fred-am/2026-11-21/index.md",
+     "duration_sec": 294,
+     "duration": "4:54",
+     "video_url": "https://www.youtube.com/watch?v=qrts_F1Xg_4",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=qrts_F1Xg_4"
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "《美国百指日报》2026-11-20｜道指跌1101点失守5万点，标普六连跌，密歇根通胀预期降到3.7%",
      "scripture": "",
@@ -4799,7 +4815,7 @@
      }
     }
    ],
-   "count": 35,
+   "count": 36,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5370,6 +5386,22 @@
    "desc": "长寿与健康前沿速报：每天替你读长寿与健康领域的论文与研究。",
    "category": "时效",
    "episodes": [
+    {
+     "date": "2026-11-22",
+     "title": "长寿前沿日报｜11月22日：骑车加练脑，脑皮层保住得更好",
+     "scripture": "",
+     "theme": "本期：JAMA Network Open随机试验二次分析146名轻度认知障碍老年人，骑行加认知训练联合组在阿尔茨海默病相关脑皮层厚度上变化更有利，脑白质指标无明显差异，作者称需更大确证试验、只是影像标志。快讯：FDA新近公开Voceryq审评依据，少动手术被认定有价值，支持研究仅32人、27%一年免手术、无对照。轮换位：巴克斯曲坦14人报告停药两年血压仍平均降25，样本小无对照、不能说治好。",
+     "audio": "content/longevity/2026-11-22/audio.mp3",
+     "page": "content/longevity/2026-11-22/index.md",
+     "duration_sec": 125,
+     "duration": "2:05",
+     "video_url": "https://www.youtube.com/watch?v=DpFi92LJDy8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=DpFi92LJDy8"
+     }
+    },
     {
      "date": "2026-11-21",
      "title": "长寿前沿日报｜11月21日：细胞疗法第二次被拒，卡在试验数据可信度",
@@ -6235,7 +6267,7 @@
      }
     }
    ],
-   "count": 54,
+   "count": 55,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -8028,9 +8060,19 @@
      "page": "content/audiobook-john/2026-11-21-ch04/index.md",
      "duration_sec": 1047,
      "duration": "17:27"
+    },
+    {
+     "date": "2026-11-22",
+     "title": "第5篇：躺了三十八年的人，站起来了",
+     "scripture": "约翰福音 5:1-18",
+     "theme": "毕士大池边躺了三十八年的人——耶稣问他「你要痊愈吗」，恩典不靠抢，祂亲自走到最抢不到的人面前。",
+     "audio": "content/audiobook-john/2026-11-22-ch05/audio.mp3",
+     "page": "content/audiobook-john/2026-11-22-ch05/index.md",
+     "duration_sec": 1046,
+     "duration": "17:26"
     }
    ],
-   "count": 4
+   "count": 5
   }
  ],
  "articles": [

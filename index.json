@@ -4239,6 +4239,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-21",
+     "title": "《美国百指日报》2026-11-21｜标普连跌第七日进入回调，纳指抹去年内涨幅，周六无新数据",
+     "scripture": "",
+     "theme": "大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月二十一日，星期六。",
+     "audio": "content/fred-am/2026-11-21/audio.mp3",
+     "page": "content/fred-am/2026-11-21/index.md",
+     "duration_sec": 294,
+     "duration": "4:54",
+     "video_url": "https://www.youtube.com/watch?v=qrts_F1Xg_4",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=qrts_F1Xg_4"
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "《美国百指日报》2026-11-20｜道指跌1101点失守5万点，标普六连跌，密歇根通胀预期降到3.7%",
      "scripture": "",
@@ -4799,7 +4815,7 @@
      }
     }
    ],
-   "count": 35,
+   "count": 36,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
