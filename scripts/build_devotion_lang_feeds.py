@@ -6,9 +6,9 @@ A6 英/西断档三天与此有关。本脚本沿用既有 feed 的频道头（�
 更新 lastBuildDate），按 content/devotion-{am,pm}-{en,es} 目录重建 items。
 
 Item 规则（与既有 feed 一致）：
-- title: [AM]/[PM] + 页面 H1
+- title: [AM]/[PM] + 页面 H1（中午档 [NOON]，2026-11-23 英/西新增，照中文版）
 - description: 一句话主题 + " Scripture: "/" Escritura: " + 页面经文字段
-- pubDate: AM 07:00 / PM 21:00 (PDT, -0700)
+- pubDate: AM 07:00 / NOON 12:00 / PM 21:00 (PDT, -0700)
 - guid: <series>-<date>; enclosure: raw URL + 文件字节数; duration: 页面时长
 """
 import html
@@ -24,10 +24,10 @@ RAW = "https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main"
 PDT = timezone(timedelta(hours=-7))
 
 FEEDS = {
-    "devotion-en.xml": (("devotion-am-en", "devotion-pm-en"), " Scripture: "),
-    "devotion-es.xml": (("devotion-am-es", "devotion-pm-es"), " Escritura: "),
-    "devotion-vi.xml": (("devotion-am-vi", "devotion-pm-vi"), " Kinh Thánh: "),
-    "devotion-hi.xml": (("devotion-am-hi", "devotion-pm-hi"), " पवित्रशास्त्र: "),
+    "devotion-en.xml": ((("devotion-am-en", 7), ("devotion-noon-en", 12), ("devotion-pm-en", 21)), " Scripture: "),
+    "devotion-es.xml": ((("devotion-am-es", 7), ("devotion-noon-es", 12), ("devotion-pm-es", 21)), " Escritura: "),
+    "devotion-vi.xml": ((("devotion-am-vi", 7), ("devotion-pm-vi", 21)), " Kinh Thánh: "),
+    "devotion-hi.xml": ((("devotion-am-hi", 7), ("devotion-pm-hi", 21)), " पवित्रशास्त्र: "),
 }
 
 
@@ -45,7 +45,7 @@ def parse_episode(series, date, hour):
     dur = re.search(r"时长：([0-9:]+)", text)
     pub = datetime.strptime(date, "%Y-%m-%d").replace(hour=hour, tzinfo=PDT)
     return {
-        "title": ("[AM] " if hour == 7 else "[PM] ") + title,
+        "title": {7: "[AM] ", 12: "[NOON] ", 21: "[PM] "}[hour] + title,
         "theme": theme.group(1).strip() if theme else title,
         "verse": verse.group(1).strip() if verse else "",
         "pub": pub,
@@ -57,7 +57,7 @@ def parse_episode(series, date, hour):
 
 
 def main():
-    for fname, (series_pair, scripture_word) in FEEDS.items():
+    for fname, (series_list, scripture_word) in FEEDS.items():
         out = os.path.join(ROOT, "docs", "podcast", fname)
         old = open(out, encoding="utf-8").read()
         head = old.split("    <item>")[0]
@@ -67,7 +67,7 @@ def main():
             head,
         )
         eps = []
-        for series, hour in ((series_pair[0], 7), (series_pair[1], 21)):
+        for series, hour in series_list:
             base = os.path.join(ROOT, "content", series)
             if not os.path.isdir(base):
                 continue

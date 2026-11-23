@@ -5,11 +5,11 @@
     <link>https://ezrazhao.com/</link>
     <atom:link href="https://ezra-zhao.github.io/ezra-content-hub/podcast/devotion-en.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
+    <description>Daily Devotion: a morning edition for when you wake, a midday edition to pause and be renewed, and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, midday devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 11:44:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:20:15 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
-    <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
+    <itunes:summary>Daily Devotion: a morning edition for when you wake, a midday edition to pause and be renewed, and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, midday devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
     <itunes:owner>
       <itunes:name>Guangyi Zhao</itunes:name>
@@ -28,6 +28,14 @@
       <guid isPermaLink="false">devotion-pm-en-2026-11-23</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-23/audio.mp3" length="2079807" type="audio/mpeg"/>
       <itunes:duration>2:10</itunes:duration>
+    </item>
+    <item>
+      <title>[NOON] Psalm 1:3: Like a Tree Planted by Streams of Water</title>
+      <description>He will be like a tree planted by the streams of water, that produces its fruit in its season — midday is the moment to sink our roots back into the source; stay connected, and walk into the afternoon renewed, steady and unhurried. Scripture: Psalm 1:3 (WEB)</description>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-noon-en-2026-11-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-noon-en/2026-11-23/audio.mp3" length="1819837" type="audio/mpeg"/>
+      <itunes:duration>1:54</itunes:duration>
     </item>
     <item>
       <title>[AM] Malachi 3:6: He Does Not Change, So We Are Not Consumed</title>
