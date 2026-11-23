@@ -8177,8 +8177,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 28,
+   "count": 29,
    "items": [
+    {
+     "date": "2026-11-23",
+     "title": "洪水警告今天生效，09:25高潮7.8英尺",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-23-flood-warning-thanksgiving.md",
+     "page": "articles/baylocal/2026-11-23-flood-warning-thanksgiving.html"
+    },
     {
      "date": "2026-11-22",
      "title": "今天08:48高潮7.8英尺，湾岸低洼先防漫水",
