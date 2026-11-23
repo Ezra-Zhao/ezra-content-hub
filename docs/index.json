@@ -3721,6 +3721,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-23",
+     "title": "美股盘后小结 11月23日：三大指数强劲反弹+英伟达大涨逾三成",
+     "scripture": "",
+     "theme": "美股盘后小结，11月23日，星期一。上周五暴跌之后，三大指数强劲反弹，英伟达董事会复任黄仁勋为首席执行官，股价大涨逾三成。",
+     "audio": "content/stocks-pm/2026-11-23/audio.mp3",
+     "page": "content/stocks-pm/2026-11-23/index.md",
+     "duration_sec": 67,
+     "duration": "1:07",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-20",
      "title": "美股盘后小结 11月20日：连跌第七天尾盘跌幅扩大",
      "scripture": "",
@@ -4249,7 +4265,7 @@
      }
     }
    ],
-   "count": 33,
+   "count": 34,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
@@ -5451,6 +5467,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-23",
+     "title": "长寿前沿日报｜11月23日：早期乳腺癌，20多年来首款新内分泌药",
+     "scripture": "",
+     "theme": "本期：FDA批准吉瑞德斯特单药用于术后早期乳腺癌（ER阳性、HER2阴性、1到3期、中高复发风险），lidERA研究4170人、复发或死亡风险低30%（140对196例）、3年无浸润性癌存活92.4%对89.6%，总生存仍在随访。快讯：FDA批准利比醇治LGMD2I/R9、为这类病第一款获批药，112人随机双盲、12个月步行速度与肺功能改善。轮换位：NEJM STREAM试验1880名70岁以上无心血管病者停他汀，2年无事件生存差2.0周达非劣，但事件12.7%对9.2%，作者不作普遍停药推荐。",
+     "audio": "content/longevity/2026-11-23/audio.mp3",
+     "page": "content/longevity/2026-11-23/index.md",
+     "duration_sec": 127,
+     "duration": "2:07",
+     "video_url": "https://www.youtube.com/watch?v=hzVEQ91HKMA",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=hzVEQ91HKMA"
+     }
+    },
+    {
      "date": "2026-11-22",
      "title": "长寿前沿日报｜11月22日：骑车加练脑，脑皮层保住得更好",
      "scripture": "",
@@ -6347,7 +6379,7 @@
      }
     }
    ],
-   "count": 56,
+   "count": 57,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
