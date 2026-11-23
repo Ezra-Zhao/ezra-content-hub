@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>《圣经伴读》有声版：赵广义（Guangyi Zhao）本人克隆声线朗读，逐章把伴读讲透。第一册《约翰福音》。关键词：圣经伴读、有声书、约翰福音、查经。全部节目：https://ezrazhao.com/ </description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 13:46:10 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 17:13:20 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>《圣经伴读》有声版：赵广义（Guangyi Zhao）本人克隆声线朗读，逐章把伴读讲透。第一册《约翰福音》。关键词：圣经伴读、有声书、约翰福音、查经。全部节目：https://ezrazhao.com/ </itunes:summary>
     <itunes:owner>
@@ -20,6 +20,14 @@
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>有声伴读·约翰福音 第5篇：躺了三十八年的人，站起来了｜11月22日</title>
+      <description>约翰福音第五章：毕士大池边躺了三十八年的人——耶稣问他「你要痊愈吗」，恩典不靠抢，祂亲自走到最抢不到的人面前。</description>
+      <pubDate>Sun, 22 Nov 2026 20:00:00 -0700</pubDate>
+      <guid isPermaLink="false">audiobook-john-2026-11-22-ch05</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/audiobook-john/2026-11-22-ch05/audio.mp3" length="16739727" type="audio/mpeg"/>
+      <itunes:duration>17:26</itunes:duration>
+    </item>
     <item>
       <title>有声伴读·约翰福音 第4篇：中午来打水的人｜11月21日</title>
       <description>约翰福音第四章：撒马利亚妇人在正午的井边遇见耶稣——祂先在井边等她，讲活水，也讲用心灵和诚实敬拜的人。</description>
