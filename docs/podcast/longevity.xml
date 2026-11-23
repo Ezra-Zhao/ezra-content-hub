@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 10:54:18 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:27:52 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报｜11月23日：早期乳腺癌，20多年来首款新内分泌药</title>
+      <description>本期：FDA批准吉瑞德斯特单药用于术后早期乳腺癌（ER阳性、HER2阴性、1到3期、中高复发风险），lidERA研究4170人、复发或死亡风险低30%（140对196例）、3年无浸润性癌存活92.4%对89.6%，总生存仍在随访。快讯：FDA批准利比醇治LGMD2I/R9、为这类病第一款获批药，112人随机双盲、12个月步行速度与肺功能改善。轮换位：NEJM STREAM试验1880名70岁以上无心血管病者停他汀，2年无事件生存差2.0周达非劣，但事件12.7%对9.2%，作者不作普遍停药推荐。</description>
+      <pubDate>Mon, 23 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-23/audio.mp3" length="1018584" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报·晚间版｜11月22日：阿尔茨海默药连用五年，差距还在拉大</title>
       <description>本期：卫材与渤健11月22日在波士顿会议公布仑卡奈单抗五年长期数据，三期1795人、351人连续治疗满五年，五年后临床痴呆评定量表总分与自然病程队列差2.05分、进展风险低36%，低tau亚组66%无下降、62%有改善，安全性五年无新信号；但18个月后无同期安慰剂对照，五年比较为外部自然病程队列、不是随机对照证据，数据为企业在会议公布。快讯：FDA批准asundexian防再发卒中，12327人研究再发卒中6.2%对8.4%、相对风险低26%，高龄与头3个月出血顾虑更高。轮换位：Whitehall II队列3973人，白天活动少加睡眠短加夜间频醒组失智风险高94%，观察性、不等于因果。</description>
