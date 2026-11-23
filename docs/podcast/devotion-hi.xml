@@ -7,7 +7,7 @@
     <language>hi</language>
     <description>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 12:09:13 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:19:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>दैनिक भक्ति: सुबह उठने के बाद और रात को सोने से पहले के संस्करण — दिन के पवित्रशास्त्र पर मनन और प्रार्थना। प्रस्तुतकर्ता: Guangyi Zhao। कीवर्ड: दैनिक भक्ति, बाइबल पाठ, प्रार्थना, सुबह की भक्ति, रात की भक्ति। सभी कार्यक्रम और पाठ: https://ezra-zhao.github.io/ezra-content-hub/ इसी परिवार से: चीनी, अंग्रेज़ी, स्पेनिश और वियतनामी में दैनिक भक्ति।</itunes:summary>
     <itunes:keywords>दैनिक भक्ति,बाइबल पाठ,प्रार्थना,पवित्रशास्त्र,सुबह की भक्ति,रात की भक्ति,मसीही विश्वास,मनन</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] नई सृष्टि</title>
+      <description>पुरानी बातें बीत गई हैं: पुरानी बातें छोड़कर शांत मन से सोइए, कल आप में नया आरम्भ कीजिए। पवित्रशास्त्र: 2 कुरिन्थियों 5:17 (HHBD)</description>
+      <pubDate>Mon, 23 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-hi-2026-11-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-hi/2026-11-23/audio.mp3" length="1922349" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] मैं यहोवा बदलता नहीं</title>
+      <description>परमेश्वर बदलता नहीं, इसीलिये हम नाश नहीं हुए: अपनी स्थिरता भावनाओं पर नहीं, उसकी प्रतिज्ञाओं पर टिकाइए। पवित्रशास्त्र: मलाकी 3:6 (HHBD)</description>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-hi-2026-11-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-hi/2026-11-23/audio.mp3" length="2101293" type="audio/mpeg"/>
+      <itunes:duration>2:11</itunes:duration>
+    </item>
     <item>
       <title>[PM] परमेश्वर के साथ साथ चलता था</title>
       <description>हनोक परमेश्वर के साथ चलता था: आज के सही-ग़लत सौंपकर शांत मन से सोइए, कल फिर उसके साथ चलिए। पवित्रशास्त्र: उत्पत्ति 5:24 (HHBD)</description>
