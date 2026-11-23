@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 11:41:49 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:44:00 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] 2 Corinthians 5:17: A New Creation — The Old Things Have Passed Away</title>
+      <description>Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new — lay the old things down tonight and sleep in your new identity. Scripture: 2 Corinthians 5:17 (WEB)</description>
+      <pubDate>Mon, 23 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-23/audio.mp3" length="2079807" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Malachi 3:6: He Does Not Change, So We Are Not Consumed</title>
+      <description>For I, Yahweh, don&#x27;t change; therefore you, sons of Jacob, are not consumed — our steadiness rests not on our feelings, but on the God who never changes; walk into the new week trusting Him. Scripture: Malachi 3:6 (WEB)</description>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-23/audio.mp3" length="1996634" type="audio/mpeg"/>
+      <itunes:duration>2:05</itunes:duration>
+    </item>
     <item>
       <title>[PM] Genesis 5:24: Enoch Walked with God</title>
       <description>Enoch walked with God, and he was not, for God took him — hand over today&#x27;s gains and losses tonight, sleep on His promises, and walk with Him again tomorrow. Scripture: Genesis 5:24 (WEB)</description>
