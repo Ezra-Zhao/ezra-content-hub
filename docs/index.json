@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-10-27",
+ "updated": "2026-11-22",
  "programs": [
   {
    "id": "devotion-am",
@@ -3235,6 +3235,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-22",
+     "title": "新闻矩阵｜11月22日晚间版：气候峰会收场各方互责，特朗普警告伊朗勿冲封锁，民主党锁定众议院258席",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月22日晚间版：气候峰会收场各方互责，特朗普警告伊朗勿冲封锁，民主党锁定众议院258席",
+     "audio": "content/news-pm/2026-11-22/audio.mp3",
+     "page": "content/news-pm/2026-11-22/index.md",
+     "duration_sec": 327,
+     "duration": "5:27",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-21",
      "title": "新闻矩阵｜11月21日晚间版：波兰确认俄导弹落入境内，气候峰会加时无协议，美股创2020年以来最差一周",
      "scripture": "",
@@ -3651,7 +3667,7 @@
      }
     }
    ],
-   "count": 26,
+   "count": 27,
    "related": [
     "fred-am",
     "fred-pm",
