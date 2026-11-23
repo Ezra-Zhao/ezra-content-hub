@@ -18,7 +18,12 @@ def parse_episode(series, date, hour):
     text = open(md_path, encoding="utf-8").read()
     m = re.search(r"^#\s+(.+)$", text, re.M)
     title = m.group(1).strip() if m else date
-    prog = "AM" if series.endswith("-am") else "PM"
+    if series.endswith("-noon"):
+        prog = "NOON"
+    elif series.endswith("-am"):
+        prog = "AM"
+    else:
+        prog = "PM"
     scr = re.search(r"经文：(.+)", text)
     theme = re.search(r"##\s*一句话主题\s*\n+(.+)", text)
     dur = re.search(r"时长：([0-9:]+)", text)
@@ -34,7 +39,7 @@ def parse_episode(series, date, hour):
     # new episodes only (date >= 2026-10-31); back catalogue unchanged.
     suffix = ""
     if date >= "2026-10-31":
-        suffix = "｜晨起读经" if prog == "AM" else "｜睡前灵修"
+        suffix = {"AM": "｜晨起读经", "PM": "｜睡前灵修", "NOON": "｜午间灵修"}[prog]
         if title.endswith(suffix):
             suffix = ""
     return {
@@ -48,7 +53,7 @@ def parse_episode(series, date, hour):
     }
 
 eps = []
-for series, hour in (("devotion-am", 7), ("devotion-pm", 21)):
+for series, hour in (("devotion-am", 7), ("devotion-noon", 12), ("devotion-pm", 21)):
     base = os.path.join(ROOT, "content", series)
     if not os.path.isdir(base):
         continue
@@ -82,12 +87,12 @@ feed = (
     "    <link>" + PAGES + "/</link>\n"
     "    <atom:link href=\"" + PAGES + "/podcast/devotion.xml\" rel=\"self\" type=\"application/rss+xml\"/>\n"
     "    <language>zh-cn</language>\n"
-    "    <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>\n"
+    "    <description>每日灵修：早间版、中午版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、午间灵修、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>\n"
     "    <copyright>© 2026 Guangyi Zhao</copyright>\n"
     "    <lastBuildDate>" + now + "</lastBuildDate>\n"
     "    <itunes:author>Guangyi Zhao</itunes:author>\n"
-    "    <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>\n"
-    "    <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>\n"
+    "    <itunes:summary>每日灵修：早间版、中午版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、午间灵修、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>\n"
+    "    <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,午间灵修,睡前灵修,基督教,默想</itunes:keywords>\n"
     "    <itunes:owner>\n"
     "      <itunes:name>Guangyi Zhao</itunes:name>\n"
     "      <itunes:email>ezra777.zhao@gmail.com</itunes:email>\n"

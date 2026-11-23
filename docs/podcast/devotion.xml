@@ -5,12 +5,12 @@
     <link>https://ezrazhao.com/</link>
     <atom:link href="https://ezrazhao.com/podcast/devotion.xml" rel="self" type="application/rss+xml"/>
     <language>zh-cn</language>
-    <description>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
+    <description>每日灵修：早间版、中午版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、午间灵修、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 11:24:33 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:12:51 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
-    <itunes:summary>每日灵修：早间起后版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
-    <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,睡前灵修,基督教,默想</itunes:keywords>
+    <itunes:summary>每日灵修：早间版、中午版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、午间灵修、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
+    <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,午间灵修,睡前灵修,基督教,默想</itunes:keywords>
     <itunes:owner>
       <itunes:name>Guangyi Zhao</itunes:name>
       <itunes:email>ezra777.zhao@gmail.com</itunes:email>
@@ -28,6 +28,14 @@
       <guid isPermaLink="false">devotion-pm-2026-11-23</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-23/audio.mp3" length="2076046" type="audio/mpeg"/>
       <itunes:duration>2:10</itunes:duration>
+    </item>
+    <item>
+      <title>[NOON] 诗篇1:3：像树栽在溪水旁｜午间灵修</title>
+      <description>诗篇1:3：像树栽在溪水旁——诗篇 1:3 的话陪你午间停靠、重新得力，讲解与祷告均为原创。 经文：诗篇 1:3（和合本）</description>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-noon-2026-11-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-noon/2026-11-23/audio.mp3" length="1979915" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
     </item>
     <item>
       <title>[AM] 玛拉基书3:6：祂不改变，我们才没有灭亡｜晨起读经</title>
