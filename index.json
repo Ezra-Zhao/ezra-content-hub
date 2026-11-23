@@ -7841,7 +7841,7 @@
    "slot": "晚间",
    "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
    "category": "时效",
-   "count": 13,
+   "count": 14,
    "related": [
     "news-am",
     "news-pm",
@@ -8053,6 +8053,22 @@
      "page": "content/history-rhymes/2026-11-21/index.md",
      "duration_sec": 452,
      "duration": "7:32",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-22",
+     "title": "《弹古论今》11月22日｜保证没落纸，先付款的人吃亏：对照张仪欺楚",
+     "scripture": "",
+     "theme": "美国希望一月初前达成俄乌协议，拿领土换安全保证；库什纳称俄方已接受基于北约第五条的保证构想，俄副外长次日公开拒绝；泽连斯基说至今没看到写在纸上的承诺，保证要永久不能只有两年。对应的旧剧本是战国张仪欺楚：许商於六百里换楚先断齐盟，陈轸警告不听，张仪只认六里，楚军丹阳折损八万丢汉中。本期无到期未对账预判；四条可证伪预判按方法第二版登记，立此存照。",
+     "audio": "content/history-rhymes/2026-11-22/audio.mp3",
+     "page": "content/history-rhymes/2026-11-22/index.md",
+     "duration_sec": 455,
+     "duration": "7:35",
      "video_url": "",
      "links": {
       "spotify": "",
