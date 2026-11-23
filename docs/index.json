@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-22",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -4853,6 +4853,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-22",
+     "title": "美国百指日报·晚间速报｜11月22日：周日无新数据，标普连跌七日定格回调，下周看核心通胀",
+     "scripture": "",
+     "theme": "> 11月22日星期日，美国无重要经济数据发布、市场休市，本期不凑数，只把周五收盘定格看清楚，再看明天和下周。周五标普500收6910.39点、跌3.70%，连跌第七日进入技术性回调；纳指收22617.73点、跌5.28%，抹去年内涨幅；道指收48147.33点、跌1.93%；罗素2000收2581.79点、跌2.76%；恐慌指数35.89、涨26.20%；10年期美债收益率约4.91%。金融压力指数-0.8655仍为负值，金融条件没有收紧。明日前瞻：周一08:30 ET芝加哥联储全国活动指数（前值0.07）、09:45 ET标普全球PMI初值（预期制造业54.5、服务业55.6）；周三核心PCE（预期环比+0.3%、同比3.2%）与GDP二次估值（预期3.5%）；周四感恩节休市。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-22/audio.mp3",
+     "page": "content/fred-pm/2026-11-22/index.md",
+     "duration_sec": 119,
+     "duration": "1:59",
+     "video_url": "https://www.youtube.com/watch?v=LVgIr3fpO2o",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=LVgIr3fpO2o"
+     }
+    },
+    {
      "date": "2026-11-21",
      "title": "美国百指日报·晚间速报｜11月21日：周六无新数据，标普连跌七日进入回调，下周看核心通胀",
      "scripture": "",
@@ -5381,7 +5397,7 @@
      }
     }
    ],
-   "count": 33,
+   "count": 34,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5416,6 +5432,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=DpFi92LJDy8"
+     }
+    },
+    {
+     "date": "2026-11-22",
+     "title": "长寿前沿日报·晚间版｜11月22日：阿尔茨海默药连用五年，差距还在拉大",
+     "scripture": "",
+     "theme": "本期：卫材与渤健11月22日在波士顿会议公布仑卡奈单抗五年长期数据，三期1795人、351人连续治疗满五年，五年后临床痴呆评定量表总分与自然病程队列差2.05分、进展风险低36%，低tau亚组66%无下降、62%有改善，安全性五年无新信号；但18个月后无同期安慰剂对照，五年比较为外部自然病程队列、不是随机对照证据，数据为企业在会议公布。快讯：FDA批准asundexian防再发卒中，12327人研究再发卒中6.2%对8.4%、相对风险低26%，高龄与头3个月出血顾虑更高。轮换位：Whitehall II队列3973人，白天活动少加睡眠短加夜间频醒组失智风险高94%，观察性、不等于因果。",
+     "audio": "content/longevity/2026-11-22-pm/audio.mp3",
+     "page": "content/longevity/2026-11-22-pm/index.md",
+     "duration_sec": 111,
+     "duration": "1:51",
+     "video_url": "https://www.youtube.com/watch?v=8-sWJqS78Lc",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=8-sWJqS78Lc"
      }
     },
     {
@@ -6283,7 +6315,7 @@
      }
     }
    ],
-   "count": 55,
+   "count": 56,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -6318,6 +6350,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=ulTYZGUAKM4"
+     }
+    },
+    {
+     "date": "2026-11-22",
+     "title": "硅谷科技日报·晚间版｜11月22日：宕机三个半小时，坏在登录数据库",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月22日，星期日。头条：聊天机器人公司昨天宕机三个半小时，复盘说坏在登录数据库。",
+     "audio": "content/silicon-valley/2026-11-22-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-22-pm/index.md",
+     "duration_sec": 113,
+     "duration": "1:53",
+     "video_url": "https://www.youtube.com/watch?v=EKzTIszDX80",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=EKzTIszDX80"
      }
     },
     {
@@ -7057,7 +7105,7 @@
      }
     }
    ],
-   "count": 47,
+   "count": 48,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -7809,7 +7857,7 @@
    "slot": "晚间",
    "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
    "category": "时效",
-   "count": 13,
+   "count": 14,
    "related": [
     "news-am",
     "news-pm",
@@ -8021,6 +8069,22 @@
      "page": "content/history-rhymes/2026-11-21/index.md",
      "duration_sec": 452,
      "duration": "7:32",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
+     "date": "2026-11-22",
+     "title": "《弹古论今》11月22日｜保证没落纸，先付款的人吃亏：对照张仪欺楚",
+     "scripture": "",
+     "theme": "美国希望一月初前达成俄乌协议，拿领土换安全保证；库什纳称俄方已接受基于北约第五条的保证构想，俄副外长次日公开拒绝；泽连斯基说至今没看到写在纸上的承诺，保证要永久不能只有两年。对应的旧剧本是战国张仪欺楚：许商於六百里换楚先断齐盟，陈轸警告不听，张仪只认六里，楚军丹阳折损八万丢汉中。本期无到期未对账预判；四条可证伪预判按方法第二版登记，立此存照。",
+     "audio": "content/history-rhymes/2026-11-22/audio.mp3",
+     "page": "content/history-rhymes/2026-11-22/index.md",
+     "duration_sec": 455,
+     "duration": "7:35",
      "video_url": "",
      "links": {
       "spotify": "",
