@@ -4,5 +4,5 @@
 美国百指日报｜10月26日：芝加哥联储指数转正0.07好于预期，生产回暖、消费住房仍拖累
 
 时长：6:58
-视频：https://www.youtube.com/watch?v=-w90p5rthdM
+视频：https://www.youtube.com/watch?v=iwHMubWPN3k
 来源：本地成品补传，2026-10-26 入枢纽。
