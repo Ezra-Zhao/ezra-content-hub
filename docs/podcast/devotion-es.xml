@@ -7,7 +7,7 @@
     <language>es</language>
     <description>Devoción Diaria: edición matutina al despertar, edición del mediodía para detenerse y renovar fuerzas, y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional del mediodía, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 16:20:15 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:13:59 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Devoción Diaria: edición matutina al despertar, edición del mediodía para detenerse y renovar fuerzas, y edición nocturna antes de dormir — meditación y oración sobre el pasaje bíblico del día. Presentado por Guangyi Zhao. Palabras clave: devoción diaria, lectura bíblica, oración, devocional matutino, devocional del mediodía, devocional nocturno. Todos los programas y textos: https://ezra-zhao.github.io/ezra-content-hub/ De la misma familia: Devoción Diaria en chino, inglés, vietnamita e hindi.</itunes:summary>
     <itunes:keywords>devoción diaria,lectura bíblica,oración,escritura,devocional matutino,devocional nocturno,fe cristiana,meditación</itunes:keywords>
@@ -28,6 +28,14 @@
       <guid isPermaLink="false">devotion-pm-es-2026-11-23</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-es/2026-11-23/audio.mp3" length="2019621" type="audio/mpeg"/>
       <itunes:duration>2:06</itunes:duration>
+    </item>
+    <item>
+      <title>[NOON] Salmo 1:3: Como un árbol plantado junto a las aguas</title>
+      <description>Y será como el árbol plantado junto á arroyos de aguas, que da su fruto en su tiempo — el mediodía es el momento de hundir de nuevo las raíces en la fuente; permanece unido a él y entra en la tarde renovado, firme y sin prisa. Escritura: Salmo 1:3 (RVR1909)</description>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-noon-es-2026-11-23</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-noon-es/2026-11-23/audio.mp3" length="2229020" type="audio/mpeg"/>
+      <itunes:duration>2:19</itunes:duration>
     </item>
     <item>
       <title>[AM] Malaquías 3:6: Él no cambia, y por eso no hemos sido consumidos</title>
