@@ -5531,6 +5531,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-24",
+     "title": "长寿前沿日报｜11月24日：胃肠间质瘤联合新药，无进展时间接近翻倍",
+     "scripture": "",
+     "theme": "本期：FDA批准贝组替尼联合舒尼替尼用于此前用过伊马替尼的晚期胃肠间质瘤成人，PEAK三期试验413人、无进展中位时间16.5对9.2个月、风险低一半、肿瘤缩小46%对26%，总生存未成熟，说明书带肝毒性黑框警告。快讯：JAMA前瞻研究370名60岁以上者逐步减左甲状腺素，1年后95人（25.7%）成功停药，单组无对照。轮换位：《柳叶刀·健康长寿》盘点衰老标志在研试验193项、131种候选疗法，仅约21%面向健康人群，多数仍在早期。",
+     "audio": "content/longevity/2026-11-24/audio.mp3",
+     "page": "content/longevity/2026-11-24/index.md",
+     "duration_sec": 124,
+     "duration": "2:04",
+     "video_url": "https://www.youtube.com/watch?v=9pOm8IelSkU",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=9pOm8IelSkU"
+     }
+    },
+    {
      "date": "2026-11-23",
      "title": "长寿前沿日报｜11月23日：早期乳腺癌，20多年来首款新内分泌药",
      "scripture": "",
@@ -6459,7 +6475,7 @@
      }
     }
    ],
-   "count": 58,
+   "count": 59,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
