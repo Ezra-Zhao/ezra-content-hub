@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake, a midday edition to pause and be renewed, and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, midday devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 16:20:15 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:31:52 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake, a midday edition to pause and be renewed, and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, midday devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,30 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] John 14:2: Many Homes in My Father&#x27;s House</title>
+      <description>In my Father&#x27;s house are many homes. If it weren&#x27;t so, I would have told you. I am going to prepare a place for you — lay down tonight&#x27;s worries and sleep inside this settled certainty. Scripture: John 14:2 (WEB)</description>
+      <pubDate>Tue, 24 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-24/audio.mp3" length="1857035" type="audio/mpeg"/>
+      <itunes:duration>1:56</itunes:duration>
+    </item>
+    <item>
+      <title>[NOON] John 15:5: I Am the Vine, You Are the Branches</title>
+      <description>I am the vine. You are the branches. He who remains in me and I in him bears much fruit — at midday, join the branch back to the vine, and walk into the afternoon renewed. Scripture: John 15:5 (WEB)</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-noon-en-2026-11-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-noon-en/2026-11-24/audio.mp3" length="1722870" type="audio/mpeg"/>
+      <itunes:duration>1:48</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Mark 8:24: Seeing People Like Trees Walking</title>
+      <description>I see men, but I see them like walking trees — like the blind man at Bethsaida, be honest about what you only half-see, and let the Lord touch your eyes again until everything is clear. Scripture: Mark 8:24 (WEB)</description>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-24/audio.mp3" length="1925998" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
     <item>
       <title>[PM] 2 Corinthians 5:17: A New Creation — The Old Things Have Passed Away</title>
       <description>Therefore if anyone is in Christ, he is a new creation. The old things have passed away. Behold, all things have become new — lay the old things down tonight and sleep in your new identity. Scripture: 2 Corinthians 5:17 (WEB)</description>
