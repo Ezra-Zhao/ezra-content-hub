@@ -3753,6 +3753,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-24",
+     "title": "美股盘后小结 11月24日：暴涨后回吐纳指跌约2%+零售财报超预期",
+     "scripture": "",
+     "theme": "美股盘后小结，11月24日，星期二。周一暴涨之后，周二获利回吐，人工智能与芯片股领跌，道指相对抗跌。",
+     "audio": "content/stocks-pm/2026-11-24/audio.mp3",
+     "page": "content/stocks-pm/2026-11-24/index.md",
+     "duration_sec": 60,
+     "duration": "1:00",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-23",
      "title": "美股盘后小结 11月23日：三大指数强劲反弹+英伟达大涨逾三成",
      "scripture": "",
@@ -4297,7 +4313,7 @@
      }
     }
    ],
-   "count": 34,
+   "count": 35,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
@@ -7343,11 +7359,11 @@
      "page": "content/immigration/2026-11-23/index.md",
      "duration_sec": 122,
      "duration": "2:02",
-     "video_url": "https://www.youtube.com/watch?v=gIBEL5tgi6g",
+     "video_url": "",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=gIBEL5tgi6g"
+      "youtube": ""
      }
     },
     {
