@@ -7,7 +7,7 @@
     <language>vi</language>
     <description>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 14:19:06 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:57:48 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Tĩnh Nguyện Hằng Ngày: bản buổi sáng khi thức dậy và bản buổi tối trước khi ngủ — suy ngẫm và cầu nguyện theo đoạn Kinh Thánh trong ngày. Trình bày: Guangyi Zhao. Từ khóa: tĩnh nguyện hằng ngày, đọc Kinh Thánh, cầu nguyện, tĩnh nguyện buổi sáng, tĩnh nguyện buổi tối. Tất cả chương trình và bản văn: https://ezra-zhao.github.io/ezra-content-hub/ Cùng gia đình: Tĩnh Nguyện Hằng Ngày bằng tiếng Trung, tiếng Anh, tiếng Tây Ban Nha và tiếng Hindi.</itunes:summary>
     <itunes:keywords>tĩnh nguyện hằng ngày,đọc kinh thánh,cầu nguyện,kinh thánh,tĩnh nguyện buổi sáng,tĩnh nguyện buổi tối,đức tin cơ đốc,suy ngẫm</itunes:keywords>
@@ -21,6 +21,22 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Nhà Cha Có Nhiều Chỗ Ở</title>
+      <description>Chỗ ở đã được sắm sẵn: buông lo lắng xuống, ngủ trong sự chắc chắn, ngày mai từng bước đi về nhà. Kinh Thánh: Giăng 14:2 (Bản Truyền Thống 1925)</description>
+      <pubDate>Tue, 24 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-vi-2026-11-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-vi/2026-11-24/audio.mp3" length="1986186" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Thấy Người Như Cây Đang Đi</title>
+      <description>Thấy chưa rõ không phải là hết: hãy thành thật với Chúa, Ngài sẽ chạm đến lần thứ hai cho đến khi thấy rõ. Kinh Thánh: Mác 8:24 (Bản Truyền Thống 1925)</description>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-vi-2026-11-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-vi/2026-11-24/audio.mp3" length="2201435" type="audio/mpeg"/>
+      <itunes:duration>2:18</itunes:duration>
+    </item>
     <item>
       <title>[PM] Người Dựng Nên Mới</title>
       <description>Những sự cũ đã qua đi: buông những sự cũ xuống, yên giấc trong thân phận mới, ngày mai lại sống ra sự sống mới. Kinh Thánh: II Cô-rinh-tô 5:17 (Bản Truyền Thống 1925)</description>
