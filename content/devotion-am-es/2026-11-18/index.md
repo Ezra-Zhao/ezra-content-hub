@@ -1,4 +1,4 @@
-# Números 14:9: Con nosotros está Jehová — no los temáis
+# No temas | Números 14:9: Con nosotros está Jehová — no los temáis
 
 - 节目：每日灵修 · 每日灵修 · 早间（西语版）
 - 日期：2026-11-18

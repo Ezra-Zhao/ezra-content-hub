@@ -1,4 +1,4 @@
-# Juan 15:5: Yo soy la vid, vosotros los pámpanos
+# Permanecer y dar fruto | Juan 15:5: Yo soy la vid, vosotros los pámpanos
 
 - 节目：每日灵修 · 每日灵修 · 中午（西语版）
 - 日期：2026-11-24

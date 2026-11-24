@@ -1,4 +1,4 @@
-# 1 John 4:19: He First Loved Us
+# Loved First | 1 John 4:19: He First Loved Us
 
 - 节目：每日灵修 · 每日灵修 · 睡前（英语版）
 - 日期：2026-11-20

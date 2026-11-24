@@ -1,4 +1,4 @@
-# Lucas 14:23: Fuérzalos á entrar, para que se llene mi casa
+# Estás invitado | Lucas 14:23: Fuérzalos á entrar, para que se llene mi casa
 
 - 节目：每日灵修 · 每日灵修 · 早间（西语版）
 - 日期：2026-11-22

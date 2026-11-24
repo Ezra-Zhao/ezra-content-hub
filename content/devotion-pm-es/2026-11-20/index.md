@@ -1,4 +1,4 @@
-# 1 Juan 4:19: Él nos amó primero
+# Amado primero | 1 Juan 4:19: Él nos amó primero
 
 - 节目：每日灵修 · 每日灵修 · 睡前（西语版）
 - 日期：2026-11-20

@@ -1,4 +1,4 @@
-# Malachi 3:6: He Does Not Change, So We Are Not Consumed
+# God Never Changes | Malachi 3:6: He Does Not Change, So We Are Not Consumed
 
 - 节目：每日灵修 · 每日灵修 · 早间（英语版）
 - 日期：2026-11-23

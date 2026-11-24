@@ -1,4 +1,4 @@
-# Isaías 52:12: No saldréis apresurados
+# Dios va delante de ti | Isaías 52:12: No saldréis apresurados
 
 - 节目：每日灵修 · 每日灵修 · 早间（西语版）
 - 日期：2026-11-20

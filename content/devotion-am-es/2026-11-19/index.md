@@ -1,4 +1,4 @@
-# Juan 4:23-24: Adoradores en espíritu y en verdad
+# Adoración verdadera | Juan 4:23-24: Adoradores en espíritu y en verdad
 
 - 节目：每日灵修 · 每日灵修 · 早间（西语版）
 - 日期：2026-11-19

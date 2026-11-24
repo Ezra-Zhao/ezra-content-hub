@@ -1,4 +1,4 @@
-# Luke 14:23: Compel Them to Come In, That My House May Be Filled
+# You Are Invited | Luke 14:23: Compel Them to Come In, That My House May Be Filled
 
 - 节目：每日灵修 · 每日灵修 · 早间（英语版）
 - 日期：2026-11-22

@@ -1,4 +1,4 @@
-# John 14:2: Many Homes in My Father's House
+# A Home in Heaven | John 14:2: Many Homes in My Father's House
 
 - 节目：每日灵修 · 每日灵修 · 睡前（英语版）
 - 日期：2026-11-24

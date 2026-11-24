@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-"""Build the 每日灵修 podcast RSS feed from hub content dirs."""
+"""Build the 每日灵修 podcast RSS feed from hub content dirs.
+
+标题模板（2026-11-24 搜索化定版，Ezra 批准的涨听众方案第一批）：
+单集 index.md 的 H1 必须写成「{主题词}｜{经文出处}：{经文钩子句}」——
+主题词＝信徒会搜的词（不要怕、焦虑时、安息、感恩、医治、找方向、重新开始等）
+放最前，经文出处紧随其后，文学化钩子句放最后。feed 自动加 [AM]/[NOON]/[PM]
+前缀与｜晨起读经/｜午间灵修/｜睡前灵修 后缀，H1 里不要重复写。
+"""
+
 import os, re, html
 from datetime import datetime, timezone, timedelta
 from email.utils import format_datetime

@@ -1,4 +1,4 @@
-# Genesis 5:24: Enoch Walked with God
+# Walking with God | Genesis 5:24: Enoch Walked with God
 
 - 节目：每日灵修 · 每日灵修 · 睡前（英语版）
 - 日期：2026-11-22

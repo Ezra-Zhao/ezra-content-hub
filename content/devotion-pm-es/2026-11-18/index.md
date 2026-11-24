@@ -1,4 +1,4 @@
-# Romanos 8:38-39: Nada nos podrá apartar del amor de Dios
+# Nada puede separarte | Romanos 8:38-39: Nada nos podrá apartar del amor de Dios
 
 - 节目：每日灵修 · 每日灵修 · 睡前（西语版）
 - 日期：2026-11-18

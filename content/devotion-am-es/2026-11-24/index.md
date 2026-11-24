@@ -1,4 +1,4 @@
-# Marcos 8:24: Veo los hombres como árboles que andan
+# Ver con claridad | Marcos 8:24: Veo los hombres como árboles que andan
 
 - 节目：每日灵修 · 每日灵修 · 早间（西语版）
 - 日期：2026-11-24

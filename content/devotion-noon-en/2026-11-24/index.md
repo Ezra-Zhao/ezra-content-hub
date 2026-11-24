@@ -1,4 +1,4 @@
-# John 15:5: I Am the Vine, You Are the Branches
+# Abide and Bear Fruit | John 15:5: I Am the Vine, You Are the Branches
 
 - 节目：每日灵修 · 每日灵修 · 中午（英语版）
 - 日期：2026-11-24

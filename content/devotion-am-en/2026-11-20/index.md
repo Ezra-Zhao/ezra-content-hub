@@ -1,4 +1,4 @@
-# Isaiah 52:12: He Goes Before You and Is Your Rear Guard
+# God Goes Before You | Isaiah 52:12: He Goes Before You and Is Your Rear Guard
 
 - 节目：每日灵修 · 每日灵修 · 早间（英语版）
 - 日期：2026-11-20

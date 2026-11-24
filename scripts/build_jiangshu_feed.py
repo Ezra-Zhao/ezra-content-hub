@@ -18,6 +18,11 @@ index.md episode format (one parser for all languages):
   Date: YYYY-MM-DD
   Duration: M:SS
   Summary: <one-paragraph show notes>
+
+标题模板（2026-11-24 搜索化定版）：「{读者痛点主题词}｜《{书名}》{一句话钩子}」——
+主题词放最前（如：普通人怎么挣钱、把复杂讲清楚、钱从哪里来），书名紧随，
+钩子在后；外语版同规则："{Theme phrase} | {Book title}: {hook}"。
+中文版更新节奏：每周三 20:00 一集，其余五语同周内跟上（2026-11-23 定版档期）。
 """
 import os
 import re
@@ -40,7 +45,7 @@ SERIES = {
         "lang": "zh-CN",
         "title": "小憩片刻｜Guangyi Zhao 讲书",
         "desc": ("小憩片刻：Guangyi Zhao 的讲书节目——每集用八到十分钟讲清一本书的主线与取舍，"
-                 "五大领域轮值：商业、科技、健康、神学、历史。在版书只做解读，经典选读只用公版书。"
+                 "五大领域轮值：商业、科技、健康、神学、历史。每周三晚更新一集。在版书只做解读，经典选读只用公版书。"
                  "关键词：讲书、读书、商业、科技、历史。全部节目：https://ezrazhao.com/ "
                  "同组节目：《每日灵修》《瓦器分享》也在本枢纽更新。"),
         "keywords": "讲书,读书,商业,科技,健康,神学,历史,个人成长",

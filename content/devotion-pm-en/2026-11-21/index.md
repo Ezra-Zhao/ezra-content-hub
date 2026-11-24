@@ -1,4 +1,4 @@
-# Jeremiah 23:6: Yahweh Our Righteousness
+# He Is Our Righteousness | Jeremiah 23:6: Yahweh Our Righteousness
 
 - 节目：每日灵修 · 每日灵修 · 睡前（英语版）
 - 日期：2026-11-21

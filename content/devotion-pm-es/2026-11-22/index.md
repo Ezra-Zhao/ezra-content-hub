@@ -1,4 +1,4 @@
-# Génesis 5:24: Caminó Henoch con Dios
+# Caminar con Dios | Génesis 5:24: Caminó Henoch con Dios
 
 - 节目：每日灵修 · 每日灵修 · 睡前（西语版）
 - 日期：2026-11-22

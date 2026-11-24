@@ -1,4 +1,4 @@
-# Jeremías 23:6: Jehová, justicia nuestra
+# Él es nuestra justicia | Jeremías 23:6: Jehová, justicia nuestra
 
 - 节目：每日灵修 · 每日灵修 · 睡前（西语版）
 - 日期：2026-11-21

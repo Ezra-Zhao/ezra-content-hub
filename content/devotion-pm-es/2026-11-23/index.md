@@ -1,4 +1,4 @@
-# 2 Corintios 5:17: Nueva criatura — las cosas viejas pasaron
+# Un nuevo comienzo | 2 Corintios 5:17: Nueva criatura — las cosas viejas pasaron
 
 - 节目：每日灵修 · 每日灵修 · 睡前（西语版）
 - 日期：2026-11-23

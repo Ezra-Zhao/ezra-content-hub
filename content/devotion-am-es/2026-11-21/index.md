@@ -1,4 +1,4 @@
-# Éxodo 12:13: Veré la sangre, y pasaré de vosotros
+# Cubiertos por la sangre | Éxodo 12:13: Veré la sangre, y pasaré de vosotros
 
 - 节目：每日灵修 · 每日灵修 · 早间（西语版）
 - 日期：2026-11-21

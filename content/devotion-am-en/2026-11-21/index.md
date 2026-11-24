@@ -1,4 +1,4 @@
-# Exodus 12:13: When I See the Blood, I Will Pass Over You
+# Covered by the Blood | Exodus 12:13: When I See the Blood, I Will Pass Over You
 
 - 节目：每日灵修 · 每日灵修 · 早间（英语版）
 - 日期：2026-11-21

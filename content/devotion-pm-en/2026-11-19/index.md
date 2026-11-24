@@ -1,4 +1,4 @@
-# Romans 3:28: Justified by Faith
+# Justified by Faith | Romans 3:28: Justified by Faith
 
 - 节目：每日灵修 · 每日灵修 · 睡前（英语版）
 - 日期：2026-11-19

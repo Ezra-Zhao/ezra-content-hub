@@ -1,4 +1,4 @@
-# Psalm 1:3: Like a Tree Planted by Streams of Water
+# The Secret of a Blessed Life | Psalm 1:3: Like a Tree Planted by Streams of Water
 
 - 节目：每日灵修 · 每日灵修 · 中午（英语版）
 - 日期：2026-11-23

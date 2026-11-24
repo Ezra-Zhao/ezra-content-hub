@@ -1,4 +1,4 @@
-# 2 Corinthians 5:17: A New Creation — The Old Things Have Passed Away
+# A Fresh Start | 2 Corinthians 5:17: A New Creation — The Old Things Have Passed Away
 
 - 节目：每日灵修 · 每日灵修 · 睡前（英语版）
 - 日期：2026-11-23

@@ -9,6 +9,9 @@ Item 规则（与既有 feed 一致）：
 - title: [AM]/[PM] + 页面 H1（中午档 [NOON]，2026-11-23 英/西新增，照中文版）
 - description: 一句话主题 + " Scripture: "/" Escritura: " + 页面经文字段
 - pubDate: AM 07:00 / NOON 12:00 / PM 21:00 (PDT, -0700)
+- 标题模板（2026-11-24 搜索化定版）：H1 写成「{Theme phrase} | {Scripture ref}: {hook}」，
+  主题短语＝听众会搜的词（Do Not Fear / Anxiety / Rest / No temas / Descanso 等）放最前，
+  经文出处紧随，钩子句在后；与中文版「主题词｜经文出处：钩子」同一规则。
 - guid: <series>-<date>; enclosure: raw URL + 文件字节数; duration: 页面时长
 """
 import html

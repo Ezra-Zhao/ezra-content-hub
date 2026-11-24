@@ -1,4 +1,4 @@
-# Numbers 14:9: Yahweh Is with Us — Do Not Fear
+# Do Not Fear | Numbers 14:9: Yahweh Is with Us — Do Not Fear
 
 - 节目：每日灵修 · 每日灵修 · 早间（英语版）
 - 日期：2026-11-18

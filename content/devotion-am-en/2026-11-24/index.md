@@ -1,4 +1,4 @@
-# Mark 8:24: Seeing People Like Trees Walking
+# Seeing Clearly | Mark 8:24: Seeing People Like Trees Walking
 
 - 节目：每日灵修 · 每日灵修 · 早间（英语版）
 - 日期：2026-11-24

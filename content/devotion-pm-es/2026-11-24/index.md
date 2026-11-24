@@ -1,4 +1,4 @@
-# Juan 14:2: Muchas moradas en la casa de mi Padre
+# Un hogar en el cielo | Juan 14:2: Muchas moradas en la casa de mi Padre
 
 - 节目：每日灵修 · 每日灵修 · 睡前（西语版）
 - 日期：2026-11-24

@@ -1,4 +1,4 @@
-# Romanos 3:28: Justificado por fe
+# Justificado por la fe | Romanos 3:28: Justificado por fe
 
 - 节目：每日灵修 · 每日灵修 · 睡前（西语版）
 - 日期：2026-11-19

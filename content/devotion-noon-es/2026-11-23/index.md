@@ -1,4 +1,4 @@
-# Salmo 1:3: Como un árbol plantado junto a las aguas
+# El secreto de una vida bendecida | Salmo 1:3: Como un árbol plantado junto a las aguas
 
 - 节目：每日灵修 · 每日灵修 · 中午（西语版）
 - 日期：2026-11-23
