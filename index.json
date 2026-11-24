@@ -2783,6 +2783,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-24",
+     "title": "新闻矩阵｜11月24日早间版：北约预警机进驻波兰，美股大涨后期货回落，感恩节8150万人出行",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月24日早间版：北约预警机进驻波兰，美股大涨后期货回落，感恩节8150万人出行",
+     "audio": "content/news-am/2026-11-24/audio.mp3",
+     "page": "content/news-am/2026-11-24/index.md",
+     "duration_sec": 278,
+     "duration": "4:38",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-23",
      "title": "新闻矩阵｜11月23日早间版：英伟达请回黄仁勋股价涨三成，乌称击沉俄护卫舰，气候大会无协议收场",
      "scripture": "",
@@ -3231,7 +3247,7 @@
      }
     }
    ],
-   "count": 28,
+   "count": 29,
    "related": [
     "fred-am",
     "fred-pm",
