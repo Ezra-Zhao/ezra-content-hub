@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 09:12:45 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:42:17 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天替你读长寿与健康领域的前沿论文与研究。主讲 Guangyi Zhao。关键词：长寿、健康、抗衰老、前沿研究、论文解读。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、移民政策速报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -19,6 +19,14 @@
     <itunes:category text="Health &amp; Fitness"/>
     <itunes:category text="Science"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>长寿前沿日报｜11月24日：胃肠间质瘤联合新药，无进展时间接近翻倍</title>
+      <description>本期：FDA批准贝组替尼联合舒尼替尼用于此前用过伊马替尼的晚期胃肠间质瘤成人，PEAK三期试验413人、无进展中位时间16.5对9.2个月、风险低一半、肿瘤缩小46%对26%，总生存未成熟，说明书带肝毒性黑框警告。快讯：JAMA前瞻研究370名60岁以上者逐步减左甲状腺素，1年后95人（25.7%）成功停药，单组无对照。轮换位：《柳叶刀·健康长寿》盘点衰老标志在研试验193项、131种候选疗法，仅约21%面向健康人群，多数仍在早期。</description>
+      <pubDate>Tue, 24 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">longevity-2026-11-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/longevity/2026-11-24/audio.mp3" length="990372" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
     <item>
       <title>长寿前沿日报·晚间版｜11月23日：乳腺癌新药细节落地，每月标价两万多美元</title>
       <description>本期：晚间更新——主打为日间头条后续：FDA批准页写明giredestrant每天口服30毫克、最长5年，成为首个且唯一在早期与晚期ER阳性乳腺癌均获批的口服SERD，Reuters等报道标价每月22500美元，总生存仍未成熟。快讯后续：Welgemda支撑研究FORTIFY共112人，中期分析74人用药对38人安慰剂，糖基化α-抗肌萎缩蛋白第3个月升至1.8倍并维持到第12个月，批准基于中期数据。轮换位：529名髋部骨折成人（平均83岁），79.4%在60天内开始抗骨质疏松治疗、死亡风险低约29%，24个月死亡率26.5%对35.0%，观察性、不等于因果。</description>
