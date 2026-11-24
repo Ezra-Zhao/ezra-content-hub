@@ -3251,6 +3251,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-23",
+     "title": "新闻矩阵｜11月23日晚间版：美股收盘暴涨英伟达涨三成，俄警告班加西袭击后果，伊朗称将用一切手段反封锁",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月23日晚间版：美股收盘暴涨英伟达涨三成，俄警告班加西袭击后果，伊朗称将用一切手段反封锁",
+     "audio": "content/news-pm/2026-11-23/audio.mp3",
+     "page": "content/news-pm/2026-11-23/index.md",
+     "duration_sec": 293,
+     "duration": "4:53",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-22",
      "title": "新闻矩阵｜11月22日晚间版：气候峰会收场各方互责，特朗普警告伊朗勿冲封锁，民主党锁定众议院258席",
      "scripture": "",
@@ -3683,7 +3699,7 @@
      }
     }
    ],
-   "count": 27,
+   "count": 28,
    "related": [
     "fred-am",
     "fred-pm",
