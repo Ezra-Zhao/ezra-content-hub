@@ -4917,6 +4917,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-23",
+     "title": "美国百指日报·晚间速报｜11月23日：标普涨4.73%终结七连跌，纳指涨6.51%，活动指数转负",
+     "scripture": "",
+     "theme": "> 11月23日星期一，今天数据偏冷，股市却大涨。芝加哥联储全国活动指数10月-0.06，跌回零线下方，9月下修为0.05，三个月移动平均-0.05，生产相关分项是主要拖累。标普全球PMI初值同步降温：制造业54.5、服务业54.7、综合54.6，为四个月低位，三项仍在50上方。收盘全线反弹：标普500收7237.17点、涨4.73%，是2025年4月以来最好单日，终结七连跌；纳指收24089.56点、涨6.51%；道指收49595.31点、涨3.01%；罗素2000涨3.40%；恐慌指数从35.89回落到26.62；英伟达涨31.48%，收165.05美元。明日前瞻：周二09:00 ET凯斯席勒房价指数（预期同比+2.7%）、10:00 ET消费者信心指数（预期92.2、前值91.7）；周三看核心通胀，周四感恩节休市。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-23/audio.mp3",
+     "page": "content/fred-pm/2026-11-23/index.md",
+     "duration_sec": 129,
+     "duration": "2:09",
+     "video_url": "https://www.youtube.com/watch?v=UpmboKaXKd0",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=UpmboKaXKd0"
+     }
+    },
+    {
      "date": "2026-11-22",
      "title": "美国百指日报·晚间速报｜11月22日：周日无新数据，标普连跌七日定格回调，下周看核心通胀",
      "scripture": "",
@@ -5461,7 +5477,7 @@
      }
     }
    ],
-   "count": 34,
+   "count": 35,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5496,6 +5512,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=hzVEQ91HKMA"
+     }
+    },
+    {
+     "date": "2026-11-23",
+     "title": "长寿前沿日报·晚间版｜11月23日：乳腺癌新药细节落地，每月标价两万多美元",
+     "scripture": "",
+     "theme": "本期：晚间更新——主打为日间头条后续：FDA批准页写明giredestrant每天口服30毫克、最长5年，成为首个且唯一在早期与晚期ER阳性乳腺癌均获批的口服SERD，Reuters等报道标价每月22500美元，总生存仍未成熟。快讯后续：Welgemda支撑研究FORTIFY共112人，中期分析74人用药对38人安慰剂，糖基化α-抗肌萎缩蛋白第3个月升至1.8倍并维持到第12个月，批准基于中期数据。轮换位：529名髋部骨折成人（平均83岁），79.4%在60天内开始抗骨质疏松治疗、死亡风险低约29%，24个月死亡率26.5%对35.0%，观察性、不等于因果。",
+     "audio": "content/longevity/2026-11-23-pm/audio.mp3",
+     "page": "content/longevity/2026-11-23-pm/index.md",
+     "duration_sec": 99,
+     "duration": "1:39",
+     "video_url": "https://www.youtube.com/watch?v=WfrAgMmGGgE",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=WfrAgMmGGgE"
      }
     },
     {
@@ -6395,7 +6427,7 @@
      }
     }
    ],
-   "count": 57,
+   "count": 58,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -6430,6 +6462,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=hi_Mf5ux0nE"
+     }
+    },
+    {
+     "date": "2026-11-23",
+     "title": "硅谷科技日报·晚间版｜11月23日：439亿美元收购，收盘后分歧更大",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月23日，星期一。头条续：439亿美元收购，收盘后两边股价分得更开了。",
+     "audio": "content/silicon-valley/2026-11-23-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-23-pm/index.md",
+     "duration_sec": 111,
+     "duration": "1:51",
+     "video_url": "https://www.youtube.com/watch?v=qY3rTaV5BkM",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=qY3rTaV5BkM"
      }
     },
     {
@@ -7201,7 +7249,7 @@
      }
     }
    ],
-   "count": 49,
+   "count": 50,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -7953,7 +8001,7 @@
    "slot": "晚间",
    "desc": "取当日美国头条，从中国与世界历史中找对应事件，讲清前因后果再作评论。主讲 Guangyi Zhao。",
    "category": "时效",
-   "count": 14,
+   "count": 15,
    "related": [
     "news-am",
     "news-pm",
@@ -7964,6 +8012,14 @@
    ],
    "title": "弹古论今 · History Rhymes",
    "episodes": [
+    {
+     "date": "2026-11-23",
+     "title": "《弹古论今》11月23日｜十一天闪电复职：对照明英宗夺门之变",
+     "scripture": "",
+     "theme": "英伟达董事会十一月二十三日一致表决恢复黄仁勋首席执行官、总裁与董事职务、即刻生效，距十一月十二日辞职只十一天；公司称经政府高层意见确信其不构成国安风险，特朗普称系他说服董事会，股价早盘涨约百分之三十三，此前自高点市值蒸发约二点八万亿美元。对应的旧剧本是明英宗：一四四九年土木堡被俘出局，另立景泰帝、英宗居南宫为太上皇七年，一四五七年夺门之变一步复位、改元天顺。本期开头先认账：十一月十四日四条「不会这么快回来」预判今日全被事实击穿、已提前对账记未应验；四条新预判按方法第二版登记（分类、置信、翻车点、双向取样齐备），立此存照。",
+     "audio": "content/history-rhymes/2026-11-23/audio.mp3",
+     "page": "content/history-rhymes/2026-11-23/index.md"
+    },
     {
      "date": "2026-11-20",
      "title": "《弹古论今》11月20日｜数据中心不许建到国外，对照明朝海禁：禁得住的从来不是生意",
