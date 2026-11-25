@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日灵修：早间版、中午版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、午间灵修、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 02:12:39 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:03:22 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日灵修：早间版、中午版与睡前版，围绕当日经文默想与祷告。主讲 Guangyi Zhao。关键词：每日灵修、读经、祷告、圣经、早祷、午间灵修、睡前灵修。全部节目与文字稿：https://ezrazhao.com/ 同组节目：讲道节目《瓦器分享》也在本枢纽更新。</itunes:summary>
     <itunes:keywords>每日灵修,读经,祷告,圣经,早祷,午间灵修,睡前灵修,基督教,默想</itunes:keywords>
@@ -22,12 +22,28 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>[PM] 放不下过去时｜提摩太前书1:16：罪魁也蒙了怜悯｜睡前灵修</title>
+      <description>提摩太前书1:16：罪魁也蒙了怜悯——提摩太前书 1:16 的话陪你安然睡下，讲解改编自钟马田《那一件罪》、经彻底重写，祷告为原创。 经文：提摩太前书 1:16（和合本）</description>
+      <pubDate>Wed, 25 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-2026-11-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm/2026-11-25/audio.mp3" length="1973646" type="audio/mpeg"/>
+      <itunes:duration>2:03</itunes:duration>
+    </item>
+    <item>
       <title>[NOON] 工作是给主做的｜歌罗西书3:23：像是给主做的｜午间灵修</title>
       <description>歌罗西书3:23：像是给主做的——没人看见的小事主都看见，午间停靠、重新得力，讲解与祷告均为原创。 经文：歌罗西书 3:23（和合本）</description>
       <pubDate>Wed, 25 Nov 2026 12:00:00 -0700</pubDate>
       <guid isPermaLink="false">devotion-noon-2026-11-25</guid>
       <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-noon/2026-11-25/audio.mp3" length="2000395" type="audio/mpeg"/>
       <itunes:duration>2:05</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] 信仰失衡时｜罗马书6:17：从心里顺服真理｜晨起读经</title>
+      <description>罗马书6:17：从心里顺服真理——罗马书 6:17 的话陪你走今天这一步，讲解改编自钟马田《心思、情感与意志》、经彻底重写，祷告为原创。 经文：罗马书 6:17（和合本）</description>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-2026-11-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am/2026-11-25/audio.mp3" length="2545832" type="audio/mpeg"/>
+      <itunes:duration>2:39</itunes:duration>
     </item>
     <item>
       <title>[PM] 天上的家｜约翰福音14:2：父家里有许多住处｜睡前灵修</title>
