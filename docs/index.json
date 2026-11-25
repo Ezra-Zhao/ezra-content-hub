@@ -8505,8 +8505,16 @@
    "name": "湾区本地速报",
    "desc": "圣何塞 + 硅谷湾区本地新闻：市政、交通、安全与天气、社区与学区动态，数字逐项标注来源与证据等级。",
    "category": "时效",
-   "count": 30,
+   "count": 31,
    "items": [
+    {
+     "date": "2026-11-25",
+     "title": "今天10:49高潮8.5英尺，湾岸低洼先防漫水",
+     "scripture": "",
+     "author": "Guangyi Zhao",
+     "path": "articles/baylocal/2026-11-25-high-tide-thanksgiving-transit.md",
+     "page": "articles/baylocal/2026-11-25-high-tide-thanksgiving-transit.html"
+    },
     {
      "date": "2026-11-24",
      "title": "今天10:05高潮8.2英尺，湾岸低洼先防漫水",
