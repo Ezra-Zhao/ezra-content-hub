@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 21:55:02 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:39:06 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每天用 100 个美国关键经济指标（FRED）看异常、比变化，深耕 AI 与生物科技。早晚双版。主讲 Guangyi Zhao。关键词：美国经济、经济指标、FRED、美联储、宏观经济。全部节目：https://ezrazhao.com/ 同组节目：硅谷科技日报、美股盘后小结等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>美国百指日报·晚间速报｜11月24日：消费者信心跳升到103.3，道指首次收在五万点上方</title>
+      <description>&gt; 11月24日星期二，今天三份数据好于预期、股市分化。咨商会消费者信心指数11月为103.3，较10月修正后的91.9跳升11.4点，远超预期92.5，为2025年1月以来最高；标普凯斯席勒20城房价9月同比涨2.6%，全国指数同比涨2.1%、低于9月通胀3.7%，实际房价连续16个月下降；里奇蒙联储制造业综合指数11月升到3，地区制造业回到扩张一侧。收盘分化：道指收50018.70点、涨0.85%，首次收在五万点上方；标普500收7201.09点、跌0.50%；纳指收23733.54点、跌1.48%；恐慌指数回落到26.36。明日前瞻：周三08:30 ET公布10月核心PCE与三季度GDP二次估值，下午公布美联储褐皮书；周四感恩节休市。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。</description>
+      <pubDate>Tue, 24 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">fred-pm-2026-11-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/fred-pm/2026-11-24/audio.mp3" length="1028615" type="audio/mpeg"/>
+      <itunes:duration>2:09</itunes:duration>
+    </item>
     <item>
       <title>美国百指日报·晚间速报｜11月23日：标普涨4.73%终结七连跌，纳指涨6.51%，活动指数转负</title>
       <description>&gt; 11月23日星期一，今天数据偏冷，股市却大涨。芝加哥联储全国活动指数10月-0.06，跌回零线下方，9月下修为0.05，三个月移动平均-0.05，生产相关分项是主要拖累。标普全球PMI初值同步降温：制造业54.5、服务业54.7、综合54.6，为四个月低位，三项仍在50上方。收盘全线反弹：标普500收7237.17点、涨4.73%，是2025年4月以来最好单日，终结七连跌；纳指收24089.56点、涨6.51%；道指收49595.31点、涨3.01%；罗素2000涨3.40%；恐慌指数从35.89回落到26.62；英伟达涨31.48%，收165.05美元。明日前瞻：周二09:00 ET凯斯席勒房价指数（预期同比+2.7%）、10:00 ET消费者信心指数（预期92.2、前值91.7）；周三看核心通胀，周四感恩节休市。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。</description>
