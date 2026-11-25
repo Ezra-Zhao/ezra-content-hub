@@ -7,7 +7,7 @@
     <language>en</language>
     <description>Daily Devotion: a morning edition for when you wake, a midday edition to pause and be renewed, and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, midday devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 14:59:26 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:40:46 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>Daily Devotion: a morning edition for when you wake, a midday edition to pause and be renewed, and a bedtime edition for the night — meditation and prayer on the day's Scripture passage. Hosted by Guangyi Zhao. Keywords: daily devotion, Bible reading, prayer, morning devotion, midday devotion, bedtime devotion. All shows and transcripts: https://ezra-zhao.github.io/ezra-content-hub/ Also from this family: Daily Devotion in Chinese, Spanish, Vietnamese and Hindi.</itunes:summary>
     <itunes:keywords>daily devotion,bible reading,prayer,scripture,morning devotion,bedtime devotion,christian faith,meditation</itunes:keywords>
@@ -21,6 +21,30 @@
     </itunes:category>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>[PM] Mercy For the Chief of Sinners | 1 Timothy 1:16: Christ Displayed All His Patience in Me First</title>
+      <description>However, for this cause I obtained mercy, that in me first, Jesus Christ might display all his patience for an example of those who were going to believe in him for eternal life — lay down that one old sin tonight and sleep in forgiven peace. Scripture: 1 Timothy 1:16 (WEB)</description>
+      <pubDate>Wed, 25 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-pm-en-2026-11-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-pm-en/2026-11-25/audio.mp3" length="2076046" type="audio/mpeg"/>
+      <itunes:duration>2:10</itunes:duration>
+    </item>
+    <item>
+      <title>[NOON] Work For the Lord | Colossians 3:23: Whatever You Do, Work Heartily For the Lord</title>
+      <description>And whatever you do, work heartily, as for the Lord, and not for men — at midday, remember who truly sees every small thing, and walk into the afternoon with fresh strength. Scripture: Colossians 3:23 (WEB)</description>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-noon-en-2026-11-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-noon-en/2026-11-25/audio.mp3" length="1983677" type="audio/mpeg"/>
+      <itunes:duration>2:04</itunes:duration>
+    </item>
+    <item>
+      <title>[AM] Obey From the Heart | Romans 6:17: Once Servants of Sin, Now Obedient From the Heart</title>
+      <description>But thanks be to God that, whereas you were bondservants of sin, you became obedient from the heart to that form of teaching to which you were delivered — mind first, then heart, then will: let the whole person turn to the Lord today. Scripture: Romans 6:17 (WEB)</description>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 -0700</pubDate>
+      <guid isPermaLink="false">devotion-am-en-2026-11-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/devotion-am-en/2026-11-25/audio.mp3" length="2519918" type="audio/mpeg"/>
+      <itunes:duration>2:37</itunes:duration>
+    </item>
     <item>
       <title>[PM] A Home in Heaven | John 14:2: Many Homes in My Father&#x27;s House</title>
       <description>In my Father&#x27;s house are many homes. If it weren&#x27;t so, I would have told you. I am going to prepare a place for you — lay down tonight&#x27;s worries and sleep inside this settled certainty. Scripture: John 14:2 (WEB)</description>
