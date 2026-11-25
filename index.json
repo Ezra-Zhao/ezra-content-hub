@@ -4981,6 +4981,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-24",
+     "title": "美国百指日报·晚间速报｜11月24日：消费者信心跳升到103.3，道指首次收在五万点上方",
+     "scripture": "",
+     "theme": "> 11月24日星期二，今天三份数据好于预期、股市分化。咨商会消费者信心指数11月为103.3，较10月修正后的91.9跳升11.4点，远超预期92.5，为2025年1月以来最高；标普凯斯席勒20城房价9月同比涨2.6%，全国指数同比涨2.1%、低于9月通胀3.7%，实际房价连续16个月下降；里奇蒙联储制造业综合指数11月升到3，地区制造业回到扩张一侧。收盘分化：道指收50018.70点、涨0.85%，首次收在五万点上方；标普500收7201.09点、跌0.50%；纳指收23733.54点、跌1.48%；恐慌指数回落到26.36。明日前瞻：周三08:30 ET公布10月核心PCE与三季度GDP二次估值，下午公布美联储褐皮书；周四感恩节休市。主播整理：Guangyi Zhao。配音：ElevenLabs克隆声线（Ezra本人声线，模型eleven_v3）。",
+     "audio": "content/fred-pm/2026-11-24/audio.mp3",
+     "page": "content/fred-pm/2026-11-24/index.md",
+     "duration_sec": 129,
+     "duration": "2:09",
+     "video_url": "https://www.youtube.com/watch?v=Zq5GR2yViWU",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Zq5GR2yViWU"
+     }
+    },
+    {
      "date": "2026-11-23",
      "title": "美国百指日报·晚间速报｜11月23日：标普涨4.73%终结七连跌，纳指涨6.51%，活动指数转负",
      "scripture": "",
@@ -5541,7 +5557,7 @@
      }
     }
    ],
-   "count": 35,
+   "count": 36,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -5564,22 +5580,6 @@
    "episodes": [
     {
      "date": "2026-11-24",
-     "title": "长寿前沿日报·晚间版｜11月24日：胃肠肿瘤新药提前获批，审查通道全开",
-     "scripture": "",
-     "theme": "本期：晚间更新——主打为日间头条后续：贝组替尼联合舒尼替尼审评走实时肿瘤学审查通道，获优先审评与突破性疗法认定，贝组替尼另获孤儿药认定；PEAK试验413人，联合组204人对单药组209人，单药组进展后可交叉，无进展置信区间13.8–19.2对7.2–11.0个月。快讯：《自然医学》代际认知研究汇五项纵向队列、219000多人、783000多次记忆评估，随访最长30年，出生每晚10年稳定记忆期几率高64%，观察性、不等于因果。轮换位：FDA发布Par Health召回，6种医院注射药共46个批次检出颗粒物，截至公告无相关不良事件报告，医院层面停用退回。",
-     "audio": "content/longevity/2026-11-24-pm/audio.mp3",
-     "page": "content/longevity/2026-11-24-pm/index.md",
-     "duration_sec": 103,
-     "duration": "1:43",
-     "video_url": "https://www.youtube.com/watch?v=iMxVz-i7BeQ",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=iMxVz-i7BeQ"
-     }
-    },
-    {
-     "date": "2026-11-24",
      "title": "长寿前沿日报｜11月24日：胃肠间质瘤联合新药，无进展时间接近翻倍",
      "scripture": "",
      "theme": "本期：FDA批准贝组替尼联合舒尼替尼用于此前用过伊马替尼的晚期胃肠间质瘤成人，PEAK三期试验413人、无进展中位时间16.5对9.2个月、风险低一半、肿瘤缩小46%对26%，总生存未成熟，说明书带肝毒性黑框警告。快讯：JAMA前瞻研究370名60岁以上者逐步减左甲状腺素，1年后95人（25.7%）成功停药，单组无对照。轮换位：《柳叶刀·健康长寿》盘点衰老标志在研试验193项、131种候选疗法，仅约21%面向健康人群，多数仍在早期。",
@@ -5592,6 +5592,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=9pOm8IelSkU"
+     }
+    },
+    {
+     "date": "2026-11-24",
+     "title": "长寿前沿日报·晚间版｜11月24日：胃肠肿瘤新药提前获批，审查通道全开",
+     "scripture": "",
+     "theme": "本期：晚间更新——主打为日间头条后续：贝组替尼联合舒尼替尼审评走实时肿瘤学审查通道，获优先审评与突破性疗法认定，贝组替尼另获孤儿药认定；PEAK试验413人，联合组204人对单药组209人，单药组进展后可交叉，无进展置信区间13.8–19.2对7.2–11.0个月。快讯：《自然医学》代际认知研究汇五项纵向队列、219000多人、783000多次记忆评估，随访最长30年，出生每晚10年稳定记忆期几率高64%，观察性、不等于因果。轮换位：FDA发布Par Health召回，6种医院注射药共46个批次检出颗粒物，截至公告无相关不良事件报告，医院层面停用退回。",
+     "audio": "content/longevity/2026-11-24-pm/audio.mp3",
+     "page": "content/longevity/2026-11-24-pm/index.md",
+     "duration_sec": 103,
+     "duration": "1:43",
+     "video_url": "https://www.youtube.com/watch?v=iMxVz-i7BeQ",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=iMxVz-i7BeQ"
      }
     },
     {
@@ -6067,11 +6083,11 @@
      "page": "content/longevity/2026-11-06-pm/index.md",
      "duration_sec": 101,
      "duration": "1:41",
-     "video_url": "https://www.youtube.com/watch?v=a5j5skAtbpY",
+     "video_url": "https://www.youtube.com/watch?v=qKxymiIA3OI",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=a5j5skAtbpY"
+      "youtube": "https://www.youtube.com/watch?v=qKxymiIA3OI"
      }
     },
     {
@@ -6099,11 +6115,11 @@
      "page": "content/longevity/2026-11-05-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=XCXqesLykSQ",
+     "video_url": "https://www.youtube.com/watch?v=91m_eMsE2Sk",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=XCXqesLykSQ"
+      "youtube": "https://www.youtube.com/watch?v=91m_eMsE2Sk"
      }
     },
     {
@@ -6131,11 +6147,11 @@
      "page": "content/longevity/2026-11-04-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=vStGTecY0no",
+     "video_url": "https://www.youtube.com/watch?v=V7M2NaSIdXY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=vStGTecY0no"
+      "youtube": "https://www.youtube.com/watch?v=V7M2NaSIdXY"
      }
     },
     {
@@ -6227,11 +6243,11 @@
      "page": "content/longevity/2026-10-30-pm/index.md",
      "duration_sec": 105,
      "duration": "1:45",
-     "video_url": "https://www.youtube.com/watch?v=wObuF7R-qZ8",
+     "video_url": "https://www.youtube.com/watch?v=OmMqVvqujXY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=wObuF7R-qZ8"
+      "youtube": "https://www.youtube.com/watch?v=OmMqVvqujXY"
      }
     },
     {
@@ -6259,11 +6275,11 @@
      "page": "content/longevity/2026-10-29-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=fDsWEnIYVYo",
+     "video_url": "https://www.youtube.com/watch?v=d9ek0ZB72ec",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=fDsWEnIYVYo"
+      "youtube": "https://www.youtube.com/watch?v=d9ek0ZB72ec"
      }
     },
     {
@@ -6291,11 +6307,11 @@
      "page": "content/longevity/2026-10-28-pm/index.md",
      "duration_sec": 109,
      "duration": "1:49",
-     "video_url": "https://www.youtube.com/watch?v=gljUrcPJ34Y",
+     "video_url": "https://www.youtube.com/watch?v=TQPKWBLyQT0",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=gljUrcPJ34Y"
+      "youtube": "https://www.youtube.com/watch?v=TQPKWBLyQT0"
      }
     },
     {
@@ -6323,11 +6339,11 @@
      "page": "content/longevity/2026-10-27-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=JcF7gi3-P04",
+     "video_url": "https://www.youtube.com/watch?v=O3VySZRGLHU",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=JcF7gi3-P04"
+      "youtube": "https://www.youtube.com/watch?v=O3VySZRGLHU"
      }
     },
     {
@@ -6355,11 +6371,11 @@
      "page": "content/longevity/2026-10-26-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=vdWjP5XwSm0",
+     "video_url": "https://www.youtube.com/watch?v=MwQTnZAbVWQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=vdWjP5XwSm0"
+      "youtube": "https://www.youtube.com/watch?v=MwQTnZAbVWQ"
      }
     },
     {
@@ -6387,11 +6403,11 @@
      "page": "content/longevity/2026-10-23-pm/index.md",
      "duration_sec": 93,
      "duration": "1:33",
-     "video_url": "https://www.youtube.com/watch?v=-ODHGL6w0Aw",
+     "video_url": "https://www.youtube.com/watch?v=57XDruS1V4I",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=-ODHGL6w0Aw"
+      "youtube": "https://www.youtube.com/watch?v=57XDruS1V4I"
      }
     },
     {
@@ -6419,11 +6435,11 @@
      "page": "content/longevity/2026-10-22-pm/index.md",
      "duration_sec": 86,
      "duration": "1:26",
-     "video_url": "https://www.youtube.com/watch?v=vEN768v0OwY",
+     "video_url": "https://www.youtube.com/watch?v=mpZXHZPs4fA",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=vEN768v0OwY"
+      "youtube": "https://www.youtube.com/watch?v=mpZXHZPs4fA"
      }
     },
     {
@@ -6523,7 +6539,7 @@
      }
     }
    ],
-   "count": 59,
+   "count": 60,
    "listen": {
     "pocketcasts": "https://pca.st/6j7eccp9",
     "castbox": "https://castbox.fm/channel/id7461840"
@@ -6546,22 +6562,6 @@
    "episodes": [
     {
      "date": "2026-11-24",
-     "title": "硅谷科技日报·晚间版｜11月24日：日常版新模型进了聊天页，旧版下月退役",
-     "scripture": "",
-     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月24日，星期二。头条：GPT-6.2 Sol日常版进ChatGPT聊天页，旧版12月23日退役。",
-     "audio": "content/silicon-valley/2026-11-24-pm/audio.mp3",
-     "page": "content/silicon-valley/2026-11-24-pm/index.md",
-     "duration_sec": 111,
-     "duration": "1:51",
-     "video_url": "https://www.youtube.com/watch?v=o9jZJoIpXek",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=o9jZJoIpXek"
-     }
-    },
-    {
-     "date": "2026-11-24",
      "title": "硅谷科技日报｜11月24日：智能体开始审代码，还能按规矩放行",
      "scripture": "",
      "theme": "这里是硅谷科技日报，今天是二零二六年十一月二十四日，星期二。今天头条：智能体开始审代码、修问题，还能按规矩放行了。",
@@ -6574,6 +6574,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=n0QdWuiYwa0"
+     }
+    },
+    {
+     "date": "2026-11-24",
+     "title": "硅谷科技日报·晚间版｜11月24日：日常版新模型进了聊天页，旧版下月退役",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月24日，星期二。头条：GPT-6.2 Sol日常版进ChatGPT聊天页，旧版12月23日退役。",
+     "audio": "content/silicon-valley/2026-11-24-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-24-pm/index.md",
+     "duration_sec": 111,
+     "duration": "1:51",
+     "video_url": "https://www.youtube.com/watch?v=o9jZJoIpXek",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=o9jZJoIpXek"
      }
     },
     {
@@ -7145,11 +7161,11 @@
      "page": "content/silicon-valley/2026-10-30-pm/index.md",
      "duration_sec": 107,
      "duration": "1:47",
-     "video_url": "https://www.youtube.com/watch?v=feSjRb0fJ90",
+     "video_url": "https://www.youtube.com/watch?v=r_g92OL9Ecc",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=feSjRb0fJ90"
+      "youtube": "https://www.youtube.com/watch?v=r_g92OL9Ecc"
      }
     },
     {
@@ -7161,11 +7177,11 @@
      "page": "content/silicon-valley/2026-10-29/index.md",
      "duration_sec": 119,
      "duration": "1:59",
-     "video_url": "https://www.youtube.com/watch?v=STDDD5a1Yfo",
+     "video_url": "https://www.youtube.com/watch?v=voFnkkc9KHY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=STDDD5a1Yfo"
+      "youtube": "https://www.youtube.com/watch?v=voFnkkc9KHY"
      }
     },
     {
@@ -7193,11 +7209,11 @@
      "page": "content/silicon-valley/2026-10-28/index.md",
      "duration_sec": 125,
      "duration": "2:05",
-     "video_url": "https://www.youtube.com/watch?v=ecorNNtpMLc",
+     "video_url": "https://www.youtube.com/watch?v=JU7xVawlSXI",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=ecorNNtpMLc"
+      "youtube": "https://www.youtube.com/watch?v=JU7xVawlSXI"
      }
     },
     {
@@ -7209,11 +7225,11 @@
      "page": "content/silicon-valley/2026-10-28-pm/index.md",
      "duration_sec": 96,
      "duration": "1:36",
-     "video_url": "https://www.youtube.com/watch?v=-r99WtIvceQ",
+     "video_url": "https://www.youtube.com/watch?v=slOefAbPjLg",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=-r99WtIvceQ"
+      "youtube": "https://www.youtube.com/watch?v=slOefAbPjLg"
      }
     },
     {
@@ -7225,11 +7241,11 @@
      "page": "content/silicon-valley/2026-10-27/index.md",
      "duration_sec": 130,
      "duration": "2:10",
-     "video_url": "https://www.youtube.com/watch?v=vSxBDjSzvbM",
+     "video_url": "https://www.youtube.com/watch?v=0L8gp2F2cnM",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=vSxBDjSzvbM"
+      "youtube": "https://www.youtube.com/watch?v=0L8gp2F2cnM"
      }
     },
     {
@@ -7377,7 +7393,7 @@
      }
     }
    ],
-   "count": 51,
+   "count": 52,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -7885,6 +7901,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-24",
+     "title": "湾区福利速报｜2026年11月24日：3个新机会：奥克兰明后两天多点免费感恩节餐",
+     "scripture": "",
+     "theme": "【主打】美国银行博物馆免费周末——12月5-6日持卡免费逛湾区多家博物馆；奥克兰11月25-26日四点免费感恩节餐",
+     "audio": "content/bay-area-benefits/2026-11-24/audio.mp3",
+     "page": "content/bay-area-benefits/2026-11-24/index.md",
+     "duration_sec": 118,
+     "duration": "1:58",
+     "video_url": "https://www.youtube.com/watch?v=lzDALG-7H6M",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=lzDALG-7H6M"
+     }
+    },
+    {
      "date": "2026-11-18",
      "title": "湾区福利速报｜2026年11月18日：2个新机会：感恩节免费热餐下周开吃，两县多点可选",
      "scripture": "",
@@ -8122,22 +8154,6 @@
       "spotify": "",
       "x": "",
       "youtube": ""
-     }
-    },
-    {
-     "date": "2026-11-24",
-     "title": "湾区福利速报｜2026年11月24日：3个新机会：奥克兰明后两天多点免费感恩节餐",
-     "scripture": "",
-     "theme": "【主打】美国银行博物馆免费周末——12月5-6日持卡免费逛湾区多家博物馆",
-     "audio": "content/bay-area-benefits/2026-11-24/audio.mp3",
-     "page": "content/bay-area-benefits/2026-11-24/index.md",
-     "duration_sec": 118,
-     "duration": "1:58",
-     "video_url": "https://www.youtube.com/watch?v=lzDALG-7H6M",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=lzDALG-7H6M"
      }
     }
    ],
