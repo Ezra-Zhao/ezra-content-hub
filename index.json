@@ -6561,6 +6561,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-25",
+     "title": "硅谷科技日报｜11月25日：大模型瘦身近九成，普通电脑也能跑",
+     "scripture": "",
+     "theme": "这里是硅谷科技日报，今天是二零二六年十一月二十五日，星期三。今天头条：一个两百七十亿参数的大模型，瘦身近九成，普通电脑也能跑了。",
+     "audio": "content/silicon-valley/2026-11-25/audio.mp3",
+     "page": "content/silicon-valley/2026-11-25/index.md",
+     "duration_sec": 120,
+     "duration": "2:00",
+     "video_url": "https://www.youtube.com/watch?v=Jc-qIGg-z2c",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=Jc-qIGg-z2c"
+     }
+    },
+    {
      "date": "2026-11-24",
      "title": "硅谷科技日报｜11月24日：智能体开始审代码，还能按规矩放行",
      "scripture": "",

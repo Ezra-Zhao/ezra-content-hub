@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezrazhao.com/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 01:39:06 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:23:10 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezrazhao.com/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报｜11月25日：大模型瘦身近九成，普通电脑也能跑</title>
+      <description>这里是硅谷科技日报，今天是二零二六年十一月二十五日，星期三。今天头条：一个两百七十亿参数的大模型，瘦身近九成，普通电脑也能跑了。</description>
+      <pubDate>Wed, 25 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-11-25</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-11-25/audio.mp3" length="957771" type="audio/mpeg"/>
+      <itunes:duration>2:00</itunes:duration>
+    </item>
     <item>
       <title>硅谷科技日报·晚间版｜11月24日：日常版新模型进了聊天页，旧版下月退役</title>
       <description>这里是《硅谷科技日报》晚间版。今天是2026年11月24日，星期二。头条：GPT-6.2 Sol日常版进ChatGPT聊天页，旧版12月23日退役。</description>
