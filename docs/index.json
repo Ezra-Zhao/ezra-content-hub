@@ -3267,6 +3267,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-24",
+     "title": "新闻矩阵｜11月24日晚间版：美股收盘分化英伟达回吐近百分之六，安特罗匹克跌破发行价，波兰再求美军常驻",
+     "scripture": "",
+     "theme": "新闻矩阵｜11月24日晚间版：美股收盘分化英伟达回吐近百分之六，安特罗匹克跌破发行价，波兰再求美军常驻",
+     "audio": "content/news-pm/2026-11-24/audio.mp3",
+     "page": "content/news-pm/2026-11-24/index.md",
+     "duration_sec": 289,
+     "duration": "4:49",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-23",
      "title": "新闻矩阵｜11月23日晚间版：美股收盘暴涨英伟达涨三成，俄警告班加西袭击后果，伊朗称将用一切手段反封锁",
      "scripture": "",
@@ -3715,7 +3731,7 @@
      }
     }
    ],
-   "count": 28,
+   "count": 29,
    "related": [
     "fred-am",
     "fred-pm",

@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>每日早晚两版综合新闻播报：国际、美国、财经、科技要闻一次说清。早间版 7 点、晚间版 21 点。主讲 Guangyi Zhao。关键词：新闻、国际新闻、美国新闻、综合播报。全部节目：https://ezrazhao.com/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 20:30:28 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:55:02 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>每日早晚两版综合新闻播报：国际、美国、财经、科技要闻一次说清。早间版 7 点、晚间版 21 点。主讲 Guangyi Zhao。关键词：新闻、国际新闻、美国新闻、综合播报。全部节目：https://ezrazhao.com/ 同组节目：美国百指日报、硅谷科技日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Politics"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>新闻矩阵｜11月24日晚间版：美股收盘分化英伟达回吐近百分之六，安特罗匹克跌破发行价，波兰再求美军常驻</title>
+      <description>新闻矩阵｜11月24日晚间版：美股收盘分化英伟达回吐近百分之六，安特罗匹克跌破发行价，波兰再求美军常驻</description>
+      <pubDate>Tue, 24 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">news-pm-2026-11-24</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/news-pm/2026-11-24/audio.mp3" length="4619327" type="audio/mpeg"/>
+      <itunes:duration>4:49</itunes:duration>
+    </item>
     <item>
       <title>新闻矩阵｜11月24日早间版：北约预警机进驻波兰，美股大涨后期货回落，感恩节8150万人出行</title>
       <description>新闻矩阵｜11月24日早间版：北约预警机进驻波兰，美股大涨后期货回落，感恩节8150万人出行</description>
