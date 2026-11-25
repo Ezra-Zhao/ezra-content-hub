@@ -4367,6 +4367,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-24",
+     "title": "《美国百指日报》2026-11-24｜标普周一涨4.73%强反弹，今日信心指数、明日核心通胀",
+     "scripture": "",
+     "theme": "大家好，这里是美国百指日报，每天用一百个关键经济指标，带你看美国。今天是二零二六年十一月二十四日，星期二。先说今天的结论：周一美股大幅反弹，标普收复上周过半跌幅，恐慌指数回落，但反弹由单一消息驱动；今天看消费者信心，明天看核心通胀。",
+     "audio": "content/fred-am/2026-11-24/audio.mp3",
+     "page": "content/fred-am/2026-11-24/index.md",
+     "duration_sec": 302,
+     "duration": "5:02",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-23",
      "title": "《美国百指日报》2026-11-23｜活动指数转负、PMI降温，周三迎核心通胀",
      "scripture": "",
@@ -4975,7 +4991,7 @@
      }
     }
    ],
-   "count": 38,
+   "count": 39,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -6099,11 +6115,11 @@
      "page": "content/longevity/2026-11-06-pm/index.md",
      "duration_sec": 101,
      "duration": "1:41",
-     "video_url": "https://www.youtube.com/watch?v=qKxymiIA3OI",
+     "video_url": "https://www.youtube.com/watch?v=a5j5skAtbpY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=qKxymiIA3OI"
+      "youtube": "https://www.youtube.com/watch?v=a5j5skAtbpY"
      }
     },
     {
@@ -6131,11 +6147,11 @@
      "page": "content/longevity/2026-11-05-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=91m_eMsE2Sk",
+     "video_url": "https://www.youtube.com/watch?v=XCXqesLykSQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=91m_eMsE2Sk"
+      "youtube": "https://www.youtube.com/watch?v=XCXqesLykSQ"
      }
     },
     {
@@ -6163,11 +6179,11 @@
      "page": "content/longevity/2026-11-04-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=V7M2NaSIdXY",
+     "video_url": "https://www.youtube.com/watch?v=vStGTecY0no",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=V7M2NaSIdXY"
+      "youtube": "https://www.youtube.com/watch?v=vStGTecY0no"
      }
     },
     {
@@ -6259,11 +6275,11 @@
      "page": "content/longevity/2026-10-30-pm/index.md",
      "duration_sec": 105,
      "duration": "1:45",
-     "video_url": "https://www.youtube.com/watch?v=OmMqVvqujXY",
+     "video_url": "https://www.youtube.com/watch?v=wObuF7R-qZ8",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=OmMqVvqujXY"
+      "youtube": "https://www.youtube.com/watch?v=wObuF7R-qZ8"
      }
     },
     {
@@ -6291,11 +6307,11 @@
      "page": "content/longevity/2026-10-29-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=d9ek0ZB72ec",
+     "video_url": "https://www.youtube.com/watch?v=fDsWEnIYVYo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=d9ek0ZB72ec"
+      "youtube": "https://www.youtube.com/watch?v=fDsWEnIYVYo"
      }
     },
     {
@@ -6323,11 +6339,11 @@
      "page": "content/longevity/2026-10-28-pm/index.md",
      "duration_sec": 109,
      "duration": "1:49",
-     "video_url": "https://www.youtube.com/watch?v=TQPKWBLyQT0",
+     "video_url": "https://www.youtube.com/watch?v=gljUrcPJ34Y",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=TQPKWBLyQT0"
+      "youtube": "https://www.youtube.com/watch?v=gljUrcPJ34Y"
      }
     },
     {
@@ -6355,11 +6371,11 @@
      "page": "content/longevity/2026-10-27-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=O3VySZRGLHU",
+     "video_url": "https://www.youtube.com/watch?v=JcF7gi3-P04",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=O3VySZRGLHU"
+      "youtube": "https://www.youtube.com/watch?v=JcF7gi3-P04"
      }
     },
     {
@@ -6387,11 +6403,11 @@
      "page": "content/longevity/2026-10-26-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=MwQTnZAbVWQ",
+     "video_url": "https://www.youtube.com/watch?v=vdWjP5XwSm0",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=MwQTnZAbVWQ"
+      "youtube": "https://www.youtube.com/watch?v=vdWjP5XwSm0"
      }
     },
     {
@@ -6419,11 +6435,11 @@
      "page": "content/longevity/2026-10-23-pm/index.md",
      "duration_sec": 93,
      "duration": "1:33",
-     "video_url": "https://www.youtube.com/watch?v=57XDruS1V4I",
+     "video_url": "https://www.youtube.com/watch?v=-ODHGL6w0Aw",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=57XDruS1V4I"
+      "youtube": "https://www.youtube.com/watch?v=-ODHGL6w0Aw"
      }
     },
     {
@@ -6451,11 +6467,11 @@
      "page": "content/longevity/2026-10-22-pm/index.md",
      "duration_sec": 86,
      "duration": "1:26",
-     "video_url": "https://www.youtube.com/watch?v=mpZXHZPs4fA",
+     "video_url": "https://www.youtube.com/watch?v=vEN768v0OwY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=mpZXHZPs4fA"
+      "youtube": "https://www.youtube.com/watch?v=vEN768v0OwY"
      }
     },
     {
@@ -7193,11 +7209,11 @@
      "page": "content/silicon-valley/2026-10-30-pm/index.md",
      "duration_sec": 107,
      "duration": "1:47",
-     "video_url": "https://www.youtube.com/watch?v=r_g92OL9Ecc",
+     "video_url": "https://www.youtube.com/watch?v=feSjRb0fJ90",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=r_g92OL9Ecc"
+      "youtube": "https://www.youtube.com/watch?v=feSjRb0fJ90"
      }
     },
     {
@@ -7209,11 +7225,11 @@
      "page": "content/silicon-valley/2026-10-29/index.md",
      "duration_sec": 119,
      "duration": "1:59",
-     "video_url": "https://www.youtube.com/watch?v=voFnkkc9KHY",
+     "video_url": "https://www.youtube.com/watch?v=STDDD5a1Yfo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=voFnkkc9KHY"
+      "youtube": "https://www.youtube.com/watch?v=STDDD5a1Yfo"
      }
     },
     {
@@ -7241,11 +7257,11 @@
      "page": "content/silicon-valley/2026-10-28/index.md",
      "duration_sec": 125,
      "duration": "2:05",
-     "video_url": "https://www.youtube.com/watch?v=JU7xVawlSXI",
+     "video_url": "https://www.youtube.com/watch?v=ecorNNtpMLc",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=JU7xVawlSXI"
+      "youtube": "https://www.youtube.com/watch?v=ecorNNtpMLc"
      }
     },
     {
@@ -7257,11 +7273,11 @@
      "page": "content/silicon-valley/2026-10-28-pm/index.md",
      "duration_sec": 96,
      "duration": "1:36",
-     "video_url": "https://www.youtube.com/watch?v=slOefAbPjLg",
+     "video_url": "https://www.youtube.com/watch?v=-r99WtIvceQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=slOefAbPjLg"
+      "youtube": "https://www.youtube.com/watch?v=-r99WtIvceQ"
      }
     },
     {
@@ -7273,11 +7289,11 @@
      "page": "content/silicon-valley/2026-10-27/index.md",
      "duration_sec": 130,
      "duration": "2:10",
-     "video_url": "https://www.youtube.com/watch?v=0L8gp2F2cnM",
+     "video_url": "https://www.youtube.com/watch?v=vSxBDjSzvbM",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=0L8gp2F2cnM"
+      "youtube": "https://www.youtube.com/watch?v=vSxBDjSzvbM"
      }
     },
     {
@@ -7425,7 +7441,7 @@
      }
     }
    ],
-   "count": 52,
+   "count": 53,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
