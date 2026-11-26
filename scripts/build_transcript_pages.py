@@ -322,6 +322,17 @@ def build(feed_key, limit=None, dry_run=False):
             out_dir = os.path.join(OUT_ROOT, feed_key)
             os.makedirs(out_dir, exist_ok=True)
             page = render_page(feed_key, it, theme, raw, kind)
+            if feed_key == "devotion":
+                # 今日诗歌卡（2026-11-25 Ezra 定版）：中文灵修落地页下方加卡，
+                # 配歌/登记/音频托管/谱面渲染都在 hymn_card.py 里办。
+                try:
+                    import hymn_card
+                    card = hymn_card.card_html_for_guid(it["guid"], it["date"])
+                except Exception as e:
+                    print(f"    今日诗歌卡生成失败（{it['guid']}）：{e}")
+                    card = ""
+                if card:
+                    page = page.replace("<footer>", card + "<footer>", 1)
             open(os.path.join(out_dir, f"{it['guid']}.html"), "w",
                  encoding="utf-8").write(page)
         done.append({**it, "src": path, "kind": kind})
