@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezrazhao.com/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 20:38:57 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:55:04 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezrazhao.com/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报·晚间版｜11月26日：给聊天助手供数的接口，换了一种编程语言重写</title>
+      <description>这里是《硅谷科技日报》晚间版。今天是2026年11月26日，星期四。头条：给聊天助手供数的接口，换了一种编程语言重写。</description>
+      <pubDate>Thu, 26 Nov 2026 21:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-11-26-pm</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-11-26-pm/audio.mp3" length="934156" type="audio/mpeg"/>
+      <itunes:duration>1:57</itunes:duration>
+    </item>
     <item>
       <title>硅谷科技日报·晚间版｜11月25日：一句话生成的小工具，能装成桌面应用了</title>
       <description>这里是《硅谷科技日报》晚间版。今天是2026年11月25日，星期三。头条：一句话生成的小工具，能装成桌面应用了。</description>
