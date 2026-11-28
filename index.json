@@ -1,7 +1,7 @@
 {
  "site": "Ezra 内容中央枢纽",
  "owner": "Guangyi Zhao",
- "updated": "2026-11-25",
+ "updated": "2026-10-27",
  "programs": [
   {
    "id": "devotion-am",
@@ -3785,6 +3785,22 @@
    "category": "财经",
    "episodes": [
     {
+     "date": "2026-11-25",
+     "title": "美股盘后小结 11月25日：早盘大跌午后收复+强增长热通胀同至",
+     "scripture": "",
+     "theme": "美股盘后小结，11月25日，星期三。感恩节前最后一个完整交易日，早盘恐慌大跌，午后大幅收复大半跌幅。",
+     "audio": "content/stocks-pm/2026-11-25/audio.mp3",
+     "page": "content/stocks-pm/2026-11-25/index.md",
+     "duration_sec": 61,
+     "duration": "1:01",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-24",
      "title": "美股盘后小结 11月24日：暴涨后回吐纳指跌约2%+零售财报超预期",
      "scripture": "",
@@ -4345,7 +4361,7 @@
      }
     }
    ],
-   "count": 35,
+   "count": 36,
    "listen": {
     "pocketcasts": "https://pca.st/hjlsxiw2",
     "castbox": "https://castbox.fm/channel/id7461849"
@@ -6131,11 +6147,11 @@
      "page": "content/longevity/2026-11-06-pm/index.md",
      "duration_sec": 101,
      "duration": "1:41",
-     "video_url": "https://www.youtube.com/watch?v=qKxymiIA3OI",
+     "video_url": "https://www.youtube.com/watch?v=a5j5skAtbpY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=qKxymiIA3OI"
+      "youtube": "https://www.youtube.com/watch?v=a5j5skAtbpY"
      }
     },
     {
@@ -6163,11 +6179,11 @@
      "page": "content/longevity/2026-11-05-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=91m_eMsE2Sk",
+     "video_url": "https://www.youtube.com/watch?v=XCXqesLykSQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=91m_eMsE2Sk"
+      "youtube": "https://www.youtube.com/watch?v=XCXqesLykSQ"
      }
     },
     {
@@ -6195,11 +6211,11 @@
      "page": "content/longevity/2026-11-04-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=V7M2NaSIdXY",
+     "video_url": "https://www.youtube.com/watch?v=vStGTecY0no",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=V7M2NaSIdXY"
+      "youtube": "https://www.youtube.com/watch?v=vStGTecY0no"
      }
     },
     {
@@ -6291,11 +6307,11 @@
      "page": "content/longevity/2026-10-30-pm/index.md",
      "duration_sec": 105,
      "duration": "1:45",
-     "video_url": "https://www.youtube.com/watch?v=OmMqVvqujXY",
+     "video_url": "https://www.youtube.com/watch?v=wObuF7R-qZ8",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=OmMqVvqujXY"
+      "youtube": "https://www.youtube.com/watch?v=wObuF7R-qZ8"
      }
     },
     {
@@ -6323,11 +6339,11 @@
      "page": "content/longevity/2026-10-29-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=d9ek0ZB72ec",
+     "video_url": "https://www.youtube.com/watch?v=fDsWEnIYVYo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=d9ek0ZB72ec"
+      "youtube": "https://www.youtube.com/watch?v=fDsWEnIYVYo"
      }
     },
     {
@@ -6355,11 +6371,11 @@
      "page": "content/longevity/2026-10-28-pm/index.md",
      "duration_sec": 109,
      "duration": "1:49",
-     "video_url": "https://www.youtube.com/watch?v=TQPKWBLyQT0",
+     "video_url": "https://www.youtube.com/watch?v=gljUrcPJ34Y",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=TQPKWBLyQT0"
+      "youtube": "https://www.youtube.com/watch?v=gljUrcPJ34Y"
      }
     },
     {
@@ -6387,11 +6403,11 @@
      "page": "content/longevity/2026-10-27-pm/index.md",
      "duration_sec": 108,
      "duration": "1:48",
-     "video_url": "https://www.youtube.com/watch?v=O3VySZRGLHU",
+     "video_url": "https://www.youtube.com/watch?v=JcF7gi3-P04",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=O3VySZRGLHU"
+      "youtube": "https://www.youtube.com/watch?v=JcF7gi3-P04"
      }
     },
     {
@@ -6419,11 +6435,11 @@
      "page": "content/longevity/2026-10-26-pm/index.md",
      "duration_sec": 94,
      "duration": "1:34",
-     "video_url": "https://www.youtube.com/watch?v=MwQTnZAbVWQ",
+     "video_url": "https://www.youtube.com/watch?v=vdWjP5XwSm0",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=MwQTnZAbVWQ"
+      "youtube": "https://www.youtube.com/watch?v=vdWjP5XwSm0"
      }
     },
     {
@@ -6451,11 +6467,11 @@
      "page": "content/longevity/2026-10-23-pm/index.md",
      "duration_sec": 93,
      "duration": "1:33",
-     "video_url": "https://www.youtube.com/watch?v=57XDruS1V4I",
+     "video_url": "https://www.youtube.com/watch?v=-ODHGL6w0Aw",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=57XDruS1V4I"
+      "youtube": "https://www.youtube.com/watch?v=-ODHGL6w0Aw"
      }
     },
     {
@@ -6483,11 +6499,11 @@
      "page": "content/longevity/2026-10-22-pm/index.md",
      "duration_sec": 86,
      "duration": "1:26",
-     "video_url": "https://www.youtube.com/watch?v=mpZXHZPs4fA",
+     "video_url": "https://www.youtube.com/watch?v=vEN768v0OwY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=mpZXHZPs4fA"
+      "youtube": "https://www.youtube.com/watch?v=vEN768v0OwY"
      }
     },
     {
@@ -6609,6 +6625,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-27",
+     "title": "硅谷科技日报·晚间版｜11月27日：智能体进邮箱和日历，明年二月起只能走官方通道",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月27日，星期五。头条：智能体进邮箱和日历，明年二月起只能走官方通道。",
+     "audio": "content/silicon-valley/2026-11-27-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-27-pm/index.md",
+     "duration_sec": 123,
+     "duration": "2:03",
+     "video_url": "https://www.youtube.com/watch?v=XPI-wVXxs7o",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=XPI-wVXxs7o"
+     }
+    },
+    {
      "date": "2026-11-26",
      "title": "硅谷科技日报｜11月26日：通用大模型自己设计蛋白质，实验室测出了结合",
      "scripture": "",
@@ -6642,22 +6674,6 @@
     },
     {
      "date": "2026-11-25",
-     "title": "硅谷科技日报·晚间版｜11月25日：一句话生成的小工具，能装成桌面应用了",
-     "scripture": "",
-     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月25日，星期三。头条：一句话生成的小工具，能装成桌面应用了。",
-     "audio": "content/silicon-valley/2026-11-25-pm/audio.mp3",
-     "page": "content/silicon-valley/2026-11-25-pm/index.md",
-     "duration_sec": 110,
-     "duration": "1:50",
-     "video_url": "https://www.youtube.com/watch?v=5xbmf0CqK3c",
-     "links": {
-      "spotify": "",
-      "x": "",
-      "youtube": "https://www.youtube.com/watch?v=5xbmf0CqK3c"
-     }
-    },
-    {
-     "date": "2026-11-25",
      "title": "硅谷科技日报｜11月25日：大模型瘦身近九成，普通电脑也能跑",
      "scripture": "",
      "theme": "这里是硅谷科技日报，今天是二零二六年十一月二十五日，星期三。今天头条：一个两百七十亿参数的大模型，瘦身近九成，普通电脑也能跑了。",
@@ -6670,6 +6686,22 @@
       "spotify": "",
       "x": "",
       "youtube": "https://www.youtube.com/watch?v=Jc-qIGg-z2c"
+     }
+    },
+    {
+     "date": "2026-11-25",
+     "title": "硅谷科技日报·晚间版｜11月25日：一句话生成的小工具，能装成桌面应用了",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》晚间版。今天是2026年11月25日，星期三。头条：一句话生成的小工具，能装成桌面应用了。",
+     "audio": "content/silicon-valley/2026-11-25-pm/audio.mp3",
+     "page": "content/silicon-valley/2026-11-25-pm/index.md",
+     "duration_sec": 110,
+     "duration": "1:50",
+     "video_url": "https://www.youtube.com/watch?v=5xbmf0CqK3c",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=5xbmf0CqK3c"
      }
     },
     {
@@ -7273,11 +7305,11 @@
      "page": "content/silicon-valley/2026-10-30-pm/index.md",
      "duration_sec": 107,
      "duration": "1:47",
-     "video_url": "https://www.youtube.com/watch?v=r_g92OL9Ecc",
+     "video_url": "https://www.youtube.com/watch?v=feSjRb0fJ90",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=r_g92OL9Ecc"
+      "youtube": "https://www.youtube.com/watch?v=feSjRb0fJ90"
      }
     },
     {
@@ -7289,11 +7321,11 @@
      "page": "content/silicon-valley/2026-10-29/index.md",
      "duration_sec": 119,
      "duration": "1:59",
-     "video_url": "https://www.youtube.com/watch?v=voFnkkc9KHY",
+     "video_url": "https://www.youtube.com/watch?v=STDDD5a1Yfo",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=voFnkkc9KHY"
+      "youtube": "https://www.youtube.com/watch?v=STDDD5a1Yfo"
      }
     },
     {
@@ -7321,11 +7353,11 @@
      "page": "content/silicon-valley/2026-10-28/index.md",
      "duration_sec": 125,
      "duration": "2:05",
-     "video_url": "https://www.youtube.com/watch?v=JU7xVawlSXI",
+     "video_url": "https://www.youtube.com/watch?v=ecorNNtpMLc",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=JU7xVawlSXI"
+      "youtube": "https://www.youtube.com/watch?v=ecorNNtpMLc"
      }
     },
     {
@@ -7337,11 +7369,11 @@
      "page": "content/silicon-valley/2026-10-28-pm/index.md",
      "duration_sec": 96,
      "duration": "1:36",
-     "video_url": "https://www.youtube.com/watch?v=slOefAbPjLg",
+     "video_url": "https://www.youtube.com/watch?v=-r99WtIvceQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=slOefAbPjLg"
+      "youtube": "https://www.youtube.com/watch?v=-r99WtIvceQ"
      }
     },
     {
@@ -7353,11 +7385,11 @@
      "page": "content/silicon-valley/2026-10-27/index.md",
      "duration_sec": 130,
      "duration": "2:10",
-     "video_url": "https://www.youtube.com/watch?v=0L8gp2F2cnM",
+     "video_url": "https://www.youtube.com/watch?v=vSxBDjSzvbM",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=0L8gp2F2cnM"
+      "youtube": "https://www.youtube.com/watch?v=vSxBDjSzvbM"
      }
     },
     {
@@ -7505,7 +7537,7 @@
      }
     }
    ],
-   "count": 54,
+   "count": 56,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -8023,7 +8055,7 @@
      }
     }
    ],
-   "count": 29,
+   "count": 31,
    "listen": {
     "pocketcasts": "https://pca.st/8vhld1p4",
     "castbox": "https://castbox.fm/channel/id7461844"
@@ -8117,11 +8149,11 @@
      "page": "content/bay-area-benefits/2026-11-06/index.md",
      "duration_sec": 103,
      "duration": "1:43",
-     "video_url": "https://www.youtube.com/watch?v=r8B4uPQt_-k",
+     "video_url": "https://www.youtube.com/watch?v=h1lO4hfym_w",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=r8B4uPQt_-k"
+      "youtube": "https://www.youtube.com/watch?v=h1lO4hfym_w"
      }
     },
     {
@@ -8149,11 +8181,11 @@
      "page": "content/bay-area-benefits/2026-11-03/index.md",
      "duration_sec": 115,
      "duration": "1:55",
-     "video_url": "https://www.youtube.com/watch?v=HzM9VGyUCbo",
+     "video_url": "https://www.youtube.com/watch?v=Wb0rJ1pZDrQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=HzM9VGyUCbo"
+      "youtube": "https://www.youtube.com/watch?v=Wb0rJ1pZDrQ"
      }
     },
     {
@@ -8165,11 +8197,11 @@
      "page": "content/bay-area-benefits/2026-11-02/index.md",
      "duration_sec": 106,
      "duration": "1:46",
-     "video_url": "https://www.youtube.com/watch?v=-3NTAqZv3jo",
+     "video_url": "https://www.youtube.com/watch?v=_Ne4IghnCRA",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=-3NTAqZv3jo"
+      "youtube": "https://www.youtube.com/watch?v=_Ne4IghnCRA"
      }
     },
     {
@@ -8181,11 +8213,11 @@
      "page": "content/bay-area-benefits/2026-10-30/index.md",
      "duration_sec": 111,
      "duration": "1:51",
-     "video_url": "https://www.youtube.com/watch?v=W6ohxIuYrug",
+     "video_url": "https://www.youtube.com/watch?v=V9uvzq46_yg",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=W6ohxIuYrug"
+      "youtube": "https://www.youtube.com/watch?v=V9uvzq46_yg"
      }
     },
     {
@@ -8197,11 +8229,11 @@
      "page": "content/bay-area-benefits/2026-10-29/index.md",
      "duration_sec": 109,
      "duration": "1:49",
-     "video_url": "https://www.youtube.com/watch?v=4tTnKFPhBog",
+     "video_url": "https://www.youtube.com/watch?v=0e9hQ4i6JEY",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=4tTnKFPhBog"
+      "youtube": "https://www.youtube.com/watch?v=0e9hQ4i6JEY"
      }
     },
     {
@@ -8213,11 +8245,11 @@
      "page": "content/bay-area-benefits/2026-10-28/index.md",
      "duration_sec": 97,
      "duration": "1:37",
-     "video_url": "https://www.youtube.com/watch?v=5Pd4JwJySk8",
+     "video_url": "https://www.youtube.com/watch?v=oDlJpbZWcxs",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=5Pd4JwJySk8"
+      "youtube": "https://www.youtube.com/watch?v=oDlJpbZWcxs"
      }
     },
     {
@@ -8229,11 +8261,11 @@
      "page": "content/bay-area-benefits/2026-10-27/index.md",
      "duration_sec": 102,
      "duration": "1:42",
-     "video_url": "https://www.youtube.com/watch?v=mbDG4RvrKiA",
+     "video_url": "https://www.youtube.com/watch?v=l09cjpEE8R8",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=mbDG4RvrKiA"
+      "youtube": "https://www.youtube.com/watch?v=l09cjpEE8R8"
      }
     },
     {
@@ -8245,11 +8277,11 @@
      "page": "content/bay-area-benefits/2026-10-26/index.md",
      "duration_sec": 102,
      "duration": "1:42",
-     "video_url": "https://www.youtube.com/watch?v=y_kcHYmLVCM",
+     "video_url": "https://www.youtube.com/watch?v=zYoPuCEJfYI",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=y_kcHYmLVCM"
+      "youtube": "https://www.youtube.com/watch?v=zYoPuCEJfYI"
      }
     },
     {
