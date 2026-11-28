@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <description>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezrazhao.com/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</description>
     <copyright>© 2026 Guangyi Zhao</copyright>
-    <lastBuildDate>Sat, 28 Nov 2026 07:10:01 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:39:31 -0700</lastBuildDate>
     <itunes:author>Guangyi Zhao</itunes:author>
     <itunes:summary>硅谷与全球科技动态速报：AI、科技公司与产业进展。主讲 Guangyi Zhao。关键词：硅谷、科技新闻、人工智能、科技公司。全部节目：https://ezrazhao.com/ 同组节目：美国百指日报、长寿前沿日报等每日速报也在本枢纽更新。</itunes:summary>
     <itunes:owner>
@@ -21,6 +21,14 @@
       <itunes:category text="Tech News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>硅谷科技日报｜11月28日：贵模型只出计划，便宜模型动手干活</title>
+      <description>这里是《硅谷科技日报》。今天是2026年11月28日，星期六。头条：写代码的智能体学会分工了，贵模型只出计划，便宜模型动手干活。</description>
+      <pubDate>Sat, 28 Nov 2026 18:00:00 -0700</pubDate>
+      <guid isPermaLink="false">silicon-valley-2026-11-28</guid>
+      <enclosure url="https://raw.githubusercontent.com/Ezra-Zhao/ezra-content-hub/main/content/silicon-valley/2026-11-28/audio.mp3" length="1085458" type="audio/mpeg"/>
+      <itunes:duration>2:16</itunes:duration>
+    </item>
     <item>
       <title>硅谷科技日报·晚间版｜11月27日：智能体进邮箱和日历，明年二月起只能走官方通道</title>
       <description>这里是《硅谷科技日报》晚间版。今天是2026年11月27日，星期五。头条：智能体进邮箱和日历，明年二月起只能走官方通道。</description>
