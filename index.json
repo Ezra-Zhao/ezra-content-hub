@@ -5029,6 +5029,22 @@
    "category": "时效",
    "episodes": [
     {
+     "date": "2026-11-25",
+     "title": "美国百指日报·晚间速报｜11月25日：核心通胀3.3%、增速上修4.3%，道指盘中跌1100点后收涨",
+     "scripture": "",
+     "theme": "> 11月25日星期三，感恩节前最后一个完整交易日，数据齐发。10月核心PCE环比涨0.3%与预期一致、同比涨3.3%高于预期3.2%，为2023年11月以来最高；整体PCE同比涨3.8%，个人收入环比涨0.7%。三季度GDP二次估值年化增长4.3%，初值3.4%，上修0.9个百分点、为三年最快，消费支出由3.8%上修至4.2%。初请失业金18.9万低于预期20万；耐用品订单涨0.2%低于预期；新屋销售年化70.1万套、环比跳升14.2%。美联储褐皮书：12个辖区8个增长、4个持平，投入成本涨幅快于售价、难以转嫁，工资温和上涨、消费持平。收盘：道指盘中一度跌1100点，收涨0.33%报50182.95点；标普500收跌0.25%报7182.78点；纳指收跌0.62%报23585.80点，英伟达跌3.9%。明天：感恩节休市，周五提前至美东13:00收市；12月8-9日议息会议。主播整理：Guangyi Zhao。配音：CosyVoice克隆声线（Ezra本人声线，机B克隆顶上；ElevenLabs额度耗尽期降级链）。",
+     "audio": "content/fred-pm/2026-11-25/audio.mp3",
+     "page": "content/fred-pm/2026-11-25/index.md",
+     "duration_sec": 106,
+     "duration": "1:46",
+     "video_url": "",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": ""
+     }
+    },
+    {
      "date": "2026-11-24",
      "title": "美国百指日报·晚间速报｜11月24日：消费者信心跳升到103.3，道指首次收在五万点上方",
      "scripture": "",
@@ -5605,7 +5621,7 @@
      }
     }
    ],
-   "count": 36,
+   "count": 37,
    "listen": {
     "pocketcasts": "https://pca.st/6f0xci2e",
     "castbox": "https://castbox.fm/channel/id7461832"
@@ -6641,6 +6657,22 @@
      }
     },
     {
+     "date": "2026-11-27",
+     "title": "硅谷科技日报｜11月27日：旗舰模型额度改回原价，同样的活更费额度了",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月27日，星期五。头条：旗舰模型的额度计量改回原价，同样的活，更费额度了。",
+     "audio": "content/silicon-valley/2026-11-27/audio.mp3",
+     "page": "content/silicon-valley/2026-11-27/index.md",
+     "duration_sec": 127,
+     "duration": "2:07",
+     "video_url": "https://www.youtube.com/watch?v=k8MENhKNHU8",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=k8MENhKNHU8"
+     }
+    },
+    {
      "date": "2026-11-26",
      "title": "硅谷科技日报｜11月26日：通用大模型自己设计蛋白质，实验室测出了结合",
      "scripture": "",
@@ -7537,7 +7569,7 @@
      }
     }
    ],
-   "count": 56,
+   "count": 58,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
@@ -8165,11 +8197,11 @@
      "page": "content/bay-area-benefits/2026-11-05/index.md",
      "duration_sec": 98,
      "duration": "1:38",
-     "video_url": "https://www.youtube.com/watch?v=Qql2YyIUXbc",
+     "video_url": "https://www.youtube.com/watch?v=dhuLQVGNVqQ",
      "links": {
       "spotify": "",
       "x": "",
-      "youtube": "https://www.youtube.com/watch?v=Qql2YyIUXbc"
+      "youtube": "https://www.youtube.com/watch?v=dhuLQVGNVqQ"
      }
     },
     {
