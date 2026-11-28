@@ -6641,6 +6641,22 @@
    "category": "科技",
    "episodes": [
     {
+     "date": "2026-11-28",
+     "title": "硅谷科技日报｜11月28日：贵模型只出计划，便宜模型动手干活",
+     "scripture": "",
+     "theme": "这里是《硅谷科技日报》。今天是2026年11月28日，星期六。头条：写代码的智能体学会分工了，贵模型只出计划，便宜模型动手干活。",
+     "audio": "content/silicon-valley/2026-11-28/audio.mp3",
+     "page": "content/silicon-valley/2026-11-28/index.md",
+     "duration_sec": 136,
+     "duration": "2:16",
+     "video_url": "https://www.youtube.com/watch?v=_GqEMSPcYYg",
+     "links": {
+      "spotify": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/watch?v=_GqEMSPcYYg"
+     }
+    },
+    {
      "date": "2026-11-27",
      "title": "硅谷科技日报·晚间版｜11月27日：智能体进邮箱和日历，明年二月起只能走官方通道",
      "scripture": "",
@@ -7569,7 +7585,7 @@
      }
     }
    ],
-   "count": 58,
+   "count": 59,
    "listen": {
     "pocketcasts": "https://pca.st/x7267sh2",
     "castbox": "https://castbox.fm/channel/id7461835"
